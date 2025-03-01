@@ -1,4 +1,5 @@
 # Iqro json
+<img src="https://upload.wikimedia.org/wikipedia/id/7/7a/Cover_of_Iqro.jpg" height="150" />
 Berisi data IQRO `(Buku untuk belajar mengaji Al-quran)` 1 sampai 6 dalam format json.
 
 > Data json menggunakan mengacu pada buku iqro jaman dahulu ciptaan [KH. AS'AD HUMAM](https://id.wikipedia.org/wiki/As%27ad_Humam).
@@ -16,8 +17,6 @@ Proyek ini tidak dibuat untuk tujuan komersial, melainkan semata-mata untuk kepe
 Mengimbau kepada para pengembang yang ingin menggunakan data dari proyek ini untuk membuat aplikasi agar tidak mengkomersialisasikan aplikasinya. Hendaknya aplikasi tersebut disebarluaskan secara gratis sebagai bentuk amal jariyah bagi Bapak `KH. As‘ad Humam`, sehingga pahalanya terus mengalir kepada beliau hingga akhirat kelak. Semoga setiap ilmu yang dipelajari dari aplikasi ini menjadi ladang pahala bagi beliau dan kita semua, Amiin.
 
 ## Tentang Iqro
-<img src="https://upload.wikimedia.org/wikipedia/id/7/7a/Cover_of_Iqro.jpg" height="150" />
-
 Iqro (bahasa Arab: اقرأ, translit. iqraʾ, har. 'Bacalah!'; judul lengkap: Buku Iqro': Cara Cepat Belajar Membaca Al-Qur’an) adalah buku teks yang digunakan komunitas Muslim di Indonesia dan Malaysia untuk belajar membaca huruf-huruf Arab dan melafalkan bahasa tersebut. Buku ini disusun oleh As'ad Humam bersama Team Tadarus Angkatan Muda Masjid-Musholla (AMM) yang berbasis di Yogyakarta.[1] Diterbitkan pada awal 1990-an, Iqro ditujukan sebagai batu loncatan awal untuk dapat membaca Al-Qur'an dalam bahasa aslinya serta keterampilan dalam membaca Al-Qur'an. Iqro biasanya dipelajari oleh anak-anak TK sampai awal sekolah dasar, dan sering digunakan di sekolah khusus pembacaan Al-Qur'an, pesantren, surau, dan sekolah rumah (homeschooling) untuk pendidikan agama. ([Wikipedia: iqro](https://id.wikipedia.org/wiki/Iqro))
 
 | **Pengarang:** | **Negara:** |  **Bahasa:** | **Genre:** | **Tanggal terbit:** |
