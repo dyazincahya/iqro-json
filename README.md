@@ -5,6 +5,11 @@ Berisi data IQRO `(Buku untuk belajar mengaji Al-quran)` 1 sampai 6 dalam format
 > 
 > Link referensi: https://archive.org/details/humam-2000-buku-iqro-cara-cepat-belajar-membaca-al-quran-1-6
 
+## Latar belakang
+Proyek ini bertujuan untuk mendokumentasikan buku Iqro' ke dalam format lain selain teks biasa. Tidak ada unsur penjiplakan atau plagiarisme dalam proyek ini; niat saya murni untuk mengabadikan sebuah karya luar biasa dari Bapak `KH. As‘ad Humam`.
+
+Sebagai bentuk apresiasi dan kekaguman saya terhadap manfaat besar dari buku ini, saya ingin memastikan bahwa karya ini tetap lestari dan dapat diakses oleh generasi mendatang. Teknologi mungkin terus berkembang pesat, tetapi warisan berharga seperti Iqro' harus tetap ada dan tidak lekang oleh waktu.
+
 ## Tentang IQRO
 <img src="https://upload.wikimedia.org/wikipedia/id/7/7a/Cover_of_Iqro.jpg" height="150" />
 
@@ -17,3 +22,46 @@ Buku ini, beserta metode yang menyertainya, merupakan alternatif dari metode seb
 - **Bahasa**	IndonesiaArab
 - **Genre**	Buku teks agama
 - **Tanggal terbit**	Awal 1990-an (edisi pertama)
+
+## Peta Baca
+- [ ] Huruf Hijaiyah
+- [ ] Iqro 1
+    - [x] A
+    - [x] Ba
+    - [x] TA
+    - [x] TSA
+    - [x] JA
+    - [x] HA
+    - [x] KHO
+    - [x] DA
+    - [x] DZA
+    - [x] RA
+    - [x] ZAI
+    - [x] SA
+    - [ ] SYA
+    - [ ] SYOD
+    - [ ] DHAD
+    - [ ] THA
+    - [ ] DZHO
+    - [ ] AIN'
+    - [ ] GHIN
+    - [ ] FA
+    - [ ] QAF
+    - [ ] KAF
+    - [ ] LAM
+    - [ ] MIM
+    - [ ] NUN
+    - [ ] W'OU
+    - [ ] HA
+    - [ ] LAM ALIF
+    - [ ] HAMZAH
+    - [ ] YA
+- [ ] Iqro 2
+- [ ] Iqro 3
+- [ ] Iqro 4
+- [ ] Iqro 5
+- [ ] Iqro 6
+
+## Kontribusi
+Jika ingin melakukan kontribusi pada proyek ini, silahkan clone repo ini lalu lakukan pull request. Harap seragamkan format json dengan yang sudah ada.
+
