@@ -1,0 +1,65 @@
+{
+  "iqro_id": 2,
+  "pages": [
+    {
+      "page_id": 1,
+      "name": "بَ تَ = بَتَ  بَ دَ = بَدَ",
+      "sections": [
+        { "section_id": 1, "text": "تَ رَ = تَرَ" },
+        { "section_id": 2, "text": "َتَ وَ = تَوَ" },
+        { "section_id": 3, "text": "تَتَ  تَدَ" },
+        { "section_id": 4, "text": "بَرَ  بَوَ" },
+        { "section_id": 5, "text": "بَبَ  بَذَ" },
+        { "section_id": 6, "text": "تَرَ  تَزَ" },
+        { "section_id": 7, "text": "بَثَ  تَذَ" },
+        { "section_id": 8, "text": "ثَثَ  زَثَ" },
+        { "section_id": 9, "text": "بَ أَ  بَأَتَ" },
+        { "section_id": 10, "text": "تَ أَ  تَأَتَ" },
+        { "section_id": 11, "text": "ثَبَ  ثَرَ" },
+        { "section_id": 12, "text": "بَرَ  تَوَ" },
+        { "section_id": 13, "text": "طَ هَـ  جَ مَ" },
+        { "section_id": 14, "text": "كَ نَ  سَ عَ" }
+      ]
+    },
+    {
+      "page_id": 2,
+      "name": "ن = نـ ـ ـ ـ  نَ بَ = نَبَ",
+      "sections": [
+        { "section_id": 1, "text": "نَنَنَ  نَتَنَ" },
+        { "section_id": 2, "text": "نَبَبَ  بَنَنَ" },
+        { "section_id": 3, "text": "نَبَتَ  بَنَتَ" },
+        { "section_id": 4, "text": "تَبَنَ  نَتَبَ" },
+        { "section_id": 5, "text": "رَبَنَ  بَنَرَ" },
+        { "section_id": 6, "text": "بَذَنَ  نَبَذَ" },
+        { "section_id": 7, "text": "" },
+        { "section_id": 8, "text": "" },
+        { "section_id": 9, "text": "َ" },
+        { "section_id": 10, "text": "" },
+        { "section_id": 11, "text": "" },
+        { "section_id": 12, "text": "" },
+        { "section_id": 13, "text": "" },
+        { "section_id": 14, "text": "" }
+      ]
+    },
+    {
+      "page_id": 3,
+      "name": "",
+      "sections": [
+        { "section_id": 1, "text": "" },
+        { "section_id": 2, "text": "" },
+        { "section_id": 3, "text": "" },
+        { "section_id": 4, "text": "" },
+        { "section_id": 5, "text": "" },
+        { "section_id": 6, "text": "" },
+        { "section_id": 7, "text": "" },
+        { "section_id": 8, "text": "" },
+        { "section_id": 9, "text": "َ" },
+        { "section_id": 10, "text": "" },
+        { "section_id": 11, "text": "" },
+        { "section_id": 12, "text": "" },
+        { "section_id": 13, "text": "" },
+        { "section_id": 14, "text": "" }
+      ]
+    }
+  ]
+}

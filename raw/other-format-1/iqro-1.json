@@ -1,0 +1,735 @@
+{
+  "iqro_id": 1,
+  "title": "IQRO 1",
+  "basmallah": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+  "pages": [
+    {
+      "page_id": 1,
+      "name": "أَ بَ",
+      "instruction": "Bacaan langsung A - Ba dst. Tidak perlu diurai/dieja. Bacalah dengan suara pendek.",
+      "sections": [
+        { "section_id": 1, "text": "أَ = ا" },
+        { "section_id": 2, "text": "أَ بَ" },
+        { "section_id": 3, "text": "بَ أَ بَ" },
+        { "section_id": 4, "text": "أَ بَ أَ" },
+        { "section_id": 5, "text": "بَ أَ أَ" },
+        { "section_id": 6, "text": "أَ أَ بَ" },
+        { "section_id": 7, "text": "بَ بَ أَ" },
+        { "section_id": 8, "text": "أَ بَ بَ" },
+        { "section_id": 9, "text": "بَ أَ بَ" },
+        { "section_id": 10, "text": "أ بَ أَ" },
+        { "section_id": 11, "text": "أَ أَ أَ" },
+        { "section_id": 12, "text": "بَ بَ بَ" },
+        { "section_id": 13, "text": "أَ بَ" },
+        { "section_id": 14, "text": "أَ بَ" },
+        { "section_id": 15, "text": "أَ بَ" }
+      ]
+    },
+    {
+      "page_id": 2,
+      "name": "بَ تَ",
+
+      "sections": [
+        { "section_id": 1, "text": "أَ تَ بَ" },
+        { "section_id": 2, "text": "تَ بَ أَ" },
+        { "section_id": 3, "text": "تَ أَ بَ" },
+        { "section_id": 4, "text": "أَ بَ تَ" },
+        { "section_id": 5, "text": "بَ أَ تَ" },
+        { "section_id": 6, "text": "أَ تَ بَ" },
+        { "section_id": 7, "text": "تَ أَ تَ" },
+        { "section_id": 8, "text": "بَ أَ تَ" },
+        { "section_id": 9, "text": "أَ تَ بَ" },
+        { "section_id": 10, "text": "تَ تَ أَ" },
+        { "section_id": 11, "text": "أَ بَ تَ" },
+        { "section_id": 12, "text": "أَ بَ تَ" }
+      ]
+    },
+    {
+      "page_id": 3,
+      "name": "بَ تَ ثَ",
+
+      "sections": [
+        { "section_id": 1, "text": "ثَ أَ بَ" },
+        { "section_id": 2, "text": "ثَ بَ تَ" },
+        { "section_id": 3, "text": "بَ تَ تَ" },
+        { "section_id": 4, "text": "بَ أَ ثَ" },
+        { "section_id": 5, "text": "أَ تَ بَ" },
+        { "section_id": 6, "text": "ثَ بَ ثَ" },
+        { "section_id": 7, "text": "تَ بَ تَ" },
+        { "section_id": 8, "text": "أَ ثَ ث" },
+        { "section_id": 9, "text": "تَ تَ أَ" },
+        { "section_id": 10, "text": "بَ ثَ ثَ" },
+        { "section_id": 11, "text": "ثَ بَ تَ" },
+        { "section_id": 12, "text": "بَ تَ ثَ" },
+        { "section_id": 13, "text": "أَ بَ تَ ثَ" },
+        { "section_id": 14, "text": "أَ بَ تَ ثَ" }
+      ]
+    },
+    {
+      "page_id": 4,
+      "name": "جَ",
+
+      "sections": [
+        { "section_id": 1, "text": "أَ جَ جَ" },
+        { "section_id": 2, "text": "ثَ أَ جَ" },
+        { "section_id": 3, "text": "أَ تَ جَ" },
+        { "section_id": 4, "text": "ثَ بَ جَ" },
+        { "section_id": 5, "text": "بَ جَ ثَ" },
+        { "section_id": 6, "text": "ثَ أَ جَ" },
+        { "section_id": 7, "text": "جَ أَ بَ" },
+        { "section_id": 8, "text": "جَ أَ ثَ" },
+        { "section_id": 9, "text": "تَ أَ جَ" },
+        { "section_id": 10, "text": "ثَ جَ جَ" },
+        { "section_id": 11, "text": "جَ أَ جَ" },
+        { "section_id": 12, "text": "جَ ثَ ثَ" },
+        { "section_id": 13, "text": "أَ بَ تَ ثَ جَ" }
+      ]
+    },
+    {
+      "page_id": 5,
+      "name": "جَ حَ",
+
+      "sections": [
+        { "section_id": 1, "text": "جَ أَ حَ" },
+        { "section_id": 2, "text": "حَ حَ ثَ" },
+        { "section_id": 3, "text": "حَ جَ تَ" },
+        { "section_id": 4, "text": "بَ حَ ثَ" },
+        { "section_id": 5, "text": "جَ حَ تَ" },
+        { "section_id": 6, "text": "أَ حَ بَ" },
+        { "section_id": 7, "text": "جَ أَ ثَ" },
+        { "section_id": 8, "text": "حَ أَ حَ" },
+        { "section_id": 9, "text": "ثَ بَ حَ" },
+        { "section_id": 10, "text": "تَ أَ حَ" },
+        { "section_id": 11, "text": "أَ جَ جَ" },
+        { "section_id": 12, "text": "أَ حَ حَ" },
+        { "section_id": 13, "text": "أَ بَ تَ ثَ جَ حَ" }
+      ]
+    },
+    {
+      "page_id": 6,
+      "name": "جَ حَ خَ",
+
+      "sections": [
+        { "section_id": 1, "text": "حَ أَ خَ" },
+        { "section_id": 2, "text": "جَ أَ خَ" },
+        { "section_id": 3, "text": "ثَ أَ خَ" },
+        { "section_id": 4, "text": "خَ تَ جَ" },
+        { "section_id": 5, "text": "بَ أَ خَ" },
+        { "section_id": 6, "text": "بَ أَ خَ" },
+        { "section_id": 7, "text": "جَ أَ حَ" },
+        { "section_id": 8, "text": "بَ حَ ثَ" },
+        { "section_id": 9, "text": "تَ أَ خَ" },
+        { "section_id": 10, "text": "جَ حَ ثَ" },
+        { "section_id": 11, "text": "أَ خَ خَ" },
+        { "section_id": 12, "text": "جَ حَ خَ" },
+        { "section_id": 13, "text": "أَ بَ تَ ثَ جَ حَ خَ" }
+      ]
+    },
+    {
+      "page_id": 7,
+      "name": "دَ",
+
+      "sections": [
+        { "section_id": 1, "text": "خَ دَ دَ" },
+        { "section_id": 2, "text": "حَ دَ خَ" },
+        { "section_id": 3, "text": "حَ دَ ثَ" },
+        { "section_id": 4, "text": "جَ حَ دَ" },
+        { "section_id": 5, "text": "خَ تَ دَ" },
+        { "section_id": 6, "text": "خَ جَ دَ" },
+        { "section_id": 7, "text": "ثَ بَ دَ" },
+        { "section_id": 8, "text": "جَ حَ خَ" },
+        { "section_id": 9, "text": "حَ بَ دَ" },
+        { "section_id": 10, "text": "جَ دَ جَ" },
+        { "section_id": 11, "text": "حَ جَ تَ" },
+        { "section_id": 12, "text": "خَ دَ دَ " },
+        { "section_id": 13, "text": "أَ بَ تَ ثَ جَ حَ خَ دَ" }
+      ]
+    },
+    {
+      "page_id": 8,
+      "name": "دَ ذَ",
+
+      "sections": [
+        { "section_id": 1, "text": "دَ أَ ذَ" },
+        { "section_id": 2, "text": "خَ دَ ذَ" },
+        { "section_id": 3, "text": "أَ حَ دَ" },
+        { "section_id": 4, "text": "جَ حَ ذَ" },
+        { "section_id": 5, "text": "خَ تَ دَ" },
+        { "section_id": 6, "text": "ثَ أَ ذَ" },
+        { "section_id": 7, "text": "جَ حَ خَ" },
+        { "section_id": 8, "text": "ذَ بَ حَ" },
+        { "section_id": 9, "text": "حَ دَ ثَ" },
+        { "section_id": 10, "text": "أَ خَ ذَ" },
+        { "section_id": 11, "text": "دَ أَ ذَ" },
+        { "section_id": 12, "text": "خَ دَ ذَ" },
+        { "section_id": 13, "text": "أَ بَ تَ ثَ جَ حَ خَ دَ ذَ" }
+      ]
+    },
+    {
+      "page_id": 9,
+      "name": "رَ",
+
+      "sections": [
+        { "section_id": 1, "text": "دَ ذَ رَ" },
+        { "section_id": 2, "text": "خَ ذَ رَ" },
+        { "section_id": 3, "text": "رَ حَ دَ" },
+        { "section_id": 4, "text": "ج رَ ذَ" },
+        { "section_id": 5, "text": "رَ حَ ثَ" },
+        { "section_id": 6, "text": "تَ ذَ رَ" },
+        { "section_id": 7, "text": "بَ رَ دَ" },
+        { "section_id": 8, "text": "خَ رَ جَ" },
+        { "section_id": 9, "text": "حَ ذَ رَ" },
+        { "section_id": 10, "text": "بَ رَ تَ" },
+        { "section_id": 11, "text": "خَ خَ ذَ" },
+        { "section_id": 12, "text": "حَ جَ رَ" },
+        { "section_id": 13, "text": "أَ بَ تَ ثَ جَ حَ خَ دَ ذَ رَ" }
+      ]
+    },
+    {
+      "page_id": 10,
+      "name": "رَ زَ",
+
+      "sections": [
+        { "section_id": 1, "text": "رَ أَ زَ" },
+        { "section_id": 2, "text": "ذَ رَ زَ" },
+        { "section_id": 3, "text": "زَ دَ رَ" },
+        { "section_id": 4, "text": "زَ خَ ذَ" },
+        { "section_id": 5, "text": "زَ حَ دَ" },
+        { "section_id": 6, "text": "ثَ زَ رَ" },
+        { "section_id": 7, "text": "خَ رَ جَ" },
+        { "section_id": 8, "text": "تَ زَ دَ" },
+        { "section_id": 9, "text": "بَ زَ رَ" },
+        { "section_id": 10, "text": "ثَ حَ ذَ" },
+        { "section_id": 11, "text": "جَ أَ خَ" },
+        { "section_id": 12, "text": "زَ أَ زَ" },
+        {
+          "section_id": 13,
+
+          "text": "أَ بَ تَ ثَ جَ حَ خَ دَ ذَ رَ زَ"
+        }
+      ]
+    },
+    {
+      "page_id": 11,
+      "name": "سَ",
+
+      "sections": [
+        { "section_id": 1, "text": "زَ أَ سَ" },
+        { "section_id": 2, "text": "زَ رَ سَ" },
+        { "section_id": 3, "text": "سَ خَ ذَ" },
+        { "section_id": 4, "text": "حَ سَ دَ" },
+        { "section_id": 5, "text": "سَ خَ ثَ" },
+        { "section_id": 6, "text": "جَ زَ رَ" },
+        { "section_id": 7, "text": "سَ بَ تَ" },
+        { "section_id": 8, "text": "ذَ رَ سَ" },
+        { "section_id": 9, "text": "سَ خَ ذَ" },
+        { "section_id": 10, "text": "زَ حَ دَ" },
+        { "section_id": 11, "text": "سَ جَ ثَ" },
+        { "section_id": 12, "text": "أَ بَ تَ" },
+        { "section_id": 13, "text": "ثَ جَ حَ خَ دَ ذَ رَ زَسَ" }
+      ]
+    },
+    {
+      "page_id": 12,
+      "name": "سَ شَ",
+
+      "sections": [
+        { "section_id": 1, "text": "سَ أَ شَ" },
+        { "section_id": 2, "text": "سَ شَ شَ" },
+        { "section_id": 3, "text": "زَ تَ شَ" },
+        { "section_id": 4, "text": "شَ ذَ ثَ" },
+        { "section_id": 5, "text": "دَ رَ ثَ" },
+        { "section_id": 6, "text": "شَ تَ ذَ" },
+        { "section_id": 7, "text": "زَ حَ ثَ" },
+        { "section_id": 8, "text": "خَ شَ بَ" },
+        { "section_id": 9, "text": "جَ رَ سَ" },
+        { "section_id": 10, "text": "سَ شَ أَ" },
+        { "section_id": 11, "text": "رَ شَ ذَ" },
+        { "section_id": 12, "text": "حَ سَ دَ" },
+        { "section_id": 13, "text": "ذَ خَ زَ" },
+        { "section_id": 14, "text": "أَ سَ شَ" },
+        { "section_id": 15, "text": "شَ زَ رَ" },
+        { "section_id": 16, "text": "خَ سَ دَ" },
+        { "section_id": 17, "text": "شَ زَ جَ" },
+        { "section_id": 18, "text": "أَ بَ تَ" },
+        { "section_id": 19, "text": "ثَ جَ حَ خَ دَ ذَ رَ زَ سَ شَ" }
+      ]
+    },
+    {
+      "page_id": 13,
+      "name": "صَ",
+
+      "sections": [
+        { "section_id": 1, "text": "صَ أَ شَ" },
+        { "section_id": 2, "text": "صَ شَ زَ" },
+        { "section_id": 3, "text": "سَ رَ صَ" },
+        { "section_id": 4, "text": "صَ ثَ ذَ" },
+        { "section_id": 5, "text": "دَ سَ صَ" },
+        { "section_id": 6, "text": "شَ رَ تَ" },
+        { "section_id": 7, "text": "سَ خَ صَ" },
+        { "section_id": 8, "text": "حَ صَ دَ" },
+        { "section_id": 9, "text": "ذَ زَ صَ" },
+        { "section_id": 10, "text": "حَ ذَ رَ" },
+        { "section_id": 11, "text": "شَ بَ صَ" },
+        { "section_id": 12, "text": "سَ جَ زَ" },
+        { "section_id": 13, "text": "صَ دَ خَ" },
+        { "section_id": 14, "text": "صَ جَ ذَ" },
+        { "section_id": 15, "text": "شَ رَ زَ" },
+        { "section_id": 16, "text": "ثَ خَ صَ" },
+        { "section_id": 17, "text": "أَ بَ تَ ثَ جَ حَ" },
+        { "section_id": 18, "text": "خَ دَ ذَ رَ زَسَ شَ صَ" }
+      ]
+    },
+    {
+      "page_id": 14,
+      "name": "صَ ضَ",
+
+      "sections": [
+        { "section_id": 1, "text": "صَ أَ ضَ" },
+        { "section_id": 2, "text": "حَ ضَ رَ" },
+        { "section_id": 3, "text": "أَ صَ ضَ" },
+        { "section_id": 4, "text": "شَ أَ ضَ" },
+        { "section_id": 5, "text": "شَ خَ زَ" },
+        { "section_id": 6, "text": "ضَ رَ بَ" },
+        { "section_id": 7, "text": "صَ حَ ثَ " },
+        { "section_id": 8, "text": "صَ دَ زَ" },
+        { "section_id": 9, "text": "دَ شَ ضَ" },
+        { "section_id": 10, "text": "سَ حَ ذَ" },
+        { "section_id": 11, "text": "رَ صَ دَ" },
+        { "section_id": 12, "text": "ضَ تَ ذَ" },
+        { "section_id": 13, "text": "ثَ خَ زَ" },
+        { "section_id": 14, "text": "ضَ جَ ذَ" },
+        { "section_id": 15, "text": "سَ أَ شَ" },
+        { "section_id": 16, "text": "صَ رَ ضَ " },
+        { "section_id": 17, "text": "أَ بَ تَ ثَ جَ حَ خَ" },
+        { "section_id": 18, "text": "دَ ذَ رَزَسَ شَ صَ ضَ" }
+      ]
+    },
+    {
+      "page_id": 15,
+      "name": "طَ",
+
+      "sections": [
+        { "section_id": 1, "text": "طَ أَ ضَ" },
+        { "section_id": 2, "text": "زَ طَ شَ" },
+        { "section_id": 3, "text": "حَ جَ طَ" },
+        { "section_id": 4, "text": "تَ صَ ضَ" },
+        { "section_id": 5, "text": "ذَ طَ سَ" },
+        { "section_id": 6, "text": "زَ دَ طَ" },
+        { "section_id": 7, "text": "دَ ضَ صَ" },
+        { "section_id": 8, "text": "سَ رَ طَ" },
+        { "section_id": 9, "text": "شَ ضَ ثَ" },
+        { "section_id": 10, "text": "شَ خَ طَ" },
+        { "section_id": 11, "text": "طَ حَ ذَ" },
+        { "section_id": 12, "text": "بَ صَ ضَ" },
+        { "section_id": 13, "text": "ذَ رَ طَ" },
+        { "section_id": 14, "text": "جَ زَ ضَ" },
+        { "section_id": 15, "text": "ثَ أَ شَ" },
+        { "section_id": 16, "text": "سَ خَ طَ" },
+        { "section_id": 17, "text": "أَ بَ تَ ثَ جَ حَ خَ" },
+        { "section_id": 18, "text": "دَ ذَ رَ زَ سَ شَ صَ ضَ طَ" }
+      ]
+    },
+    {
+      "page_id": 16,
+      "name": "طَ ظَ",
+
+      "sections": [
+        { "section_id": 1, "text": "ظَ أَ طَ" },
+        { "section_id": 2, "text": "بَ طَ ظَ" },
+        { "section_id": 3, "text": "ظَ حَ ذَ" },
+        { "section_id": 4, "text": "سَ ضَ ظَ" },
+        { "section_id": 5, "text": "دَ صَ ظَ" },
+        { "section_id": 6, "text": "طَ حَ ذَ" },
+        { "section_id": 7, "text": "شَ أَ ظَ" },
+        { "section_id": 8, "text": "سَ رَ صَ" },
+        { "section_id": 9, "text": "زَ خَ طَ" },
+        { "section_id": 10, "text": "ثَ رَ ضَ" },
+        { "section_id": 11, "text": "زَ خَ ضَ" },
+        { "section_id": 12, "text": "تَ ضَ ظَ" },
+        { "section_id": 13, "text": "صَ دَ شَ" },
+        { "section_id": 14, "text": "جَ طَ ضَ" },
+        { "section_id": 15, "text": "شَ طَ ظَ" },
+        { "section_id": 16, "text": "أَ بَ تَ ثَ جَ حَ خَ دَ ذَ" },
+        { "section_id": 17, "text": "رَ زَ سَ شَ" },
+        { "section_id": 18, "text": "صَ ضَ طَ ظَ" }
+      ]
+    },
+    {
+      "page_id": 17,
+      "name": "عَ",
+
+      "sections": [
+        { "section_id": 1, "text": "ظَ أَ عَ" },
+        { "section_id": 2, "text": "تَ عَ رَ" },
+        { "section_id": 3, "text": "بَ عَ طَ" },
+        { "section_id": 4, "text": "صَ عَ زَ" },
+        { "section_id": 5, "text": "صَ عَ ضَ" },
+        { "section_id": 6, "text": "دَحَ ظَ" },
+        { "section_id": 7, "text": "بَ عَ ثَ" },
+        { "section_id": 8, "text": "سَ عَ ظَ" },
+        { "section_id": 9, "text": "شَ طَ عَ" },
+        { "section_id": 10, "text": "جَ خَ ذَ" },
+        { "section_id": 11, "text": "ضَ عَ شَ" },
+        { "section_id": 12, "text": "زَ أَ ضَ" },
+        { "section_id": 13, "text": "عَ جَ ظَ" },
+        { "section_id": 14, "text": "دَ طَ ضَ" },
+        { "section_id": 15, "text": "طَ عَ طَ" },
+        { "section_id": 16, "text": "أَ بَ تَ ثَ جَ حَ خَ دَ ذَ" },
+        { "section_id": 17, "text": "سَ شَ صَ ضَ طَ ظ عَ" }
+      ]
+    },
+    {
+      "page_id": 18,
+      "name": "عَ غَ",
+
+      "sections": [
+        { "section_id": 1, "text": "غَ أَ عَ" },
+        { "section_id": 2, "text": "دَ غَ ظَ" },
+        { "section_id": 3, "text": "عَ طَ غَ" },
+        { "section_id": 4, "text": "ثَ عَ ظَ" },
+        { "section_id": 5, "text": "جَ غَ ظَ" },
+        { "section_id": 6, "text": "سَ طَ عَ" },
+        { "section_id": 7, "text": "حَ رَ ظَ" },
+        { "section_id": 8, "text": "شَ غَ طَ" },
+        { "section_id": 9, "text": "صَ رَ عَ" },
+        { "section_id": 10, "text": "زَ خَ ظَ" },
+        { "section_id": 11, "text": "ضَ عَ ذَ" },
+        { "section_id": 12, "text": "تَ غَ ضَ" },
+        { "section_id": 13, "text": "شَ رَ ظَ" },
+        { "section_id": 14, "text": "طَ عَ ظَ" },
+        { "section_id": 15, "text": "بَ غَ صَ" },
+        {
+          "section_id": 16,
+
+          "text": "أَ بَ تَ ثَ جَ حَ خَ دَ ذ رَ زَ"
+        },
+        { "section_id": 17, "text": "سَ شَ صَ ضَ طَ ظ عَ غَ" }
+      ]
+    },
+    {
+      "page_id": 19,
+      "name": "فَ",
+
+      "sections": [
+        { "section_id": 1, "text": "فَ أَ غَ" },
+        { "section_id": 2, "text": "فَ عَ ضَ" },
+        { "section_id": 3, "text": "غَ فَ صَ" },
+        { "section_id": 4, "text": "فَ تَ حَ" },
+        { "section_id": 5, "text": "غَ جَ زَ" },
+        { "section_id": 6, "text": "حَ فَ ظَ" },
+        { "section_id": 7, "text": "طَ عَ دَ" },
+        { "section_id": 8, "text": "صَ فَ غَ" },
+        { "section_id": 9, "text": "شَ خَ ضَ" },
+        { "section_id": 10, "text": "سَ غَ ظَ" },
+        { "section_id": 11, "text": "خَ فَ ذَ" },
+        { "section_id": 12, "text": "شَ غَ ضَ" },
+        { "section_id": 13, "text": "فَ زَ عَ" },
+        { "section_id": 14, "text": "ثَ غَ طَ" },
+        { "section_id": 15, "text": "ظَ فَ رَ" },
+        {
+          "section_id": 16,
+
+          "text": "أَ بَ تَ ثَ جَ حَ خَ دَ ذَ رَ زَ"
+        },
+        { "section_id": 17, "text": "سَ شَ صَ ضَ طَ ظَ عَ غَ فَ" }
+      ]
+    },
+    {
+      "page_id": 20,
+      "name": "فَ قَ",
+
+      "sections": [
+        { "section_id": 1, "text": "قَ بَ ضَ" },
+        { "section_id": 2, "text": "قَ طَ فَ" },
+        { "section_id": 3, "text": "فَ رَ قَ" },
+        { "section_id": 4, "text": "ثَ غَ ظَ" },
+        { "section_id": 5, "text": "فَ قَ ظَ" },
+        { "section_id": 6, "text": "سَ عَ فَ" },
+        { "section_id": 7, "text": "حَ ذَ خَ" },
+        { "section_id": 8, "text": "قَ فَ صَ" },
+        { "section_id": 9, "text": "عَ قَ دَ" },
+        { "section_id": 10, "text": "ضَ غَ طَ" },
+        { "section_id": 11, "text": "شَ فَ عَ" },
+        { "section_id": 12, "text": "زَ قَ قَ" },
+        { "section_id": 13, "text": "أَ بَ تَ ثَ جَ حَ خَ دَ ذَ" },
+        { "section_id": 14, "text": "رَ زَ" },
+        { "section_id": 15, "text": "سَ شَ" },
+        { "section_id": 16, "text": "صَ ضَ" },
+        { "section_id": 17, "text": "طَ ظَ" },
+        { "section_id": 18, "text": "عَ غَ" },
+        { "section_id": 19, "text": "فَ قَ" }
+      ]
+    },
+    {
+      "page_id": 21,
+      "name": "كَ",
+
+      "sections": [
+        { "section_id": 1, "text": "كَ حَ قَ" },
+        { "section_id": 2, "text": "كَ قَ خَ" },
+        { "section_id": 3, "text": "كَ قَ" },
+        { "section_id": 4, "text": "ضَ حَ كَ" },
+        { "section_id": 5, "text": "عَ طَ فَ" },
+        { "section_id": 6, "text": "شَ كَ رَ" },
+        { "section_id": 7, "text": "جَ كَ تَ" },
+        { "section_id": 8, "text": "قَ كَ فَ" },
+        { "section_id": 9, "text": "ذَ غَ سَ" },
+        { "section_id": 10, "text": "صَ دَ ثَ" },
+        { "section_id": 11, "text": "غَ فَ كَ" },
+        { "section_id": 12, "text": "زَ كَ طَ" },
+        { "section_id": 13, "text": "أَ بَ تَ ثَ جَ حَ خَ دَ ذَ" },
+        { "section_id": 14, "text": "رَ زَ سَ شَ صَ ضَ طَ ظَ" },
+        { "section_id": 15, "text": "عَ غَ فَ قَ كَ" }
+      ]
+    },
+    {
+      "page_id": 22,
+      "name": "لَ",
+
+      "sections": [
+        { "section_id": 1, "text": "قَ لَ بَ" },
+        { "section_id": 2, "text": "جَ عَ لَ" },
+        { "section_id": 3, "text": "خَ لَ طَ" },
+        { "section_id": 4, "text": "ذَ كَ رَ" },
+        { "section_id": 5, "text": "غَ لَ ظَ" },
+        { "section_id": 6, "text": "قَ فَ صَ" },
+        { "section_id": 7, "text": "حَ لَ فَ" },
+        { "section_id": 8, "text": "دَ غَ سَ" },
+        { "section_id": 9, "text": "شَ كَ لَ" },
+        { "section_id": 10, "text": "ضَ رَ عَ" },
+        { "section_id": 11, "text": "زَ تَ ظَ" },
+        { "section_id": 12, "text": "كَ كَ لَ" },
+        { "section_id": 13, "text": "أَ بَ تَ ثَ جَ حَ خَ دَ ذَ" },
+        { "section_id": 14, "text": "رَ زَ سَ شَ صَ ضَ" },
+        { "section_id": 15, "text": "طَ ظَ عَ غَ فَ قَ كَ لَ" }
+      ]
+    },
+    {
+      "page_id": 23,
+      "name": "مَ",
+
+      "sections": [
+        { "section_id": 1, "text": "غَ مَ ضَ" },
+        { "section_id": 2, "text": "لَ مَ سَ" },
+        { "section_id": 3, "text": "جَ مَ عَ" },
+        { "section_id": 4, "text": "فَ رَ ضَ" },
+        { "section_id": 5, "text": "كَ رَ مَ" },
+        { "section_id": 6, "text": "خَ لَ طَ" },
+        { "section_id": 7, "text": "صَ مَ دَ" },
+        { "section_id": 8, "text": "ظَ تَ ذَ" },
+        { "section_id": 9, "text": "مَ زَ قَ" },
+        { "section_id": 10, "text": "شَ لَ مَ" },
+        { "section_id": 11, "text": "فَ كَ حَ" },
+        { "section_id": 12, "text": "غَ مَ مَ" },
+        { "section_id": 13, "text": "أَ بَ تَ ثَ جَ حَ خَ دَ ذَ" },
+        { "section_id": 14, "text": "رَ زَ سَ شَ صَ ضَ طَ ظَ" },
+        { "section_id": 15, "text": "عَ غَ فَ قَ كَ لَ مَ" }
+      ]
+    },
+    {
+      "page_id": 24,
+      "name": "نَ",
+
+      "sections": [
+        { "section_id": 1, "text": "نَ طَ فَ" },
+        { "section_id": 2, "text": "نَ غَ شَ" },
+        { "section_id": 3, "text": "طَ عَ نَ" },
+        { "section_id": 4, "text": "صَ مَ ضَ" },
+        { "section_id": 5, "text": "قَ رَ نَ" },
+        { "section_id": 6, "text": "خَ لَ قَ" },
+        { "section_id": 7, "text": "زَ مَ نَ" },
+        { "section_id": 8, "text": "كَ ذَ بَ" },
+        { "section_id": 9, "text": "جَ نَ دَ" },
+        { "section_id": 10, "text": "كَ نَ سَ" },
+        { "section_id": 11, "text": "لَ حَ ظَ" },
+        { "section_id": 12, "text": "مَ نَ نَ" },
+        { "section_id": 13, "text": "أَ بَ تَ ثَ جَ حَ خَ دَ ذَ" },
+        { "section_id": 14, "text": "رَ زَ سَ شَ صَ ضَ طَ ظَ" },
+        { "section_id": 15, "text": "عَ غَ فَ قَ كَ لَ مَ نَ" }
+      ]
+    },
+    {
+      "page_id": 25,
+      "name": "وَ",
+
+      "sections": [
+        { "section_id": 1, "text": "وَ زَ رَ" },
+        { "section_id": 2, "text": "وَ لَ غَ" },
+        { "section_id": 3, "text": "دَ وَ مَ" },
+        { "section_id": 4, "text": "فَ طَ نَ" },
+        { "section_id": 5, "text": "قَ وَ مَ" },
+        { "section_id": 6, "text": "ظَ جَ عَ" },
+        { "section_id": 7, "text": "كَ وَ نَ" },
+        { "section_id": 8, "text": "سَ كَ تَ" },
+        { "section_id": 9, "text": "خَ وَ صَ" },
+        { "section_id": 10, "text": "شَ لَ قَ" },
+        { "section_id": 11, "text": "ذَ حَ ضَ" },
+        { "section_id": 12, "text": "وَ نَ وَ" },
+        { "section_id": 13, "text": "أَ بَ تَ ثَ جَ حَ خَ دَ ذَ" },
+        { "section_id": 14, "text": "رَ زَ سَ شَ صَ ضَ طَ ظَ" },
+        { "section_id": 15, "text": "عَ غَ فَ قَ كَ لَ مَ نَ وَ" }
+      ]
+    },
+    {
+      "page_id": 26,
+      "name": "هـ",
+
+      "sections": [
+        { "section_id": 1, "text": "هَـ مَ شَ" },
+        { "section_id": 2, "text": "جَ هَـ دَ" },
+        { "section_id": 3, "text": "دَ وَ هَـ" },
+        { "section_id": 4, "text": "فَ خَ عَ" },
+        { "section_id": 5, "text": "طَ هَـ رَ" },
+        { "section_id": 6, "text": "وَ ضَ حَ" },
+        { "section_id": 7, "text": "وَ هَـ ظَ" },
+        { "section_id": 8, "text": "كَ مَ نَ" },
+        { "section_id": 9, "text": "زَ هَـ قَ" },
+        { "section_id": 10, "text": "سَ هَـ لَ" },
+        { "section_id": 11, "text": "ذَ غَ صَ" },
+        { "section_id": 12, "text": "جَ هَـ هَـ" },
+        { "section_id": 13, "text": "أَ بَ تَ ثَ جَ حَ خَ دَ ذَ" },
+        { "section_id": 14, "text": "رَ زَ سَ شَ صَ ضَ طَ ظَ" },
+        {
+          "section_id": 15,
+
+          "text": "عَ غَ فَ قَ كَ لَ مَ نَ وَ هَـ"
+        }
+      ]
+    },
+    {
+      "page_id": 27,
+      "name": "ىَ",
+
+      "sections": [
+        { "section_id": 1, "text": "ضَ ىَ رَ" },
+        { "section_id": 2, "text": "ضَ حَ ىَ" },
+        { "section_id": 3, "text": "زَ ىَ نَ" },
+        { "section_id": 4, "text": "سَ ىَ غَ" },
+        { "section_id": 5, "text": "وَ كَ لَ" },
+        { "section_id": 6, "text": "هَـ ىَ خَ" },
+        { "section_id": 7, "text": "طَ هَـ ظَ" },
+        { "section_id": 8, "text": "شَ ىَ عَ" },
+        { "section_id": 9, "text": "وَ قَ فَ" },
+        { "section_id": 10, "text": "هَـ ىَ مَ" },
+        { "section_id": 11, "text": "جَ دَ ثَ" },
+        { "section_id": 12, "text": "ىَ دَ ىَ" },
+        {
+          "section_id": 13,
+
+          "text": "أَ بَ تَ ثَ جَ حَ خَ دَ ذَ رَ زَ"
+        },
+        { "section_id": 14, "text": "سَ شَ صَ ضَ طَ ظَ عَ غَ" },
+        { "section_id": 15, "text": "فَ قَ كَ لَ مَ نَ وَ هَـ ىَ" }
+      ]
+    },
+    {
+      "page_id": 28,
+      "name": "أَ = ءَ",
+
+      "sections": [
+        { "section_id": 1, "text": "رَ" },
+        { "section_id": 2, "text": "مَ = مَـ" },
+        { "section_id": 3, "text": "بَ رَ أَ" },
+        { "section_id": 4, "text": "بَ رَ رَ" },
+        { "section_id": 5, "text": "قَ رَ أَ" },
+        { "section_id": 6, "text": "أَ مَـ مَ" },
+        { "section_id": 7, "text": "جَ زَ أَ" },
+        { "section_id": 8, "text": "سَ ءَ لَ" },
+        { "section_id": 9, "text": "رَ زَ قَ" },
+        { "section_id": 10, "text": "مَـ دَ حَ" },
+        { "section_id": 11, "text": "غَ مَـ مَ" },
+        { "section_id": 12, "text": "لَ ءَ كَ" },
+        { "section_id": 13, "text": "مَـ شَ ءَ" },
+        { "section_id": 14, "text": "مَـ دَ مَ" },
+        { "section_id": 15, "text": "سَ ىَ رَ" },
+        { "section_id": 16, "text": "جَ زَ مَ" },
+        { "section_id": 17, "text": "كَ بَ دَ" },
+        { "section_id": 18, "text": "مَ قَ تَ" },
+        { "section_id": 19, "text": "كَ لَ مَ" },
+        { "section_id": 20, "text": "حَ سَ نَ" }
+      ]
+    },
+    {
+      "page_id": 29,
+      "name": "",
+
+      "sections": [
+        { "section_id": 1, "text": "ثَ بَ ثَ" },
+        { "section_id": 2, "text": "جَ حَ خَ" },
+        { "section_id": 3, "text": "دَ ذَ رَ" },
+        { "section_id": 4, "text": "زَ سَ شَ" },
+        { "section_id": 5, "text": "أَ صَ ظَ" },
+        { "section_id": 6, "text": "طَ ظَ عَ" },
+        { "section_id": 7, "text": "غَ فَ قَ" },
+        { "section_id": 8, "text": "كَ لَ مَ" },
+        { "section_id": 9, "text": "نَ وَ هَـ" },
+        { "section_id": 10, "text": "حَ هَـ لَ" },
+        { "section_id": 11, "text": "بَ ىَ نَ" },
+        { "section_id": 12, "text": "ءَ أَ رَ" },
+        { "section_id": 13, "text": "بَ عَ ثَ" },
+        { "section_id": 14, "text": "جَ حَ خَ" },
+        { "section_id": 15, "text": "دَ ذَ رَ" },
+        { "section_id": 16, "text": "زَ سَ شَ" },
+        { "section_id": 17, "text": "أَ صَ ضَ" },
+        { "section_id": 18, "text": "طَ ظَ عَ" },
+        { "section_id": 19, "text": "غَ فَ قَ" },
+        { "section_id": 20, "text": "كَ لَ مَ" },
+        { "section_id": 21, "text": "نَ وَ هَـ" },
+        { "section_id": 22, "text": "هَـ ىَ تَ" },
+        { "section_id": 23, "text": "أَ كَ لَ" },
+        { "section_id": 24, "text": "مَـ نَ وَ" }
+      ]
+    },
+    {
+      "page_id": 30,
+      "name": "",
+
+      "sections": [
+        { "section_id": 1, "text": "أَ - عَ" },
+        { "section_id": 2, "text": "ثَ - سَ" },
+        { "section_id": 3, "text": "حَ - هَـ" },
+        { "section_id": 4, "text": "ثَ - شَ" },
+        { "section_id": 5, "text": "جَ - زَ" },
+        { "section_id": 6, "text": "سَ - شَ" },
+        { "section_id": 7, "text": "ذَ - زَ" },
+        { "section_id": 8, "text": "سَ - صَ" },
+        { "section_id": 9, "text": "خَ - غَ" },
+        { "section_id": 10, "text": "تَ - طَ" },
+        { "section_id": 11, "text": "خَ - قَ" },
+        { "section_id": 12, "text": "ذَ - ظَ" },
+        { "section_id": 13, "text": "كَ - قَ" },
+        { "section_id": 14, "text": "ظَ - ضَ" }
+      ]
+    },
+    {
+      "page_id": 31,
+      "name": "",
+
+      "sections": [
+        {
+          "section_id": 1,
+
+          "text": "أَ بَ تَ ثَ جَ حَ خَ دَ ذَ رَ زَ"
+        },
+        { "section_id": 2, "text": "سَ شَ صَ ضَ طَ ظَ عَ غَ" },
+        {
+          "section_id": 3,
+
+          "text": "فَ قَ كَ لَ مَ نَ وَ هَـ ءَ ىَ"
+        },
+        {
+          "section_id": 4,
+
+          "text": "ىَ ءَ هَـ وَ نَ مَ لَ كَ قَ فَ"
+        },
+        { "section_id": 5, "text": "غَ عَ ظَ طَ ضَ صَ شَ سَ" },
+        {
+          "section_id": 6,
+
+          "text": "زَ رَ ذَ دَ خَ حَ جَ ثَ تَ بَ أَ"
+        }
+      ]
+    }
+  ]
+}
