@@ -72,3 +72,4 @@ Terima kasih atas kontribusi Anda! 🚀
 
 ## Kredit
 - Ikon bertuliskan Iqro dalam bahasa arab: https://id.pngtree.com/freepng/iqra-islamic-caligraphy_8705921.html
+- Gambar buku iqro: https://id.wikipedia.org/wiki/Iqro
