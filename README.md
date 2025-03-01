@@ -25,7 +25,7 @@ Iqro (bahasa Arab: اقرأ, translit. iqraʾ, har. 'Bacalah!'; judul lengkap: B
 | KH. As'ad Humam dan Team Tadarus AMM |  Indonesia | Indonesia, Arab | Buku teks agama | Awal 1990-an (edisi pertama) |
 
 ## Peta Baca
-- [ ] Huruf Hijaiyah
+- [x] [Huruf Hijaiyah](https://github.com/dyazincahya/iqro-json/blob/main/0_hijaiyah.json)
 - [ ] Iqro 1
     - [x] A
     - [x] Ba
