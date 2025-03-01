@@ -1,0 +1,23 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": { "latin": "A BA", "arab": "اَ بَ" },
+  "instruction_id": "Bacaan langsung A - Ba dst. Tidak perlu diurai/dieja. Bacalah dengan suara pendek.",
+  "instruction_en": "Direct reading A - Ba, etc. No need to spell out. Read with short sounds.",
+  "instruction_ar": "القراءة المباشرة أ - ب وهكذا. لا حاجة للتهجئة. اقرأ بصوت قصير.",
+  "content": [
+    { "order_id": 1, "latin": "A", "arabic": "اَ" },
+    { "order_id": 2, "latin": "A BA", "arabic": "اَ بَ" },
+    { "order_id": 3, "latin": "A BA A", "arabic": "اَ بَ اَ" },
+    { "order_id": 4, "latin": "BA A BA", "arabic": "بَ اَ بَ" },
+    { "order_id": 5, "latin": "A BA BA", "arabic": "اَ بَ بَ" },
+    { "order_id": 6, "latin": "BA A BA A", "arabic": "بَ اَ بَ اَ" },
+    { "order_id": 7, "latin": "A BA A BA", "arabic": "اَ بَ اَ بَ" },
+    { "order_id": 8, "latin": "BA BA A", "arabic": "بَ بَ اَ" },
+    { "order_id": 9, "latin": "A A BA", "arabic": "اَ اَ بَ" },
+    { "order_id": 10, "latin": "A BA BA A", "arabic": "اَ بَ بَ اَ" },
+    { "order_id": 11, "latin": "BA A A", "arabic": "بَ اَ اَ" },
+    { "order_id": 12, "latin": "A A BA A", "arabic": "اَ اَ بَ اَ" },
+    { "order_id": 13, "latin": "A BA A BA", "arabic": "اَ بَ اَ بَ" }
+  ]
+}

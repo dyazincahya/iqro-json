@@ -1,0 +1,27 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": { "latin": "DA", "arab": "ذَ" },
+  "instruction_id": "",
+  "instruction_en": "",
+  "instruction_er": "",
+  "content": [
+    { "order_id": 1, "latin": "DA DA KHO", "arabic": "ذَ ذَ خَ" },
+    { "order_id": 2, "latin": "DA DA DA KHO", "arabic": "ذَ ذَ ذَ خَ" },
+    { "order_id": 3, "latin": "DA TSA KHO", "arabic": "ذَ ثَ خَ" },
+    { "order_id": 4, "latin": "DA TSA TSA KHO", "arabic": "ذَ ثَ ثَ خَ" },
+    { "order_id": 5, "latin": "DA TA KHO", "arabic": "ذَ تَ خَ" },
+    { "order_id": 6, "latin": "DA TA TA", "arabic": "ذَ تَ تَ" },
+    { "order_id": 7, "latin": "DA BA KHO", "arabic": "ذَ بَ خَ" },
+    { "order_id": 8, "latin": "DA BA BA", "arabic": "ذَ بَ بَ" },
+    { "order_id": 9, "latin": "KHO DA KHO", "arabic": "خَ ذَ خَ" },
+    { "order_id": 10, "latin": "KHO KHO KHO", "arabic": "خَ خَ خَ" },
+    { "order_id": 11, "latin": "DA TA KHO", "arabic": "ذَ تَ خَ" },
+    { "order_id": 12, "latin": "DA KHO KHO", "arabic": "ذَ خَ خَ" },
+    {
+      "order_id": 13,
+      "latin": "A BA TA TSA JA HA KHO DA",
+      "arabic": "أَ بَ تَ ثَ جَ حَ خَ ذَ"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": { "latin": "JA", "arab": "جَ" },
+  "instruction_id": "",
+  "instruction_en": "",
+  "instruction_er": "",
+  "content": [
+    { "order_id": 1, "latin": "A TSA JA", "arabic": "اَ ثَ جَ" },
+    { "order_id": 2, "latin": "JA JA", "arabic": "جَ جَ" },
+    { "order_id": 3, "latin": "A TSA BA JA", "arabic": "اَ ثَ بَ جَ" },
+    { "order_id": 4, "latin": "JA TSA", "arabic": "جَ ثَ" },
+    { "order_id": 5, "latin": "BA A TSA JA", "arabic": "بَ اَ ثَ جَ" },
+    { "order_id": 6, "latin": "JA A BA", "arabic": "جَ اَ بَ" },
+    { "order_id": 7, "latin": "JA TSA JA", "arabic": "جَ ثَ جَ" },
+    { "order_id": 8, "latin": "JA JA A", "arabic": "جَ جَ اَ" },
+    { "order_id": 9, "latin": "A BA TSA JA", "arabic": "اَ بَ ثَ جَ" },
+    { "order_id": 10, "latin": "A JA JA", "arabic": "اَ جَ جَ" },
+    { "order_id": 11, "latin": "A TSA TSA JA", "arabic": "اَ ثَ ثَ جَ" },
+    { "order_id": 12, "latin": "A BA TSA JA", "arabic": "اَ بَ ثَ جَ" },
+    { "order_id": 13, "latin": "A BA TSA JA", "arabic": "اَ بَ ثَ جَ" }
+  ]
+}

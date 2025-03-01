@@ -1,0 +1,22 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": { "latin": "BA TA", "arab": "بَ تَ" },
+  "instruction": "BACAAN LANGSUNG A - BA - TA Dst. DENGAN SUARA PENDEK-PENDEK",
+  "instruction_id": "BACAAN LANGSUNG A - BA - TA Dst. DENGAN SUARA PENDEK-PENDEK",
+  "instruction_en": "Direct reading A - BA - TA, etc., with short sounds.",
+  "instruction_ar": "القراءة المباشرة أ - ب - ت وهكذا، بأصوات قصيرة",
+  "content": [
+    { "order_id": 1, "latin": "A TA BA", "arabic": "اَ تَ بَ" },
+    { "order_id": 2, "latin": "TA BA A", "arabic": "تَ بَ اَ" },
+    { "order_id": 3, "latin": "A BA TA", "arabic": "اَ بَ تَ" },
+    { "order_id": 4, "latin": "TA A BA", "arabic": "تَ اَ بَ" },
+    { "order_id": 5, "latin": "A TA BA", "arabic": "اَ تَ بَ" },
+    { "order_id": 6, "latin": "BA TA A", "arabic": "بَ تَ اَ" },
+    { "order_id": 7, "latin": "A BA TA", "arabic": "اَ بَ تَ" },
+    { "order_id": 8, "latin": "TA A BA", "arabic": "تَ اَ بَ" },
+    { "order_id": 9, "latin": "A TA TA", "arabic": "اَ تَ تَ" },
+    { "order_id": 10, "latin": "BA TA BA", "arabic": "بَ تَ بَ" },
+    { "order_id": 11, "latin": "A TA BA TA", "arabic": "اَ تَ بَ تَ" }
+  ]
+}
