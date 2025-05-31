@@ -1,0 +1,33 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": {
+    "latin": "A (Alif & Hamzah), Ra, Mim",
+    "arab": "اَ (ا, ء), رَ, مَ"
+  },
+  "instruction_id": "",
+  "instruction_en": "",
+  "instruction_ar": "",
+  "content": [
+    { "order_id": 1, "latin": "BA RA A", "arabic": "بَ رَ اَ" },
+    { "order_id": 2, "latin": "BA RA MA", "arabic": "بَ رَ مَ" },
+    { "order_id": 3, "latin": "QOF RA A", "arabic": "قَ رَ اَ" },
+    { "order_id": 4, "latin": "A MA RA", "arabic": "اَ مَ رَ" },
+    { "order_id": 5, "latin": "JA MA RA A", "arabic": "جَ مَ رَ اَ" },
+    { "order_id": 6, "latin": "SA A LA", "arabic": "سَ اَ لَ" },
+    { "order_id": 7, "latin": "RA ZA QOF", "arabic": "رَ زَ قَ" },
+    { "order_id": 8, "latin": "MA DA HA", "arabic": "مَ دَ حَ" },
+    { "order_id": 9, "latin": "GHA MA RA MA", "arabic": "غَ مَ رَ مَ" },
+    { "order_id": 10, "latin": "LI A KA", "arabic": "لِ اَ كَ" },
+    { "order_id": 11, "latin": "MA RA SYA A", "arabic": "مَ رَ شَ اَ" },
+    { "order_id": 12, "latin": "MA RA DA MA", "arabic": "مَ رَ دَ مَ" },
+    { "order_id": 13, "latin": "SA YI I", "arabic": "سَ ي اِ" },
+    { "order_id": 14, "latin": "JA KA LA", "arabic": "جَ كَ لَ" },
+    { "order_id": 15, "latin": "KA YI", "arabic": "كَ ي" },
+    {
+      "order_id": 16,
+      "latin": "QOF TA LA MA SA NA",
+      "arabic": "قَ تَ لَ مَ سَ نَ"
+    }
+  ]
+}

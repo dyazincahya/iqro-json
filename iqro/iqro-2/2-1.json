@@ -1,0 +1,53 @@
+{
+  "level_id": 2,
+  "level_title": "IQRO' 2",
+  "topic": {
+    "latin": "Letters with Sukun and Extended Vowels (Mad)",
+    "arab": "حُرُوفُ السُّكُونِ وَالْمَدِّ"
+  },
+  "instruction_id": "Berlatih menghubungkan huruf dengan sukun dan mengenali vokal yang diperpanjang.",
+  "instruction_en": "Practice connecting letters with sukun and recognizing extended vowels.",
+  "instruction_ar": "تَدَرَّبْ عَلَى وَصْلِ الْحُرُوفِ بِالسُّكُونِ وَتَعَرُّفِ الْمَدِّ.",
+  "content": [
+    {
+      "order_id": 1,
+      "latin": "BATA = BADA = BADA",
+      "arabic": "بَتَ = بَ دَ = بَ دَ"
+    },
+    {
+      "order_id": 2,
+      "latin": "TAR = TAR = TARU = TARU",
+      "arabic": "تَر = تَر = تَرَ وُ = تَر وُ"
+    },
+    {
+      "order_id": 3,
+      "latin": "TATA TADA TABA TAWU",
+      "arabic": "تَتَ    تَدَ    تَبَ    تَوُ"
+    },
+    {
+      "order_id": 4,
+      "latin": "BABA BADZA BATA TAZA",
+      "arabic": "بَبَ    بَذَ    بَتَ    تَزَ"
+    },
+    {
+      "order_id": 5,
+      "latin": "BATHA TADZA THATA ZATHA",
+      "arabic": "بَثَ    تَذَ    ثَتَ    زَثَ"
+    },
+    {
+      "order_id": 6,
+      "latin": "BA'A BAATA TA'A TAATA",
+      "arabic": "بَأَ    بَاتَ    تَأَ    تَاتَ"
+    },
+    {
+      "order_id": 7,
+      "latin": "THABA THARU BARU TAWA",
+      "arabic": "ثَبَ    ثَرُ    بَرُ    تَوَ"
+    },
+    {
+      "order_id": 8,
+      "latin": "TOHA JAKA KAY JASA",
+      "arabic": "طَهَ    جَكَ    كَى    جَسَ"
+    }
+  ]
+}
