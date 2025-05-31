@@ -27,38 +27,39 @@ Iqro (bahasa Arab: اقرأ, translit. iqraʾ, har. 'Bacalah!'; judul lengkap: B
 | KH. As'ad Humam dan Team Tadarus AMM |  Indonesia | Indonesia, Arab | Buku teks agama | Awal 1990-an (edisi pertama) |
 
 ## Peta Baca
-- [x] [Huruf Hijaiyah](https://github.com/dyazincahya/iqro-json/blob/main/0_hijaiyah.json)
-- [ ] Iqro 1
+- [x] [Huruf Hijaiyah](https://github.com/dyazincahya/iqro-json/blob/main/hijaiyah-letters.json)
+- [x] [Huruf Hijaiyah dengan Vokal](https://github.com/dyazincahya/iqro-json/blob/main/hijaiyah-letters-with-vowels.json)
+- [x] Iqro 1
     - [x] A
     - [x] Ba
-    - [x] TA
-    - [x] TSA
-    - [x] JA
-    - [x] HA
-    - [x] KHO
-    - [x] DA
-    - [x] DZA
-    - [x] RA
-    - [x] ZAI
-    - [x] SA
-    - [ ] SYA
-    - [ ] SYOD
-    - [ ] DHAD
-    - [ ] THA
-    - [ ] DZHO
-    - [ ] AIN'
-    - [ ] GHIN
-    - [ ] FA
-    - [ ] QAF
-    - [ ] KAF
-    - [ ] LAM
-    - [ ] MIM
-    - [ ] NUN
-    - [ ] W'OU
-    - [ ] HA
-    - [ ] LAM ALIF
-    - [ ] HAMZAH
-    - [ ] YA
+    - [x] Ta
+    - [x] Tsa
+    - [x] Ja
+    - [x] Ha
+    - [x] Kho
+    - [x] Da
+    - [x] Dza
+    - [x] Ra
+    - [x] Za
+    - [x] Sa
+    - [x] Sya
+    - [x] Shod
+    - [x] Dhod
+    - [x] Tho
+    - [x] Zho
+    - [x] Ain
+    - [x] Ghain
+    - [x] Fa
+    - [x] Qof
+    - [x] Kaf
+    - [x] Lam
+    - [x] Mim
+    - [x] Nun
+    - [x] Waw
+    - [x] Ha
+    - [x] Lam Alif
+    - [x] Hamzah
+    - [x] Ya
 - [ ] Iqro 2
 - [ ] Iqro 3
 - [ ] Iqro 4
