@@ -67,7 +67,7 @@ Iqro (bahasa Arab: اقرأ, translit. iqraʾ, har. 'Bacalah!'; judul lengkap: B
 - [ ] Iqro 6
 
 ## Kontribusi
-Jika ingin berkontribusi pada proyek ini, silakan fork dan clone repositori, lalu lakukan perubahan sesuai format yang sudah ada. Setelah itu, ajukan pull request (PR) agar perubahan bisa ditinjau dan digabungkan. Pastikan format JSON tetap seragam.
+Data ini mungkin *belum sepenuhnya* sesuai dengan referensi buku Iqro yang ada. Mohon bantuannya untuk mengoreksi atau memperbaiki jika Anda menemukan kesalahan. Kontribusi sekecil apa pun dari Anda akan sangat berarti dalam menyempurnakan data ini. Jika Anda ingin berkontribusi pada proyek ini, silakan fork dan clone repositori, lalu lakukan perubahan sesuai format yang sudah ada. Setelah itu, ajukan pull request (PR) agar perubahan dapat ditinjau dan digabungkan. Pastikan format JSON tetap seragam.
 
 Terima kasih atas kontribusi Anda! 🚀
 
