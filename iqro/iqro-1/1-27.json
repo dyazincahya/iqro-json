@@ -1,0 +1,108 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": {
+    "latin": "YA",
+    "arab": "يَ"
+  },
+  "instruction_id": "",
+  "instruction_en": "",
+  "instruction_ar": "",
+  "content": [
+    {
+      "order_id": 1,
+      "latin": "DHOD YA RA",
+      "arabic": "ضَ ي رَ"
+    },
+    {
+      "order_id": 2,
+      "latin": "DHOD HA YA",
+      "arabic": "ضَ حَ ي"
+    },
+    {
+      "order_id": 3,
+      "latin": "ZA YA NUN",
+      "arabic": "زَ ي نَ"
+    },
+    {
+      "order_id": 4,
+      "latin": "SA YA GHAIN",
+      "arabic": "سَ ي غَ"
+    },
+    {
+      "order_id": 5,
+      "latin": "WAW KAF LAM",
+      "arabic": "وَ كَ لَ"
+    },
+    {
+      "order_id": 6,
+      "latin": "HA YA KHO",
+      "arabic": "هَ ي خَ"
+    },
+    {
+      "order_id": 7,
+      "latin": "THO HA ZHO",
+      "arabic": "طَ هَ ظَ"
+    },
+    {
+      "order_id": 8,
+      "latin": "SYA YA AIN",
+      "arabic": "شَ ي ع"
+    },
+    {
+      "order_id": 9,
+      "latin": "WAW QOF FA",
+      "arabic": "وَ قَ فَ"
+    },
+    {
+      "order_id": 10,
+      "latin": "HA YA MIM",
+      "arabic": "هَ ي مَ"
+    },
+    {
+      "order_id": 11,
+      "latin": "JA ZA TSA",
+      "arabic": "جَ ذَ ثَ"
+    },
+    {
+      "order_id": 12,
+      "latin": "YA DA YA",
+      "arabic": "يَ دَ يَ"
+    },
+    {
+      "order_id": 13,
+      "latin": "A BA TA",
+      "arabic": "اَ بَ تَ"
+    },
+    {
+      "order_id": 14,
+      "latin": "TA JA HA KHO",
+      "arabic": "تَ جَ حَ خَ"
+    },
+    {
+      "order_id": 15,
+      "latin": "DA ZA RA ZA",
+      "arabic": "دَ ذَ رَ زَ"
+    },
+    {
+      "order_id": 16,
+      "latin": "SA SYA SHOD",
+      "arabic": "سَ شَ صَ"
+    },
+    {
+      "order_id": 17,
+      "latin": "SHOD DHOD THO ZHO",
+      "arabic": "صَ ضَ طَ ظَ"
+    },
+    {
+      "order_id": 18,
+      "latin": "AIN GHAIN",
+      "arabic": "ع غَ"
+    },
+    {
+      "order_id": 19,
+      "latin": "FA QOF KAF LAM MIM NUN WAW HA YA",
+      "arabic": "فَ قَ كَ لَ مَ نَ وَ هَ يَ"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": {
+    "latin": "GHAIN",
+    "arab": "غَ"
+  },
+  "instruction_id": "",
+  "instruction_en": "",
+  "instruction_ar": "",
+  "content": [
+    {
+      "order_id": 1,
+      "latin": "GHAIN A GHAIN",
+      "arabic": "غَ اَ غَ"
+    },
+    {
+      "order_id": 2,
+      "latin": "DA GHAIN THO",
+      "arabic": "دَ غَ طَ"
+    },
+    {
+      "order_id": 3,
+      "latin": "GHAIN THO GHAIN",
+      "arabic": "غَ طَ غَ"
+    },
+    {
+      "order_id": 4,
+      "latin": "TSA GHAIN THO",
+      "arabic": "ثَ غَ طَ"
+    },
+    {
+      "order_id": 5,
+      "latin": "HA JA GHAIN",
+      "arabic": "حَ جَ غَ"
+    },
+    {
+      "order_id": 6,
+      "latin": "SA THO GHAIN",
+      "arabic": "سَ طَ غَ"
+    },
+    {
+      "order_id": 7,
+      "latin": "HA RA ZHO",
+      "arabic": "حَ رَ ظَ"
+    },
+    {
+      "order_id": 8,
+      "latin": "SYA GHAIN THO",
+      "arabic": "شَ غَ طَ"
+    },
+    {
+      "order_id": 9,
+      "latin": "SHOD RA GHAIN",
+      "arabic": "صَ رَ غَ"
+    },
+    {
+      "order_id": 10,
+      "latin": "ZA KHO ZHO",
+      "arabic": "زَ خَ ظَ"
+    },
+    {
+      "order_id": 11,
+      "latin": "DHOD AIN GHAIN",
+      "arabic": "ضَ ع غَ"
+    },
+    {
+      "order_id": 12,
+      "latin": "TA GHAIN DHOD",
+      "arabic": "تَ غَ ضَ"
+    },
+    {
+      "order_id": 13,
+      "latin": "SYA RA ZHO",
+      "arabic": "شَ رَ ظَ"
+    },
+    {
+      "order_id": 14,
+      "latin": "THO AIN BA GHAIN",
+      "arabic": "طَ ع بَ غَ"
+    },
+    {
+      "order_id": 15,
+      "latin": "BA GHAIN SHOD",
+      "arabic": "بَ غَ صَ"
+    },
+    {
+      "order_id": 16,
+      "latin": "A BA TA",
+      "arabic": "اَ بَ تَ"
+    },
+    {
+      "order_id": 17,
+      "latin": "TA JA HA KHO",
+      "arabic": "تَ جَ حَ خَ"
+    },
+    {
+      "order_id": 18,
+      "latin": "DA DA RA ZA",
+      "arabic": "دَ دَ رَ زَ"
+    },
+    {
+      "order_id": 19,
+      "latin": "SA SA SYA SHOD SHOD THO ZHO THO AIN GHAIN",
+      "arabic": "سَ سَ شَ صَ صَ طَ ظَ طَ ع غَ"
+    }
+  ]
+}

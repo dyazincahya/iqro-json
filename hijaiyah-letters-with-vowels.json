@@ -1,0 +1,242 @@
+[
+  {
+    "order_id": 1,
+    "letter_name": "Alif",
+    "letter_name_arabic": "ا",
+    "fathah": { "latin": "A", "arabic": "اَ" },
+    "kasrah": { "latin": "I", "arabic": "اِ" },
+    "dhammah": { "latin": "U", "arabic": "اُ" }
+  },
+  {
+    "order_id": 2,
+    "letter_name": "Ba",
+    "letter_name_arabic": "ب",
+    "fathah": { "latin": "Ba", "arabic": "بَ" },
+    "kasrah": { "latin": "Bi", "arabic": "بِ" },
+    "dhammah": { "latin": "Bu", "arabic": "بُ" }
+  },
+  {
+    "order_id": 3,
+    "letter_name": "Ta",
+    "letter_name_arabic": "ت",
+    "fathah": { "latin": "Ta", "arabic": "تَ" },
+    "kasrah": { "latin": "Ti", "arabic": "تِ" },
+    "dhammah": { "latin": "Tu", "arabic": "تُ" }
+  },
+  {
+    "order_id": 4,
+    "letter_name": "Tsa",
+    "letter_name_arabic": "ث",
+    "fathah": { "latin": "Tsa", "arabic": "ثَ" },
+    "kasrah": { "latin": "Tsi", "arabic": "ثِ" },
+    "dhammah": { "latin": "Tsu", "arabic": "ثُ" }
+  },
+  {
+    "order_id": 5,
+    "letter_name": "Jim",
+    "letter_name_arabic": "ج",
+    "fathah": { "latin": "Ja", "arabic": "جَ" },
+    "kasrah": { "latin": "Ji", "arabic": "جِ" },
+    "dhammah": { "latin": "Ju", "arabic": "جُ" }
+  },
+  {
+    "order_id": 6,
+    "letter_name": "Ha",
+    "letter_name_arabic": "ح",
+    "fathah": { "latin": "Ha", "arabic": "حَ" },
+    "kasrah": { "latin": "Hi", "arabic": "حِ" },
+    "dhammah": { "latin": "Hu", "arabic": "حُ" }
+  },
+  {
+    "order_id": 7,
+    "letter_name": "Kha",
+    "letter_name_arabic": "خ",
+    "fathah": { "latin": "Kha", "arabic": "خَ" },
+    "kasrah": { "latin": "Khi", "arabic": "خِ" },
+    "dhammah": { "latin": "Khu", "arabic": "خُ" }
+  },
+  {
+    "order_id": 8,
+    "letter_name": "Dal",
+    "letter_name_arabic": "د",
+    "fathah": { "latin": "Da", "arabic": "دَ" },
+    "kasrah": { "latin": "Di", "arabic": "دِ" },
+    "dhammah": { "latin": "Du", "arabic": "دُ" }
+  },
+  {
+    "order_id": 9,
+    "letter_name": "Dzal",
+    "letter_name_arabic": "ذ",
+    "fathah": { "latin": "Za", "arabic": "ذَ" },
+    "kasrah": { "latin": "Zi", "arabic": "ذِ" },
+    "dhammah": { "latin": "Zu", "arabic": "ذُ" }
+  },
+  {
+    "order_id": 10,
+    "letter_name": "Ra",
+    "letter_name_arabic": "ر",
+    "fathah": { "latin": "Ra", "arabic": "رَ" },
+    "kasrah": { "latin": "Ri", "arabic": "رِ" },
+    "dhammah": { "latin": "Ru", "arabic": "رُ" }
+  },
+  {
+    "order_id": 11,
+    "letter_name": "Zai",
+    "letter_name_arabic": "ز",
+    "fathah": { "latin": "Za", "arabic": "زَ" },
+    "kasrah": { "latin": "Zi", "arabic": "زِ" },
+    "dhammah": { "latin": "Zu", "arabic": "زُ" }
+  },
+  {
+    "order_id": 12,
+    "letter_name": "Sin",
+    "letter_name_arabic": "س",
+    "fathah": { "latin": "Sa", "arabic": "سَ" },
+    "kasrah": { "latin": "Si", "arabic": "سِ" },
+    "dhammah": { "latin": "Su", "arabic": "سُ" }
+  },
+  {
+    "order_id": 13,
+    "letter_name": "Syin",
+    "letter_name_arabic": "ش",
+    "fathah": { "latin": "Sya", "arabic": "شَ" },
+    "kasrah": { "latin": "Syi", "arabic": "شِ" },
+    "dhammah": { "latin": "Syu", "arabic": "شُ" }
+  },
+  {
+    "order_id": 14,
+    "letter_name": "Shad",
+    "letter_name_arabic": "ص",
+    "fathah": { "latin": "Shod", "arabic": "صَ" },
+    "kasrah": { "latin": "Shodi", "arabic": "صِ" },
+    "dhammah": { "latin": "Shodu", "arabic": "صُ" }
+  },
+  {
+    "order_id": 15,
+    "letter_name": "Dhad",
+    "letter_name_arabic": "ض",
+    "fathah": { "latin": "Dhod", "arabic": "ضَ" },
+    "kasrah": { "latin": "Dhodi", "arabic": "ضِ" },
+    "dhammah": { "latin": "Dhodu", "arabic": "ضُ" }
+  },
+  {
+    "order_id": 16,
+    "letter_name": "Tha",
+    "letter_name_arabic": "ط",
+    "fathah": { "latin": "Tho", "arabic": "طَ" },
+    "kasrah": { "latin": "Thoi", "arabic": "طِ" },
+    "dhammah": { "latin": "Tho", "arabic": "طُ" }
+  },
+  {
+    "order_id": 17,
+    "letter_name": "Dza",
+    "letter_name_arabic": "ظ",
+    "fathah": { "latin": "Zho", "arabic": "ظَ" },
+    "kasrah": { "latin": "Zhoi", "arabic": "ظِ" },
+    "dhammah": { "latin": "Zho", "arabic": "ظُ" }
+  },
+  {
+    "order_id": 18,
+    "letter_name": "Ain",
+    "letter_name_arabic": "ع",
+    "fathah": { "latin": "A'", "arabic": "عَ" },
+    "kasrah": { "latin": "I'", "arabic": "عِ" },
+    "dhammah": { "latin": "U'", "arabic": "عُ" }
+  },
+  {
+    "order_id": 19,
+    "letter_name": "Ghain",
+    "letter_name_arabic": "غ",
+    "fathah": { "latin": "Gha", "arabic": "غَ" },
+    "kasrah": { "latin": "Ghi", "arabic": "غِ" },
+    "dhammah": { "latin": "Ghu", "arabic": "غُ" }
+  },
+  {
+    "order_id": 20,
+    "letter_name": "Fa",
+    "letter_name_arabic": "ف",
+    "fathah": { "latin": "Fa", "arabic": "فَ" },
+    "kasrah": { "latin": "Fi", "arabic": "فِ" },
+    "dhammah": { "latin": "Fu", "arabic": "فُ" }
+  },
+  {
+    "order_id": 21,
+    "letter_name": "Qaf",
+    "letter_name_arabic": "ق",
+    "fathah": { "latin": "Qo", "arabic": "قَ" },
+    "kasrah": { "latin": "Qi", "arabic": "قِ" },
+    "dhammah": { "latin": "Qu", "arabic": "قُ" }
+  },
+  {
+    "order_id": 22,
+    "letter_name": "Kaf",
+    "letter_name_arabic": "ك",
+    "fathah": { "latin": "Ka", "arabic": "كَ" },
+    "kasrah": { "latin": "Ki", "arabic": "كِ" },
+    "dhammah": { "latin": "Ku", "arabic": "كُ" }
+  },
+  {
+    "order_id": 23,
+    "letter_name": "Lam",
+    "letter_name_arabic": "ل",
+    "fathah": { "latin": "La", "arabic": "لَ" },
+    "kasrah": { "latin": "Li", "arabic": "لِ" },
+    "dhammah": { "latin": "Lu", "arabic": "لُ" }
+  },
+  {
+    "order_id": 24,
+    "letter_name": "Mim",
+    "letter_name_arabic": "م",
+    "fathah": { "latin": "Ma", "arabic": "مَ" },
+    "kasrah": { "latin": "Mi", "arabic": "مِ" },
+    "dhammah": { "latin": "Mu", "arabic": "مُ" }
+  },
+  {
+    "order_id": 25,
+    "letter_name": "Nun",
+    "letter_name_arabic": "ن",
+    "fathah": { "latin": "Na", "arabic": "نَ" },
+    "kasrah": { "latin": "Ni", "arabic": "نِ" },
+    "dhammah": { "latin": "Nu", "arabic": "نُ" }
+  },
+  {
+    "order_id": 26,
+    "letter_name": "Wau",
+    "letter_name_arabic": "و",
+    "fathah": { "latin": "Wa", "arabic": "وَ" },
+    "kasrah": { "latin": "Wi", "arabic": "وِ" },
+    "dhammah": { "latin": "Wu", "arabic": "وُ" }
+  },
+  {
+    "order_id": 27,
+    "letter_name": "Ha",
+    "letter_name_arabic": "ه",
+    "fathah": { "latin": "Ha", "arabic": "هَ" },
+    "kasrah": { "latin": "Hi", "arabic": "هِ" },
+    "dhammah": { "latin": "Hu", "arabic": "هُ" }
+  },
+  {
+    "order_id": 28,
+    "letter_name": "Lam Alif",
+    "letter_name_arabic": "لا",
+    "fathah": { "latin": "La", "arabic": "لاَ" },
+    "kasrah": { "latin": "Li", "arabic": "لِا" },
+    "dhammah": { "latin": "Lu", "arabic": "لُا" }
+  },
+  {
+    "order_id": 29,
+    "letter_name": "Hamzah",
+    "letter_name_arabic": "ء",
+    "fathah": { "latin": "A", "arabic": "ءَ" },
+    "kasrah": { "latin": "I", "arabic": "ءِ" },
+    "dhammah": { "latin": "U", "arabic": "ءُ" }
+  },
+  {
+    "order_id": 30,
+    "letter_name": "Ya",
+    "letter_name_arabic": "ي",
+    "fathah": { "latin": "Ya", "arabic": "يَ" },
+    "kasrah": { "latin": "Yi", "arabic": "يِ" },
+    "dhammah": { "latin": "Yu", "arabic": "يُ" }
+  }
+]

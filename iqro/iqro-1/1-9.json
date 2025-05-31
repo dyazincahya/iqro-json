@@ -1,0 +1,27 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": { "latin": "RA", "arab": "رَ" },
+  "instruction_id": "",
+  "instruction_en": "",
+  "instruction_er": "",
+  "content": [
+    { "order_id": 1, "latin": "RA RA", "arabic": "رَ رَ" },
+    { "order_id": 2, "latin": "RA DZA", "arabic": "رَ ذَ" },
+    { "order_id": 3, "latin": "RA KHO", "arabic": "رَ خَ" },
+    { "order_id": 4, "latin": "RA DZA KHO", "arabic": "رَ ذَ خَ" },
+    { "order_id": 5, "latin": "RA DZA DA", "arabic": "رَ ذَ دَ" },
+    { "order_id": 6, "latin": "RA DA KHO", "arabic": "رَ دَ خَ" },
+    { "order_id": 7, "latin": "RA DA TSA", "arabic": "رَ دَ ثَ" },
+    { "order_id": 8, "latin": "RA DA TA", "arabic": "رَ دَ تَ" },
+    { "order_id": 9, "latin": "RA DA BA", "arabic": "رَ دَ بَ" },
+    { "order_id": 10, "latin": "RA DA A", "arabic": "رَ دَ أَ" },
+    { "order_id": 11, "latin": "RA DZA KHO", "arabic": "رَ ذَ خَ" },
+    { "order_id": 12, "latin": "RA DZA DA", "arabic": "رَ ذَ دَ" },
+    {
+      "order_id": 13,
+      "latin": "A BA TA TSA JA HA KHO DA DZA RA",
+      "arabic": "أَ بَ تَ ثَ جَ حَ خَ دَ ذَ رَ"
+    }
+  ]
+}

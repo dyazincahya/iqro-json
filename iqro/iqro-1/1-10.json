@@ -1,0 +1,27 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": { "latin": "RA ZAI", "arab": "رَ وَ زَ" },
+  "instruction_id": "",
+  "instruction_en": "",
+  "instruction_er": "",
+  "content": [
+    { "order_id": 1, "latin": "RA", "arabic": "رَ" },
+    { "order_id": 2, "latin": "ZAI", "arabic": "زَ" },
+    { "order_id": 3, "latin": "RA ZAI", "arabic": "رَ زَ" },
+    { "order_id": 4, "latin": "A ZAI DA RA", "arabic": "أَ زَ دَ رَ" },
+    { "order_id": 5, "latin": "ZAI DA KHO", "arabic": "زَ دَ خَ" },
+    { "order_id": 6, "latin": "ZAI DA TSA", "arabic": "زَ دَ ثَ" },
+    { "order_id": 7, "latin": "RA DA TSA", "arabic": "رَ دَ ثَ" },
+    { "order_id": 8, "latin": "ZAI DA TA", "arabic": "زَ دَ تَ" },
+    { "order_id": 9, "latin": "ZAI DA BA", "arabic": "زَ دَ بَ" },
+    { "order_id": 10, "latin": "ZAI DA A", "arabic": "زَ دَ أَ" },
+    { "order_id": 11, "latin": "ZAI RA TSA", "arabic": "زَ رَ ثَ" },
+    { "order_id": 12, "latin": "ZAI RA TA", "arabic": "زَ رَ تَ" },
+    {
+      "order_id": 13,
+      "latin": "A BA TA TSA JA HA KHO DA DZA RA ZAI",
+      "arabic": "أَ بَ تَ ثَ جَ حَ خَ دَ ذَ رَ زَ"
+    }
+  ]
+}

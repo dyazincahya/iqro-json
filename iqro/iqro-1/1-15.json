@@ -1,0 +1,108 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": {
+    "latin": "THO",
+    "arab": "طَ"
+  },
+  "instruction_id": "",
+  "instruction_en": "",
+  "instruction_ar": "",
+  "content": [
+    {
+      "order_id": 1,
+      "latin": "THO A DHOD",
+      "arabic": "طَ اَ ضَ"
+    },
+    {
+      "order_id": 2,
+      "latin": "ZA THO SYA",
+      "arabic": "زَ طَ شَ"
+    },
+    {
+      "order_id": 3,
+      "latin": "HA JA THO",
+      "arabic": "حَ جَ طَ"
+    },
+    {
+      "order_id": 4,
+      "latin": "TA SHOD RA DHOD",
+      "arabic": "تَ صَ رَ ضَ"
+    },
+    {
+      "order_id": 5,
+      "latin": "ZA THO SA",
+      "arabic": "ذَ طَ سَ"
+    },
+    {
+      "order_id": 6,
+      "latin": "ZA DA THO",
+      "arabic": "زَ دَ طَ"
+    },
+    {
+      "order_id": 7,
+      "latin": "DHOD SA SHOD",
+      "arabic": "ضَ سَ صَ"
+    },
+    {
+      "order_id": 8,
+      "latin": "SA RA THO",
+      "arabic": "سَ رَ طَ"
+    },
+    {
+      "order_id": 9,
+      "latin": "SYA RA TSA",
+      "arabic": "شَ رَ ثَ"
+    },
+    {
+      "order_id": 10,
+      "latin": "SYA KHO THO",
+      "arabic": "شَ خَ طَ"
+    },
+    {
+      "order_id": 11,
+      "latin": "THO HA ZA",
+      "arabic": "طَ حَ زَ"
+    },
+    {
+      "order_id": 12,
+      "latin": "BA SHOD DHOD",
+      "arabic": "بَ صَ ضَ"
+    },
+    {
+      "order_id": 13,
+      "latin": "ZA RA THO",
+      "arabic": "ذَ رَ طَ"
+    },
+    {
+      "order_id": 14,
+      "latin": "JA ZA RA DHOD",
+      "arabic": "جَ زَ رَ ضَ"
+    },
+    {
+      "order_id": 15,
+      "latin": "TSA A SYA",
+      "arabic": "ثَ اَ شَ"
+    },
+    {
+      "order_id": 16,
+      "latin": "SA KHO THO",
+      "arabic": "سَ خَ طَ"
+    },
+    {
+      "order_id": 17,
+      "latin": "A BA TA",
+      "arabic": "اَ بَ تَ"
+    },
+    {
+      "order_id": 18,
+      "latin": "TA JA HA KHO",
+      "arabic": "تَ جَ حَ خَ"
+    },
+    {
+      "order_id": 19,
+      "latin": "DA DZA RA ZA SA SYA SHOD SHOD THO",
+      "arabic": "دَ ذَ رَ زَ سَ شَ صَ صَ طَ"
+    }
+  ]
+}

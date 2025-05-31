@@ -1,0 +1,108 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": {
+    "latin": "NUN",
+    "arab": "نَ"
+  },
+  "instruction_id": "",
+  "instruction_en": "",
+  "instruction_ar": "",
+  "content": [
+    {
+      "order_id": 1,
+      "latin": "NUN ZHO FA",
+      "arabic": "نَ ظَ فَ"
+    },
+    {
+      "order_id": 2,
+      "latin": "NUN GHAIN SYA",
+      "arabic": "نَ غَ شَ"
+    },
+    {
+      "order_id": 3,
+      "latin": "NUN THO AIN",
+      "arabic": "نَ طَ ع"
+    },
+    {
+      "order_id": 4,
+      "latin": "SHOD MIM DHOD",
+      "arabic": "صَ مَ ضَ"
+    },
+    {
+      "order_id": 5,
+      "latin": "QOF ZA NUN",
+      "arabic": "قَ زَ نَ"
+    },
+    {
+      "order_id": 6,
+      "latin": "KHO LAM QOF",
+      "arabic": "خَ لَ قَ"
+    },
+    {
+      "order_id": 7,
+      "latin": "ZA MIM NUN",
+      "arabic": "زَ مَ نَ"
+    },
+    {
+      "order_id": 8,
+      "latin": "KAF ZA BA",
+      "arabic": "كَ ذَ بَ"
+    },
+    {
+      "order_id": 9,
+      "latin": "JA NUN DA",
+      "arabic": "جَ نَ دَ"
+    },
+    {
+      "order_id": 10,
+      "latin": "KAF NUN SA",
+      "arabic": "كَ نَ سَ"
+    },
+    {
+      "order_id": 11,
+      "latin": "LAM HA ZHO",
+      "arabic": "لَ حَ ظَ"
+    },
+    {
+      "order_id": 12,
+      "latin": "MIM NUN NUN",
+      "arabic": "مَ نَ نَ"
+    },
+    {
+      "order_id": 13,
+      "latin": "A BA TA",
+      "arabic": "اَ بَ تَ"
+    },
+    {
+      "order_id": 14,
+      "latin": "TA JA HA KHO",
+      "arabic": "تَ جَ حَ خَ"
+    },
+    {
+      "order_id": 15,
+      "latin": "DA ZA",
+      "arabic": "دَ ذَ"
+    },
+    {
+      "order_id": 16,
+      "latin": "RA ZA RA SA",
+      "arabic": "رَ زَ رَ سَ"
+    },
+    {
+      "order_id": 17,
+      "latin": "SYA SHOD DHOD",
+      "arabic": "شَ صَ ضَ"
+    },
+    {
+      "order_id": 18,
+      "latin": "THO ZHO",
+      "arabic": "طَ ظَ"
+    },
+    {
+      "order_id": 19,
+      "latin": "AIN GHAIN FA QOF KAF LAM MIM NUN",
+      "arabic": "عَ غَ فَ قَ كَ لَ مَ نَ"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": {
+    "latin": "MIM",
+    "arab": "مَ"
+  },
+  "instruction_id": "",
+  "instruction_en": "",
+  "instruction_ar": "",
+  "content": [
+    {
+      "order_id": 1,
+      "latin": "GHAIN MIM DHOD",
+      "arabic": "غَ مَ ضَ"
+    },
+    {
+      "order_id": 2,
+      "latin": "LAM MIM SA",
+      "arabic": "لَ مَ سَ"
+    },
+    {
+      "order_id": 3,
+      "latin": "HA MIM AIN",
+      "arabic": "حَ مَ ع"
+    },
+    {
+      "order_id": 4,
+      "latin": "FA RA DHOD",
+      "arabic": "فَ رَ ضَ"
+    },
+    {
+      "order_id": 5,
+      "latin": "KAF RA MIM",
+      "arabic": "كَ رَ مَ"
+    },
+    {
+      "order_id": 6,
+      "latin": "KHO LAM THO",
+      "arabic": "خَ لَ طَ"
+    },
+    {
+      "order_id": 7,
+      "latin": "SHOD MIM DA",
+      "arabic": "صَ مَ دَ"
+    },
+    {
+      "order_id": 8,
+      "latin": "ZHO TA ZA",
+      "arabic": "ظَ تَ ذَ"
+    },
+    {
+      "order_id": 9,
+      "latin": "MIM ZA QOF",
+      "arabic": "مَ زَ قَ"
+    },
+    {
+      "order_id": 10,
+      "latin": "SYA MIM LAM",
+      "arabic": "شَ مَ لَ"
+    },
+    {
+      "order_id": 11,
+      "latin": "FA KAF HA",
+      "arabic": "فَ كَ حَ"
+    },
+    {
+      "order_id": 12,
+      "latin": "GHAIN MIM MIM",
+      "arabic": "غَ مَ مَ"
+    },
+    {
+      "order_id": 13,
+      "latin": "A BA TA",
+      "arabic": "اَ بَ تَ"
+    },
+    {
+      "order_id": 14,
+      "latin": "TA JA HA KHO",
+      "arabic": "تَ جَ حَ خَ"
+    },
+    {
+      "order_id": 15,
+      "latin": "DA ZA",
+      "arabic": "دَ ذَ"
+    },
+    {
+      "order_id": 16,
+      "latin": "RA ZA RA SA",
+      "arabic": "رَ زَ رَ سَ"
+    },
+    {
+      "order_id": 17,
+      "latin": "SYA SHOD DHOD",
+      "arabic": "شَ صَ ضَ"
+    },
+    {
+      "order_id": 18,
+      "latin": "THO ZHO",
+      "arabic": "طَ ظَ"
+    },
+    {
+      "order_id": 19,
+      "latin": "AIN GHAIN FA QOF KAF LAM MIM",
+      "arabic": "عَ غَ فَ قَ كَ لَ مَ"
+    }
+  ]
+}

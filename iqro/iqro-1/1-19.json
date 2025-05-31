@@ -1,0 +1,108 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": {
+    "latin": "FA",
+    "arab": "فَ"
+  },
+  "instruction_id": "",
+  "instruction_en": "",
+  "instruction_ar": "",
+  "content": [
+    {
+      "order_id": 1,
+      "latin": "FA A GHAIN",
+      "arabic": "فَ اَ غَ"
+    },
+    {
+      "order_id": 2,
+      "latin": "FA GHAIN DHOD",
+      "arabic": "فَ غَ ضَ"
+    },
+    {
+      "order_id": 3,
+      "latin": "GHAIN FA SHOD",
+      "arabic": "غَ فَ صَ"
+    },
+    {
+      "order_id": 4,
+      "latin": "FA TA HA",
+      "arabic": "فَ تَ حَ"
+    },
+    {
+      "order_id": 5,
+      "latin": "HA JA ZA",
+      "arabic": "حَ جَ زَ"
+    },
+    {
+      "order_id": 6,
+      "latin": "GHAIN FA ZHO",
+      "arabic": "غَ فَ ظَ"
+    },
+    {
+      "order_id": 7,
+      "latin": "THO AIN DA",
+      "arabic": "طَ ع دَ"
+    },
+    {
+      "order_id": 8,
+      "latin": "SHOD RA FA GHAIN",
+      "arabic": "صَ رَ فَ غَ"
+    },
+    {
+      "order_id": 9,
+      "latin": "SYA KHO SHOD",
+      "arabic": "شَ خَ صَ"
+    },
+    {
+      "order_id": 10,
+      "latin": "SA GHAIN ZHO",
+      "arabic": "سَ غَ ظَ"
+    },
+    {
+      "order_id": 11,
+      "latin": "KHO FA ZA",
+      "arabic": "خَ فَ ذَ"
+    },
+    {
+      "order_id": 12,
+      "latin": "SYA GHAIN DHOD",
+      "arabic": "شَ غَ ضَ"
+    },
+    {
+      "order_id": 13,
+      "latin": "FA ZA AIN",
+      "arabic": "فَ زَ ع"
+    },
+    {
+      "order_id": 14,
+      "latin": "TSA GHAIN THO",
+      "arabic": "ثَ غَ طَ"
+    },
+    {
+      "order_id": 15,
+      "latin": "ZHO FA RA",
+      "arabic": "ظَ فَ رَ"
+    },
+    {
+      "order_id": 16,
+      "latin": "A BA TA",
+      "arabic": "اَ بَ تَ"
+    },
+    {
+      "order_id": 17,
+      "latin": "TA JA HA KHO",
+      "arabic": "تَ جَ حَ خَ"
+    },
+    {
+      "order_id": 18,
+      "latin": "DA ZA RA ZA",
+      "arabic": "دَ ذَ رَ زَ"
+    },
+    {
+      "order_id": 19,
+      "latin": "SA SA SYA SHOD SHOD THO ZHO THO AIN GHAIN FA",
+      "arabic": "سَ سَ شَ صَ صَ طَ ظَ طَ ع غَ فَ"
+    }
+  ]
+}

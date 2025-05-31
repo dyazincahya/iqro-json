@@ -1,0 +1,108 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": {
+    "latin": "QOF",
+    "arab": "قَ"
+  },
+  "instruction_id": "",
+  "instruction_en": "",
+  "instruction_ar": "",
+  "content": [
+    {
+      "order_id": 1,
+      "latin": "QOF BA DHOD",
+      "arabic": "قَ بَ ضَ"
+    },
+    {
+      "order_id": 2,
+      "latin": "QOF THO FA",
+      "arabic": "قَ طَ فَ"
+    },
+    {
+      "order_id": 3,
+      "latin": "FA RA QOF",
+      "arabic": "فَ رَ قَ"
+    },
+    {
+      "order_id": 4,
+      "latin": "TSA GHAIN ZHO",
+      "arabic": "ثَ غَ ظَ"
+    },
+    {
+      "order_id": 5,
+      "latin": "QOF QOF FA",
+      "arabic": "قَ قَ فَ"
+    },
+    {
+      "order_id": 6,
+      "latin": "SA AIN FA",
+      "arabic": "سَ ع فَ"
+    },
+    {
+      "order_id": 7,
+      "latin": "HA ZA KHO",
+      "arabic": "حَ ذَ خَ"
+    },
+    {
+      "order_id": 8,
+      "latin": "QOF FA SHOD",
+      "arabic": "قَ فَ صَ"
+    },
+    {
+      "order_id": 9,
+      "latin": "AIN QOF DA",
+      "arabic": "عَ قَ دَ"
+    },
+    {
+      "order_id": 10,
+      "latin": "DHOD GHAIN THO",
+      "arabic": "ضَ غَ طَ"
+    },
+    {
+      "order_id": 11,
+      "latin": "SYA FA AIN",
+      "arabic": "شَ فَ ع"
+    },
+    {
+      "order_id": 12,
+      "latin": "ZA RA QOF",
+      "arabic": "زَ رَ قَ"
+    },
+    {
+      "order_id": 13,
+      "latin": "A BA TA",
+      "arabic": "اَ بَ تَ"
+    },
+    {
+      "order_id": 14,
+      "latin": "TA JA HA KHO",
+      "arabic": "تَ جَ حَ خَ"
+    },
+    {
+      "order_id": 15,
+      "latin": "DA DA",
+      "arabic": "دَ دَ"
+    },
+    {
+      "order_id": 16,
+      "latin": "RA ZA",
+      "arabic": "رَ زَ"
+    },
+    {
+      "order_id": 17,
+      "latin": "SA SYA",
+      "arabic": "سَ شَ"
+    },
+    {
+      "order_id": 18,
+      "latin": "SHOD DHOD",
+      "arabic": "صَ ضَ"
+    },
+    {
+      "order_id": 19,
+      "latin": "THO ZHO AIN GHAIN FA QOF",
+      "arabic": "طَ ظَ ع غَ فَ قَ"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": {
+    "latin": "AIN",
+    "arab": "عَ"
+  },
+  "instruction_id": "",
+  "instruction_en": "",
+  "instruction_ar": "",
+  "content": [
+    {
+      "order_id": 1,
+      "latin": "ZHO A AIN",
+      "arabic": "ظَ اَ ع"
+    },
+    {
+      "order_id": 2,
+      "latin": "TA AIN RA",
+      "arabic": "تَ ع رَ"
+    },
+    {
+      "order_id": 3,
+      "latin": "BA AIN THO",
+      "arabic": "بَ ع طَ"
+    },
+    {
+      "order_id": 4,
+      "latin": "SHOD AIN ZA",
+      "arabic": "صَ ع زَ"
+    },
+    {
+      "order_id": 5,
+      "latin": "SHOD KHO DHOD",
+      "arabic": "صَ خَ ضَ"
+    },
+    {
+      "order_id": 6,
+      "latin": "DA HA ZHO",
+      "arabic": "دَ حَ ظَ"
+    },
+    {
+      "order_id": 7,
+      "latin": "BA AIN TSA",
+      "arabic": "بَ ع ثَ"
+    },
+    {
+      "order_id": 8,
+      "latin": "SA AIN ZHO",
+      "arabic": "سَ ع ظَ"
+    },
+    {
+      "order_id": 9,
+      "latin": "SYA THO AIN",
+      "arabic": "شَ طَ ع"
+    },
+    {
+      "order_id": 10,
+      "latin": "HA KHO ZA",
+      "arabic": "حَ خَ ذَ"
+    },
+    {
+      "order_id": 11,
+      "latin": "DHOD AIN SYA",
+      "arabic": "ضَ ع شَ"
+    },
+    {
+      "order_id": 12,
+      "latin": "ZA A DHOD",
+      "arabic": "زَ اَ ضَ"
+    },
+    {
+      "order_id": 13,
+      "latin": "AIN JA ZHO",
+      "arabic": "عَ جَ ظَ"
+    },
+    {
+      "order_id": 14,
+      "latin": "DA THO DHOD",
+      "arabic": "دَ طَ ضَ"
+    },
+    {
+      "order_id": 15,
+      "latin": "THO AIN THO",
+      "arabic": "طَ ع طَ"
+    },
+    {
+      "order_id": 16,
+      "latin": "A BA TA",
+      "arabic": "اَ بَ تَ"
+    },
+    {
+      "order_id": 17,
+      "latin": "TA JA HA KHO",
+      "arabic": "تَ جَ حَ خَ"
+    },
+    {
+      "order_id": 18,
+      "latin": "DA DA",
+      "arabic": "دَ دَ"
+    },
+    {
+      "order_id": 19,
+      "latin": "RA ZA SA SYA SHOD SHOD THO ZHO AIN",
+      "arabic": "رَ زَ سَ شَ صَ صَ طَ ظَ ع"
+    }
+  ]
+}

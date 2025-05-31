@@ -1,0 +1,108 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": {
+    "latin": "HA",
+    "arab": "هَ"
+  },
+  "instruction_id": "",
+  "instruction_en": "",
+  "instruction_ar": "",
+  "content": [
+    {
+      "order_id": 1,
+      "latin": "HA MIM SYA",
+      "arabic": "هَ مَ شَ"
+    },
+    {
+      "order_id": 2,
+      "latin": "JA HA DA",
+      "arabic": "جَ هَ دَ"
+    },
+    {
+      "order_id": 3,
+      "latin": "DA WAW MIM",
+      "arabic": "دَ و مَ"
+    },
+    {
+      "order_id": 4,
+      "latin": "FA KHO AIN",
+      "arabic": "فَ خَ ع"
+    },
+    {
+      "order_id": 5,
+      "latin": "THO HA RA",
+      "arabic": "طَ هَ رَ"
+    },
+    {
+      "order_id": 6,
+      "latin": "WAW DHOD HA",
+      "arabic": "وَ ضَ حَ"
+    },
+    {
+      "order_id": 7,
+      "latin": "WAW HA ZHO",
+      "arabic": "وَ هَ ظَ"
+    },
+    {
+      "order_id": 8,
+      "latin": "KAF MIM NUN",
+      "arabic": "كَ مَ نَ"
+    },
+    {
+      "order_id": 9,
+      "latin": "ZA HA QOF",
+      "arabic": "زَ هَ قَ"
+    },
+    {
+      "order_id": 10,
+      "latin": "SA HA LAM",
+      "arabic": "سَ هَ لَ"
+    },
+    {
+      "order_id": 11,
+      "latin": "ZA GHAIN SHOD",
+      "arabic": "ذَ غَ صَ"
+    },
+    {
+      "order_id": 12,
+      "latin": "JA HA HA",
+      "arabic": "جَ هَ هَ"
+    },
+    {
+      "order_id": 13,
+      "latin": "A BA TA",
+      "arabic": "اَ بَ تَ"
+    },
+    {
+      "order_id": 14,
+      "latin": "TA JA HA KHO",
+      "arabic": "تَ جَ حَ خَ"
+    },
+    {
+      "order_id": 15,
+      "latin": "DA ZA",
+      "arabic": "دَ ذَ"
+    },
+    {
+      "order_id": 16,
+      "latin": "RA ZA RA SA",
+      "arabic": "رَ زَ رَ سَ"
+    },
+    {
+      "order_id": 17,
+      "latin": "SYA SHOD DHOD THO",
+      "arabic": "شَ صَ ضَ طَ"
+    },
+    {
+      "order_id": 18,
+      "latin": "ZHO",
+      "arabic": "ظَ"
+    },
+    {
+      "order_id": 19,
+      "latin": "AIN GHAIN FA QOF KAF LAM MIM NUN WAW HA",
+      "arabic": "عَ غَ فَ قَ كَ لَ مَ نَ وَ هَ"
+    }
+  ]
+}

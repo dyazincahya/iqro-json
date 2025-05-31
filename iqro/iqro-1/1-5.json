@@ -1,0 +1,23 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": { "latin": "JA HA", "arab": "جَ حَ" },
+  "instruction_id": "",
+  "instruction_en": "",
+  "instruction_ar": "",
+  "content": [
+    { "order_id": 1, "latin": "JA HA", "arabic": "جَ حَ" },
+    { "order_id": 2, "latin": "A JA HA", "arabic": "اَ جَ حَ" },
+    { "order_id": 3, "latin": "JA HA TSA", "arabic": "جَ حَ ثَ" },
+    { "order_id": 4, "latin": "JA HA BA TSA", "arabic": "جَ حَ بَ ثَ" },
+    { "order_id": 5, "latin": "JA HA BA", "arabic": "جَ حَ بَ" },
+    { "order_id": 6, "latin": "JA HA A BA", "arabic": "جَ حَ اَ بَ" },
+    { "order_id": 7, "latin": "JA HA TSA A", "arabic": "جَ حَ ثَ اَ" },
+    { "order_id": 8, "latin": "JA HA BA A", "arabic": "جَ حَ بَ اَ" },
+    { "order_id": 9, "latin": "JA HA A JA HA", "arabic": "جَ حَ اَ جَ حَ" },
+    { "order_id": 10, "latin": "A JA HA JA HA", "arabic": "اَ جَ حَ جَ حَ" },
+    { "order_id": 11, "latin": "A JA HA TSA", "arabic": "اَ جَ حَ ثَ" },
+    { "order_id": 12, "latin": "A JA HA BA TSA", "arabic": "اَ جَ حَ بَ ثَ" },
+    { "order_id": 13, "latin": "A BA TSA JA HA", "arabic": "اَ بَ ثَ جَ حَ" }
+  ]
+}

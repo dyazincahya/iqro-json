@@ -1,0 +1,108 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": {
+    "latin": "KAF",
+    "arab": "كَ"
+  },
+  "instruction_id": "",
+  "instruction_en": "",
+  "instruction_ar": "",
+  "content": [
+    {
+      "order_id": 1,
+      "latin": "KAF KHO QOF",
+      "arabic": "كَ خَ قَ"
+    },
+    {
+      "order_id": 2,
+      "latin": "KAF QOF KHO",
+      "arabic": "كَ قَ خَ"
+    },
+    {
+      "order_id": 3,
+      "latin": "KAF QOF",
+      "arabic": "كَ قَ"
+    },
+    {
+      "order_id": 4,
+      "latin": "DHOD HA KAF",
+      "arabic": "ضَ حَ كَ"
+    },
+    {
+      "order_id": 5,
+      "latin": "AIN THO FA",
+      "arabic": "عَ طَ فَ"
+    },
+    {
+      "order_id": 6,
+      "latin": "SYA KAF RA",
+      "arabic": "شَ كَ رَ"
+    },
+    {
+      "order_id": 7,
+      "latin": "JA KAF TA",
+      "arabic": "جَ كَ تَ"
+    },
+    {
+      "order_id": 8,
+      "latin": "QOF KAF FA",
+      "arabic": "قَ كَ فَ"
+    },
+    {
+      "order_id": 9,
+      "latin": "ZA GHAIN SA",
+      "arabic": "ذَ غَ سَ"
+    },
+    {
+      "order_id": 10,
+      "latin": "SHOD DA TSA",
+      "arabic": "صَ دَ ثَ"
+    },
+    {
+      "order_id": 11,
+      "latin": "GHAIN FA KAF",
+      "arabic": "غَ فَ كَ"
+    },
+    {
+      "order_id": 12,
+      "latin": "ZA KAF THO",
+      "arabic": "زَ كَ طَ"
+    },
+    {
+      "order_id": 13,
+      "latin": "A BA TA",
+      "arabic": "اَ بَ تَ"
+    },
+    {
+      "order_id": 14,
+      "latin": "TA JA HA KHO",
+      "arabic": "تَ جَ حَ خَ"
+    },
+    {
+      "order_id": 15,
+      "latin": "DA ZA",
+      "arabic": "دَ ذَ"
+    },
+    {
+      "order_id": 16,
+      "latin": "RA ZA RA SA",
+      "arabic": "رَ زَ رَ سَ"
+    },
+    {
+      "order_id": 17,
+      "latin": "SYA SHOD DHOD",
+      "arabic": "شَ صَ ضَ"
+    },
+    {
+      "order_id": 18,
+      "latin": "THO ZHO",
+      "arabic": "طَ ظَ"
+    },
+    {
+      "order_id": 19,
+      "latin": "AIN GHAIN FA QOF THO KAF",
+      "arabic": "عَ غَ فَ قَ طَ كَ"
+    }
+  ]
+}

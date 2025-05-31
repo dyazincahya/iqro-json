@@ -1,0 +1,108 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": {
+    "latin": "SA SYA",
+    "arab": "سَ شَ"
+  },
+  "instruction_id": "",
+  "instruction_en": "",
+  "instruction_ar": "",
+  "content": [
+    {
+      "order_id": 1,
+      "latin": "SA A SYA",
+      "arabic": "سَ اَ شَ"
+    },
+    {
+      "order_id": 2,
+      "latin": "SA SYA SYA",
+      "arabic": "سَ شَ شَ"
+    },
+    {
+      "order_id": 3,
+      "latin": "ZA TA SYA",
+      "arabic": "زَ ت شَ"
+    },
+    {
+      "order_id": 4,
+      "latin": "SYA ZA TA",
+      "arabic": "شَ ذَ ت"
+    },
+    {
+      "order_id": 5,
+      "latin": "DA RA SA",
+      "arabic": "دَ رَ سَ"
+    },
+    {
+      "order_id": 6,
+      "latin": "SYA TA ZA",
+      "arabic": "شَ ت ذَ"
+    },
+    {
+      "order_id": 7,
+      "latin": "ZA RA JA",
+      "arabic": "زَ رَ جَ"
+    },
+    {
+      "order_id": 8,
+      "latin": "TA KHO SYA BA",
+      "arabic": "تَ خَ شَ بَ"
+    },
+    {
+      "order_id": 9,
+      "latin": "JA RA SA",
+      "arabic": "جَ رَ سَ"
+    },
+    {
+      "order_id": 10,
+      "latin": "SA SYA A",
+      "arabic": "سَ شَ اَ"
+    },
+    {
+      "order_id": 11,
+      "latin": "RA SYA ZA",
+      "arabic": "رَ شَ ذَ"
+    },
+    {
+      "order_id": 12,
+      "latin": "HA SA DA",
+      "arabic": "حَ سَ دَ"
+    },
+    {
+      "order_id": 13,
+      "latin": "ZA KHO ZA",
+      "arabic": "ذَ خَ زَ"
+    },
+    {
+      "order_id": 14,
+      "latin": "A SA SYA",
+      "arabic": "اَ سَ شَ"
+    },
+    {
+      "order_id": 15,
+      "latin": "SYA ZA RA RA",
+      "arabic": "شَ زَ رَ رَ"
+    },
+    {
+      "order_id": 16,
+      "latin": "KHO SA DA",
+      "arabic": "خَ سَ دَ"
+    },
+    {
+      "order_id": 17,
+      "latin": "SYA ZA RA JA",
+      "arabic": "شَ زَ رَ جَ"
+    },
+    {
+      "order_id": 18,
+      "latin": "A BA TA",
+      "arabic": "اَ بَ ت"
+    },
+    {
+      "order_id": 19,
+      "latin": "TA HA JA JA DA ZA RA SA SYA",
+      "arabic": "تَ حَ جَ جَ دَ ذَ رَ سَ شَ"
+    }
+  ]
+}
