@@ -29,7 +29,7 @@ Iqro (bahasa Arab: اقرأ, translit. iqraʾ, har. 'Bacalah!'; judul lengkap: B
 ## Peta Baca
 - [x] [Huruf Hijaiyah](https://github.com/dyazincahya/iqro-json/blob/main/hijaiyah-letters.json)
 - [x] [Huruf Hijaiyah dengan Vokal](https://github.com/dyazincahya/iqro-json/blob/main/hijaiyah-letters-with-vowels.json)
-- [x] Iqro 1
+- [x] [Iqro 1](https://github.com/dyazincahya/iqro-json/tree/main/iqro/iqro-1)
     - [x] A
     - [x] Ba
     - [x] Ta
