@@ -1,5 +1,5 @@
 # Iqro json
-<img src="https://github.com/user-attachments/assets/9a0230b8-234a-4fca-96fa-7e48777f8595" width="200" />
+<img src="https://raw.githubusercontent.com/dyazincahya/iqro-json/refs/heads/main/icon.png" width="200" />
 
 Berisi data Iqro `(Buku untuk belajar mengaji Al-quran)` 1 sampai 6 dalam format json.
 
