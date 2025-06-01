@@ -7,6 +7,36 @@ Berisi data Iqro `(Buku untuk belajar mengaji Al-quran)` 1 sampai 6 dalam format
 > 
 > Link referensi: https://archive.org/details/humam-2000-buku-iqro-cara-cepat-belajar-membaca-al-quran-1-6
 
+## API
+
+Berikut adalah beberapa layanan yang dapat digunakan untuk mengakses data Iqro. Anda dapat menggunakan layanan CDN gratis seperti `Jsdelivr` dan `Statically`, atau layanan non-CDN seperti `Github Content`.
+
+<details>
+    <summary>Lihat Rincian Endpoint</summary>
+
+#### jsdelivr
+- [https://cdn.jsdelivr.net/gh/dyazincahya/iqro-json/hijaiyah-letters.json](https://cdn.jsdelivr.net/gh/dyazincahya/iqro-json/hijaiyah-letters.json)
+- [https://cdn.jsdelivr.net/gh/dyazincahya/iqro-json/hijaiyah-letters-with-vowels.json](https://cdn.jsdelivr.net/gh/dyazincahya/iqro-json/hijaiyah-letters-with-vowels.json)
+- [https://cdn.jsdelivr.net/gh/dyazincahya/iqro-json/iqro/iqro-1/1-1.json](https://cdn.jsdelivr.net/gh/dyazincahya/iqro-json/iqro/iqro-1/1-1.json)
+
+> Struktur URL untuk Iqro: `https://cdn.jsdelivr.net/gh/dyazincahya/iqro-json/iqro/iqro-{level}/{level}-{part}.json`
+
+#### statically
+- [https://cdn.statically.io/gh/dyazincahya/iqro-json/main/hijaiyah-letters.json](https://cdn.statically.io/gh/dyazincahya/iqro-json/main/hijaiyah-letters.json)
+- [https://cdn.statically.io/gh/dyazincahya/iqro-json/main/hijaiyah-letters-with-vowels.json](https://cdn.statically.io/gh/dyazincahya/iqro-json/main/hijaiyah-letters-with-vowels.json)
+- [https://cdn.statically.io/gh/dyazincahya/iqro-json/main/iqro/iqro-1/1-1.json](https://cdn.statically.io/gh/dyazincahya/iqro-json/main/iqro/iqro-1/1-1.json)
+
+> Struktur URL untuk Iqro: `https://cdn.statically.io/gh/dyazincahya/iqro-json/main/iqro/iqro-{level}/{level}-{part}.json`
+
+#### github content
+- [https://raw.githubusercontent.com/dyazincahya/iqro-json/refs/heads/main/hijaiyah-letters.json](https://raw.githubusercontent.com/dyazincahya/iqro-json/refs/heads/main/hijaiyah-letters.json)
+- [https://raw.githubusercontent.com/dyazincahya/iqro-json/refs/heads/main/hijaiyah-letters-with-vowels.json](https://raw.githubusercontent.com/dyazincahya/iqro-json/refs/heads/main/hijaiyah-letters-with-vowels.json)
+- [https://raw.githubusercontent.com/dyazincahya/iqro-json/refs/heads/main/iqro/iqro-1/1-1.json](https://raw.githubusercontent.com/dyazincahya/iqro-json/refs/heads/main/iqro/iqro-1/1-1.json)
+
+> Struktur URL untuk Iqro: `https://raw.githubusercontent.com/dyazincahya/iqro-json/refs/heads/main/iqro/iqro-{level}/{level}-{part}.json`
+
+</details>
+
 ## Latar belakang
 Proyek ini bertujuan untuk mendokumentasikan buku Iqro' ke dalam format lain selain teks biasa. Tidak ada tujuan untuk penjiplakan atau plagiarisme dalam proyek ini; niat saya murni untuk mengabadikan sebuah karya luar biasa dari Bapak `KH. As‘ad Humam`.
 
