@@ -1,0 +1,88 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": { "latin": "RA ZAI", "arab": "رَ وَ زَ" },
+  "instruction_id": "",
+  "instruction_en": "",
+  "instruction_ar": "القراءة المباشرة أ - ب وهكذا. لا حاجة للتهجئة. اقرأ بصوت قصير.",
+  "content": [
+    {
+      "order_id": 1,
+      "position": { "row": 1, "col": 1 },
+      "latin": "RA",
+      "arabic": "رَ"
+    },
+    {
+      "order_id": 2,
+      "position": { "row": 1, "col": 2 },
+      "latin": "ZAI",
+      "arabic": "زَ"
+    },
+    {
+      "order_id": 3,
+      "position": { "row": 2, "col": 1 },
+      "latin": "RA ZAI",
+      "arabic": "رَ زَ"
+    },
+    {
+      "order_id": 4,
+      "position": { "row": 2, "col": 2 },
+      "latin": "A ZAI DA RA",
+      "arabic": "أَ زَ دَ رَ"
+    },
+    {
+      "order_id": 5,
+      "position": { "row": 3, "col": 1 },
+      "latin": "ZAI DA KHO",
+      "arabic": "زَ دَ خَ"
+    },
+    {
+      "order_id": 6,
+      "position": { "row": 3, "col": 2 },
+      "latin": "ZAI DA TSA",
+      "arabic": "زَ دَ ثَ"
+    },
+    {
+      "order_id": 7,
+      "position": { "row": 4, "col": 1 },
+      "latin": "RA DA TSA",
+      "arabic": "رَ دَ ثَ"
+    },
+    {
+      "order_id": 8,
+      "position": { "row": 4, "col": 2 },
+      "latin": "ZAI DA TA",
+      "arabic": "زَ دَ تَ"
+    },
+    {
+      "order_id": 9,
+      "position": { "row": 5, "col": 1 },
+      "latin": "ZAI DA BA",
+      "arabic": "زَ دَ بَ"
+    },
+    {
+      "order_id": 10,
+      "position": { "row": 5, "col": 2 },
+      "latin": "ZAI DA A",
+      "arabic": "زَ دَ أَ"
+    },
+    {
+      "order_id": 11,
+      "position": { "row": 6, "col": 1 },
+      "latin": "ZAI RA TSA",
+      "arabic": "زَ رَ ثَ"
+    },
+    {
+      "order_id": 12,
+      "position": { "row": 6, "col": 2 },
+      "latin": "ZAI RA TA",
+      "arabic": "زَ رَ تَ"
+    },
+    {
+      "order_id": 13,
+      "position": { "row": 6, "col": 3 },
+      "latin": "A BA TA TSA JA HA KHO DA DZA RA ZAI",
+      "arabic": "أَ بَ تَ ثَ جَ حَ خَ دَ ذَ رَ زَ"
+    }
+  ]
+}

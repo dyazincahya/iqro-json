@@ -1,0 +1,18 @@
+DEBUG: Processing iqro-images/1-2.png
+DEBUG: Initializing reader...
+DEBUG: Reader initialized. Starting readtext...
+DEBUG: readtext finished.
+DEBUG: Found 13 items
+Item 1: 'BACAAN LANGSUNG A' at [np.int32(66), np.int32(22)], prob: 0.5328
+Item 2: 'BA.IA   Dst.' at [np.int32(257), np.int32(25)], prob: 0.2679
+Item 3: 'DENGAN SUARA PENDEK PENDEK' at [np.int32(68), np.int32(43)], prob: 0.2847
+Item 4: 'ا ب ت' at [np.int32(15), np.int32(205)], prob: 0.3334
+Item 5: 'ا ب' at [np.int32(223), np.int32(207)], prob: 0.4962
+Item 6: 'ا ت ب' at [np.int32(13), np.int32(263)], prob: 0.3836
+Item 7: 'ت  1' at [np.int32(235), np.int32(269)], prob: 0.2314
+Item 8: 'ب آ ت' at [np.int32(14), np.int32(328)], prob: 0.2908
+Item 9: 'آ  ت' at [np.int32(234), np.int32(336)], prob: 0.1966
+Item 10: 'ت ت 1' at [np.int32(20), np.int32(394)], prob: 0.3040
+Item 11: 'ا ت' at [np.int32(290), np.int32(396)], prob: 0.2748
+Item 12: 'اب ت' at [np.int32(43), np.int32(455)], prob: 0.4761
+Item 13: 'ب ت' at [np.int32(233), np.int32(455)], prob: 0.8690

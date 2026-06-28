@@ -1,0 +1,46 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": { "latin": "A BA", "arab": "اَ بَ" },
+  "instruction_id": "Bacaan langsung A - Ba dst. Tidak perlu diurai/dieja. Bacalah dengan suara pendek.",
+  "instruction_en": "Direct reading A - Ba, etc. No need to spell out. Read with short sounds.",
+  "instruction_ar": "القراءة المباشرة أ - ب وهكذا. لا حاجة للتهجئة. اقرأ بصوت قصير.",
+  "content": [
+    {
+      "order_id": 1,
+      "position": { "row": 1, "col": 1 },
+      "latin": "SA SYA SHO DHO THO A ZHO  'A GHO",
+      "arabic": "سَ شَ صَ ضَ طَاَ ظَعَ غَ"
+    },
+    {
+      "order_id": 2,
+      "position": { "row": 2, "col": 1 },
+      "latin": "FA QO",
+      "arabic": "فَ قَ"
+    },
+    {
+      "order_id": 3,
+      "position": { "row": 2, "col": 2 },
+      "latin": "KA LA MA NA WA HA A YA",
+      "arabic": "كَلَمَ نَ وَهَءَ يَ"
+    },
+    {
+      "order_id": 4,
+      "position": { "row": 3, "col": 1 },
+      "latin": "YA A HA WA WA NA MA LA A KA QO FA",
+      "arabic": "يَءَ هَ وَوَنَمَ لَاَكَ قَ فَ"
+    },
+    {
+      "order_id": 5,
+      "position": { "row": 4, "col": 1 },
+      "latin": "TA GHO  'A ZHO A THO A DHO SHO SYA SA",
+      "arabic": "تَغَعَ ظَاَطَاَ ضَ صَ شَ سَ"
+    },
+    {
+      "order_id": 6,
+      "position": { "row": 5, "col": 1 },
+      "latin": "ZA RO DZA DA KHO HA JA TSA TA BA A",
+      "arabic": "زَ رَذَ دَخَحَ جَ ثَ تَ بَاَ"
+    }
+  ]
+}
