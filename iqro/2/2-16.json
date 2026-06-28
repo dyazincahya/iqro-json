@@ -1,0 +1,76 @@
+{
+  "level_id": 2,
+  "level_title": "IQRO' 2",
+  "topic": { "latin": "Letters with Sukun and Extended Vowels (Mad)", "arab": "حُرُوفُ السُّكُونِ وَالْمَدِّ" },
+  "instruction_id": "Berlatih menghubungkan huruf dengan sukun dan mengenali vokal yang diperpanjang.",
+  "instruction_en": "Practice connecting letters with sukun and recognizing extended vowels.",
+  "instruction_ar": "تَدَرَّبْ عَلَى وَصْلِ الْحُرُوفِ بِالسُّكُونِ وَتَعَرُّفِ الْمَدِّ.",
+  "content": [
+    {
+      "order_id": 1,
+      "position": { "row": 1, "col": 1 },
+      "latin": "GHASQ QATL WA'D",
+      "arabic": "غاسق قاتل واعد"
+    },
+    {
+      "order_id": 2,
+      "position": { "row": 2, "col": 1 },
+      "latin": "LAMN'",
+      "arabic": "لامنعً"
+    },
+    {
+      "order_id": 3,
+      "position": { "row": 2, "col": 2 },
+      "latin": "LAKHK",
+      "arabic": "لاخك"
+    },
+    {
+      "order_id": 4,
+      "position": { "row": 2, "col": 8 },
+      "latin": "LATSR",
+      "arabic": "لاثر"
+    },
+    {
+      "order_id": 5,
+      "position": { "row": 2, "col": 9 },
+      "latin": "FHMN",
+      "arabic": "فهمن"
+    },
+    {
+      "order_id": 6,
+      "position": { "row": 2, "col": 10 },
+      "latin": "NBDZ HLL BLGH ZAHQ",
+      "arabic": "نبذ حلل بلغ زاهق"
+    },
+    {
+      "order_id": 7,
+      "position": { "row": 3, "col": 1 },
+      "latin": "AFLA GHMD",
+      "arabic": "افلا غمدً"
+    },
+    {
+      "order_id": 8,
+      "position": { "row": 3, "col": 2 },
+      "latin": "MLKA FLHA",
+      "arabic": "مًلكا فلها"
+    },
+    {
+      "order_id": 9,
+      "position": { "row": 4, "col": 1 },
+      "latin": "TSYABHA",
+      "arabic": "تشابًها"
+    },
+    {
+      "order_id": 10,
+      "position": { "row": 4, "col": 2 },
+      "latin": "MA'RFA",
+      "arabic": "ماعرفا"
+    },
+    {
+      "order_id": 11,
+      "position": { "row": 4, "col": 3 },
+      "latin": "WSHLWAT",
+      "arabic": "وصلوات"
+    }
+  ]
+}

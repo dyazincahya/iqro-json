@@ -1,0 +1,94 @@
+{
+  "level_id": 2,
+  "level_title": "IQRO' 2",
+  "topic": { "latin": "Letters with Sukun and Extended Vowels (Mad)", "arab": "حُرُوفُ السُّكُونِ وَالْمَدِّ" },
+  "instruction_id": "Berlatih menghubungkan huruf dengan sukun dan mengenali vokal yang diperpanjang.",
+  "instruction_en": "Practice connecting letters with sukun and recognizing extended vowels.",
+  "instruction_ar": "تَدَرَّبْ عَلَى وَصْلِ الْحُرُوفِ بِالسُّكُونِ وَتَعَرُّفِ الْمَدِّ.",
+  "content": [
+    {
+      "order_id": 1,
+      "position": { "row": 1, "col": 1 },
+      "latin": "BYN",
+      "arabic": "بين"
+    },
+    {
+      "order_id": 2,
+      "position": { "row": 1, "col": 2 },
+      "latin": "NBY YDN",
+      "arabic": "نبي يدن"
+    },
+    {
+      "order_id": 3,
+      "position": { "row": 1, "col": 3 },
+      "latin": "DNY",
+      "arabic": "دًني"
+    },
+    {
+      "order_id": 4,
+      "position": { "row": 2, "col": 1 },
+      "latin": "DZHB",
+      "arabic": "ذهب"
+    },
+    {
+      "order_id": 5,
+      "position": { "row": 2, "col": 2 },
+      "latin": "NZL NDZR YDY",
+      "arabic": "نزل نذر يدًي"
+    },
+    {
+      "order_id": 6,
+      "position": { "row": 3, "col": 1 },
+      "latin": "A ZGH",
+      "arabic": "ا زغ"
+    },
+    {
+      "order_id": 7,
+      "position": { "row": 3, "col": 2 },
+      "latin": "BTR ZYN ZNY",
+      "arabic": "بتر زين زني"
+    },
+    {
+      "order_id": 8,
+      "position": { "row": 4, "col": 1 },
+      "latin": "ATSTS",
+      "arabic": "اثث"
+    },
+    {
+      "order_id": 9,
+      "position": { "row": 4, "col": 2 },
+      "latin": "TSNA YAB AYT",
+      "arabic": "ثًناً يًابً ايت"
+    },
+    {
+      "order_id": 10,
+      "position": { "row": 5, "col": 1 },
+      "latin": "RZQ NZHR ATY WND",
+      "arabic": "رزق نظر اتي وند"
+    },
+    {
+      "order_id": 11,
+      "position": { "row": 6, "col": 1 },
+      "latin": "YYY",
+      "arabic": "ييي"
+    },
+    {
+      "order_id": 12,
+      "position": { "row": 6, "col": 2 },
+      "latin": "N M",
+      "arabic": "ن م"
+    },
+    {
+      "order_id": 13,
+      "position": { "row": 6, "col": 3 },
+      "latin": "SY",
+      "arabic": "سي"
+    },
+    {
+      "order_id": 14,
+      "position": { "row": 6, "col": 4 },
+      "latin": "YN",
+      "arabic": "ين"
+    }
+  ]
+}

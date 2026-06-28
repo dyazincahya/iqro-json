@@ -1,0 +1,70 @@
+{
+  "level_id": 2,
+  "level_title": "IQRO' 2",
+  "topic": { "latin": "Letters with Sukun and Extended Vowels (Mad)", "arab": "حُرُوفُ السُّكُونِ وَالْمَدِّ" },
+  "instruction_id": "Berlatih menghubungkan huruf dengan sukun dan mengenali vokal yang diperpanjang.",
+  "instruction_en": "Practice connecting letters with sukun and recognizing extended vowels.",
+  "instruction_ar": "تَدَرَّبْ عَلَى وَصْلِ الْحُرُوفِ بِالسُّكُونِ وَتَعَرُّفِ الْمَدِّ.",
+  "content": [
+    {
+      "order_id": 1,
+      "position": { "row": 1, "col": 1 },
+      "latin": "SYA",
+      "arabic": "شاً"
+    },
+    {
+      "order_id": 2,
+      "position": { "row": 1, "col": 2 },
+      "latin": "AH",
+      "arabic": "اه"
+    },
+    {
+      "order_id": 3,
+      "position": { "row": 1, "col": 3 },
+      "latin": "A' HAH",
+      "arabic": "اع حاه"
+    },
+    {
+      "order_id": 4,
+      "position": { "row": 2, "col": 1 },
+      "latin": "QAKH KHAGH KAQ",
+      "arabic": "قاخ خاغ كاق"
+    },
+    {
+      "order_id": 5,
+      "position": { "row": 3, "col": 1 },
+      "latin": "YAZ",
+      "arabic": "ياز"
+    },
+    {
+      "order_id": 6,
+      "position": { "row": 3, "col": 2 },
+      "latin": "ZAJ ZADZ",
+      "arabic": "زاج زاذ"
+    },
+    {
+      "order_id": 7,
+      "position": { "row": 3, "col": 3 },
+      "latin": "DZAZH",
+      "arabic": "ذاظ"
+    },
+    {
+      "order_id": 8,
+      "position": { "row": 4, "col": 1 },
+      "latin": "ZHADH DHAZH ZHDH ZHADH",
+      "arabic": "ظاض ضاظ ظض ظاض"
+    },
+    {
+      "order_id": 9,
+      "position": { "row": 5, "col": 1 },
+      "latin": "A 'A HA HAKHA QA GHA BGHA",
+      "arabic": "ا عًا هًا حاخًا قا غًا بغى"
+    },
+    {
+      "order_id": 10,
+      "position": { "row": 6, "col": 2 },
+      "latin": "BHS SM SJA MK SHABARA",
+      "arabic": "بهس سمً سجء مًك صابًارًا"
+    }
+  ]
+}

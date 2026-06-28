@@ -1,0 +1,112 @@
+{
+  "level_id": 2,
+  "level_title": "IQRO' 2",
+  "topic": { "latin": "Letters with Sukun and Extended Vowels (Mad)", "arab": "حُرُوفُ السُّكُونِ وَالْمَدِّ" },
+  "instruction_id": "Berlatih menghubungkan huruf dengan sukun dan mengenali vokal yang diperpanjang.",
+  "instruction_en": "Practice connecting letters with sukun and recognizing extended vowels.",
+  "instruction_ar": "تَدَرَّبْ عَلَى وَصْلِ الْحُرُوفِ بِالسُّكُونِ وَتَعَرُّفِ الْمَدِّ.",
+  "content": [
+    {
+      "order_id": 1,
+      "position": { "row": 1, "col": 2 },
+      "latin": "WJD",
+      "arabic": "وجد"
+    },
+    {
+      "order_id": 2,
+      "position": { "row": 1, "col": 3 },
+      "latin": "SYGHL",
+      "arabic": "شغل"
+    },
+    {
+      "order_id": 3,
+      "position": { "row": 1, "col": 4 },
+      "latin": "GHSQ FHK",
+      "arabic": "غسق فحك"
+    },
+    {
+      "order_id": 4,
+      "position": { "row": 2, "col": 1 },
+      "latin": "THLB",
+      "arabic": "طلب"
+    },
+    {
+      "order_id": 5,
+      "position": { "row": 2, "col": 2 },
+      "latin": "AKHDZ",
+      "arabic": "أخذ"
+    },
+    {
+      "order_id": 6,
+      "position": { "row": 2, "col": 3 },
+      "latin": "",
+      "arabic": "b"
+    },
+    {
+      "order_id": 7,
+      "position": { "row": 2, "col": 4 },
+      "latin": "",
+      "arabic": "b b"
+    },
+    {
+      "order_id": 8,
+      "position": { "row": 3, "col": 1 },
+      "latin": "SH'D",
+      "arabic": "صعد"
+    },
+    {
+      "order_id": 9,
+      "position": { "row": 3, "col": 2 },
+      "latin": "'BBS",
+      "arabic": "عببس"
+    },
+    {
+      "order_id": 10,
+      "position": { "row": 3, "col": 3 },
+      "latin": "TH'N",
+      "arabic": "طعن"
+    },
+    {
+      "order_id": 11,
+      "position": { "row": 3, "col": 4 },
+      "latin": "BTQ FTH",
+      "arabic": "بتق فتح"
+    },
+    {
+      "order_id": 12,
+      "position": { "row": 3, "col": 5 },
+      "latin": "SYBR",
+      "arabic": "شبر"
+    },
+    {
+      "order_id": 13,
+      "position": { "row": 3, "col": 6 },
+      "latin": "DZZH'",
+      "arabic": "ذظعً"
+    },
+    {
+      "order_id": 14,
+      "position": { "row": 3, "col": 7 },
+      "latin": "GHDHB",
+      "arabic": "غضب"
+    },
+    {
+      "order_id": 15,
+      "position": { "row": 4, "col": 1 },
+      "latin": "GHZR",
+      "arabic": "غزر"
+    },
+    {
+      "order_id": 16,
+      "position": { "row": 4, "col": 2 },
+      "latin": "HSN",
+      "arabic": "حسن"
+    },
+    {
+      "order_id": 17,
+      "position": { "row": 4, "col": 3 },
+      "latin": "NSYTH",
+      "arabic": "نشطً"
+    }
+  ]
+}

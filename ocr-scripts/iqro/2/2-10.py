@@ -1,19 +1,4 @@
-import os
-import glob
-import json
-import re
-import argparse
-
-def generate(level_id):
-    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    images_dir = os.path.join(base_dir, "iqro-images", str(level_id))
-    old_json_dir = os.path.join(base_dir, ".old", "iqro", f"iqro-{level_id}")
-    scripts_dir = os.path.join(base_dir, "ocr-scripts", "iqro", str(level_id))
-    
-    os.makedirs(scripts_dir, exist_ok=True)
-    
-    # Template Python script
-    template = """import easyocr
+import easyocr
 import json
 import os
 import re
@@ -58,18 +43,18 @@ def clean_text(text):
         return ""
     cleaned = []
     for c in text:
-        if c.isspace() or c == '=' or ('\\u0621' <= c <= '\\u064A') or ('\\u064B' <= c <= '\\u0652') or c == '\\u0671' or c in '\\u0622\\u0623\\u0625' or c == 'b':
+        if c.isspace() or c == '=' or ('\u0621' <= c <= '\u064A') or ('\u064B' <= c <= '\u0652') or c == '\u0671' or c in '\u0622\u0623\u0625' or c == 'b':
             cleaned.append(c)
     text = "".join(cleaned).strip()
-    text = re.sub(r'\\s+', ' ', text)
+    text = re.sub(r'\s+', ' ', text)
     return text
 
 def add_fatha_if_missing(text):
     # Only for Level 1
-    if __LEVEL_ID__ != 1:
+    if 2 != 1:
         return text
     hijaiyah_chars = "ابتثجحخدذرزسشصضطظعغفقكلمنهويأآإء"
-    fatha = '\\u064E'
+    fatha = '\u064E'
     result = ""
     for i, char in enumerate(text):
         result += char
@@ -94,10 +79,10 @@ def get_latin(arabic_text):
         while i < n:
             char = p[i]
             # Check two character combination (letter + vowel)
-            if i + 1 < n and p[i+1] in ['\\u064E', '\\u0650', '\\u064F', '\\u0652']: # fathah, kasrah, dhammah, sukun
+            if i + 1 < n and p[i+1] in ['\u064E', '\u0650', '\u064F', '\u0652']: # fathah, kasrah, dhammah, sukun
                 combo = char + p[i+1]
                 vowel = p[i+1]
-                if vowel == '\\u0652': # Sukun (silent/consonant)
+                if vowel == '\u0652': # Sukun (silent/consonant)
                     if char in consonants:
                         word_latin.append(consonants[char])
                 elif combo in vowels_map:
@@ -118,27 +103,27 @@ def get_latin(arabic_text):
 def custom_format_json(data):
     json_str = json.dumps(data, indent=2, ensure_ascii=False)
     json_str = re.sub(
-        r'"topic":\\s*\\{\\s*"latin":\\s*"(.*?)",\\s*"arab":\\s*"(.*?)"\\s*\\}',
-        r'"topic": { "latin": "\\1", "arab": "\\2" }',
+        r'"topic":\s*\{\s*"latin":\s*"(.*?)",\s*"arab":\s*"(.*?)"\s*\}',
+        r'"topic": { "latin": "\1", "arab": "\2" }',
         json_str
     )
     json_str = re.sub(
-        r'"position":\\s*\\{\\s*"row":\\s*(\\d+),\\s*"col":\\s*(\\d+)\\s*\\}',
-        r'"position": { "row": \\1, "col": \\2 }',
+        r'"position":\s*\{\s*"row":\s*(\d+),\s*"col":\s*(\d+)\s*\}',
+        r'"position": { "row": \1, "col": \2 }',
         json_str
     )
     return json_str
 
 def run_ocr():
     base_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
-    image_path = os.path.join(base_dir, "iqro-images", "__LEVEL_ID_STR__", "__PAGE_NAME__.png")
-    output_dir = os.path.join(base_dir, "iqro", "__LEVEL_ID_STR__")
-    output_path = os.path.join(output_dir, "__PAGE_NAME__.json")
+    image_path = os.path.join(base_dir, "iqro-images", "2", "2-10.png")
+    output_dir = os.path.join(base_dir, "iqro", "2")
+    output_path = os.path.join(output_dir, "2-10.json")
     
     print(f"Reading image: {image_path}")
     reader = easyocr.Reader(['ar', 'en'], gpu=False)
     
-    temp_image = "temp___PAGE_NAME__.png"
+    temp_image = "temp_2-10.png"
     with Image.open(image_path) as img:
         new_size = (img.width * 2, img.height * 2)
         img = img.resize(new_size, Image.Resampling.LANCZOS)
@@ -169,17 +154,17 @@ def run_ocr():
         rows.append(current_row_items)
 
     iqro_data = {
-        "level_id": __LEVEL_ID__,
-        "level_title": "__LEVEL_TITLE__",
-        "topic": __TOPIC__,
-        "instruction_id": "__INSTRUCTION_ID__",
-        "instruction_en": "__INSTRUCTION_EN__",
-        "instruction_ar": "__INSTRUCTION_AR__",
+        "level_id": 2,
+        "level_title": "IQRO' 2",
+        "topic": {"latin": "Letters with Sukun and Extended Vowels (Mad)", "arab": "حُرُوفُ السُّكُونِ وَالْمَدِّ"},
+        "instruction_id": "Berlatih menghubungkan huruf dengan sukun dan mengenali vokal yang diperpanjang.",
+        "instruction_en": "Practice connecting letters with sukun and recognizing extended vowels.",
+        "instruction_ar": "تَدَرَّبْ عَلَى وَصْلِ الْحُرُوفِ بِالسُّكُونِ وَتَعَرُّفِ الْمَدِّ.",
         "content": []
     }
 
     # Reference data for spelling alignment & layout correction
-    reference_content = __REFERENCE_CONTENT__
+    reference_content = []
 
     # If reference exists, use standard layout sequence aligned with OCR row counts
     if reference_content:
@@ -256,102 +241,3 @@ def run_ocr():
 
 if __name__ == "__main__":
     run_ocr()
-"""
-
-    image_files = glob.glob(os.path.join(images_dir, f"{level_id}-*.png"))
-    image_files = sorted(image_files, key=lambda x: int(os.path.splitext(os.path.basename(x))[0].split("-")[1]))
-    
-    script_paths = []
-    
-    for img_path in image_files:
-        basename = os.path.splitext(os.path.basename(img_path))[0] # "2-1", "2-2", etc.
-        ref_json_path = os.path.join(old_json_dir, f"{basename}.json")
-        
-        # Default Metadata
-        level_title = f"IQRO' {level_id}"
-        topic = {
-            "latin": "Letters with Sukun and Extended Vowels (Mad)",
-            "arab": "حُرُوفُ السُّكُونِ وَالْمَدِّ"
-        }
-        instruction_id = "Berlatih menghubungkan huruf dengan sukun dan mengenali vokal yang diperpanjang."
-        instruction_en = "Practice connecting letters with sukun and recognizing extended vowels."
-        instruction_ar = "تَدَرَّبْ عَلَى وَصْلِ الْحُرُوفِ بِالسُّكُونِ وَتَعَرُّفِ الْمَدِّ."
-        reference_content = []
-        
-        # Load from reference json if exists
-        if os.path.exists(ref_json_path):
-            try:
-                with open(ref_json_path, "r", encoding="utf-8") as f:
-                    ref_data = json.load(f)
-                level_title = ref_data.get("level_title", level_title)
-                topic = ref_data.get("topic", topic)
-                instruction_id = ref_data.get("instruction_id", ref_data.get("instruction", instruction_id))
-                instruction_en = ref_data.get("instruction_en", instruction_en)
-                instruction_ar = ref_data.get("instruction_ar", instruction_ar)
-                reference_content = ref_data.get("content", [])
-            except Exception as e:
-                print(f"Error reading {ref_json_path}: {e}")
-                
-        # Generate script code
-        script_content = template
-        script_content = script_content.replace("__PAGE_NAME__", basename)
-        script_content = script_content.replace("__LEVEL_ID_STR__", str(level_id))
-        script_content = script_content.replace("__LEVEL_ID__", str(level_id))
-        script_content = script_content.replace("__LEVEL_TITLE__", level_title)
-        script_content = script_content.replace("__TOPIC__", json.dumps(topic, ensure_ascii=False))
-        script_content = script_content.replace("__INSTRUCTION_ID__", instruction_id.replace('"', '\\"'))
-        script_content = script_content.replace("__INSTRUCTION_EN__", instruction_en.replace('"', '\\"'))
-        script_content = script_content.replace("__INSTRUCTION_AR__", instruction_ar.replace('"', '\\"'))
-        script_content = script_content.replace("__REFERENCE_CONTENT__", json.dumps(reference_content, ensure_ascii=False))
-        
-        script_path = os.path.join(scripts_dir, f"{basename}.py")
-        with open(script_path, "w", encoding="utf-8") as f:
-            f.write(script_content)
-        print(f"Generated OCR script: {script_path}")
-        script_paths.append(f"{basename}.py")
-        
-    # Generate main.py inside level subdirectory
-    main_runner_code = """import os
-import subprocess
-import sys
-import re
-
-def main():
-    scripts_dir = os.path.dirname(os.path.abspath(__file__))
-    scripts = [f for f in os.listdir(scripts_dir) if f.endswith(".py") and f != "main.py"]
-    # Sort scripts numerically
-    scripts = sorted(scripts, key=lambda x: [int(c) if c.isdigit() else c for c in re.split(r'(\\d+)', x)])
-    
-    print("="*60)
-    print(f"Running {len(scripts)} Iqro OCR scripts...")
-    print("="*60)
-    
-    success_count = 0
-    for script in scripts:
-        script_path = os.path.join(scripts_dir, script)
-        print(f"[{script}] Executing...")
-        result = subprocess.run([sys.executable, script_path], capture_output=True, text=True)
-        if result.returncode == 0:
-            print(f"[{script}] Success!")
-            success_count += 1
-        else:
-            print(f"[{script}] FAILED with exit code {result.returncode}")
-            print(result.stderr)
-            
-    print("="*60)
-    print(f"Completed! {success_count}/{len(scripts)} scripts ran successfully.")
-    print("="*60)
-
-if __name__ == "__main__":
-    main()
-"""
-    main_path = os.path.join(scripts_dir, "main.py")
-    with open(main_path, "w", encoding="utf-8") as f:
-        f.write(main_runner_code)
-    print(f"Generated Main script: {main_path}")
-
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Generate Iqro OCR Scripts')
-    parser.add_argument('--level', type=int, default=1, help='Level ID (1 or 2)')
-    args = parser.parse_args()
-    generate(args.level)

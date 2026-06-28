@@ -1,0 +1,94 @@
+{
+  "level_id": 2,
+  "level_title": "IQRO' 2",
+  "topic": { "latin": "Letters with Sukun and Extended Vowels (Mad)", "arab": "حُرُوفُ السُّكُونِ وَالْمَدِّ" },
+  "instruction_id": "Berlatih menghubungkan huruf dengan sukun dan mengenali vokal yang diperpanjang.",
+  "instruction_en": "Practice connecting letters with sukun and recognizing extended vowels.",
+  "instruction_ar": "تَدَرَّبْ عَلَى وَصْلِ الْحُرُوفِ بِالسُّكُونِ وَتَعَرُّفِ الْمَدِّ.",
+  "content": [
+    {
+      "order_id": 1,
+      "position": { "row": 1, "col": 1 },
+      "latin": "FHDA",
+      "arabic": "فهدى"
+    },
+    {
+      "order_id": 2,
+      "position": { "row": 1, "col": 2 },
+      "latin": "W'SHA L'SLA",
+      "arabic": "وعصى لعسلى"
+    },
+    {
+      "order_id": 3,
+      "position": { "row": 1, "col": 3 },
+      "latin": "FQDHA",
+      "arabic": "فقضى"
+    },
+    {
+      "order_id": 4,
+      "position": { "row": 2, "col": 1 },
+      "latin": "M'ASYA",
+      "arabic": "معاشا"
+    },
+    {
+      "order_id": 5,
+      "position": { "row": 2, "col": 2 },
+      "latin": "KHTHAYA TSLTSA",
+      "arabic": "خطايًا ثلثا"
+    },
+    {
+      "order_id": 6,
+      "position": { "row": 2, "col": 3 },
+      "latin": "DHHA",
+      "arabic": "دحها"
+    },
+    {
+      "order_id": 7,
+      "position": { "row": 3, "col": 1 },
+      "latin": "KHALTHA",
+      "arabic": "خالطا"
+    },
+    {
+      "order_id": 8,
+      "position": { "row": 3, "col": 2 },
+      "latin": "SHWAB DHALL SRAB",
+      "arabic": "صواب ضالل سرابً"
+    },
+    {
+      "order_id": 9,
+      "position": { "row": 4, "col": 1 },
+      "latin": "AKHDZ W'AZH GHMAM SYHAD",
+      "arabic": "اخذ وعاظ غمام شهاد"
+    },
+    {
+      "order_id": 10,
+      "position": { "row": 5, "col": 1 },
+      "latin": "JHALA T'ALA",
+      "arabic": "جهالا تعالى"
+    },
+    {
+      "order_id": 11,
+      "position": { "row": 5, "col": 2 },
+      "latin": "'JABA NSHARA",
+      "arabic": "عجابًا نصارى"
+    },
+    {
+      "order_id": 12,
+      "position": { "row": 6, "col": 1 },
+      "latin": "TSMRAT",
+      "arabic": "ثمرات"
+    },
+    {
+      "order_id": 13,
+      "position": { "row": 6, "col": 2 },
+      "latin": "MA'RFA",
+      "arabic": "ماعرفًا"
+    },
+    {
+      "order_id": 14,
+      "position": { "row": 6, "col": 3 },
+      "latin": "WBSHLHA",
+      "arabic": "وبصلها"
+    }
+  ]
+}

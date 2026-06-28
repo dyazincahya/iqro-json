@@ -1,0 +1,76 @@
+{
+  "level_id": 2,
+  "level_title": "IQRO' 2",
+  "topic": { "latin": "Letters with Sukun and Extended Vowels (Mad)", "arab": "حُرُوفُ السُّكُونِ وَالْمَدِّ" },
+  "instruction_id": "Berlatih menghubungkan huruf dengan sukun dan mengenali vokal yang diperpanjang.",
+  "instruction_en": "Practice connecting letters with sukun and recognizing extended vowels.",
+  "instruction_ar": "تَدَرَّبْ عَلَى وَصْلِ الْحُرُوفِ بِالسُّكُونِ وَتَعَرُّفِ الْمَدِّ.",
+  "content": [
+    {
+      "order_id": 1,
+      "position": { "row": 1, "col": 1 },
+      "latin": "J L L",
+      "arabic": "ج ل ل"
+    },
+    {
+      "order_id": 2,
+      "position": { "row": 1, "col": 2 },
+      "latin": "JLSL LAJSL",
+      "arabic": "جلسل لاجسل"
+    },
+    {
+      "order_id": 3,
+      "position": { "row": 2, "col": 1 },
+      "latin": "LSAL",
+      "arabic": "لسال"
+    },
+    {
+      "order_id": 4,
+      "position": { "row": 2, "col": 2 },
+      "latin": "LDHSLL",
+      "arabic": "لضسلل"
+    },
+    {
+      "order_id": 5,
+      "position": { "row": 2, "col": 3 },
+      "latin": "LNSBA",
+      "arabic": "لنسبا"
+    },
+    {
+      "order_id": 6,
+      "position": { "row": 3, "col": 1 },
+      "latin": "WMLA LAKL",
+      "arabic": "وملا لاكل"
+    },
+    {
+      "order_id": 7,
+      "position": { "row": 3, "col": 2 },
+      "latin": "FBSLGH",
+      "arabic": "فبسلغ"
+    },
+    {
+      "order_id": 8,
+      "position": { "row": 4, "col": 1 },
+      "latin": "LSK WKHTHA WKHLA",
+      "arabic": "لسك وخطأً وخلا"
+    },
+    {
+      "order_id": 9,
+      "position": { "row": 5, "col": 1 },
+      "latin": "SALK",
+      "arabic": "سالك"
+    },
+    {
+      "order_id": 10,
+      "position": { "row": 5, "col": 2 },
+      "latin": "LLAM",
+      "arabic": "للام"
+    },
+    {
+      "order_id": 11,
+      "position": { "row": 5, "col": 3 },
+      "latin": "WHLSL",
+      "arabic": "وحلسل"
+    }
+  ]
+}

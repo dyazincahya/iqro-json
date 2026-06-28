@@ -1,0 +1,88 @@
+{
+  "level_id": 2,
+  "level_title": "IQRO' 2",
+  "topic": { "latin": "Letters with Sukun and Extended Vowels (Mad)", "arab": "حُرُوفُ السُّكُونِ وَالْمَدِّ" },
+  "instruction_id": "Berlatih menghubungkan huruf dengan sukun dan mengenali vokal yang diperpanjang.",
+  "instruction_en": "Practice connecting letters with sukun and recognizing extended vowels.",
+  "instruction_ar": "تَدَرَّبْ عَلَى وَصْلِ الْحُرُوفِ بِالسُّكُونِ وَتَعَرُّفِ الْمَدِّ.",
+  "content": [
+    {
+      "order_id": 1,
+      "position": { "row": 1, "col": 1 },
+      "latin": "AQAMHA",
+      "arabic": "اقامها"
+    },
+    {
+      "order_id": 2,
+      "position": { "row": 1, "col": 2 },
+      "latin": "TSAZ'A",
+      "arabic": "تسازعًا"
+    },
+    {
+      "order_id": 3,
+      "position": { "row": 1, "col": 3 },
+      "latin": "TH'AMHA",
+      "arabic": "طعامها"
+    },
+    {
+      "order_id": 4,
+      "position": { "row": 2, "col": 1 },
+      "latin": "FHLK",
+      "arabic": "فهلك"
+    },
+    {
+      "order_id": 5,
+      "position": { "row": 2, "col": 2 },
+      "latin": "LB'TS WTMSY",
+      "arabic": "لبعث وتمش"
+    },
+    {
+      "order_id": 6,
+      "position": { "row": 3, "col": 1 },
+      "latin": "FQTLA",
+      "arabic": "فقتلا"
+    },
+    {
+      "order_id": 7,
+      "position": { "row": 3, "col": 2 },
+      "latin": "MLHTA NSHLHKA",
+      "arabic": "ملحتا نصلحكا"
+    },
+    {
+      "order_id": 8,
+      "position": { "row": 4, "col": 1 },
+      "latin": "LAKHK",
+      "arabic": "لاخك"
+    },
+    {
+      "order_id": 9,
+      "position": { "row": 4, "col": 2 },
+      "latin": "ZHHSRHA",
+      "arabic": "ظهسرها"
+    },
+    {
+      "order_id": 10,
+      "position": { "row": 4, "col": 3 },
+      "latin": "FSHWABA",
+      "arabic": "فصوابا"
+    },
+    {
+      "order_id": 11,
+      "position": { "row": 5, "col": 1 },
+      "latin": "LHRAM LQMAR FTMYAT",
+      "arabic": "لحرام لقمار فتميات"
+    },
+    {
+      "order_id": 12,
+      "position": { "row": 6, "col": 1 },
+      "latin": "MASKN",
+      "arabic": "ماسكن"
+    },
+    {
+      "order_id": 13,
+      "position": { "row": 6, "col": 2 },
+      "latin": "LAGHDHB YAS'D",
+      "arabic": "لاغضب يًاسعدً"
+    }
+  ]
+}

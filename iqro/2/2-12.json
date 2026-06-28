@@ -1,0 +1,82 @@
+{
+  "level_id": 2,
+  "level_title": "IQRO' 2",
+  "topic": { "latin": "Letters with Sukun and Extended Vowels (Mad)", "arab": "حُرُوفُ السُّكُونِ وَالْمَدِّ" },
+  "instruction_id": "Berlatih menghubungkan huruf dengan sukun dan mengenali vokal yang diperpanjang.",
+  "instruction_en": "Practice connecting letters with sukun and recognizing extended vowels.",
+  "instruction_ar": "تَدَرَّبْ عَلَى وَصْلِ الْحُرُوفِ بِالسُّكُونِ وَتَعَرُّفِ الْمَدِّ.",
+  "content": [
+    {
+      "order_id": 1,
+      "position": { "row": 1, "col": 1 },
+      "latin": "HMZ NFH GHNM LASD",
+      "arabic": "همز نفح غنمً لاسد"
+    },
+    {
+      "order_id": 2,
+      "position": { "row": 2, "col": 1 },
+      "latin": "YMSMN",
+      "arabic": "يمسمن"
+    },
+    {
+      "order_id": 3,
+      "position": { "row": 2, "col": 2 },
+      "latin": "BLGH ZHMA",
+      "arabic": "بلغ ظمًا"
+    },
+    {
+      "order_id": 4,
+      "position": { "row": 2, "col": 3 },
+      "latin": "LAMR",
+      "arabic": "لامر"
+    },
+    {
+      "order_id": 5,
+      "position": { "row": 3, "col": 1 },
+      "latin": "KMD",
+      "arabic": "كمد"
+    },
+    {
+      "order_id": 6,
+      "position": { "row": 3, "col": 2 },
+      "latin": "THM' DHWY",
+      "arabic": "طمعً ضوي"
+    },
+    {
+      "order_id": 7,
+      "position": { "row": 3, "col": 3 },
+      "latin": "LAQM",
+      "arabic": "لاقم"
+    },
+    {
+      "order_id": 8,
+      "position": { "row": 4, "col": 1 },
+      "latin": "ZML",
+      "arabic": "زمل"
+    },
+    {
+      "order_id": 9,
+      "position": { "row": 4, "col": 2 },
+      "latin": "MLK LADZN",
+      "arabic": "ملك لاذن"
+    },
+    {
+      "order_id": 10,
+      "position": { "row": 5, "col": 1 },
+      "latin": "HJM KDZB",
+      "arabic": "هجًم كذبً"
+    },
+    {
+      "order_id": 11,
+      "position": { "row": 5, "col": 2 },
+      "latin": "HSYM LALL",
+      "arabic": "هشم لالل"
+    },
+    {
+      "order_id": 12,
+      "position": { "row": 6, "col": 1 },
+      "latin": "DHHM BSYM QLM LAKL",
+      "arabic": "ضحم بشم قلم لاكل"
+    }
+  ]
+}

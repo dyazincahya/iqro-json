@@ -1,0 +1,100 @@
+{
+  "level_id": 2,
+  "level_title": "IQRO' 2",
+  "topic": { "latin": "Letters with Sukun and Extended Vowels (Mad)", "arab": "حُرُوفُ السُّكُونِ وَالْمَدِّ" },
+  "instruction_id": "Berlatih menghubungkan huruf dengan sukun dan mengenali vokal yang diperpanjang.",
+  "instruction_en": "Practice connecting letters with sukun and recognizing extended vowels.",
+  "instruction_ar": "تَدَرَّبْ عَلَى وَصْلِ الْحُرُوفِ بِالسُّكُونِ وَتَعَرُّفِ الْمَدِّ.",
+  "content": [
+    {
+      "order_id": 1,
+      "position": { "row": 1, "col": 1 },
+      "latin": "LHM",
+      "arabic": "لحم"
+    },
+    {
+      "order_id": 2,
+      "position": { "row": 1, "col": 2 },
+      "latin": "NQSH",
+      "arabic": "نقص"
+    },
+    {
+      "order_id": 3,
+      "position": { "row": 1, "col": 3 },
+      "latin": "MTHR",
+      "arabic": "مطر"
+    },
+    {
+      "order_id": 4,
+      "position": { "row": 1, "col": 4 },
+      "latin": "M'HA FMTA W'FA TKHDZA",
+      "arabic": "معها فمتا وعفا تخذا"
+    },
+    {
+      "order_id": 5,
+      "position": { "row": 1, "col": 5 },
+      "latin": "HDHR",
+      "arabic": "حضر"
+    },
+    {
+      "order_id": 6,
+      "position": { "row": 2, "col": 1 },
+      "latin": "AJL SLF",
+      "arabic": "اجل سلف"
+    },
+    {
+      "order_id": 7,
+      "position": { "row": 2, "col": 2 },
+      "latin": "ABD",
+      "arabic": "ابد"
+    },
+    {
+      "order_id": 8,
+      "position": { "row": 2, "col": 3 },
+      "latin": "NJS",
+      "arabic": "نجس"
+    },
+    {
+      "order_id": 9,
+      "position": { "row": 3, "col": 1 },
+      "latin": "MQAM",
+      "arabic": "مًقام"
+    },
+    {
+      "order_id": 10,
+      "position": { "row": 3, "col": 2 },
+      "latin": "ZKA MTA' BSAN",
+      "arabic": "زكأً متاع بسان"
+    },
+    {
+      "order_id": 11,
+      "position": { "row": 4, "col": 1 },
+      "latin": "HML",
+      "arabic": "حمل"
+    },
+    {
+      "order_id": 12,
+      "position": { "row": 4, "col": 2 },
+      "latin": "FLH GHLB",
+      "arabic": "فلح غلب"
+    },
+    {
+      "order_id": 13,
+      "position": { "row": 4, "col": 3 },
+      "latin": "SYJR",
+      "arabic": "شجر"
+    },
+    {
+      "order_id": 14,
+      "position": { "row": 5, "col": 1 },
+      "latin": "LAKHSDZ",
+      "arabic": "لاخسذ"
+    },
+    {
+      "order_id": 15,
+      "position": { "row": 5, "col": 2 },
+      "latin": "MLHTA",
+      "arabic": "ملحتًا"
+    }
+  ]
+}

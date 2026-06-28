@@ -1,0 +1,100 @@
+{
+  "level_id": 2,
+  "level_title": "IQRO' 2",
+  "topic": { "latin": "Letters with Sukun and Extended Vowels (Mad)", "arab": "حُرُوفُ السُّكُونِ وَالْمَدِّ" },
+  "instruction_id": "Berlatih menghubungkan huruf dengan sukun dan mengenali vokal yang diperpanjang.",
+  "instruction_en": "Practice connecting letters with sukun and recognizing extended vowels.",
+  "instruction_ar": "تَدَرَّبْ عَلَى وَصْلِ الْحُرُوفِ بِالسُّكُونِ وَتَعَرُّفِ الْمَدِّ.",
+  "content": [
+    {
+      "order_id": 1,
+      "position": { "row": 1, "col": 1 },
+      "latin": "LMTH",
+      "arabic": "لمط"
+    },
+    {
+      "order_id": 2,
+      "position": { "row": 1, "col": 2 },
+      "latin": "HKMA",
+      "arabic": "حكما"
+    },
+    {
+      "order_id": 3,
+      "position": { "row": 1, "col": 3 },
+      "latin": "DMTA D",
+      "arabic": "دمتا د"
+    },
+    {
+      "order_id": 4,
+      "position": { "row": 2, "col": 1 },
+      "latin": "LBTS",
+      "arabic": "لبث"
+    },
+    {
+      "order_id": 5,
+      "position": { "row": 2, "col": 2 },
+      "latin": "ASHAB",
+      "arabic": "أصاب"
+    },
+    {
+      "order_id": 6,
+      "position": { "row": 2, "col": 3 },
+      "latin": "GHSAQA",
+      "arabic": "غساقا"
+    },
+    {
+      "order_id": 7,
+      "position": { "row": 3, "col": 1 },
+      "latin": "NZHSR KHTHAY",
+      "arabic": "نظسر خطاي"
+    },
+    {
+      "order_id": 8,
+      "position": { "row": 3, "col": 2 },
+      "latin": "MABA",
+      "arabic": "مابا"
+    },
+    {
+      "order_id": 9,
+      "position": { "row": 4, "col": 1 },
+      "latin": "LSDZ",
+      "arabic": "لسذ"
+    },
+    {
+      "order_id": 10,
+      "position": { "row": 4, "col": 2 },
+      "latin": "ATK SYRABA",
+      "arabic": "آتك شرابًا"
+    },
+    {
+      "order_id": 11,
+      "position": { "row": 5, "col": 1 },
+      "latin": "QBADH",
+      "arabic": "قباض"
+    },
+    {
+      "order_id": 12,
+      "position": { "row": 5, "col": 2 },
+      "latin": "HDNA",
+      "arabic": "هدنا"
+    },
+    {
+      "order_id": 13,
+      "position": { "row": 6, "col": 1 },
+      "latin": "QSDR",
+      "arabic": "قسدر"
+    },
+    {
+      "order_id": 14,
+      "position": { "row": 6, "col": 2 },
+      "latin": "WMAL",
+      "arabic": "ومال"
+    },
+    {
+      "order_id": 15,
+      "position": { "row": 6, "col": 3 },
+      "latin": "'DZABA",
+      "arabic": "عذابًا"
+    }
+  ]
+}

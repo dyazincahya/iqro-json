@@ -1,0 +1,82 @@
+{
+  "level_id": 2,
+  "level_title": "IQRO' 2",
+  "topic": { "latin": "Letters with Sukun and Extended Vowels (Mad)", "arab": "حُرُوفُ السُّكُونِ وَالْمَدِّ" },
+  "instruction_id": "Berlatih menghubungkan huruf dengan sukun dan mengenali vokal yang diperpanjang.",
+  "instruction_en": "Practice connecting letters with sukun and recognizing extended vowels.",
+  "instruction_ar": "تَدَرَّبْ عَلَى وَصْلِ الْحُرُوفِ بِالسُّكُونِ وَتَعَرُّفِ الْمَدِّ.",
+  "content": [
+    {
+      "order_id": 1,
+      "position": { "row": 1, "col": 1 },
+      "latin": "NBT BNT TBN",
+      "arabic": "نبت بنت ً تبن"
+    },
+    {
+      "order_id": 2,
+      "position": { "row": 1, "col": 2 },
+      "latin": "NTB",
+      "arabic": "نتب"
+    },
+    {
+      "order_id": 3,
+      "position": { "row": 2, "col": 1 },
+      "latin": "RBN",
+      "arabic": "ربن"
+    },
+    {
+      "order_id": 4,
+      "position": { "row": 2, "col": 2 },
+      "latin": "BNR BDZN",
+      "arabic": "بنر بذن"
+    },
+    {
+      "order_id": 5,
+      "position": { "row": 2, "col": 3 },
+      "latin": "NBDZ",
+      "arabic": "نبذ"
+    },
+    {
+      "order_id": 6,
+      "position": { "row": 3, "col": 1 },
+      "latin": "BDR NDZR DZNB WNDZ",
+      "arabic": "بدر نذر ذنبً ونذ"
+    },
+    {
+      "order_id": 7,
+      "position": { "row": 4, "col": 1 },
+      "latin": "DZRH NN' NBA NBA",
+      "arabic": "ذرح ننع نبًا نبًا"
+    },
+    {
+      "order_id": 8,
+      "position": { "row": 5, "col": 1 },
+      "latin": "TSBT",
+      "arabic": "ثبت"
+    },
+    {
+      "order_id": 9,
+      "position": { "row": 5, "col": 2 },
+      "latin": "TTSB WNAA NWF",
+      "arabic": "تثبً ونًأا نوف"
+    },
+    {
+      "order_id": 10,
+      "position": { "row": 6, "col": 1 },
+      "latin": "BDN",
+      "arabic": "بدن"
+    },
+    {
+      "order_id": 11,
+      "position": { "row": 6, "col": 2 },
+      "latin": "DNT WNN",
+      "arabic": "دنت ونن"
+    },
+    {
+      "order_id": 12,
+      "position": { "row": 6, "col": 3 },
+      "latin": "NWN",
+      "arabic": "نون"
+    }
+  ]
+}
