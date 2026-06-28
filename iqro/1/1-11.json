@@ -20,67 +20,67 @@
     },
     {
       "order_id": 3,
-      "position": { "row": 2, "col": 1 },
+      "position": { "row": 1, "col": 3 },
       "latin": "SA KHO DZA KHO SA DA",
       "arabic": "سَ خَ ذَ خَ سَ دَ"
     },
     {
       "order_id": 4,
-      "position": { "row": 2, "col": 2 },
+      "position": { "row": 2, "col": 1 },
       "latin": "SA KHO TSA JA ZA RA",
       "arabic": "سَ خَ ثَ جَ زَ رَ"
     },
     {
       "order_id": 5,
-      "position": { "row": 3, "col": 1 },
+      "position": { "row": 2, "col": 2 },
       "latin": "SA BA TA DZA RA SA",
       "arabic": "سَ بَ تَ ذَ رَ سَ"
     },
     {
       "order_id": 6,
-      "position": { "row": 3, "col": 2 },
+      "position": { "row": 2, "col": 3 },
       "latin": "SA KHO DZA KHO DZA DA",
       "arabic": "سَ خَ ذَ خَ ذَ دَ"
     },
     {
       "order_id": 7,
-      "position": { "row": 4, "col": 1 },
+      "position": { "row": 2, "col": 4 },
       "latin": "SA KHO TSA DA TSA DA",
       "arabic": "سَ خَ ثَ دَ ثَ دَ"
     },
     {
       "order_id": 8,
-      "position": { "row": 4, "col": 2 },
+      "position": { "row": 2, "col": 5 },
       "latin": "SA KHO TSA A BA TA",
       "arabic": "سَ خَ ثَ أَ بَ تَ"
     },
     {
       "order_id": 9,
-      "position": { "row": 5, "col": 1 },
+      "position": { "row": 3, "col": 1 },
       "latin": "TSA KHO TSA KHO DZA DZA RA ZAI SA",
       "arabic": "ثَ خَ ثَ خَ ذَ ذَ رَ زَ سَ"
     },
     {
       "order_id": 10,
-      "position": { "row": 5, "col": 2 },
+      "position": { "row": 3, "col": 2 },
       "latin": "SA KHO TSA BA TA DA",
       "arabic": "سَ خَ ثَ بَ تَ دَ"
     },
     {
       "order_id": 11,
-      "position": { "row": 6, "col": 1 },
+      "position": { "row": 3, "col": 3 },
       "latin": "SA KHO TSA TSA KHO SA",
       "arabic": "سَ خَ ثَ ثَ خَ سَ"
     },
     {
       "order_id": 12,
-      "position": { "row": 6, "col": 2 },
+      "position": { "row": 4, "col": 1 },
       "latin": "SA KHO DZA DZA SA RA",
       "arabic": "سَ خَ ذَ ذَ سَ رَ"
     },
     {
       "order_id": 13,
-      "position": { "row": 6, "col": 3 },
+      "position": { "row": 4, "col": 2 },
       "latin": "TSA ZA HA KHO DA DZA RA ZAI SA",
       "arabic": "ثَ زَ حَ خَ دَ ذَ رَ زَ سَ"
     }

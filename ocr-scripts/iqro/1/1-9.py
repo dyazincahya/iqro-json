@@ -98,28 +98,53 @@ def run_ocr():
         img.save(temp_image)
         img_height = img.height
 
-    results = reader.readtext(temp_image, detail=1, contrast_ths=0.1, adjust_contrast=0.7, 
-                              low_text=0.3, link_threshold=0.3)
+    # Run OCR with tuned parameters to separate adjacent words
+    results = reader.readtext(temp_image, detail=1, width_ths=0.1, link_threshold=0.7)
     
     if os.path.exists(temp_image):
         try: os.remove(temp_image)
         except: pass
 
-    # Row grouping & sorting (RTL)
-    results.sort(key=lambda x: x[0][0][1])
+    # Row grouping & sorting (RTL) using layout clustering
+    boxes = []
+    for bbox, text, conf in results:
+        xs = [pt[0] for pt in bbox]
+        ys = [pt[1] for pt in bbox]
+        min_x, max_x = min(xs), max(xs)
+        min_y, max_y = min(ys), max(ys)
+        cy = (min_y + max_y) / 2
+        cx = (min_x + max_x) / 2
+        h = max_y - min_y
+        w = max_x - min_x
+        # Skip if in the header (top 20% of page height)
+        if cy < img_height * 0.20:
+            continue
+        boxes.append({
+            'text': text,
+            'cx': cx,
+            'cy': cy,
+            'h': h,
+            'w': w,
+            'conf': conf
+        })
+
     rows = []
-    if results:
-        current_row_items = [results[0]]
-        for i in range(1, len(results)):
-            diff_y = abs(results[i][0][0][1] - current_row_items[-1][0][0][1])
-            if diff_y < 80: 
-                current_row_items.append(results[i])
+    if boxes:
+        boxes.sort(key=lambda b: b['cy'])
+        avg_h = sum(b['h'] for b in boxes) / len(boxes)
+        row_threshold = avg_h * 0.7
+        
+        current_row = [boxes[0]]
+        for b in boxes[1:]:
+            if abs(b['cy'] - current_row[-1]['cy']) < row_threshold:
+                current_row.append(b)
             else:
-                current_row_items.sort(key=lambda x: -x[0][0][0])
-                rows.append(current_row_items)
-                current_row_items = [results[i]]
-        current_row_items.sort(key=lambda x: -x[0][0][0])
-        rows.append(current_row_items)
+                current_row.sort(key=lambda b: -b['cx'])
+                rows.append(current_row)
+                current_row = [b]
+        current_row.sort(key=lambda b: -b['cx'])
+        rows.append(current_row)
+        rows.sort(key=lambda r: sum(b['cy'] for b in r)/len(r))
 
     iqro_data = {
         "level_id": 1,
@@ -134,71 +159,60 @@ def run_ocr():
     # Reference data for spelling alignment & layout correction
     reference_content = [{"order_id": 1, "latin": "RA RA", "arabic": "رَ رَ"}, {"order_id": 2, "latin": "RA DZA", "arabic": "رَ ذَ"}, {"order_id": 3, "latin": "RA KHO", "arabic": "رَ خَ"}, {"order_id": 4, "latin": "RA DZA KHO", "arabic": "رَ ذَ خَ"}, {"order_id": 5, "latin": "RA DZA DA", "arabic": "رَ ذَ دَ"}, {"order_id": 6, "latin": "RA DA KHO", "arabic": "رَ دَ خَ"}, {"order_id": 7, "latin": "RA DA TSA", "arabic": "رَ دَ ثَ"}, {"order_id": 8, "latin": "RA DA TA", "arabic": "رَ دَ تَ"}, {"order_id": 9, "latin": "RA DA BA", "arabic": "رَ دَ بَ"}, {"order_id": 10, "latin": "RA DA A", "arabic": "رَ دَ أَ"}, {"order_id": 11, "latin": "RA DZA KHO", "arabic": "رَ ذَ خَ"}, {"order_id": 12, "latin": "RA DZA DA", "arabic": "رَ ذَ دَ"}, {"order_id": 13, "latin": "A BA TA TSA JA HA KHO DA DZA RA", "arabic": "أَ بَ تَ ثَ جَ حَ خَ دَ ذَ رَ"}]
 
-    # If reference exists, use standard layout sequence aligned with OCR row counts
+    # Flatten the dynamically clustered layout positions
+    positions = []
+    for r_idx, r in enumerate(rows):
+        for c_idx, b in enumerate(r):
+            positions.append((r_idx + 1, c_idx + 1, b))
+
     if reference_content:
+        # If reference exists, we map reference items to the detected grid positions
         order_id = 1
         items_count = len(reference_content)
-        current_idx = 0
-        
-        col_layout = []
-        temp_count = items_count
-        while temp_count > 0:
-            if temp_count == 3:
-                col_layout.append(3)
-                temp_count -= 3
-            elif temp_count >= 2:
-                col_layout.append(2)
-                temp_count -= 2
+        for i, ref_item in enumerate(reference_content):
+            arabic = ref_item.get("arabic", ref_item.get("arab", ""))
+            latin = ref_item.get("latin", "")
+            if not latin:
+                latin = get_latin(arabic)
+            
+            # Map to OCR detected row/col if available, otherwise fallback
+            if i < len(positions):
+                row_val, col_val, _ = positions[i]
             else:
-                col_layout.append(1)
-                temp_count -= 1
+                # Fallback simple math layout if OCR detected fewer items
+                row_val = (i // 3) + 1
+                col_val = (i % 3) + 1
                 
-        row_idx = 1
-        for cols in col_layout:
-            for col_idx in range(1, cols + 1):
-                if current_idx < items_count:
-                    ref_item = reference_content[current_idx]
-                    arabic = ref_item.get("arabic", ref_item.get("arab", ""))
-                    latin = ref_item.get("latin", "")
-                    if "bَ" in arabic and not latin:
-                        latin = "A A BA"
-                    elif not latin:
-                        latin = get_latin(arabic)
-                        
-                    iqro_data["content"].append({
-                        "order_id": order_id,
-                        "position": {
-                            "row": row_idx,
-                            "col": col_idx
-                        },
-                        "latin": latin,
-                        "arabic": arabic
-                    })
-                    order_id += 1
-                    current_idx += 1
-            row_idx += 1
+            iqro_data["content"].append({
+                "order_id": order_id,
+                "position": {
+                    "row": row_val,
+                    "col": col_val
+                },
+                "latin": latin,
+                "arabic": arabic
+            })
+            order_id += 1
     else:
         # Fully dynamic OCR parsing if no reference content is available
         order_id = 1
-        content_rows = [r for r in rows if (sum(item[0][0][1] for item in r) / len(r)) > (img_height * 0.25)]
-        for r_idx, r in enumerate(content_rows):
-            for c_idx, item in enumerate(r):
-                raw_text = item[1].strip()
-                arabic = clean_text(raw_text)
-                arabic = add_fatha_if_missing(arabic)
-                if not arabic:
-                    continue
-                latin = get_latin(arabic)
-                iqro_data["content"].append({
-                    "order_id": order_id,
-                    "position": {
-                        "row": r_idx + 1,
-                        "col": c_idx + 1
-                    },
-                    "latin": latin,
-                    "arabic": arabic
-                })
-                order_id += 1
+        for row_val, col_val, b in positions:
+            raw_text = b['text'].strip()
+            arabic = clean_text(raw_text)
+            arabic = add_fatha_if_missing(arabic)
+            if not arabic:
+                continue
+            latin = get_latin(arabic)
+            iqro_data["content"].append({
+                "order_id": order_id,
+                "position": {
+                    "row": row_val,
+                    "col": col_val
+                },
+                "latin": latin,
+                "arabic": arabic
+            })
+            order_id += 1
 
     json_output = custom_format_json(iqro_data)
     if not os.path.exists(output_dir):

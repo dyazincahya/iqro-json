@@ -9,86 +9,164 @@
     {
       "order_id": 1,
       "position": { "row": 1, "col": 1 },
-      "latin": "TWAB HMZ KHAFTA LDHLLA",
-      "arabic": "تواب همز خافتًا لضللا"
+      "latin": "ADZAN",
+      "arabic": "اذان"
     },
     {
       "order_id": 2,
-      "position": { "row": 2, "col": 1 },
-      "latin": "L'N",
-      "arabic": "لعن"
+      "position": { "row": 1, "col": 2 },
+      "latin": "SHAFHA",
+      "arabic": "صافحا"
     },
     {
       "order_id": 3,
-      "position": { "row": 2, "col": 2 },
-      "latin": "ALAF HKMA LJMA'",
-      "arabic": "الاف حكمًا لجماع"
+      "position": { "row": 1, "col": 3 },
+      "latin": "KHTHAYAY",
+      "arabic": "خطاياي"
     },
     {
       "order_id": 4,
+      "position": { "row": 2, "col": 1 },
+      "latin": "TWAB",
+      "arabic": "تواب"
+    },
+    {
+      "order_id": 5,
+      "position": { "row": 2, "col": 2 },
+      "latin": "HMZ",
+      "arabic": "همز"
+    },
+    {
+      "order_id": 6,
+      "position": { "row": 2, "col": 3 },
+      "latin": "KHAFTA",
+      "arabic": "خافتًا"
+    },
+    {
+      "order_id": 7,
+      "position": { "row": 2, "col": 4 },
+      "latin": "LFSLLA",
+      "arabic": "لفسللا"
+    },
+    {
+      "order_id": 8,
       "position": { "row": 3, "col": 1 },
+      "latin": "L'SN",
+      "arabic": "لعسن"
+    },
+    {
+      "order_id": 9,
+      "position": { "row": 3, "col": 2 },
+      "latin": "ALAF",
+      "arabic": "الاف"
+    },
+    {
+      "order_id": 10,
+      "position": { "row": 3, "col": 3 },
+      "latin": "HKMA",
+      "arabic": "حكما"
+    },
+    {
+      "order_id": 11,
+      "position": { "row": 3, "col": 4 },
+      "latin": "LJMA'",
+      "arabic": "لجماعً"
+    },
+    {
+      "order_id": 12,
+      "position": { "row": 4, "col": 1 },
       "latin": "GHLZH",
       "arabic": "غلظ"
     },
     {
-      "order_id": 5,
-      "position": { "row": 3, "col": 2 },
-      "latin": "FTTA",
-      "arabic": "فتتى"
+      "order_id": 13,
+      "position": { "row": 4, "col": 2 },
+      "latin": "FTQA",
+      "arabic": "فتقى"
     },
     {
-      "order_id": 6,
-      "position": { "row": 3, "col": 3 },
+      "order_id": 14,
+      "position": { "row": 4, "col": 3 },
       "latin": "NDZARA",
-      "arabic": "نذارًا"
+      "arabic": "نذارا"
     },
     {
-      "order_id": 7,
-      "position": { "row": 3, "col": 4 },
+      "order_id": 15,
+      "position": { "row": 4, "col": 4 },
       "latin": "QAL BLA",
       "arabic": "قال بلى"
     },
     {
-      "order_id": 8,
-      "position": { "row": 4, "col": 1 },
-      "latin": "FTHGHA YTMA LMKA",
-      "arabic": "فطغى يتمى لمكا"
+      "order_id": 16,
+      "position": { "row": 5, "col": 1 },
+      "latin": "FTHGHA",
+      "arabic": "فطغى"
     },
     {
-      "order_id": 9,
-      "position": { "row": 4, "col": 2 },
+      "order_id": 17,
+      "position": { "row": 5, "col": 2 },
+      "latin": "YTMA",
+      "arabic": "يتمى"
+    },
+    {
+      "order_id": 18,
+      "position": { "row": 5, "col": 3 },
+      "latin": "LMKA",
+      "arabic": "لمكا"
+    },
+    {
+      "order_id": 19,
+      "position": { "row": 5, "col": 4 },
       "latin": "LATHA'",
       "arabic": "لاطاع"
     },
     {
-      "order_id": 10,
-      "position": { "row": 5, "col": 1 },
+      "order_id": 20,
+      "position": { "row": 6, "col": 1 },
       "latin": "SYHAD",
       "arabic": "شهاد"
     },
     {
-      "order_id": 11,
-      "position": { "row": 5, "col": 2 },
+      "order_id": 21,
+      "position": { "row": 6, "col": 2 },
       "latin": "FQDHA",
       "arabic": "فقضى"
     },
     {
-      "order_id": 12,
-      "position": { "row": 5, "col": 3 },
-      "latin": "HWAYA BNANK",
-      "arabic": "حوًايا بًنانك"
+      "order_id": 22,
+      "position": { "row": 6, "col": 3 },
+      "latin": "HWAYA",
+      "arabic": "حوايا"
     },
     {
-      "order_id": 13,
-      "position": { "row": 6, "col": 1 },
+      "order_id": 23,
+      "position": { "row": 6, "col": 4 },
+      "latin": "BNANK",
+      "arabic": "بنانك"
+    },
+    {
+      "order_id": 24,
+      "position": { "row": 7, "col": 1 },
       "latin": "MLA",
       "arabic": "ملا"
     },
     {
-      "order_id": 14,
-      "position": { "row": 6, "col": 2 },
-      "latin": "'JLA ALL WLMMA",
-      "arabic": "عجًلا الل ولممًا"
+      "order_id": 25,
+      "position": { "row": 7, "col": 2 },
+      "latin": "'JLA",
+      "arabic": "عجلا"
+    },
+    {
+      "order_id": 26,
+      "position": { "row": 7, "col": 3 },
+      "latin": "ALL",
+      "arabic": "آلل"
+    },
+    {
+      "order_id": 27,
+      "position": { "row": 7, "col": 4 },
+      "latin": "WLMMA",
+      "arabic": "ولمما"
     }
   ]
 }

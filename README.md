@@ -107,6 +107,23 @@ for bbox, text, confidence in results:
 
 > **Catatan:** Untuk mengoptimalkan pembacaan huruf Hijaiyah berharakat, skrip ocr di proyek ini melakukan _preprocessing_ (resize gambar) dan penyesuaian parameter EasyOCR seperti `contrast_ths=0.1` dan `adjust_contrast=0.7`. Detail lengkapnya dapat Anda lihat di folder [ocr-scripts](./ocr-scripts).
 
+### 3. Cara Menjalankan Skrip OCR Proyek
+
+Anda dapat menjalankan skrip OCR yang sudah dikhususkan per halaman berkas gambar secara mandiri untuk memperbarui berkas JSON:
+
+* **Menjalankan OCR untuk satu gambar spesifik:**
+  Jalankan file skrip `.py` yang sesuai dengan halaman yang ingin Anda baca (misalnya Iqro 2 Halaman 2):
+  ```bash
+  python ocr-scripts/iqro/2/2-2.py
+  ```
+  *Skrip ini akan membaca gambar `iqro-images/2/2-2.png` dan menghasilkan berkas JSON presisi di `iqro/2/2-2.json`.*
+
+* **Menjalankan semua skrip OCR pada satu Level Iqro sekaligus:**
+  Masuk ke folder level yang diinginkan dan jalankan berkas `main.py` di dalam folder tersebut:
+  ```bash
+  python ocr-scripts/iqro/2/main.py
+  ```
+
 ## Kontribusi
 
 Data ini mungkin _belum sepenuhnya_ sesuai dengan referensi buku Iqro yang ada. Mohon bantuannya untuk mengoreksi atau memperbaiki jika Anda menemukan kesalahan. Kontribusi sekecil apa pun dari Anda akan sangat berarti dalam menyempurnakan data ini. Jika Anda ingin berkontribusi pada proyek ini, silakan fork dan clone repositori, lalu lakukan perubahan sesuai format yang sudah ada. Setelah itu, ajukan pull request (PR) agar perubahan dapat ditinjau dan digabungkan. Pastikan format JSON tetap seragam.

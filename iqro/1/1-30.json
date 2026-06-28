@@ -32,19 +32,19 @@
     },
     {
       "order_id": 5,
-      "position": { "row": 3, "col": 1 },
+      "position": { "row": 2, "col": 3 },
       "latin": "KHO - AIN, TA - THO",
       "arabic": "خَ - عَ , ت - طَ"
     },
     {
       "order_id": 6,
-      "position": { "row": 3, "col": 2 },
+      "position": { "row": 3, "col": 1 },
       "latin": "KHO - QOF, DA - ZHO",
       "arabic": "خَ - قَ , د - ظَ"
     },
     {
       "order_id": 7,
-      "position": { "row": 3, "col": 3 },
+      "position": { "row": 3, "col": 2 },
       "latin": "GHA - QOF, ZHO - DHOD",
       "arabic": "غَ - قَ , ظَ - ضَ"
     }
