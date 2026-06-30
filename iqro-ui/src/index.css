@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&family=Outfit:wght@300;400;500;600;700;800&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Outfit', system-ui, -apple-system, sans-serif;
+  --font-serif: 'Amiri', Georgia, serif;
+}
+
+:root {
+  --font-sans: 'Outfit', system-ui, -apple-system, sans-serif;
+  font-family: var(--font-sans);
+  background-color: #f8fafc; /* Slate 50 for clean light background */
+  color: #0f172a; /* Slate 900 for dark text */
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+/* Page flip transition */
+.page-flip-enter {
+  transform: rotateY(-10deg);
+  opacity: 0;
+}
+.page-flip-enter-active {
+  transform: rotateY(0deg);
+  opacity: 1;
+  transition: transform 0.5s ease-out, opacity 0.5s ease-out;
+}
+.page-flip-exit {
+  transform: rotateY(0deg);
+  opacity: 1;
+}
+.page-flip-exit-active {
+  transform: rotateY(10deg);
+  opacity: 0;
+  transition: transform 0.5s ease-in, opacity 0.5s ease-in;
+}
+
+/* Book binding spine overlay */
+.book-spine-gradient {
+  background: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0.15) 0%,
+    rgba(0, 0, 0, 0.0) 10%,
+    rgba(255, 255, 255, 0.15) 50%,
+    rgba(0, 0, 0, 0.0) 90%,
+    rgba(0, 0, 0, 0.15) 100%
+  );
+}
+
+.book-shadow {
+  box-shadow: 
+    0 15px 35px rgba(0, 0, 0, 0.5), 
+    0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(15, 23, 42, 0.05);
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(15, 23, 42, 0.2);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(15, 23, 42, 0.3);
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100svh;
+  width: 100%;
+}

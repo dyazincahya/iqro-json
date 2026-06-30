@@ -1,0 +1,130 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": {
+    "latin": "MIM",
+    "arab": "مَ"
+  },
+  "instruction_id": "",
+  "instruction_en": "",
+  "instruction_ar": "",
+  "content": [
+    {
+      "order_id": 1,
+      "position": {
+        "row": 1,
+        "col": 1
+      },
+      "latin": "GHAIN MIM DHOD",
+      "arabic": "غَ مَ ضَ"
+    },
+    {
+      "order_id": 2,
+      "position": {
+        "row": 1,
+        "col": 2
+      },
+      "latin": "LAM MIM SA",
+      "arabic": "لَ مَ سَ"
+    },
+    {
+      "order_id": 3,
+      "position": {
+        "row": 1,
+        "col": 3
+      },
+      "latin": "HA MIM AIN",
+      "arabic": "حَ مَ ع"
+    },
+    {
+      "order_id": 4,
+      "position": {
+        "row": 2,
+        "col": 1
+      },
+      "latin": "FA RA DHOD",
+      "arabic": "فَ رَ ضَ"
+    },
+    {
+      "order_id": 5,
+      "position": {
+        "row": 2,
+        "col": 2
+      },
+      "latin": "KAF RA MIM",
+      "arabic": "كَ رَ مَ"
+    },
+    {
+      "order_id": 6,
+      "position": {
+        "row": 3,
+        "col": 1
+      },
+      "latin": "KHO LAM THO",
+      "arabic": "خَ لَ طَ"
+    },
+    {
+      "order_id": 7,
+      "position": {
+        "row": 3,
+        "col": 2
+      },
+      "latin": "SHOD MIM DA",
+      "arabic": "صَ مَ دَ"
+    },
+    {
+      "order_id": 8,
+      "position": {
+        "row": 3,
+        "col": 3
+      },
+      "latin": "ZHO TA ZA",
+      "arabic": "ظَ تَ ذَ"
+    },
+    {
+      "order_id": 9,
+      "position": {
+        "row": 4,
+        "col": 1
+      },
+      "latin": "MIM ZA QOF",
+      "arabic": "مَ زَ قَ"
+    },
+    {
+      "order_id": 10,
+      "position": {
+        "row": 5,
+        "col": 1
+      },
+      "latin": "SYA MIM LAM",
+      "arabic": "شَ مَ لَ"
+    },
+    {
+      "order_id": 11,
+      "position": {
+        "row": 6,
+        "col": 1
+      },
+      "latin": "FA KAF HA",
+      "arabic": "فَ كَ حَ"
+    },
+    {
+      "order_id": 12,
+      "position": {
+        "row": 6,
+        "col": 2
+      },
+      "latin": "GHAIN MIM MIM",
+      "arabic": "غَ مَ مَ"
+    },
+    {
+      "order_id": 13,
+      "position": {
+        "row": 7,
+        "col": 1
+      },
+      "latin": "A BA TA",
+      "arabic": "اَ بَ تَ"
+    }
+  ]
+}

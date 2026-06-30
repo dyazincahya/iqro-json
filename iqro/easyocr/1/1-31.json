@@ -1,0 +1,103 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": {
+    "latin": "A BA",
+    "arab": "اَ بَ"
+  },
+  "instruction_id": "EBTA KHUSUS JILID 1 INI JIKA BELUM MENGUASAI ULANG-ULANGILAH !",
+  "instruction_en": "Direct reading A - Ba, etc. No need to spell out. Read with short sounds.",
+  "instruction_ar": "القراءة المباشرة أ - ب وهكذا. لا حاجة للتهجئة. اقرأ بصوت قصير.",
+  "content": [
+    {
+      "order_id": 1,
+      "position": {
+        "row": 1,
+        "col": 1
+      },
+      "latin": "TA TSA JA HA KHO DA DZA RO ZA",
+      "arabic": "تَ ثَ جَحَ خَ دَ ذَ رَزَ"
+    },
+    {
+      "order_id": 2,
+      "position": {
+        "row": 2,
+        "col": 1
+      },
+      "latin": "SA",
+      "arabic": "سَ"
+    },
+    {
+      "order_id": 3,
+      "position": {
+        "row": 2,
+        "col": 2
+      },
+      "latin": "SYA",
+      "arabic": "شَ"
+    },
+    {
+      "order_id": 4,
+      "position": {
+        "row": 3,
+        "col": 1
+      },
+      "latin": "SHO",
+      "arabic": "صَ"
+    },
+    {
+      "order_id": 5,
+      "position": {
+        "row": 4,
+        "col": 1
+      },
+      "latin": "DHO THO A ZHO  'A GHO",
+      "arabic": "ضَ طَاَ ظَعَ غَ"
+    },
+    {
+      "order_id": 6,
+      "position": {
+        "row": 5,
+        "col": 1
+      },
+      "latin": "FA QO KA DA MA NA WA HA A YA",
+      "arabic": "فَقَكَدَمَنَ وَهَءَ يَ"
+    },
+    {
+      "order_id": 7,
+      "position": {
+        "row": 5,
+        "col": 2
+      },
+      "latin": "YA",
+      "arabic": "يَ"
+    },
+    {
+      "order_id": 8,
+      "position": {
+        "row": 6,
+        "col": 1
+      },
+      "latin": " 'A",
+      "arabic": "عَ"
+    },
+    {
+      "order_id": 9,
+      "position": {
+        "row": 7,
+        "col": 1
+      },
+      "latin": "HA WA NA MA LA A KA QO",
+      "arabic": "هَ وَنَ مَ لَاَكَ قَ"
+    },
+    {
+      "order_id": 10,
+      "position": {
+        "row": 7,
+        "col": 2
+      },
+      "latin": "FA",
+      "arabic": "فَ"
+    }
+  ]
+}

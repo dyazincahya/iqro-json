@@ -1,0 +1,202 @@
+{
+  "level_id": 2,
+  "level_title": "IQRO' 2",
+  "topic": {
+    "latin": "Letters with Sukun and Extended Vowels (Mad)",
+    "arab": "حُرُوفُ السُّكُونِ وَالْمَدِّ"
+  },
+  "instruction_id": "Berlatih menghubungkan huruf dengan sukun dan mengenali vokal yang diperpanjang.",
+  "instruction_en": "Practice connecting letters with sukun and recognizing extended vowels.",
+  "instruction_ar": "تَدَرَّبْ عَلَى وَصْلِ الْحُرُوفِ بِالسُّكُونِ وَتَعَرُّفِ الْمَدِّ.",
+  "content": [
+    {
+      "order_id": 1,
+      "position": {
+        "row": 1,
+        "col": 1
+      },
+      "latin": "WMANHA",
+      "arabic": "ومانها"
+    },
+    {
+      "order_id": 2,
+      "position": {
+        "row": 1,
+        "col": 2
+      },
+      "latin": "WLSK",
+      "arabic": "ولسك"
+    },
+    {
+      "order_id": 3,
+      "position": {
+        "row": 2,
+        "col": 1
+      },
+      "latin": "FJZHA",
+      "arabic": "فجزها"
+    },
+    {
+      "order_id": 4,
+      "position": {
+        "row": 2,
+        "col": 2
+      },
+      "latin": "KHRBTA",
+      "arabic": "خربتا"
+    },
+    {
+      "order_id": 5,
+      "position": {
+        "row": 2,
+        "col": 3
+      },
+      "latin": "FHFZH",
+      "arabic": "فحفظ"
+    },
+    {
+      "order_id": 6,
+      "position": {
+        "row": 3,
+        "col": 1
+      },
+      "latin": "JM'MA",
+      "arabic": "جمعما"
+    },
+    {
+      "order_id": 7,
+      "position": {
+        "row": 3,
+        "col": 2
+      },
+      "latin": "SQA LHA",
+      "arabic": "سقى لها"
+    },
+    {
+      "order_id": 8,
+      "position": {
+        "row": 3,
+        "col": 3
+      },
+      "latin": "WLQ",
+      "arabic": "ولق"
+    },
+    {
+      "order_id": 9,
+      "position": {
+        "row": 4,
+        "col": 1
+      },
+      "latin": "FAFLA",
+      "arabic": "فافلا"
+    },
+    {
+      "order_id": 10,
+      "position": {
+        "row": 4,
+        "col": 2
+      },
+      "latin": "FRASYHA",
+      "arabic": "فراشها"
+    },
+    {
+      "order_id": 11,
+      "position": {
+        "row": 4,
+        "col": 3
+      },
+      "latin": "WLSTH",
+      "arabic": "ولسطً"
+    },
+    {
+      "order_id": 12,
+      "position": {
+        "row": 5,
+        "col": 1
+      },
+      "latin": "LTHLA",
+      "arabic": "لطلا"
+    },
+    {
+      "order_id": 13,
+      "position": {
+        "row": 5,
+        "col": 2
+      },
+      "latin": "TNAZ'A",
+      "arabic": "تنازعا"
+    },
+    {
+      "order_id": 14,
+      "position": {
+        "row": 5,
+        "col": 3
+      },
+      "latin": "FKHFF",
+      "arabic": "فخفف"
+    },
+    {
+      "order_id": 15,
+      "position": {
+        "row": 6,
+        "col": 1
+      },
+      "latin": "NDZRHA",
+      "arabic": "نذرحا"
+    },
+    {
+      "order_id": 16,
+      "position": {
+        "row": 6,
+        "col": 2
+      },
+      "latin": "WMABNA",
+      "arabic": "ومابنى"
+    },
+    {
+      "order_id": 17,
+      "position": {
+        "row": 6,
+        "col": 3
+      },
+      "latin": "WLMH",
+      "arabic": "ولمح"
+    },
+    {
+      "order_id": 18,
+      "position": {
+        "row": 7,
+        "col": 1
+      },
+      "latin": "DZNBHA",
+      "arabic": "ذنبها"
+    },
+    {
+      "order_id": 19,
+      "position": {
+        "row": 7,
+        "col": 2
+      },
+      "latin": "WTSAQHA",
+      "arabic": "وثاقها"
+    },
+    {
+      "order_id": 20,
+      "position": {
+        "row": 7,
+        "col": 3
+      },
+      "latin": "WSYFQ",
+      "arabic": "وشفق"
+    },
+    {
+      "order_id": 21,
+      "position": {
+        "row": 8,
+        "col": 1
+      },
+      "latin": "NSDZHA",
+      "arabic": "نسذها"
+    }
+  ]
+}

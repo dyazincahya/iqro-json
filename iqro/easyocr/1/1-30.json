@@ -1,0 +1,76 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": {
+    "latin": "Membedakan Huruf",
+    "arab": ""
+  },
+  "instruction_id": "PENTING BEDAKAN DENGAN JELAS ANTARA",
+  "instruction_en": "IMPORTANT: DISTINGUISH CLEARLY BETWEEN",
+  "instruction_ar": "",
+  "content": [
+    {
+      "order_id": 1,
+      "position": {
+        "row": 1,
+        "col": 1
+      },
+      "latin": "A - AIN, TA - SA",
+      "arabic": "اَ - عَ , ت - سَ"
+    },
+    {
+      "order_id": 2,
+      "position": {
+        "row": 1,
+        "col": 2
+      },
+      "latin": "HA - HA, TSA - SYA",
+      "arabic": "حَ - هَ , ثَ - شَ"
+    },
+    {
+      "order_id": 3,
+      "position": {
+        "row": 2,
+        "col": 1
+      },
+      "latin": "JA - ZA, SA - SYA",
+      "arabic": "جَ - زَ , سَ - شَ"
+    },
+    {
+      "order_id": 4,
+      "position": {
+        "row": 2,
+        "col": 2
+      },
+      "latin": "YA - ZA, SA - SHO",
+      "arabic": "يَ - زَ , سَ - صَ"
+    },
+    {
+      "order_id": 5,
+      "position": {
+        "row": 2,
+        "col": 3
+      },
+      "latin": "KHO - AIN, TA - THO",
+      "arabic": "خَ - عَ , ت - طَ"
+    },
+    {
+      "order_id": 6,
+      "position": {
+        "row": 3,
+        "col": 1
+      },
+      "latin": "KHO - QOF, DA - ZHO",
+      "arabic": "خَ - قَ , د - ظَ"
+    },
+    {
+      "order_id": 7,
+      "position": {
+        "row": 3,
+        "col": 2
+      },
+      "latin": "GHA - QOF, ZHO - DHOD",
+      "arabic": "غَ - قَ , ظَ - ضَ"
+    }
+  ]
+}

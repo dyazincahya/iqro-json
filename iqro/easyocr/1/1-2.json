@@ -1,0 +1,130 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": {
+    "latin": "BA TA",
+    "arab": "بَ تَ"
+  },
+  "instruction_id": "BACAAN LANGSUNG A DENGAN SUARA PENDEK PENDEK BA-IA Dst",
+  "instruction_en": "Direct reading A - BA - TA, etc., with short sounds.",
+  "instruction_ar": "القراءة المباشرة أ - ب - ت وهكذا، بأصوات قصيرة",
+  "content": [
+    {
+      "order_id": 1,
+      "position": {
+        "row": 1,
+        "col": 1
+      },
+      "latin": "BA TA",
+      "arabic": "بَ تَ"
+    },
+    {
+      "order_id": 2,
+      "position": {
+        "row": 2,
+        "col": 1
+      },
+      "latin": "A TA BA",
+      "arabic": "اَ تَ بَ"
+    },
+    {
+      "order_id": 3,
+      "position": {
+        "row": 2,
+        "col": 2
+      },
+      "latin": "TA BA A",
+      "arabic": "تَ بَ اَ"
+    },
+    {
+      "order_id": 4,
+      "position": {
+        "row": 3,
+        "col": 1
+      },
+      "latin": "BA A TA",
+      "arabic": "بَ اَ تَ"
+    },
+    {
+      "order_id": 5,
+      "position": {
+        "row": 3,
+        "col": 2
+      },
+      "latin": "A BA TA",
+      "arabic": "اَ بَ تَ"
+    },
+    {
+      "order_id": 6,
+      "position": {
+        "row": 4,
+        "col": 1
+      },
+      "latin": "BA TA A",
+      "arabic": "بَ تَ اَ"
+    },
+    {
+      "order_id": 7,
+      "position": {
+        "row": 4,
+        "col": 2
+      },
+      "latin": "A TA BA",
+      "arabic": "اَ تَ بَ"
+    },
+    {
+      "order_id": 8,
+      "position": {
+        "row": 5,
+        "col": 1
+      },
+      "latin": "TA A TA",
+      "arabic": "تَ اَ تَ"
+    },
+    {
+      "order_id": 9,
+      "position": {
+        "row": 5,
+        "col": 2
+      },
+      "latin": "BA A TA",
+      "arabic": "بَ اَ تَ"
+    },
+    {
+      "order_id": 10,
+      "position": {
+        "row": 6,
+        "col": 1
+      },
+      "latin": "A TA BA",
+      "arabic": "اَ تَ بَ"
+    },
+    {
+      "order_id": 11,
+      "position": {
+        "row": 6,
+        "col": 2
+      },
+      "latin": "TA TA A",
+      "arabic": "تَ تَ اَ"
+    },
+    {
+      "order_id": 12,
+      "position": {
+        "row": 7,
+        "col": 1
+      },
+      "latin": "BA TA BA",
+      "arabic": "بَ تَ بَ"
+    },
+    {
+      "order_id": 13,
+      "position": {
+        "row": 7,
+        "col": 2
+      },
+      "latin": "A BA TA",
+      "arabic": "اَ بَ تَ"
+    }
+  ]
+}

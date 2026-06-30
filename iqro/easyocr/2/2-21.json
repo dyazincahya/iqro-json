@@ -1,0 +1,256 @@
+{
+  "level_id": 2,
+  "level_title": "IQRO' 2",
+  "topic": {
+    "latin": "Letters with Sukun and Extended Vowels (Mad)",
+    "arab": "حُرُوفُ السُّكُونِ وَالْمَدِّ"
+  },
+  "instruction_id": "Berlatih menghubungkan huruf dengan sukun dan mengenali vokal yang diperpanjang.",
+  "instruction_en": "Practice connecting letters with sukun and recognizing extended vowels.",
+  "instruction_ar": "تَدَرَّبْ عَلَى وَصْلِ الْحُرُوفِ بِالسُّكُونِ وَتَعَرُّفِ الْمَدِّ.",
+  "content": [
+    {
+      "order_id": 1,
+      "position": {
+        "row": 1,
+        "col": 1
+      },
+      "latin": "D",
+      "arabic": "د"
+    },
+    {
+      "order_id": 2,
+      "position": {
+        "row": 1,
+        "col": 2
+      },
+      "latin": "M",
+      "arabic": "م"
+    },
+    {
+      "order_id": 3,
+      "position": {
+        "row": 2,
+        "col": 1
+      },
+      "latin": "AMN",
+      "arabic": "امن"
+    },
+    {
+      "order_id": 4,
+      "position": {
+        "row": 2,
+        "col": 2
+      },
+      "latin": "WHDZA",
+      "arabic": "وهذا"
+    },
+    {
+      "order_id": 5,
+      "position": {
+        "row": 2,
+        "col": 3
+      },
+      "latin": "BNSHA",
+      "arabic": "بنسها"
+    },
+    {
+      "order_id": 6,
+      "position": {
+        "row": 2,
+        "col": 4
+      },
+      "latin": "WDZAR",
+      "arabic": "وذار"
+    },
+    {
+      "order_id": 7,
+      "position": {
+        "row": 3,
+        "col": 1
+      },
+      "latin": "NA'M",
+      "arabic": "ناعم"
+    },
+    {
+      "order_id": 8,
+      "position": {
+        "row": 3,
+        "col": 2
+      },
+      "latin": "GHSAL",
+      "arabic": "غسال"
+    },
+    {
+      "order_id": 9,
+      "position": {
+        "row": 3,
+        "col": 3
+      },
+      "latin": "ALT",
+      "arabic": "الت"
+    },
+    {
+      "order_id": 10,
+      "position": {
+        "row": 3,
+        "col": 4
+      },
+      "latin": "NABT",
+      "arabic": "نابت"
+    },
+    {
+      "order_id": 11,
+      "position": {
+        "row": 4,
+        "col": 1
+      },
+      "latin": "JAWZ",
+      "arabic": "جاوز"
+    },
+    {
+      "order_id": 12,
+      "position": {
+        "row": 4,
+        "col": 2
+      },
+      "latin": "KSBA",
+      "arabic": "كسبًا"
+    },
+    {
+      "order_id": 13,
+      "position": {
+        "row": 4,
+        "col": 3
+      },
+      "latin": "FARDH",
+      "arabic": "فارض"
+    },
+    {
+      "order_id": 14,
+      "position": {
+        "row": 5,
+        "col": 1
+      },
+      "latin": "KHATHB",
+      "arabic": "خاطب"
+    },
+    {
+      "order_id": 15,
+      "position": {
+        "row": 5,
+        "col": 2
+      },
+      "latin": "WKANA",
+      "arabic": "وكانا"
+    },
+    {
+      "order_id": 16,
+      "position": {
+        "row": 5,
+        "col": 3
+      },
+      "latin": "TLHA",
+      "arabic": "تلها"
+    },
+    {
+      "order_id": 17,
+      "position": {
+        "row": 6,
+        "col": 1
+      },
+      "latin": "YDANA",
+      "arabic": "يدًانا"
+    },
+    {
+      "order_id": 18,
+      "position": {
+        "row": 6,
+        "col": 2
+      },
+      "latin": "SYRABA",
+      "arabic": "شرابًا"
+    },
+    {
+      "order_id": 19,
+      "position": {
+        "row": 7,
+        "col": 1
+      },
+      "latin": "THHHA",
+      "arabic": "طحها"
+    },
+    {
+      "order_id": 20,
+      "position": {
+        "row": 7,
+        "col": 2
+      },
+      "latin": "BNSHA",
+      "arabic": "بنسها"
+    },
+    {
+      "order_id": 21,
+      "position": {
+        "row": 7,
+        "col": 3
+      },
+      "latin": "WDZAT",
+      "arabic": "وذات"
+    },
+    {
+      "order_id": 22,
+      "position": {
+        "row": 8,
+        "col": 1
+      },
+      "latin": "MQAM",
+      "arabic": "مقام"
+    },
+    {
+      "order_id": 23,
+      "position": {
+        "row": 8,
+        "col": 2
+      },
+      "latin": "ALAF",
+      "arabic": "الاف"
+    },
+    {
+      "order_id": 24,
+      "position": {
+        "row": 8,
+        "col": 3
+      },
+      "latin": "MAB",
+      "arabic": "مابً"
+    },
+    {
+      "order_id": 25,
+      "position": {
+        "row": 9,
+        "col": 1
+      },
+      "latin": "SMWAT",
+      "arabic": "سموات"
+    },
+    {
+      "order_id": 26,
+      "position": {
+        "row": 9,
+        "col": 2
+      },
+      "latin": "WKHTHA",
+      "arabic": "وخطا"
+    },
+    {
+      "order_id": 27,
+      "position": {
+        "row": 9,
+        "col": 3
+      },
+      "latin": "SHLATHA",
+      "arabic": "صلاتها"
+    }
+  ]
+}

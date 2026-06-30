@@ -19,25 +19,25 @@ Berikut adalah beberapa layanan yang dapat digunakan untuk mengakses data Iqro. 
 
 - [https://cdn.jsdelivr.net/gh/dyazincahya/iqro-json/hijaiyah-letters.json](https://cdn.jsdelivr.net/gh/dyazincahya/iqro-json/hijaiyah-letters.json)
 - [https://cdn.jsdelivr.net/gh/dyazincahya/iqro-json/hijaiyah-letters-with-vowels.json](https://cdn.jsdelivr.net/gh/dyazincahya/iqro-json/hijaiyah-letters-with-vowels.json)
-- [https://cdn.jsdelivr.net/gh/dyazincahya/iqro-json/iqro/iqro-1/1-1.json](https://cdn.jsdelivr.net/gh/dyazincahya/iqro-json/iqro/iqro-1/1-1.json)
+- [https://cdn.jsdelivr.net/gh/dyazincahya/iqro-json/iqro/easyocr/1/1-1.json](https://cdn.jsdelivr.net/gh/dyazincahya/iqro-json/iqro/easyocr/1/1-1.json)
 
-> Struktur URL untuk Iqro: `https://cdn.jsdelivr.net/gh/dyazincahya/iqro-json/iqro/iqro-{level}/{level}-{part}.json`
+> Struktur URL untuk Iqro: `https://cdn.jsdelivr.net/gh/dyazincahya/iqro-json/iqro/{ocr_name}/{level}/{level}-{part}.json`
 
 #### statically
 
 - [https://cdn.statically.io/gh/dyazincahya/iqro-json/main/hijaiyah-letters.json](https://cdn.statically.io/gh/dyazincahya/iqro-json/main/hijaiyah-letters.json)
 - [https://cdn.statically.io/gh/dyazincahya/iqro-json/main/hijaiyah-letters-with-vowels.json](https://cdn.statically.io/gh/dyazincahya/iqro-json/main/hijaiyah-letters-with-vowels.json)
-- [https://cdn.statically.io/gh/dyazincahya/iqro-json/main/iqro/iqro-1/1-1.json](https://cdn.statically.io/gh/dyazincahya/iqro-json/main/iqro/iqro-1/1-1.json)
+- [https://cdn.statically.io/gh/dyazincahya/iqro-json/main/iqro/easyocr/1/1-1.json](https://cdn.statically.io/gh/dyazincahya/iqro-json/main/iqro/easyocr/1/1-1.json)
 
-> Struktur URL untuk Iqro: `https://cdn.statically.io/gh/dyazincahya/iqro-json/main/iqro/iqro-{level}/{level}-{part}.json`
+> Struktur URL untuk Iqro: `https://cdn.statically.io/gh/dyazincahya/iqro-json/main/iqro/{ocr_name}/{level}/{level}-{part}.json`
 
 #### github content
 
 - [https://raw.githubusercontent.com/dyazincahya/iqro-json/refs/heads/main/hijaiyah-letters.json](https://raw.githubusercontent.com/dyazincahya/iqro-json/refs/heads/main/hijaiyah-letters.json)
 - [https://raw.githubusercontent.com/dyazincahya/iqro-json/refs/heads/main/hijaiyah-letters-with-vowels.json](https://raw.githubusercontent.com/dyazincahya/iqro-json/refs/heads/main/hijaiyah-letters-with-vowels.json)
-- [https://raw.githubusercontent.com/dyazincahya/iqro-json/refs/heads/main/iqro/iqro-1/1-1.json](https://raw.githubusercontent.com/dyazincahya/iqro-json/refs/heads/main/iqro/iqro-1/1-1.json)
+- [https://raw.githubusercontent.com/dyazincahya/iqro-json/refs/heads/main/iqro/easyocr/1/1-1.json](https://raw.githubusercontent.com/dyazincahya/iqro-json/refs/heads/main/iqro/easyocr/1/1-1.json)
 
-> Struktur URL untuk Iqro: `https://raw.githubusercontent.com/dyazincahya/iqro-json/refs/heads/main/iqro/iqro-{level}/{level}-{part}.json`
+> Struktur URL untuk Iqro: `https://raw.githubusercontent.com/dyazincahya/iqro-json/refs/heads/main/iqro/{ocr_name}/{level}/{level}-{part}.json`
 
 </details>
 
@@ -114,15 +114,54 @@ Anda dapat menjalankan skrip OCR yang sudah dikhususkan per halaman berkas gamba
 * **Menjalankan OCR untuk satu gambar spesifik:**
   Jalankan file skrip `.py` yang sesuai dengan halaman yang ingin Anda baca (misalnya Iqro 2 Halaman 2):
   ```bash
-  python ocr-scripts/iqro/2/2-2.py
+  python ocr-scripts/easyocr/iqro/2/2-2.py
   ```
-  *Skrip ini akan membaca gambar `iqro-images/2/2-2.png` dan menghasilkan berkas JSON presisi di `iqro/2/2-2.json`.*
+  *Skrip ini akan membaca gambar `iqro-images/2/2-2.png` dan menghasilkan berkas JSON presisi di `iqro/easyocr/2/2-2.json`.*
 
 * **Menjalankan semua skrip OCR pada satu Level Iqro sekaligus:**
   Masuk ke folder level yang diinginkan dan jalankan berkas `main.py` di dalam folder tersebut:
   ```bash
-  python ocr-scripts/iqro/2/main.py
+  python ocr-scripts/easyocr/iqro/2/main.py
   ```
+
+## Panduan Menjalankan UI (React & Vite)
+
+Untuk melihat dan menguji data hasil OCR secara visual melalui browser, Anda dapat menjalankan aplikasi `iqro-ui`:
+
+### Cara Praktis (Menggunakan Skrip Shortcut)
+
+Di folder root proyek ini, Anda dapat menjalankan skrip shortcut untuk otomatis menginstal dependensi dan menyalakan development server:
+
+* **Windows**:
+  Double-click berkas `run-ui.bat` atau jalankan lewat terminal:
+  ```cmd
+  run-ui.bat
+  ```
+* **Linux / macOS**:
+  Jalankan lewat terminal:
+  ```bash
+  chmod +x run-ui.sh
+  ./run-ui.sh
+  ```
+
+### Cara Manual
+
+Jika ingin menjalankannya secara manual langkah demi langkah:
+
+1. **Masuk ke Folder UI**:
+   ```bash
+   cd iqro-ui
+   ```
+2. **Instal Dependensi**:
+   ```bash
+   npm install
+   ```
+3. **Jalankan Server Development**:
+   ```bash
+   npm run dev
+   ```
+
+Aplikasi web dapat diakses melalui browser di alamat `http://localhost:5173`. Di sana Anda dapat memilih level Iqro, membaca halamannya, serta memilih engine OCR mana (misalnya `EasyOCR` atau lainnya) yang ingin dimuat datanya secara local melalui dropdown pilihan di bagian atas layar.
 
 ## Kontribusi
 

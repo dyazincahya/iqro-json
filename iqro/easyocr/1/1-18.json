@@ -1,0 +1,157 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": {
+    "latin": "GHAIN",
+    "arab": "غَ"
+  },
+  "instruction_id": "",
+  "instruction_en": "",
+  "instruction_ar": "",
+  "content": [
+    {
+      "order_id": 1,
+      "position": {
+        "row": 1,
+        "col": 1
+      },
+      "latin": "GHAIN",
+      "arabic": "غَ"
+    },
+    {
+      "order_id": 2,
+      "position": {
+        "row": 2,
+        "col": 1
+      },
+      "latin": "GHAIN A GHAIN",
+      "arabic": "غَ اَ غَ"
+    },
+    {
+      "order_id": 3,
+      "position": {
+        "row": 2,
+        "col": 2
+      },
+      "latin": "DA GHAIN THO",
+      "arabic": "دَ غَ طَ"
+    },
+    {
+      "order_id": 4,
+      "position": {
+        "row": 3,
+        "col": 1
+      },
+      "latin": "GHAIN THO GHAIN",
+      "arabic": "غَ طَ غَ"
+    },
+    {
+      "order_id": 5,
+      "position": {
+        "row": 4,
+        "col": 1
+      },
+      "latin": "TSA GHAIN THO",
+      "arabic": "ثَ غَ طَ"
+    },
+    {
+      "order_id": 6,
+      "position": {
+        "row": 4,
+        "col": 2
+      },
+      "latin": "HA JA GHAIN",
+      "arabic": "حَ جَ غَ"
+    },
+    {
+      "order_id": 7,
+      "position": {
+        "row": 4,
+        "col": 3
+      },
+      "latin": "SA THO GHAIN",
+      "arabic": "سَ طَ غَ"
+    },
+    {
+      "order_id": 8,
+      "position": {
+        "row": 5,
+        "col": 1
+      },
+      "latin": "HA RA ZHO",
+      "arabic": "حَ رَ ظَ"
+    },
+    {
+      "order_id": 9,
+      "position": {
+        "row": 5,
+        "col": 2
+      },
+      "latin": "SYA GHAIN THO",
+      "arabic": "شَ غَ طَ"
+    },
+    {
+      "order_id": 10,
+      "position": {
+        "row": 5,
+        "col": 3
+      },
+      "latin": "SHOD RA GHAIN",
+      "arabic": "صَ رَ غَ"
+    },
+    {
+      "order_id": 11,
+      "position": {
+        "row": 6,
+        "col": 1
+      },
+      "latin": "ZA KHO ZHO",
+      "arabic": "زَ خَ ظَ"
+    },
+    {
+      "order_id": 12,
+      "position": {
+        "row": 6,
+        "col": 2
+      },
+      "latin": "DHOD AIN GHAIN",
+      "arabic": "ضَ ع غَ"
+    },
+    {
+      "order_id": 13,
+      "position": {
+        "row": 6,
+        "col": 3
+      },
+      "latin": "TA GHAIN DHOD",
+      "arabic": "تَ غَ ضَ"
+    },
+    {
+      "order_id": 14,
+      "position": {
+        "row": 7,
+        "col": 1
+      },
+      "latin": "SYA RA ZHO",
+      "arabic": "شَ رَ ظَ"
+    },
+    {
+      "order_id": 15,
+      "position": {
+        "row": 8,
+        "col": 1
+      },
+      "latin": "THO AIN BA GHAIN",
+      "arabic": "طَ ع بَ غَ"
+    },
+    {
+      "order_id": 16,
+      "position": {
+        "row": 8,
+        "col": 2
+      },
+      "latin": "BA GHAIN SHOD",
+      "arabic": "بَ غَ صَ"
+    }
+  ]
+}
