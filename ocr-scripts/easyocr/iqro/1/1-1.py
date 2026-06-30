@@ -141,7 +141,7 @@ def run_ocr():
     rows = []
     current_row = [boxes[0]]
     for b in boxes[1:]:
-        if abs(b['cy'] - current_row[-1]['cy']) < row_threshold:
+        if abs(b['cy'] - current_row[0]['cy']) < row_threshold:
             current_row.append(b)
         else:
             current_row.sort(key=lambda b: -b['cx']) # Sort RTL

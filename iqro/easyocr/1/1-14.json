@@ -179,6 +179,42 @@
       },
       "latin": "KHO DA DA RO RO SA SYA SHOD DHOD",
       "arabic": "خَ دَ دَ رَ رَ سَ شَ ضَ"
+    },
+    {
+      "order_id": 20,
+      "position": {
+        "row": 7,
+        "col": 1
+      },
+      "latin": "SH RDH",
+      "arabic": "ص رض"
+    },
+    {
+      "order_id": 21,
+      "position": {
+        "row": 7,
+        "col": 2
+      },
+      "latin": "AB T TS JH KH",
+      "arabic": "آب ت ث جح خ"
+    },
+    {
+      "order_id": 22,
+      "position": {
+        "row": 8,
+        "col": 1
+      },
+      "latin": "D",
+      "arabic": "د"
+    },
+    {
+      "order_id": 23,
+      "position": {
+        "row": 8,
+        "col": 2
+      },
+      "latin": "DZ RZ S SY SH DH",
+      "arabic": "ذ رز س ش ص ض"
     }
   ]
 }

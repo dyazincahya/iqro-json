@@ -37,7 +37,7 @@ def clean_text(text):
         return ""
     cleaned = []
     for c in text:
-        if c.isspace() or c == '=' or ('\\u0621' <= c <= '\\u064A') or ('\\u064B' <= c <= '\\u0652') or c == '\\u0671' or c in '\\u0622\\u0623\\u0625' or c == 'b':
+        if c.isspace() or c == '=' or ('\u0621' <= c <= '\u064A') or ('\u064B' <= c <= '\u0652') or c == '\u0671' or c in '\u0622\u0623\u0625' or c == 'b':
             cleaned.append(c)
     text = "".join(cleaned).strip()
     text = re.sub(r'\\s+', ' ', text)
@@ -57,10 +57,10 @@ def get_latin(arabic_text):
         n = len(p)
         while i < n:
             char = p[i]
-            if i + 1 < n and p[i+1] in ['\\u064E', '\\u0650', '\\u064F', '\\u0652']:
+            if i + 1 < n and p[i+1] in ['\u064E', '\u0650', '\u064F', '\u0652']:
                 combo = char + p[i+1]
                 vowel = p[i+1]
-                if vowel == '\\u0652':
+                if vowel == '\u0652':
                     if char in consonants:
                         word_latin.append(consonants[char])
                 elif combo in vowels_map:
@@ -141,7 +141,7 @@ def run_ocr():
     rows = []
     current_row = [boxes[0]]
     for b in boxes[1:]:
-        if abs(b['cy'] - current_row[-1]['cy']) < row_threshold:
+        if abs(b['cy'] - current_row[0]['cy']) < row_threshold:
             current_row.append(b)
         else:
             current_row.sort(key=lambda b: -b['cx']) # Sort RTL

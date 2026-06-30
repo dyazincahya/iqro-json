@@ -179,6 +179,15 @@
       },
       "latin": "TA HA JA JA DA ZA RA SA SYA",
       "arabic": "تَ حَ جَ جَ دَ ذَ رَ سَ شَ"
+    },
+    {
+      "order_id": 20,
+      "position": {
+        "row": 8,
+        "col": 1
+      },
+      "latin": "TS JHKH DDZ RZ S SY",
+      "arabic": "ثً جحخ دًذ رز س ش"
     }
   ]
 }

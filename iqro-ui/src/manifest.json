@@ -3,6 +3,10 @@
     {
       "id": "easyocr",
       "name": "EasyOCR"
+    },
+    {
+      "id": "paddleocr",
+      "name": "Paddleocr"
     }
   ],
   "levels": [

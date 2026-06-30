@@ -57,8 +57,8 @@
     {
       "order_id": 6,
       "position": {
-        "row": 3,
-        "col": 3
+        "row": 4,
+        "col": 1
       },
       "latin": "DZA DA TSA",
       "arabic": "ذَ دَ ثَ"
@@ -66,7 +66,7 @@
     {
       "order_id": 7,
       "position": {
-        "row": 4,
+        "row": 5,
         "col": 1
       },
       "latin": "DZA DA TA",
@@ -75,7 +75,7 @@
     {
       "order_id": 8,
       "position": {
-        "row": 4,
+        "row": 5,
         "col": 2
       },
       "latin": "DZA DA BA",
@@ -84,7 +84,7 @@
     {
       "order_id": 9,
       "position": {
-        "row": 4,
+        "row": 5,
         "col": 3
       },
       "latin": "DZA DA A",
@@ -93,7 +93,7 @@
     {
       "order_id": 10,
       "position": {
-        "row": 4,
+        "row": 5,
         "col": 4
       },
       "latin": "DZA DA KHO",
@@ -102,7 +102,7 @@
     {
       "order_id": 11,
       "position": {
-        "row": 5,
+        "row": 6,
         "col": 1
       },
       "latin": "DZA DA DA",
@@ -111,7 +111,7 @@
     {
       "order_id": 12,
       "position": {
-        "row": 5,
+        "row": 6,
         "col": 2
       },
       "latin": "A BA TA TSA",
@@ -120,7 +120,7 @@
     {
       "order_id": 13,
       "position": {
-        "row": 5,
+        "row": 6,
         "col": 3
       },
       "latin": "JA HA KHO",
@@ -129,11 +129,38 @@
     {
       "order_id": 14,
       "position": {
-        "row": 6,
+        "row": 7,
         "col": 1
       },
       "latin": "A BA TA TSA JA HA KHO DA DZA",
       "arabic": "أَ بَ تَ ثَ جَ حَ خَ دَ ذَ"
+    },
+    {
+      "order_id": 15,
+      "position": {
+        "row": 7,
+        "col": 2
+      },
+      "latin": "AKH DZ",
+      "arabic": "اخ ذ"
+    },
+    {
+      "order_id": 16,
+      "position": {
+        "row": 8,
+        "col": 1
+      },
+      "latin": "KH D",
+      "arabic": "خ د"
+    },
+    {
+      "order_id": 17,
+      "position": {
+        "row": 9,
+        "col": 1
+      },
+      "latin": "ABT TS J H KH DDZ",
+      "arabic": "ابت ث ج ح خ دذ"
     }
   ]
 }

@@ -125,6 +125,33 @@
       },
       "latin": "A BA TA TSA JA HA KHO",
       "arabic": "أَ بَ تَ ثَ جَ حَ خَ"
+    },
+    {
+      "order_id": 14,
+      "position": {
+        "row": 7,
+        "col": 1
+      },
+      "latin": "A KH KH",
+      "arabic": "ا خ خ"
+    },
+    {
+      "order_id": 15,
+      "position": {
+        "row": 7,
+        "col": 2
+      },
+      "latin": "J H KH",
+      "arabic": "ج ح خ"
+    },
+    {
+      "order_id": 16,
+      "position": {
+        "row": 8,
+        "col": 1
+      },
+      "latin": "ABT TS JH KH",
+      "arabic": "ابت ث جح خ"
     }
   ]
 }

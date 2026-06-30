@@ -188,6 +188,15 @@
       },
       "latin": "THO ZHO AIN GHAIN FA QOF",
       "arabic": "طَ ظَ ع غَ فَ قَ"
+    },
+    {
+      "order_id": 21,
+      "position": {
+        "row": 8,
+        "col": 3
+      },
+      "latin": "Q",
+      "arabic": "ق"
     }
   ]
 }
