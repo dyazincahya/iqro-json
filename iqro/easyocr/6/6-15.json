@@ -46,8 +46,8 @@
       }
     },
     {
-      "arabic": "وَطَلْحٍ مَّنْضُودٍ لَّهُ ذُرِّيَّةً ضُعَفَاءُ ○",
-      "latin": "WATHALHIM MANDHUUDIL LAHU DZURRIYYATAN DHU'AAFAA'U ○",
+      "arabic": "وَطَلْحٍ مَّنْضُودٍ ○",
+      "latin": "WATHALHIM MANDHUUDIN ○",
       "order_id": 6,
       "position": {
         "col": 1,
@@ -55,9 +55,18 @@
       }
     },
     {
+      "arabic": "لَّهُ ذُرِّيَّةً ضُعَفَاءُ ○",
+      "latin": "LLAHU DZURRIYYATAN DHU'AAFAA'U ○",
+      "order_id": 7,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
       "arabic": "وَكُلًّا ضَرَبْنَا لَهُ الْأَمْثَلَ وَكُلًّا تَبَّرْنَا تَتْبِيرًا ○",
       "latin": "WAKULLAN DHARABNAA LAHUL AMTSAALA WAKULLAN TABBARNAA TATBIIRAA ○",
-      "order_id": 7,
+      "order_id": 8,
       "position": {
         "col": 1,
         "row": 7
@@ -66,7 +75,7 @@
     {
       "arabic": "وَقَالَ الظَّلِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلًا مَّسْحُورًا ○",
       "latin": "WAQAALAZH ZHAALIMUUNA IN TATTABI'UUNA ILLAA RAJULAM MAS-HUURAA ○",
-      "order_id": 8,
+      "order_id": 9,
       "position": {
         "col": 1,
         "row": 8

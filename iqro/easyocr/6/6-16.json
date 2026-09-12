@@ -11,7 +11,7 @@
     },
     {
       "arabic": "فِدْيَةٌ طَعَامُ - حَلَلًا طَيِّبًا ○",
-      "latin": "FIDYATUN THA'AAMU - HALLAALAN THAYYIBAA ○",
+      "latin": "FIDYATUN THA'AAMU - HALALAN THAYYIBAA ○",
       "order_id": 2,
       "position": {
         "col": 1,
@@ -46,8 +46,8 @@
       }
     },
     {
-      "arabic": "هُمْ يَنْظُرُونَ - عَلَى أَرَائِكِ يَنْظُرُونَ ○",
-      "latin": "HUM YANZHURUUNA - 'ALAA ARAA'IKI YANZHURUUNA ○",
+      "arabic": "هُمْ يَنْظُرُونَ - عَلَى الْأَرَائِكِ يَنْظُرُونَ ○",
+      "latin": "HUM YANZHURUUNA - 'ALAL ARAA'IKI YANZHURUUNA ○",
       "order_id": 6,
       "position": {
         "col": 1,
@@ -55,8 +55,8 @@
       }
     },
     {
-      "arabic": "مِرَاءً ظَهِرًا وَلَا تَسْتَفْتِ فِيهِمْ مِنْهُمْ أَحَدًا ○",
-      "latin": "MIRAA'AN ZHAAHIRAW WALAA TASTAFTI FIIHIM MINHUM AHADAA ○",
+      "arabic": "إِلَّا مِرَاءً ظَهِرًا وَلَا تَسْتَفْتِ فِيهِمْ مِنْهُمْ أَحَدًا ○",
+      "latin": "ILLAA MIRAA'AN ZHAHIRAA WALAA TASTAFTI FIIHIM MINHUM AHADAA ○",
       "order_id": 7,
       "position": {
         "col": 1,

@@ -10,8 +10,8 @@
       }
     },
     {
-      "arabic": "إِذَا السَّمَاءُ انفَطَرَتْ ○ وَإِذَا الْكَوَاكِبُ انتَثَرَتْ ○",
-      "latin": "'IDZAA ASSAMAA'U INFATHOROT ○ WA'IDZAA ALKAWAAKIBU INTATSAROT ○",
+      "arabic": "إِذَا السَّمَاءُ انفَطَرَتْ ○",
+      "latin": "'IDZAA ASSAMAA'U INFATHOROT ○",
       "order_id": 2,
       "position": {
         "col": 1,
@@ -19,9 +19,18 @@
       }
     },
     {
+      "arabic": "وَإِذَا الْكَوَاكِبُ انتَثَرَتْ ○",
+      "latin": "WA'IDZAA ALKAWAAKIBU INTATSAROT ○",
+      "order_id": 3,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
       "arabic": "يَا رَبِّ إِنَّ قَوْمِي اتَّخَذُوا هَذَا الْقُرْآنَ مَهْجُورًا ○",
       "latin": "YAA ROBBI 'INNA QOUMII ATTAKHODZUU HAADZAA ALQUR'AANA MAHJUURON ○",
-      "order_id": 3,
+      "order_id": 4,
       "position": {
         "col": 1,
         "row": 3
@@ -30,7 +39,7 @@
     {
       "arabic": "إِنَّا رَادُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ الْمُرْسَلِينَ ○",
       "latin": "'INNAA ROODDUUHU 'ILAIKI WAJAA'ILUUHU MINALMURSALIIN ○",
-      "order_id": 4,
+      "order_id": 5,
       "position": {
         "col": 1,
         "row": 4
@@ -39,7 +48,7 @@
     {
       "arabic": "قِ - مِن قَبْلِكُمْ - بِأَيِّ ذَنبٍ قُتِلَتْ ○",
       "latin": "QI - MIN QOBLIKUM - BI'AYYI DZANBIN QUTILAT ○",
-      "order_id": 5,
+      "order_id": 6,
       "position": {
         "col": 1,
         "row": 5
@@ -48,7 +57,7 @@
     {
       "arabic": "يُوفُونَ بِعَهْدِ اللَّهِ وَلَا يَنقُضُونَ الْمِيثَاقَ ○",
       "latin": "YUUFUUNA BI'AHDI ALLAAHI WALAA YANQUDHUUNALMIITSAAQO ○",
-      "order_id": 6,
+      "order_id": 7,
       "position": {
         "col": 1,
         "row": 6
@@ -57,7 +66,7 @@
     {
       "arabic": "وَالْجَانَّ خَلَقْنَهُ مِن قَبْلُ مِن نَارِ السَّمُومِ ○",
       "latin": "WALJAANNA KHOLAQNAHU MIN QOBLU MIN NAARISSAMUUM ○",
-      "order_id": 7,
+      "order_id": 8,
       "position": {
         "col": 1,
         "row": 7
@@ -66,7 +75,7 @@
     {
       "arabic": "بَلْ كَذَّبُوا بِالْحَقِّ لَمَّا جَاءَهُمْ فَهُمْ فِي أَمْرٍ مَرِيجٍ ○",
       "latin": "BAL KADZDZABUU BILHAQQI LAMMAA JAA'AHUM FAHUM FII 'AMRIM MARIJJ ○",
-      "order_id": 8,
+      "order_id": 9,
       "position": {
         "col": 1,
         "row": 8

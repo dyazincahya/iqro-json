@@ -10,8 +10,8 @@
       }
     },
     {
-      "arabic": "وَفَاكِهَةٍ كَثِيرَةٍ ○ وَلَتَعْلُنَّ عُلُوًّا كَبِيرًا ○",
-      "latin": "WAFAAKIHATIN KATSIIROTIN ○ WALATA'LUNNA 'ULUWWAN KABIIRON ○",
+      "arabic": "وَفَاكِهَةٍ كَثِيرَةٍ ○",
+      "latin": "WAFAAKIHATIN KATSIIROTIN ○",
       "order_id": 2,
       "position": {
         "col": 1,
@@ -19,9 +19,18 @@
       }
     },
     {
+      "arabic": "وَلَتَعْلُنَّ عُلُوًّا كَبِيرًا ○",
+      "latin": "WALATA'LUNNA 'ULUWWAN KABIIRON ○",
+      "order_id": 3,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
       "arabic": "إِنَّا مَكَّنَّا لَهُ فِي الْأَرْضِ وَآتَيْنَهُ مِن كُلِّ شَيْءٍ سَبَبًا ○",
       "latin": "'INNAA MAKKANNAA LAHU FII AL'ARDHI WA'AATAINAAHU MIN KULLI SYAI'IN SABABAN ○",
-      "order_id": 3,
+      "order_id": 4,
       "position": {
         "col": 1,
         "row": 3
@@ -30,7 +39,7 @@
     {
       "arabic": "يَا أَيُّهَا الْمَلَأُ إِنِّي أُلْقِيَ إِلَيَّ كِتَابٌ كَرِيمٌ ○",
       "latin": "YAA 'AYYUHALMALA'U 'INNII 'ULQIYA 'ILAYYA KITAABUN KARIIM ○",
-      "order_id": 4,
+      "order_id": 5,
       "position": {
         "col": 1,
         "row": 4
@@ -39,7 +48,7 @@
     {
       "arabic": "إِذَا جَعَلَهُ نَارًا قَالَ آتُونِي أُفْرِغْ عَلَيْهِ قِطْرًا ○",
       "latin": "'IDZAA JA'ALAHU NAARON QOOLA AATUUNII 'UFRIGH 'ALAIHI QITHRON ○",
-      "order_id": 5,
+      "order_id": 6,
       "position": {
         "col": 1,
         "row": 5
@@ -48,7 +57,7 @@
     {
       "arabic": "إِن كَانَتْ إِلَّا صَيْحَةً وَاحِدَةً فَإِذَا هُمْ خَامِدُونَ ○",
       "latin": "'IN KAANAT 'ILLAA SHOIHATAN WAAHIDATAN FA'IDZAA HUM KHOOMIDUUN ○",
-      "order_id": 6,
+      "order_id": 7,
       "position": {
         "col": 1,
         "row": 6
@@ -57,7 +66,7 @@
     {
       "arabic": "يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوا إِلَّا عَشِيَّةً أَوْ ضُحَهَا ○",
       "latin": "YAWMA YAROWNAHAA LAM YALBATSUU 'ILLAA 'ASYIYYATAN AW DHUHAAHAA ○",
-      "order_id": 7,
+      "order_id": 8,
       "position": {
         "col": 1,
         "row": 7
@@ -66,7 +75,7 @@
     {
       "arabic": "فَإِنَّ لَهُ مَعِيشَةً ضَنكًا وَنَحْشُرُهُ يَوْمَ الْقِيَمَةِ أَعْمَى ○",
       "latin": "FA'INNA LAHU MA'IISYATAN DHONKAN WANAHSHURUHU YAWMA ALQIYAAMATI A'MAA ○",
-      "order_id": 8,
+      "order_id": 9,
       "position": {
         "col": 1,
         "row": 8

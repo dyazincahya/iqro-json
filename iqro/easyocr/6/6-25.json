@@ -29,7 +29,7 @@
     },
     {
       "arabic": "وَلَو كُنتَ فَظًّا غَلِيظَ القَلبِ لَانفَضُّوا مِن حَولِكَ",
-      "latin": "WALAU KUNTA FAZHTHON GHOLIITHOL QOLBI LANFADHDHUU MIN HAULIKA",
+      "latin": "WALAU KUNTA FAZHZHON GHOLIIZHOL QOLBI LANFADHDHUU MIN HAULIKA",
       "order_id": 4,
       "position": {
         "col": 1,
@@ -56,7 +56,7 @@
     },
     {
       "arabic": "إِنَّا نَحنُ نَزَّلنَا الذِّكرَ وَإِنَّا لَهُ لَحَافِظُونَ ○",
-      "latin": "INNAA NAHNU NAZZALNADZ DZIKRO WA'INNAA LAHUU LAHAA FIZHUUNA ○",
+      "latin": "INNAA NAHNU NAZZALNADZ DZIKRO WA'INNAA LAHUU LAHAAFIZHUUNA ○",
       "order_id": 7,
       "position": {
         "col": 1,

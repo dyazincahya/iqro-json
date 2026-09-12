@@ -1,8 +1,8 @@
 {
   "content": [
     {
-      "arabic": "بِسمِ اللهِ الرَّحمَنِ الرَّحِيمِ ○ الٓمٓ ○",
-      "latin": "BISMILLAAHIRROHMAANIRROHIIM ○ ALIF LAAM MIIM ○",
+      "arabic": "بِسمِ اللهِ الرَّحمَنِ الرَّحِيمِ ○",
+      "latin": "BISMILLAAHIRROHMAANIRROHIIM ○",
       "order_id": 1,
       "position": {
         "col": 1,
@@ -10,9 +10,18 @@
       }
     },
     {
+      "arabic": "الٓمٓ ○",
+      "latin": "ALIF LAAM MIIM ○",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
       "arabic": "ذَلِكَ الكِتَابُ لَا رَيبَ فِيهِ هُدًى لِّلمُتَّقِينَ ○",
       "latin": "DZAALIKAL KITAABU LAA ROIBA FIIHI HUDAN LLILMUTTAQIINA ○",
-      "order_id": 2,
+      "order_id": 3,
       "position": {
         "col": 1,
         "row": 2
@@ -21,7 +30,7 @@
     {
       "arabic": "وَلَقَد آتَينَا لُقمَانَ الحِكمَةَ أَنِ اشكُر لِلهِ وَمِن يَشكُر",
       "latin": "WALAQOD AATAINAA LUQMAANAL HIKMATA ANISYKUR LILLAAHI WAMAN YYASYKUR",
-      "order_id": 3,
+      "order_id": 4,
       "position": {
         "col": 1,
         "row": 3
@@ -30,7 +39,7 @@
     {
       "arabic": "فَإِنَّمَا يَشكُرُ لِنَفسِهِ وَمِن كَفَرَ فَإِنَّ اللهَ غَنِيٌّ حَمِيدٌ ○",
       "latin": "FA'INNAMAA YASYKURU LINAFSIHI WAMAN KAFARO FA'INNALLOHA GHONIYYUN HAMIIDUN ○",
-      "order_id": 4,
+      "order_id": 5,
       "position": {
         "col": 1,
         "row": 4
@@ -39,7 +48,7 @@
     {
       "arabic": "وَإِذ قَالَ لُقمَانُ لِابنِهِ وَهُوَ يَعِظُهُ يَا بُنَيَّ لَا تُشرِك",
       "latin": "WA'IDZ QOOLA LUQMAANU LIBNIHI WAHUWA YA'IZHUHU YAA BUNAYYA LAA TUSYRIK",
-      "order_id": 5,
+      "order_id": 6,
       "position": {
         "col": 1,
         "row": 5
@@ -48,7 +57,7 @@
     {
       "arabic": "بِاللهِ إِنَّ الشِّركَ لَظُلمٌ عَظِيمٌ ○ وَوَصَّينَا الإِنسَانَ",
       "latin": "BILLAAHI INNASY SYIRKA LAZHULMUN 'AZHIIMUN ○ WAWASHSHOINAL INSAANA",
-      "order_id": 6,
+      "order_id": 7,
       "position": {
         "col": 1,
         "row": 6
@@ -57,7 +66,7 @@
     {
       "arabic": "بِوَالِدَيهِ حَمَلَتهُ أُمُّهُ وَهنًا عَلَى وَهنٍ وَفِصَالُهُ",
       "latin": "BIWAALIDAIHI HAMALATHU UMMUHU WAHNAN 'ALAA WAHNIN WAFISHOOLUHU",
-      "order_id": 7,
+      "order_id": 8,
       "position": {
         "col": 1,
         "row": 7
@@ -66,7 +75,7 @@
     {
       "arabic": "فِي عَامَينِ أَنِ اشكُر لِي وَلِوَالِدَيكَ إِلَيَّ المَصِيرُ ○",
       "latin": "FII 'AAMAINI ANISYKUR LII WALIWAALIDAIKA ILAYYAL MASHIIRU ○",
-      "order_id": 8,
+      "order_id": 9,
       "position": {
         "col": 1,
         "row": 8

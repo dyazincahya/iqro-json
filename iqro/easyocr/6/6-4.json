@@ -11,7 +11,7 @@
     },
     {
       "arabic": "مِن - يَومَئِذٍ",
-      "latin": "MIN - YYOUMA'IDZIN",
+      "latin": "MIN - YYAUMA'IDZIN",
       "order_id": 2,
       "position": {
         "col": 2,
@@ -56,7 +56,7 @@
     },
     {
       "arabic": "وُجُوهٌ يَومَئِذٍ مُّسفِرَةٌ ○",
-      "latin": "WUJUUHUN YOUMA'IDZIN MMUSFIROTUN ○",
+      "latin": "WUJUUHUN YAUMA'IDZIN MMUSFIROTUN ○",
       "order_id": 7,
       "position": {
         "col": 1,
@@ -92,7 +92,7 @@
     },
     {
       "arabic": "لَعِبرَةً لِّمَن يَخشَى ○",
-      "latin": "LA'IBROTAN LLIMAN YAKHSYAA ○",
+      "latin": "LA'IBROTAN LLIMAN YYAKHSYAA ○",
       "order_id": 11,
       "position": {
         "col": 1,
@@ -110,7 +110,7 @@
     },
     {
       "arabic": "وَيلٌ يَومَئِذٍ لِّلمُكَذِّبِينَ ○",
-      "latin": "WAYLUN YOUMA'IDZIN LLILMUKADZDZIBIINA ○",
+      "latin": "WAYLUN YAUMA'IDZIN LLILMUKADZDZIBIINA ○",
       "order_id": 13,
       "position": {
         "col": 1,
