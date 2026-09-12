@@ -10,7 +10,7 @@
       }
     },
     {
-      "arabic": "فِدْيَةٌ طَعَامُ - حَلَلًا طَيِّبًا ○",
+      "arabic": "فِدْيَةٌ طَعَامُ - حَلَالًا طَيِّبًا ○",
       "latin": "FIDYATUN THA'AAMU - HALALAN THAYYIBAA ○",
       "order_id": 2,
       "position": {
@@ -64,7 +64,7 @@
       }
     },
     {
-      "arabic": "قَالَ سَنَنْظُرُ أَصَدَقْتَ أَمْ كُنْتَ مِنَ الْكَذِبِينَ ○",
+      "arabic": "قَالَ سَنَنْظُرُ أَصَدَقْتَ أَمْ كُنْتَ مِنَ الْكَاذِبِينَ ○",
       "latin": "QAALA SANANZHURU ASHADAQTA AM KUNTA MINAL KAADZIBIINA ○",
       "order_id": 8,
       "position": {
