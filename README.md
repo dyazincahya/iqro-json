@@ -49,9 +49,13 @@ Sebagai bentuk apresiasi dan kekaguman saya terhadap manfaat besar dari buku ini
 
 ## Tidak untuk di komersialisasikan
 
-Proyek ini tidak dibuat untuk tujuan komersial, melainkan semata-mata untuk kepentingan edukasi, khususnya dalam pemanfaatan teknologi sebagai media pembelajaran berbasis aplikasi. Dengan adanya dokumentasi ini, saya berharap semakin banyak orang dapat mengakses dan mempelajari Iqro' dengan lebih mudah melalui berbagai platform digital.
-
-Mengimbau kepada para pengembang yang ingin menggunakan data dari proyek ini untuk membuat aplikasi agar tidak mengkomersialisasikan aplikasinya. Hendaknya aplikasi tersebut disebarluaskan secara gratis sebagai bentuk amal jariyah bagi Bapak `KH. As‘ad Humam`, sehingga pahalanya terus mengalir kepada beliau hingga akhirat kelak. Semoga setiap ilmu yang dipelajari dari aplikasi ini menjadi ladang pahala bagi beliau dan kita semua, Amiin.
+> [!WARNING]
+> **PERINGATAN: TIDAK UNTUK DIKOMERSIALISASIKAN**
+>
+> Proyek ini **tidak dibuat untuk tujuan komersial**, melainkan semata-mata untuk kepentingan edukasi, khususnya dalam pemanfaatan teknologi sebagai media pembelajaran berbasis aplikasi. Dengan adanya dokumentasi ini, saya berharap semakin banyak orang dapat mengakses dan mempelajari Iqro' dengan lebih mudah melalui berbagai platform digital.
+>
+> **Imbauan bagi Pengembang:**
+> Mengimbau kepada para pengembang yang ingin menggunakan data dari proyek ini untuk membuat aplikasi agar **tidak mengkomersialisasikan** aplikasinya. Hendaknya aplikasi tersebut disebarluaskan secara **gratis** sebagai bentuk amal jariyah bagi Bapak `KH. As‘ad Humam`, sehingga pahalanya terus mengalir kepada beliau hingga akhirat kelak. Semoga setiap ilmu yang dipelajari dari aplikasi ini menjadi ladang pahala bagi beliau dan kita semua, Amiin.
 
 ## Tentang Iqro
 
@@ -69,10 +73,10 @@ Iqro (bahasa Arab: اقرأ, translit. iqraʾ, har. 'Bacalah!'; judul lengkap: B
 - [x] [Huruf Hijaiyah dengan Vokal](https://github.com/dyazincahya/iqro-json/blob/main/hijaiyah-letters-with-vowels.json)
 - [x] Iqro 1
 - [x] Iqro 2
- - [x] Iqro 3
- - [x] Iqro 4
- - [x] Iqro 5
- - [x] Iqro 6
+- [x] Iqro 3
+- [x] Iqro 4
+- [x] Iqro 5
+- [x] Iqro 6
 
 ## Panduan OCR (Python & EasyOCR)
 
@@ -111,14 +115,16 @@ for bbox, text, confidence in results:
 
 Anda dapat menjalankan skrip OCR yang sudah dikhususkan per halaman berkas gambar secara mandiri untuk memperbarui berkas JSON:
 
-* **Menjalankan OCR untuk satu gambar spesifik:**
+- **Menjalankan OCR untuk satu gambar spesifik:**
   Jalankan file skrip `.py` yang sesuai dengan halaman yang ingin Anda baca (misalnya Iqro 2 Halaman 2):
+
   ```bash
   python ocr-scripts/easyocr/iqro/2/2-2.py
   ```
-  *Skrip ini akan membaca gambar `iqro-images/2/2-2.png` dan menghasilkan berkas JSON presisi di `iqro/easyocr/2/2-2.json`.*
 
-* **Menjalankan semua skrip OCR pada satu Level Iqro sekaligus:**
+  _Skrip ini akan membaca gambar `iqro-images/2/2-2.png` dan menghasilkan berkas JSON presisi di `iqro/easyocr/2/2-2.json`._
+
+- **Menjalankan semua skrip OCR pada satu Level Iqro sekaligus:**
   Masuk ke folder level yang diinginkan dan jalankan berkas `main.py` di dalam folder tersebut:
   ```bash
   python ocr-scripts/easyocr/iqro/2/main.py
@@ -132,12 +138,12 @@ Untuk melihat dan menguji data hasil OCR secara visual melalui browser, Anda dap
 
 Di folder root proyek ini, Anda dapat menjalankan skrip shortcut untuk otomatis menginstal dependensi dan menyalakan development server:
 
-* **Windows**:
+- **Windows**:
   Double-click berkas `run-ui.bat` atau jalankan lewat terminal:
   ```cmd
   run-ui.bat
   ```
-* **Linux / macOS**:
+- **Linux / macOS**:
   Jalankan lewat terminal:
   ```bash
   chmod +x run-ui.sh
@@ -168,6 +174,17 @@ Aplikasi web dapat diakses melalui browser di alamat `http://localhost:5173`. Di
 Data ini mungkin _belum sepenuhnya_ sesuai dengan referensi buku Iqro yang ada. Mohon bantuannya untuk mengoreksi atau memperbaiki jika Anda menemukan kesalahan. Kontribusi sekecil apa pun dari Anda akan sangat berarti dalam menyempurnakan data ini. Jika Anda ingin berkontribusi pada proyek ini, silakan fork dan clone repositori, lalu lakukan perubahan sesuai format yang sudah ada. Setelah itu, ajukan pull request (PR) agar perubahan dapat ditinjau dan digabungkan. Pastikan format JSON tetap seragam.
 
 Terima kasih atas kontribusi Anda! 🚀
+
+## Kontributor
+
+Terima kasih sebesar-besarnya kepada rekan-rekan yang telah berkontribusi dan meluangkan waktu serta tenaganya dalam mendigitalkan dan menyempurnakan repositori ini:
+
+<a href="https://github.com/dyazincahya/iqro-json/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dyazincahya/iqro-json" alt="Daftar Kontributor" />
+</a>
+
+- [**Kang Cahya** (@dyazincahya)](https://github.com/dyazincahya) — _Inisiator & Maintainer_
+- [**Sony AK** (@sonyarianto)](https://github.com/sonyarianto) — _Kontributor_
 
 ## Kredit
 
