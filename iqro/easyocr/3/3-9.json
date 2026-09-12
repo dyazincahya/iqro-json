@@ -1,0 +1,202 @@
+{
+  "content": [
+    {
+      "arabic": "طَاهِرِينَ",
+      "latin": "THOOHIRIINA",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "خَالِدِينَ",
+      "latin": "KHOOLIDIINA",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "حِسَابِهِ",
+      "latin": "HISAABIHI",
+      "order_id": 3,
+      "position": {
+        "col": 3,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "ظَالِمِينَ",
+      "latin": "ZHOOLIMIINA",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "ثَاقِفِينَ",
+      "latin": "TSAAQIFIINA",
+      "order_id": 5,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "شَاهِدِهِ",
+      "latin": "SYAAHIDIHI",
+      "order_id": 6,
+      "position": {
+        "col": 3,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "لَهَاتِفَ",
+      "latin": "LAHAATIFA",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "زَکَاتِکَ",
+      "latin": "ZAKAATIKA",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "أَذَانِهِ",
+      "latin": "ADZAANIHI",
+      "order_id": 9,
+      "position": {
+        "col": 3,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "حَافِظِينَ",
+      "latin": "HAAFIZHIINA",
+      "order_id": 10,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "شَاطِئَهَا",
+      "latin": "SYAATHI'AHAA",
+      "order_id": 11,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "فَمَالِئِ",
+      "latin": "FAMAALI'I",
+      "order_id": 12,
+      "position": {
+        "col": 3,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "طَالِبِينَ",
+      "latin": "THOOLIBIINA",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "ذَکِرِينَ",
+      "latin": "DZAKIRIINA",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "أَصَابِعِهِ",
+      "latin": "ASHOABI'IHI",
+      "order_id": 15,
+      "position": {
+        "col": 3,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "فَهَالِکَ",
+      "latin": "FAHAALIKA",
+      "order_id": 16,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "مَوَالِيَ",
+      "latin": "MAWAALIYA",
+      "order_id": 17,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "بِزِيَادِهِ",
+      "latin": "BIZIYAADAHI",
+      "order_id": 18,
+      "position": {
+        "col": 3,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "فِيتْمَى",
+      "latin": "FIITMAA",
+      "order_id": 19,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "مَسَاکِينَ",
+      "latin": "MASAAKIINA",
+      "order_id": 20,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "بِنَاصِرِهِ",
+      "latin": "BINAASHIRIHI",
+      "order_id": 21,
+      "position": {
+        "col": 3,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "كررها مرارا ! حتى لا يبقى أي خطأ.",
+  "instruction_en": "REPEAT IT OVER AND OVER! UNTIL THERE ARE NO MORE MISTAKES.",
+  "instruction_id": "ULANG-ULANGILAH ! SAMPAI TIADA KELIRU LAGI",
+  "level_id": 3,
+  "level_title": "IQRO' 3",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

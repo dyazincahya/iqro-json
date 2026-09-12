@@ -1,0 +1,292 @@
+{
+  "content": [
+    {
+      "arabic": "تَ تِ",
+      "latin": "TA TI",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "دَ دِ",
+      "latin": "DA DI",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "نَ نِ",
+      "latin": "NA NI",
+      "order_id": 3,
+      "position": {
+        "col": 3,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "مَ مِ",
+      "latin": "MA MI",
+      "order_id": 4,
+      "position": {
+        "col": 4,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "بَبَ",
+      "latin": "BABA",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "بِبِ",
+      "latin": "BIBI",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "تَتِ",
+      "latin": "TATI",
+      "order_id": 7,
+      "position": {
+        "col": 3,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "تِتِ",
+      "latin": "TITI",
+      "order_id": 8,
+      "position": {
+        "col": 4,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "نَبَتَ",
+      "latin": "NABATA",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "نَبِتِ",
+      "latin": "NABITI",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "نَجَسَ",
+      "latin": "NAJASA",
+      "order_id": 11,
+      "position": {
+        "col": 3,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "نَجِسِ",
+      "latin": "NAJISI",
+      "order_id": 12,
+      "position": {
+        "col": 4,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "بَلَدَ",
+      "latin": "BALADA",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "بَلِدِ",
+      "latin": "BALIDI",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "حَسَنَ",
+      "latin": "HASANA",
+      "order_id": 15,
+      "position": {
+        "col": 3,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "حَسِنِ",
+      "latin": "HASINI",
+      "order_id": 16,
+      "position": {
+        "col": 4,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "عَمِلَ",
+      "latin": "'AMILA",
+      "order_id": 17,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "شَهِدَ",
+      "latin": "SYAHIDA",
+      "order_id": 18,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "فَهِمَ",
+      "latin": "FAHIMA",
+      "order_id": 19,
+      "position": {
+        "col": 3,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "لَزِمَ",
+      "latin": "LAZIMA",
+      "order_id": 20,
+      "position": {
+        "col": 4,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "بِ",
+      "latin": "BI",
+      "order_id": 21,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "تِ",
+      "latin": "TI",
+      "order_id": 22,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "جِ",
+      "latin": "JI",
+      "order_id": 23,
+      "position": {
+        "col": 3,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "خِ",
+      "latin": "KHI",
+      "order_id": 24,
+      "position": {
+        "col": 4,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "دِ",
+      "latin": "DI",
+      "order_id": 25,
+      "position": {
+        "col": 5,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "دِ",
+      "latin": "DI",
+      "order_id": 26,
+      "position": {
+        "col": 6,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "فِ",
+      "latin": "FI",
+      "order_id": 27,
+      "position": {
+        "col": 7,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "فِ",
+      "latin": "FI",
+      "order_id": 28,
+      "position": {
+        "col": 8,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "اِ",
+      "latin": "I",
+      "order_id": 29,
+      "position": {
+        "col": 9,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "مِ",
+      "latin": "MI",
+      "order_id": 30,
+      "position": {
+        "col": 10,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "مِ",
+      "latin": "MI",
+      "order_id": 31,
+      "position": {
+        "col": 11,
+        "row": 6
+      }
+    }
+  ],
+  "instruction_ar": "بِ = بِي (الكَسْرَة هِيَ عَلامَة الياء). اِقْرَأِ الكُلَّ قَصِيرًا ولا يَجُوزُ مَدُّهُ.",
+  "instruction_en": "Bi = BI (i = kasrah vowel). Read everything short — it must not be lengthened.",
+  "instruction_id": "Bi = بِ  i = tanda kasrah. SEMUA DIBACA PENDEK TIDAK BOLEH DIPANJANG-PANJANGKAN",
+  "level_id": 3,
+  "level_title": "IQRO' 3",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

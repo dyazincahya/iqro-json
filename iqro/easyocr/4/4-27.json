@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "arabic": "بَعضُنَا بِبَعضٍ",
+      "latin": "BA'DHUNAA BIBA'DHIN",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "إِعمَلُوا مَا شِئتُمُ",
+      "latin": "I'MALUU MAA SYI'TUMU",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَلَقَد جِئتُمُونَا",
+      "latin": "WALAQOD JI'TUMUUNAA",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "فِي طُغيَانِهِم يَعمَهُونَ",
+      "latin": "FII THUGHYANIHIM YA'MAHUUNA",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "إِذَا رَجَعتُم إِلَيهِمُ",
+      "latin": "IDZAA ROJA'TUM ILAIHIMU",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "فَأَكثَرتَ جِدَالَنَا",
+      "latin": "FA'AKTSARTA JIDAALANAA",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "فَارْتَقِب يَومَ تَأتِي",
+      "latin": "FAARTAQIB YAWMA TA'TII",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "إِعمَلُوا عَلَى مَكَانَتِكُمُ",
+      "latin": "I'MALUU 'ALAA MAKAANATIKUMU",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَلَسَوفَ يُعطِيكَ",
+      "latin": "WALASAWFA YU'THIIKA",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "أَحمِلُ فَوقَ رَأَسِي",
+      "latin": "AHMILU FAWQO RO'SII",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَكَرِهُوا رِضوَانَهُ",
+      "latin": "WAKARIHUU RIDHWAANAHU",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "فَأَحبَطَ أَعمَالَهُمُ",
+      "latin": "FA'AHBATHO A'MAALAHUMU",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "فَيُحفِكُم تَبخَلُوا وَيُخرِجَ أَضغَانَكُمُ",
+      "latin": "FAYUHFIKUM TABKHALUU WAYUKHRIJU ADHGHOONAKUMU",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "لَقَد كَانَ لَكُم فِيهِم أُسوَةٌ حَسَنَةٌ",
+      "latin": "LAQOD KAANA LAKUM FIIHIM USWATUN HASANATUN",
+      "order_id": 14,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 4,
+  "level_title": "IQRO' 4",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

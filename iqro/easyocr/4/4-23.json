@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "arabic": "مَاكِثِينَ فِيهِ أَبَدًا",
+      "latin": "MAAKITSIINA FIIHI ABADAN",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "لِسَعِيهَا رَاضِيَةٌ",
+      "latin": "LISA'IIHAA ROODHIYATUN",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "فَلْيَذُوقُوا حَمِيمَهُ",
+      "latin": "FALYADZUUQUU HAMIIMAHU",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "بِعَجَلٍ حَنِيذٍ",
+      "latin": "BI'AJALIN HANIIDZIN",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "لَا تَقُولُوا رَاعِنَا",
+      "latin": "LAA TAQUULUU ROO'INAA",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَأَوفُوا بِعَهدِي",
+      "latin": "WA'AWFUU BI'AHDII",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "لَكُمَ كَيفَ تَحكُمُونَ",
+      "latin": "LAKUMA KAIFA TAHKUMUUNA",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "خُذَ بِيَدِكَ ضِغثًا",
+      "latin": "KHUDZ BIYADIKA DHIGHTSAN",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَلَوَ كَانَ ذَا قُربَى",
+      "latin": "WALAW KAANA DZAA QURBAA",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَلَوَ أَلقَى مَعَاذِيرَهُ",
+      "latin": "WALAW ALQOO MA'AADZIIROHU",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "أَسفَلَ سَافِلِينَ",
+      "latin": "ASFALA SAAFILIINA",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "فَمَالَهُ مِنَ هَادٍ",
+      "latin": "FAMAALAHU MIN HAADIN",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "هَدَنَا سُبُلَنَا",
+      "latin": "HADAANAA SUBULANAA",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "وَنَمَارِقُ مَصفُوفَةٌ",
+      "latin": "WANAMAARIQU MASHFUUFATUN",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "KELIRU PANJANG PENDEK BISA MERUSAK ARTI Maka hati-hatilah !",
+  "level_id": 4,
+  "level_title": "IQRO' 4",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

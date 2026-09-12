@@ -1,0 +1,202 @@
+{
+  "content": [
+    {
+      "arabic": "خُشَعَ",
+      "latin": "KHUSYA'A",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "خَاشِعِينَ",
+      "latin": "KHOASYI'IINA",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "خَاشِعَاتِ",
+      "latin": "KHOOSYI'AATI",
+      "order_id": 3,
+      "position": {
+        "col": 3,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "صَبِغَ",
+      "latin": "SHOBIGHO",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "خَاضِعِينَ",
+      "latin": "KHOODHI'IINA",
+      "order_id": 5,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "صَابِغَاتِ",
+      "latin": "SHOOBIGHOOTI",
+      "order_id": 6,
+      "position": {
+        "col": 3,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "حَفِظَ",
+      "latin": "HAFIZHO",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "حَافِظِينَ",
+      "latin": "HAAFIZHIINA",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "حَافِظَاتِ",
+      "latin": "HAAFIZHOOTI",
+      "order_id": 9,
+      "position": {
+        "col": 3,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "زَبَانِيَةَ",
+      "latin": "ZABAANIYATAH",
+      "order_id": 10,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "لَازِيَدَ",
+      "latin": "LAAZIYADA",
+      "order_id": 11,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "طَالِبِينَ",
+      "latin": "THOOLIBIINA",
+      "order_id": 12,
+      "position": {
+        "col": 3,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "صَدَقَ",
+      "latin": "SHODAQO",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "صَادِقِينَ",
+      "latin": "SHOODIQIINA",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "صَادِقَاتِ",
+      "latin": "SHOODIQOOTI",
+      "order_id": 15,
+      "position": {
+        "col": 3,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "حَضَرَ",
+      "latin": "HODHORO",
+      "order_id": 16,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "حَاضِرِينَ",
+      "latin": "HAADHIRIINA",
+      "order_id": 17,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "حَاضِرَاتِ",
+      "latin": "HAADHIROOTI",
+      "order_id": 18,
+      "position": {
+        "col": 3,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "لَعِبَ",
+      "latin": "LA'IBA",
+      "order_id": 19,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "لَاعِبِينَ",
+      "latin": "LAA'IBIINA",
+      "order_id": 20,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "لَاعِبَاتِ",
+      "latin": "LAA'IBAATI",
+      "order_id": 21,
+      "position": {
+        "col": 3,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "القراءة القصيرة ......... اقرأها قصيرة تماما.",
+  "instruction_en": "The SHORT reading ............ Read it really SHORT.",
+  "instruction_id": "Bacaan yang PENDEK............... Bacalah dengan BETUL-BETUL PENDEK",
+  "level_id": 3,
+  "level_title": "IQRO' 3",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

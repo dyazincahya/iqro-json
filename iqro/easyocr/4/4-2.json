@@ -1,0 +1,265 @@
+{
+  "content": [
+    {
+      "arabic": "وَهُدَى",
+      "latin": "WAHUDAN",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "قَعْدًا",
+      "latin": "QO'DAN",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "مُبَارَكًا",
+      "latin": "MUBAAROKAN",
+      "order_id": 3,
+      "position": {
+        "col": 3,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "شَهَادَةً",
+      "latin": "SYAHAADATAN",
+      "order_id": 4,
+      "position": {
+        "col": 4,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "جَمِيعًا",
+      "latin": "JAMII'AN",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "قُرُونًا",
+      "latin": "QURUUNAN",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "عَضْدًا",
+      "latin": "'ADHUDAN",
+      "order_id": 7,
+      "position": {
+        "col": 3,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "سَبِيلَهَا",
+      "latin": "SABIILAHAA",
+      "order_id": 8,
+      "position": {
+        "col": 4,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "زَلْقًا",
+      "latin": "ZALQON",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "رَغَدًا",
+      "latin": "ROGHODAN",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "طَعَامًا",
+      "latin": "THO'AAMAN",
+      "order_id": 11,
+      "position": {
+        "col": 3,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "ضَلَالًا",
+      "latin": "DHOLAALAN",
+      "order_id": 12,
+      "position": {
+        "col": 4,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "سَمِيعًا",
+      "latin": "SAMII'AN",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "عَلِيمًا",
+      "latin": "'ALIIMAN",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "عَزِيزًا",
+      "latin": "'AZIIZAN",
+      "order_id": 15,
+      "position": {
+        "col": 3,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "حَكِيمًا",
+      "latin": "HAKIIMAN",
+      "order_id": 16,
+      "position": {
+        "col": 4,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "عَذَابًا",
+      "latin": "'ADZAABAN",
+      "order_id": 17,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "أَلِيمًا",
+      "latin": "ALIIMAN",
+      "order_id": 18,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَأَصِيلًا",
+      "latin": "WA'ASHIILAN",
+      "order_id": 19,
+      "position": {
+        "col": 3,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "ظَالِمًا",
+      "latin": "ZHOOLIMAN",
+      "order_id": 20,
+      "position": {
+        "col": 4,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "يَتِيمًا",
+      "latin": "YATIIMAN",
+      "order_id": 21,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "فَقِيرًا",
+      "latin": "FAQIIRON",
+      "order_id": 22,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "صَعِيدًا",
+      "latin": "SHO'IIDAN",
+      "order_id": 23,
+      "position": {
+        "col": 3,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "جُرُزًا",
+      "latin": "JURUZAN",
+      "order_id": 24,
+      "position": {
+        "col": 4,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "رَسُولًا",
+      "latin": "ROSUULAN",
+      "order_id": 25,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "طَهُورًا",
+      "latin": "THOHUURON",
+      "order_id": 26,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "حَلِيمًا",
+      "latin": "HALIIMAN",
+      "order_id": 27,
+      "position": {
+        "col": 3,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "غَفُورًا",
+      "latin": "GHOFUURON",
+      "order_id": 28,
+      "position": {
+        "col": 4,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Harus selalu diperhatikan : - Bacaan mad (panjang) - dan yang bukan mad (pendek)",
+  "level_id": 4,
+  "level_title": "IQRO' 4",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

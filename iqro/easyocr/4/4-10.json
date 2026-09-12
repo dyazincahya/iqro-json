@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "arabic": "وَكَذَلِكَ أَوحَينَا",
+      "latin": "WAKADZAALIKA AWHAINAA",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "سَمِيعٌ عَلِيمٌ",
+      "latin": "SAMII'UN 'ALIIMUN",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "فِيهَا خَالِدُونَ",
+      "latin": "FIIHAA KHOOLIDUUNA",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "مَا بَينَ أَيدِيهِمَا",
+      "latin": "MAA BAINA AIDIIHIMAA",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَكَانُوا قَومًا عَالِينَ",
+      "latin": "WAKAANUU QOUMAN 'AALIINA",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَكَفَى بِنَا حَاسِبِينَ",
+      "latin": "WAKAFAA BINAA HAASIBIINA",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "لِشَيءٍ عَجِيبٌ",
+      "latin": "LISYAI'IN 'AJIIBUN",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "مَتَاعًا إِلَى حِينٍ",
+      "latin": "MATAA'AN ILAA HIININ",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "أُوتِيَ مُوسَى وَعِيسَى",
+      "latin": "UUTIYA MUUSAA WA'IISAA",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "أَوَعَلَى لَكَ فَأَولَى",
+      "latin": "AWA'ALAA LAKA FA'AWLAA",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "كَانَ عَلِيمًا خَبِيرًا",
+      "latin": "KAANA 'ALIIMAN KHOBIIRON",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "يَومَئِذٍ خَاشِعَةٌ",
+      "latin": "YAWMA'IDZIN KHOOSYI'ATUN",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَصُحبَتِهِ وَبَنِيهِ",
+      "latin": "WASHUHBATIHI WABANIIHI",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "رَضِيَ لَهُ قَولًا",
+      "latin": "RODHIYA LAHU QOULAN",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Bila keliru, mengulangnya tidak harus dari awal, cukup di lafadz yang keliru itu saja.",
+  "level_id": 4,
+  "level_title": "IQRO' 4",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

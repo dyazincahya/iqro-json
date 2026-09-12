@@ -1,0 +1,229 @@
+{
+  "content": [
+    {
+      "arabic": "بَبًا",
+      "latin": "BABAN",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "تَتًا",
+      "latin": "TATAN",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "ثَثًا",
+      "latin": "TSATSAN",
+      "order_id": 3,
+      "position": {
+        "col": 3,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "جَجًا",
+      "latin": "JAJAN",
+      "order_id": 4,
+      "position": {
+        "col": 4,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "ذَذًا",
+      "latin": "DZADZAN",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "زَزًا",
+      "latin": "ZAZAN",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "فَفًا",
+      "latin": "FAFAN",
+      "order_id": 7,
+      "position": {
+        "col": 3,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "كَكًا",
+      "latin": "KAKAN",
+      "order_id": 8,
+      "position": {
+        "col": 4,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "عَغًا",
+      "latin": "'AGHON",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "ظَظًا",
+      "latin": "ZHOZHON",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "يَيًا",
+      "latin": "YAYAN",
+      "order_id": 11,
+      "position": {
+        "col": 3,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "لَلًا",
+      "latin": "LALAN",
+      "order_id": 12,
+      "position": {
+        "col": 4,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "أَحَدَ",
+      "latin": "AHADA",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "أَحَدًا",
+      "latin": "AHADAN",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "عَمَلَ",
+      "latin": "'AMALA",
+      "order_id": 15,
+      "position": {
+        "col": 3,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "عَمَلًا",
+      "latin": "'AMALAN",
+      "order_id": 16,
+      "position": {
+        "col": 4,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "حَسَنَ",
+      "latin": "HASANA",
+      "order_id": 17,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "حَسَنًا",
+      "latin": "HASANAN",
+      "order_id": 18,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "صَالِحَ",
+      "latin": "SHOOLIHA",
+      "order_id": 19,
+      "position": {
+        "col": 3,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "صَالِحًا",
+      "latin": "SHOOLIHAN",
+      "order_id": 20,
+      "position": {
+        "col": 4,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "نَذِيرًا",
+      "latin": "NADZIIRON",
+      "order_id": 21,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "بَشِيرًا",
+      "latin": "BASYIIRON",
+      "order_id": 22,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "جُوعًا",
+      "latin": "JUU'AN",
+      "order_id": 23,
+      "position": {
+        "col": 3,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "نُوحًا",
+      "latin": "NUUHAN",
+      "order_id": 24,
+      "position": {
+        "col": 4,
+        "row": 6
+      }
+    }
+  ],
+  "instruction_ar": "بًا = بَ + ًا (التنوين). تُقرأ قصيرة والألف لا تُقرأ.",
+  "instruction_en": "Ban = BAN short, alif is silent.",
+  "instruction_id": "Ban = بًا an = tanda tanwin fathah. BAN DIBACA PENDEK! ا = dianggap tidak ada",
+  "level_id": 4,
+  "level_title": "IQRO' 4",
+  "topic": {
+    "arab": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+    "latin": "BISMILLAAHIRROHMAANIRROHIIM"
+  }
+}

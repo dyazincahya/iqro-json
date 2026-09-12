@@ -1,0 +1,229 @@
+{
+  "content": [
+    {
+      "arabic": "فَاتِحَةٍ",
+      "latin": "FAATIHATIN",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "أَخِرَةٍ",
+      "latin": "UKHROTIN",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "رَافِقَةٍ",
+      "latin": "ROOFIQOTIN",
+      "order_id": 3,
+      "position": {
+        "col": 3,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "غَبَرَةٍ",
+      "latin": "GHOBAROTIN",
+      "order_id": 4,
+      "position": {
+        "col": 4,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "عَامِلَةٍ",
+      "latin": "'AAMILATIN",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "صَالِحَةٍ",
+      "latin": "SHOOLIHATIN",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "آلِهَةٍ",
+      "latin": "AALIHATIN",
+      "order_id": 7,
+      "position": {
+        "col": 3,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "حِجَارَةٍ",
+      "latin": "HIJAAROTIN",
+      "order_id": 8,
+      "position": {
+        "col": 4,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَنَادَ",
+      "latin": "WANAADA",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "خَطَايَ",
+      "latin": "KHOTHOOYAA",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَأَبِيهِ",
+      "latin": "WAABIIHI",
+      "order_id": 11,
+      "position": {
+        "col": 3,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "بَصِيرٍ",
+      "latin": "BASHIIRIN",
+      "order_id": 12,
+      "position": {
+        "col": 4,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "عَقِيمًا",
+      "latin": "'AQIIMAN",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "مُحِيصًا",
+      "latin": "MUHIISHOAN",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "دَاحِضَةٍ",
+      "latin": "DAAHIDHOTIN",
+      "order_id": 15,
+      "position": {
+        "col": 3,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "غَاشِيَةٍ",
+      "latin": "GHOOSYIYATIN",
+      "order_id": 16,
+      "position": {
+        "col": 4,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "مَضَاجِعَ",
+      "latin": "MADHOOJI'A",
+      "order_id": 17,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "أَمِنَ",
+      "latin": "AMINA",
+      "order_id": 18,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "طَعَامِهِ",
+      "latin": "THO'AAMIHI",
+      "order_id": 19,
+      "position": {
+        "col": 3,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَلَدِهِ",
+      "latin": "WALADIHI",
+      "order_id": 20,
+      "position": {
+        "col": 4,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "بِصِحَافٍ",
+      "latin": "BISHIHAAFIN",
+      "order_id": 21,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "مَرِيضًا",
+      "latin": "MARIIDHOAN",
+      "order_id": 22,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "زَبَانِيَةٍ",
+      "latin": "ZABAANIYATIN",
+      "order_id": 23,
+      "position": {
+        "col": 3,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "قَتْرَةٍ",
+      "latin": "QOTAROTIN",
+      "order_id": 24,
+      "position": {
+        "col": 4,
+        "row": 6
+      }
+    }
+  ],
+  "instruction_ar": "هِ = ـهِ (التاء المربوطة بالكسرة). تِ = ـتـ = ـة = ةِ (التاء والتاء المربوطة).",
+  "instruction_en": "Hi = -HI (ta marbutah with kasrah). TI = medial TA = -TI (ta marbutah): TA vs ta marbutah.",
+  "instruction_id": "هِ = ــهِ = ــهِـ = ــهِ (ta marbutah kasrah). تِ = ــتِـ = ــةِ = ةِ (ta vs ta marbutah)",
+  "level_id": 3,
+  "level_title": "IQRO' 3",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

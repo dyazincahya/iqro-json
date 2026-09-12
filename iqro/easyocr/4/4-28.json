@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "arabic": "إِنَ أَطَعتُمُوهُمُ",
+      "latin": "INA ATHO'TUMUUHUMU",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَيَقبِضُونَ أَيدِيَهُمُ",
+      "latin": "WAYAQBIDHUUNA AIDIIHUMU",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَأَجلِبَ عَلَيهِمُ",
+      "latin": "WA'AJLIB 'ALAIHIMU",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَخَيلِكَ وَرَجِلِكَ",
+      "latin": "WAKHOILIKA WAROJILIKA",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "قَوَسَينِ أَوَ أَدنَى",
+      "latin": "QOUSA INI AWA ADNAA",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَلَقَدَ رَاهُ",
+      "latin": "WALAQODA ROOHU",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَأَنَ أَقِمَ وَجهَكَ",
+      "latin": "WA'ANA AQIM WAJHAKA",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "بِعَجَلٍ حَنِيذٍ",
+      "latin": "BI'AJALIN HANIIDZIN",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَهُوَ يُطعِمُ وَلَا يُطعَمُ",
+      "latin": "WAHUWA YUTH'IMU WALAA YUTH'AMU",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "إِجعَلُوا بِضَاعَتَهُمُ",
+      "latin": "IJ'ALUU BIDHOO'ATAHUMU",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "أَدخُلُوهَا بِسَلَامٍ",
+      "latin": "ADKHULUUHAA BISALAAMIN",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَلَا تَقفُ مَا لَيسَ لَكَ",
+      "latin": "WALAA TAQFU MAA LAISA LAKA",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "فَبَدَا بِأَوعِيَتِهِمُ",
+      "latin": "FABADAA BI'AW'IYATIHIMU",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "خَلَقنَا زَوجَينِ",
+      "latin": "KHOLAQNAA ZAWJAINI",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Bagus, tetapi ulangilah. Sehingga tidak ada yang keliru lagi. Barulah EBTA.",
+  "level_id": 4,
+  "level_title": "IQRO' 4",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

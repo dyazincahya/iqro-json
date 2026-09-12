@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "arabic": "أَجرٌ غَيرُ مَمنُونٍ",
+      "latin": "AJRUN GHOIRU MAMNUUNIN",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "إِلَى يَومِ يُبعَثُونَ",
+      "latin": "ILAA YAWMI YUB'ATSUUNA",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "فِي جِيدِهَا حَبلٌ",
+      "latin": "FII JIIDIHAA HABLUN",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "عَلَى ذَلِكَ لَشَهِيدٌ",
+      "latin": "'ALAA DZAALIKA LASYAHIIDUN",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "يَمشِي عَلَى بَطنِهِ",
+      "latin": "YAMSYII 'ALAA BATHNIHI",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "هَذَا الشَّيءُ عَجَابٌ",
+      "latin": "HAADZAA ASYSYAI'U 'AJAABUN",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "يَجعَلُونَ أَصَابِعَهُمُ",
+      "latin": "YAJ'ALUUNA ASHOOBI'AHUMU",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَجَعَلَ فِيهَا رَوَاسِيَ",
+      "latin": "WAJA'ALA FIIHAA ROWAASIYA",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَأَقبَلَ بَعضُهُمُ",
+      "latin": "WA'AQBALA BA'DHUHUMU",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "أَلَم يَجعَلَ كَيدَهُمُ",
+      "latin": "ALAM YAJ'AL KAIDAHUMU",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "فَوَسطَنَ بِهِ جَمعًا",
+      "latin": "FAWASATHNA BIHI JAM'AN",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَلَا يَخَافُ عُقبَاهَا",
+      "latin": "WALAA YAKHOOFU 'UQBAAHAA",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَقَد خَلَقكُم أَطوَارًا",
+      "latin": "WAQOD KHOLAQOKUM ATHWAARON",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "لَم يَلِدَ وَلَم يُولَدَ",
+      "latin": "LAM YALIDA WALAM YUULADA",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "BIARLAH PELAN, ASAL BENAR",
+  "level_id": 4,
+  "level_title": "IQRO' 4",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

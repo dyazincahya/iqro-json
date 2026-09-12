@@ -1,0 +1,130 @@
+{
+  "content": [
+    {
+      "arabic": "قَالُوا بَلَى",
+      "latin": "QOOLUU BALAA",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "فَإِذَا رَكِبُوا",
+      "latin": "FA'IDZAA ROKIBUU",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "لَا تَخُونُوا",
+      "latin": "LAA TAKHUUNUU",
+      "order_id": 3,
+      "position": {
+        "col": 3,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "كَانُوا لَنَا عَابِدِينَ",
+      "latin": "KAANUU LANAA 'AABIDIINA",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "آمَنُوا وَعَمِلُوا",
+      "latin": "AAMANUU WA'AMILUU",
+      "order_id": 5,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "صَابِرُوا وَرَابِطُوا",
+      "latin": "SHOOBIRUU WAROOBITHUU",
+      "order_id": 6,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "هَاجَرُوا وَجَاهَدُوا",
+      "latin": "HAAJARUU WAJAAHADUU",
+      "order_id": 7,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَجَدُوا وَمَا عَمِلُوا",
+      "latin": "WAJADUU WAMAA 'AMILUU",
+      "order_id": 8,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "صَدَقُوا مَا عَاهَدُوا",
+      "latin": "SHODAQOO MAA 'AAHADUU",
+      "order_id": 9,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "فَيَكِيدُوا لَكَ",
+      "latin": "FAYAKIIDUU LAKA",
+      "order_id": 10,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَكَانُوا لَنَا خَاشِعِينَ",
+      "latin": "WAKAANUU LANAA KHOOSYI'IINA",
+      "order_id": 11,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "فَلَا تَلُومُونِي وَلُومُوا",
+      "latin": "FALAA TALUUMUUNII WALUUMUU",
+      "order_id": 12,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "قَالَ مَا نَهَاكُمَا",
+      "latin": "QOOLA MAA NAHAAKUMAA",
+      "order_id": 13,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    }
+  ],
+  "instruction_ar": "قَالُوا (الألف بعد الواو لا تُقرأ).",
+  "instruction_en": "QAALUU - alif after wau is silent. STOP, do not continue if long/short is still mistaken!",
+  "instruction_id": "قَالُوْا ا = dianggap tidak ada. MAAF, JANGAN DITERUSKAN DULU! bila masih keliru panjang-pendeknya",
+  "level_id": 3,
+  "level_title": "IQRO' 3",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

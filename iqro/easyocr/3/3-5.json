@@ -1,0 +1,265 @@
+{
+  "content": [
+    {
+      "arabic": "شَهِدَ",
+      "latin": "SYAHIDA",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "لَعِبَ",
+      "latin": "LA'IBA",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "غَنِمَ",
+      "latin": "GHONIMA",
+      "order_id": 3,
+      "position": {
+        "col": 3,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "رَضِيَ",
+      "latin": "RODHIYA",
+      "order_id": 4,
+      "position": {
+        "col": 4,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "فَعَالَ",
+      "latin": "FA'AALA",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "فَاعِلِ",
+      "latin": "FAA'ILI",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "كِتَابِ",
+      "latin": "KITAABI",
+      "order_id": 7,
+      "position": {
+        "col": 3,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "كَاتِبِ",
+      "latin": "KAATIBI",
+      "order_id": 8,
+      "position": {
+        "col": 4,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "جِهَادِ",
+      "latin": "JIHAADI",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "جَاهِدِ",
+      "latin": "JAAHIDI",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "غَفَارِ",
+      "latin": "GHOFAARI",
+      "order_id": 11,
+      "position": {
+        "col": 3,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "غَافِرِ",
+      "latin": "GHOAFIRI",
+      "order_id": 12,
+      "position": {
+        "col": 4,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "لَاقَ",
+      "latin": "LAAQO",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "قَانِتَاتِ",
+      "latin": "QOANITAATI",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "عَاطِلِ",
+      "latin": "'AATHILI",
+      "order_id": 15,
+      "position": {
+        "col": 3,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "طِبَاقِ",
+      "latin": "THIBAAQI",
+      "order_id": 16,
+      "position": {
+        "col": 4,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "عَدَسَهَا",
+      "latin": "'ADASAHAA",
+      "order_id": 17,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "بَصَلِهَا",
+      "latin": "BASHOLIHAA",
+      "order_id": 18,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "حَاسِدِ",
+      "latin": "HAASIDI",
+      "order_id": 19,
+      "position": {
+        "col": 3,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "بِشَارِكَ",
+      "latin": "BISYAARIKA",
+      "order_id": 20,
+      "position": {
+        "col": 4,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَمَاهِيَ",
+      "latin": "WAMAAHIYA",
+      "order_id": 21,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "عَالِيَهَا",
+      "latin": "'AALIYAHAA",
+      "order_id": 22,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "سَافِلَهَا",
+      "latin": "SAAFILAHAA",
+      "order_id": 23,
+      "position": {
+        "col": 3,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "شَاطِئَهَا",
+      "latin": "SYAATHI'AHAA",
+      "order_id": 24,
+      "position": {
+        "col": 4,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "قُنِتَتْ",
+      "latin": "QUNITAT",
+      "order_id": 25,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "فَيُتْمَى",
+      "latin": "FAYUTMAA",
+      "order_id": 26,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "عُبْدَتِ",
+      "latin": "'UBDATI",
+      "order_id": 27,
+      "position": {
+        "col": 3,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "مَوَالِيَ",
+      "latin": "MAWAALIYA",
+      "order_id": 28,
+      "position": {
+        "col": 4,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "تمهل، المهم أن يكون صحيحا ......... المد والقصر.",
+  "instruction_en": "Take it slow, as long as it is correct ......... the LONG-SHORT (length).",
+  "instruction_id": "Biar Pelan, asal betul ......... PANJANG PENDEK - nya",
+  "level_id": 3,
+  "level_title": "IQRO' 3",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

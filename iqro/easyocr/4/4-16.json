@@ -1,0 +1,229 @@
+{
+  "content": [
+    {
+      "arabic": "أَبْ",
+      "latin": "AB",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَأَبْقَى",
+      "latin": "WA'ABQOO",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "تَبْدُوا",
+      "latin": "TABDUU",
+      "order_id": 3,
+      "position": {
+        "col": 3,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "حَسِبْتُمُ",
+      "latin": "HASIBTUMU",
+      "order_id": 4,
+      "position": {
+        "col": 4,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "أَجْ",
+      "latin": "AJ",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "يَجْعَلْ",
+      "latin": "YAJ'AL",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "تُجزَونَ",
+      "latin": "TUJZAWNA",
+      "order_id": 7,
+      "position": {
+        "col": 3,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَجهِهِ",
+      "latin": "WAJHIHI",
+      "order_id": 8,
+      "position": {
+        "col": 4,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "أَدْ",
+      "latin": "AD",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "تَدخُلُوا",
+      "latin": "TADKHULUU",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "قَدحًا",
+      "latin": "QODHAN",
+      "order_id": 11,
+      "position": {
+        "col": 3,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَجَدنَا",
+      "latin": "WAJADNAA",
+      "order_id": 12,
+      "position": {
+        "col": 4,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "أَطْ",
+      "latin": "ATH",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "أَطعَمَهُمُ",
+      "latin": "ATH'AMAHUMU",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "لِيُطفِئَ",
+      "latin": "LIYUTHFI'A",
+      "order_id": 15,
+      "position": {
+        "col": 3,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "مَطلَعٌ",
+      "latin": "MATHLA'UN",
+      "order_id": 16,
+      "position": {
+        "col": 4,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "أَقْ",
+      "latin": "AQ",
+      "order_id": 17,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "أَقلَامٍ",
+      "latin": "AQLAAMIN",
+      "order_id": 18,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "يَقرَأُ",
+      "latin": "YAQRO'U",
+      "order_id": 19,
+      "position": {
+        "col": 3,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "مُقتَحِمٌ",
+      "latin": "MUQTAHIMUN",
+      "order_id": 20,
+      "position": {
+        "col": 4,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "يَبعَثُكَ",
+      "latin": "YAB'ATSUKA",
+      "order_id": 21,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "أَجَمَعِينَ",
+      "latin": "AJMA'IINA",
+      "order_id": 22,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "يَمدُدكُمُ",
+      "latin": "YAMDUDKUMU",
+      "order_id": 23,
+      "position": {
+        "col": 3,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "خَلَقنَا",
+      "latin": "KHOLAQNAA",
+      "order_id": 24,
+      "position": {
+        "col": 4,
+        "row": 6
+      }
+    }
+  ],
+  "instruction_ar": "أَبْ أَجْ أَدْ أَطْ أَقْ (القلقلة).",
+  "instruction_en": "Qolqolah must be clearly heard.",
+  "instruction_id": "أَبْ أَجْ أَدْ أَطْ أَقْ Harus jelas terdengar qolqolahnya",
+  "level_id": 4,
+  "level_title": "IQRO' 4",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

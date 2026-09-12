@@ -1,0 +1,229 @@
+{
+  "content": [
+    {
+      "arabic": "جَحِي",
+      "latin": "JAHII",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "نَذِي",
+      "latin": "NADZII",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "لِلِي",
+      "latin": "LILII",
+      "order_id": 3,
+      "position": {
+        "col": 3,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "فِي",
+      "latin": "FII",
+      "order_id": 4,
+      "position": {
+        "col": 4,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "فَاعَلَ",
+      "latin": "FAA'ALA",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "فِيعَالَا",
+      "latin": "FII'AALAA",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "قَاتَلَ",
+      "latin": "QOATALA",
+      "order_id": 7,
+      "position": {
+        "col": 3,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "فِيتَالَا",
+      "latin": "FIITAALAA",
+      "order_id": 8,
+      "position": {
+        "col": 4,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَاعَدَ",
+      "latin": "WAA'ADA",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وِيعَادَا",
+      "latin": "WII'AADAA",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "يَاسَى",
+      "latin": "YAASAA",
+      "order_id": 11,
+      "position": {
+        "col": 3,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "يِيسَارَا",
+      "latin": "YIISAARAA",
+      "order_id": 12,
+      "position": {
+        "col": 4,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "بَاصِرَ",
+      "latin": "BAASHIRO",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "بَصِيرِ",
+      "latin": "BASHIIRI",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "قَادِرِ",
+      "latin": "QOODIRI",
+      "order_id": 15,
+      "position": {
+        "col": 3,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "قَدِيرِ",
+      "latin": "QODIIRI",
+      "order_id": 16,
+      "position": {
+        "col": 4,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "سَامِعَ",
+      "latin": "SAAMI'A",
+      "order_id": 17,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "سَمِيعِ",
+      "latin": "SAMII'I",
+      "order_id": 18,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "حَاكِمَ",
+      "latin": "HAAKIMA",
+      "order_id": 19,
+      "position": {
+        "col": 3,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "حَكِيمِ",
+      "latin": "HAKIIMI",
+      "order_id": 20,
+      "position": {
+        "col": 4,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "بَشِيرَا",
+      "latin": "BASYIIROA",
+      "order_id": 21,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "نَذِيرِ",
+      "latin": "NADZIIRI",
+      "order_id": 22,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "كَبِيرِ",
+      "latin": "KABIIRI",
+      "order_id": 23,
+      "position": {
+        "col": 3,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "صَغِيرَا",
+      "latin": "SHOGHIIROA",
+      "order_id": 24,
+      "position": {
+        "col": 4,
+        "row": 6
+      }
+    }
+  ],
+  "instruction_ar": "بِي = بِي (الياء الساكنة للمد). يجوز للمعلم تعريف اسم الياء الساكنة أو الياء الميتة. يجب أن يكون دقيقا ......... المد والقصر !",
+  "instruction_en": "Bii = BII (ya' sukun for lengthening). The teacher may introduce the name YA' sukun or dead YA'. Must be exact ................ the LONG-SHORT (length)!.",
+  "instruction_id": "Bii = بِي  i = يْ / ي (ya' sukun). Guru boleh mengenalkan nama YA' sukun atau YA' mati. Harus tepat ................ PANJANG PENDEK - nya !",
+  "level_id": 3,
+  "level_title": "IQRO' 3",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}
