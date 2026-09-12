@@ -57,6 +57,19 @@ Sebagai bentuk apresiasi dan kekaguman saya terhadap manfaat besar dari buku ini
 > **Imbauan bagi Pengembang:**
 > Mengimbau kepada para pengembang yang ingin menggunakan data dari proyek ini untuk membuat aplikasi agar **tidak mengkomersialisasikan** aplikasinya. Hendaknya aplikasi tersebut disebarluaskan secara **gratis** sebagai bentuk amal jariyah bagi Bapak `KH. As‘ad Humam`, sehingga pahalanya terus mengalir kepada beliau hingga akhirat kelak. Semoga setiap ilmu yang dipelajari dari aplikasi ini menjadi ladang pahala bagi beliau dan kita semua, Amiin.
 
+### Hak Cipta & Kebijakan Penghapusan (Notice & Takedown)
+
+> [!IMPORTANT]
+> **Pernyataan Hak Cipta & Kebijakan Konten:**
+>
+> 1. **Hak Kekayaan Intelektual:** Seluruh materi isi, teks Arab, metode pembelajaran, dan nama **Buku Iqro'** merupakan hak cipta milik Almarhum **KH. As'ad Humam** dan **Team Tadarus Angkatan Muda Masjid-Musholla (AMM) Yogyakarta**. Pengelola repositori ini tidak mengklaim kepemilikan hak cipta atas materi asli buku tersebut; proyek ini semata-mata merupakan inisiatif digitalisasi data terstruktur (JSON) untuk penelitian dan sarana edukasi nirlaba.
+> 2. **Dukungan terhadap Buku Fisik Asli:** Repositori dan aplikasi ini tidak bertujuan menggantikan peran buku fisik. Kami sangat mengimbau para santri, orang tua, pengajar, dan masyarakat luas untuk **tetap membeli Buku Iqro' fisik resmi** terbitan Team Tadarus AMM Yogyakarta sebagai wujud dukungan nyata terhadap pelestarian dakwah dan operasional lembaga. Pembelian buku fisik resmi dapat dilakukan di toko buku terdekat atau secara online melalui distributor resmi seperti [Gramedia](https://www.gramedia.com/products/bk-iqromembaca-al-quran-besar-cd).
+> 3. **Kebijakan Penghapusan (Notice & Takedown Policy):** Kami sangat menghormati hak cipta dan menjunjung tinggi itikad baik. Apabila pihak ahli waris Alm. KH. As'ad Humam, pengurus resmi Team Tadarus AMM Yogyakarta, atau pemegang hak cipta yang sah merasa keberatan atas ketersediaan data digital ini atau menginginkan penyesuaian/penghapusan, silakan hubungi kami melalui:
+>    - **Email:** `kangcahyakeren@gmail.com`
+>    - **GitHub Issue:** Buka tiket pada tab Issues di repositori ini.
+>
+>    Kami berkomitmen untuk segera merespons dan menindaklanjuti permintaan penghapusan (_takedown_) secara kooperatif dalam waktu 1x24 jam kerja dengan penuh rasa hormat.
+
 ## Tentang Iqro
 
 <img src="https://upload.wikimedia.org/wikipedia/id/7/7a/Cover_of_Iqro.jpg" height="150" />

@@ -14,11 +14,11 @@ export default defineConfig({
       name: 'serve-iqro-folder',
       configureServer(server) {
         server.middlewares.use((req, res, next) => {
-          if (req.url && req.url.startsWith('/iqro/')) {
+          if (req.url && (req.url.startsWith('/iqro/') || req.url.endsWith('.json'))) {
             // Strip query parameters
             const urlPath = req.url.split('?')[0];
             const filePath = path.join(__dirname, '..', urlPath);
-            if (fs.existsSync(filePath)) {
+            if (fs.existsSync(filePath) && fs.statSync(filePath).isFile()) {
               res.setHeader('Content-Type', 'application/json');
               res.end(fs.readFileSync(filePath));
               return;
