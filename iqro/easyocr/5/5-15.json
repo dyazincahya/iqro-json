@@ -1,0 +1,211 @@
+{
+  "content": [
+    {
+      "arabic": "بَدَّلَ",
+      "latin": "BADDALA",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "يُبَدِّلُ",
+      "latin": "YUBADDILU",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "أَذَّنَ",
+      "latin": "ADZDZANA",
+      "order_id": 3,
+      "position": {
+        "col": 3,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "يُؤَذِّنُ",
+      "latin": "YU'ADZDZINU",
+      "order_id": 4,
+      "position": {
+        "col": 4,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "كَرَّمَ",
+      "latin": "KARROMA",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "يُكَرِّمُ",
+      "latin": "YUKARRIMU",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَذَّرَ",
+      "latin": "WADZDZARO",
+      "order_id": 7,
+      "position": {
+        "col": 3,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "يُوذَّرُ",
+      "latin": "YUUWADZDZARU",
+      "order_id": 8,
+      "position": {
+        "col": 4,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "فَسَّرَ",
+      "latin": "FASSARO",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "يُفَسِّرُ",
+      "latin": "YUFASSIRU",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "بَشَّرَ",
+      "latin": "BASYSYARO",
+      "order_id": 11,
+      "position": {
+        "col": 3,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "يُبَشِّرُ",
+      "latin": "YUBASYSYIRU",
+      "order_id": 12,
+      "position": {
+        "col": 4,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَاثَرَ الحَيَاةَ الدُّنيَا ○",
+      "latin": "WAATSARO ALHAYAATA ADDUNYAA ○",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَكَذَّبَ بِالحُسنَى ○",
+      "latin": "WAKADZDZABA BILHUSNAA ○",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَالمَلَكُ عَلَى أَرجَائِهَا ○",
+      "latin": "WALMALAKU 'ALAA ARJAAA'IHAA ○",
+      "order_id": 15,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "فَكَذَّبُوهُ فَعَقَرُوهَا ○",
+      "latin": "FAKADZDZABUUHU FA'AQORUUHAA ○",
+      "order_id": 16,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "فِي صُحُفٍ مُّكَرَّمَةٍ ○",
+      "latin": "FII SHUHUFIN MUKARROMATIN ○",
+      "order_id": 17,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "مَّرفُوعَةٍ مُّطَهَّرَةٍ ○",
+      "latin": "MARFUU'ATIN MUTHOHHAROTIN ○",
+      "order_id": 18,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "مَا أَوحَى إِلَيكَ ○",
+      "latin": "MAA AUWHAA ILAIKA ○",
+      "order_id": 19,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "سَنَدعُ الزَّبَانِيَةَ ○",
+      "latin": "SANAD'U AZZABAANIYATA ○",
+      "order_id": 20,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "وَهُوَ السَّمِيعُ العَلِيمُ ○",
+      "latin": "WAHUWA ASSAMII'U AL'ALIIMU ○",
+      "order_id": 21,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    },
+    {
+      "arabic": "لَنَكُونَنَّ مِنَ الشَّاكِرِينَ ○",
+      "latin": "LANAKUUNANNA MINA ASYSYAAKIRIINA ○",
+      "order_id": 22,
+      "position": {
+        "col": 2,
+        "row": 8
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 5,
+  "level_title": "IQRO' 5",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

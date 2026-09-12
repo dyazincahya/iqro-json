@@ -2,12 +2,12 @@
   "level_id": 2,
   "level_title": "IQRO' 2",
   "topic": {
-    "latin": "Letters with Sukun and Extended Vowels (Mad)",
-    "arab": "حُرُوفُ السُّكُونِ وَالْمَدِّ"
+    "latin": "",
+    "arab": ""
   },
-  "instruction_id": "Berlatih menghubungkan huruf dengan sukun dan mengenali vokal yang diperpanjang.",
-  "instruction_en": "Practice connecting letters with sukun and recognizing extended vowels.",
-  "instruction_ar": "تَدَرَّبْ عَلَى وَصْلِ الْحُرُوفِ بِالسُّكُونِ وَتَعَرُّفِ الْمَدِّ.",
+  "instruction_id": "",
+  "instruction_en": "",
+  "instruction_ar": "",
   "content": [
     {
       "order_id": 1,
@@ -15,8 +15,8 @@
         "row": 1,
         "col": 1
       },
-      "latin": "B' D",
-      "arabic": "بع د"
+      "latin": "'A DA = 'ADA",
+      "arabic": "عَ دَ = عَدَ"
     },
     {
       "order_id": 2,
@@ -24,89 +24,89 @@
         "row": 1,
         "col": 2
       },
-      "latin": "=",
-      "arabic": "="
+      "latin": "BA 'A = BA'A",
+      "arabic": "بَ عَ = بَعَ"
     },
     {
       "order_id": 3,
       "position": {
-        "row": 1,
-        "col": 3
+        "row": 2,
+        "col": 1
       },
-      "latin": "B'SD",
-      "arabic": "بعسد"
+      "latin": "BA 'A DA = BA'ADA",
+      "arabic": "بَ عَ دَ = بَعَدَ"
     },
     {
       "order_id": 4,
       "position": {
-        "row": 2,
+        "row": 3,
         "col": 1
       },
-      "latin": "'TR",
-      "arabic": "عتر"
+      "latin": "RO'ATA",
+      "arabic": "رَعَتَ"
     },
     {
       "order_id": 5,
       "position": {
-        "row": 2,
+        "row": 3,
         "col": 2
       },
-      "latin": "RT'",
-      "arabic": "رتع"
+      "latin": "TA'ARO",
+      "arabic": "تَعَرَ"
     },
     {
       "order_id": 6,
       "position": {
-        "row": 2,
+        "row": 3,
         "col": 3
       },
-      "latin": "'BSH",
-      "arabic": "عبص"
+      "latin": "'ATARO",
+      "arabic": "عَتَرَ"
     },
     {
       "order_id": 7,
       "position": {
         "row": 3,
-        "col": 1
+        "col": 4
       },
-      "latin": "SH'B",
-      "arabic": "صعب"
+      "latin": "ROTA'A",
+      "arabic": "رَتَعَ"
     },
     {
       "order_id": 8,
       "position": {
-        "row": 3,
-        "col": 2
+        "row": 4,
+        "col": 1
       },
-      "latin": "YGHDH",
-      "arabic": "يغض"
+      "latin": "'ABASHO",
+      "arabic": "عَبَصَ"
     },
     {
       "order_id": 9,
       "position": {
         "row": 4,
-        "col": 1
+        "col": 2
       },
-      "latin": "GHYDH",
-      "arabic": "غيض"
+      "latin": "SHA'ABA",
+      "arabic": "صَعَبَ"
     },
     {
       "order_id": 10,
       "position": {
         "row": 4,
-        "col": 2
+        "col": 3
       },
-      "latin": "HDZR",
-      "arabic": "حذر"
+      "latin": "YAGHODHO",
+      "arabic": "يَغَضَ"
     },
     {
       "order_id": 11,
       "position": {
         "row": 4,
-        "col": 3
+        "col": 4
       },
-      "latin": "J'L",
-      "arabic": "جعل"
+      "latin": "GHOYADHO",
+      "arabic": "غَيَضَ"
     },
     {
       "order_id": 12,
@@ -114,8 +114,8 @@
         "row": 5,
         "col": 1
       },
-      "latin": "SYTHK",
-      "arabic": "شطك"
+      "latin": "HADZARO",
+      "arabic": "حَذَرَ"
     },
     {
       "order_id": 13,
@@ -123,8 +123,8 @@
         "row": 5,
         "col": 2
       },
-      "latin": "NBGH",
-      "arabic": "نبغ"
+      "latin": "JA'ALA",
+      "arabic": "جَعَلَ"
     },
     {
       "order_id": 14,
@@ -132,8 +132,8 @@
         "row": 5,
         "col": 3
       },
-      "latin": "GHYN",
-      "arabic": "غين"
+      "latin": "SYATHOKA",
+      "arabic": "شَطَكَ"
     },
     {
       "order_id": 15,
@@ -141,8 +141,8 @@
         "row": 5,
         "col": 4
       },
-      "latin": "TSGHF",
-      "arabic": "ثغف"
+      "latin": "NABAGHO",
+      "arabic": "نَبَغَ"
     },
     {
       "order_id": 16,
@@ -150,8 +150,8 @@
         "row": 6,
         "col": 1
       },
-      "latin": "'TQ",
-      "arabic": "عتق"
+      "latin": "GHOYANA",
+      "arabic": "غَيَنَ"
     },
     {
       "order_id": 17,
@@ -159,8 +159,8 @@
         "row": 6,
         "col": 2
       },
-      "latin": "MN'",
-      "arabic": "منع"
+      "latin": "TSAGHOFA",
+      "arabic": "ثَغَفَ"
     },
     {
       "order_id": 18,
@@ -168,8 +168,8 @@
         "row": 6,
         "col": 3
       },
-      "latin": "TSQL",
-      "arabic": "ثقل"
+      "latin": "'ATAQO",
+      "arabic": "عَتَقَ"
     },
     {
       "order_id": 19,
@@ -177,8 +177,8 @@
         "row": 6,
         "col": 4
       },
-      "latin": "NZHM",
-      "arabic": "نظم"
+      "latin": "MANA'A",
+      "arabic": "مَنَعَ"
     },
     {
       "order_id": 20,
@@ -186,8 +186,8 @@
         "row": 7,
         "col": 1
       },
-      "latin": "RHQ",
-      "arabic": "رهق"
+      "latin": "TSAQOLA",
+      "arabic": "ثَقَلَ"
     },
     {
       "order_id": 21,
@@ -195,8 +195,8 @@
         "row": 7,
         "col": 2
       },
-      "latin": "WS'",
-      "arabic": "وسع"
+      "latin": "NAZHOMA",
+      "arabic": "نَظَمَ"
     },
     {
       "order_id": 22,
@@ -204,8 +204,8 @@
         "row": 7,
         "col": 3
       },
-      "latin": "'ZL",
-      "arabic": "عزل"
+      "latin": "ROHAQO",
+      "arabic": "رَهَقَ"
     },
     {
       "order_id": 23,
@@ -213,8 +213,8 @@
         "row": 7,
         "col": 4
       },
-      "latin": "N'S",
-      "arabic": "نعس"
+      "latin": "WASA'A",
+      "arabic": "وَسَعَ"
     },
     {
       "order_id": 24,
@@ -222,8 +222,8 @@
         "row": 8,
         "col": 1
       },
-      "latin": "GHWDH",
-      "arabic": "غوض"
+      "latin": "'AZALA",
+      "arabic": "عَزَلَ"
     },
     {
       "order_id": 25,
@@ -231,8 +231,26 @@
         "row": 8,
         "col": 2
       },
-      "latin": "YGHDH",
-      "arabic": "يغض"
+      "latin": "NA'ASA",
+      "arabic": "نَعَسَ"
+    },
+    {
+      "order_id": 26,
+      "position": {
+        "row": 8,
+        "col": 3
+      },
+      "latin": "GHOWADHO",
+      "arabic": "غَوَضَ"
+    },
+    {
+      "order_id": 27,
+      "position": {
+        "row": 8,
+        "col": 4
+      },
+      "latin": "YAGHODHO",
+      "arabic": "يَغَضَ"
     }
   ]
 }

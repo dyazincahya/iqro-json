@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "arabic": "يَومَ القِيَمَةِ وَزنًا ○",
+      "latin": "YAUWA ALQIYAAMATI WAZNAN ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَالعَدِيَتِ ضَبحًا ○",
+      "latin": "WAL'AADIYAATI DHABHAN ○",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "فَالمُورِيَتِ قَدحًا ○",
+      "latin": "FALMUURIYAATI QODHAN ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "فَالمُغِيرَتِ صُبحًا ○",
+      "latin": "FALMUGHIIROOTI SHUBHAN ○",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "فَأَثَرنَ بِهِ نَقعًا ○",
+      "latin": "FA'ATSARNA BIHI NAQ'AN ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "فَوَسَطنَ بِهِ جَمعًا ○",
+      "latin": "FAWASATHNA BIHI JAM'AN ○",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَخَلَقنَاكُم أَزوَاجًا ○",
+      "latin": "WAKHOLAQNAAKUM AZWAAJAN ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَجَعَلنَا نَومَكُم سُبَاتًا ○",
+      "latin": "WAJA'ALNAA NAUMAKUM SUBAATAN ○",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "بِالأَخسَرِينَ أَعمَالًا ○",
+      "latin": "BILAKHSARIINA A'MAALAN ○",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "يُحسِنُونَ صُنعًا ○",
+      "latin": "YUHSINUUNA SHUN'AN ○",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "كَانُوا مِن أَيَاتِنَا عَجَبًا ○",
+      "latin": "KAANUU MIN AAYAATINAA 'AJABAN ○",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَزِدنَاهُم هُدًى ○",
+      "latin": "WAZIDNAAHUM HUDAN ○",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "فَسَوفَ يَدعُوا ثُبُورًا ○",
+      "latin": "FASAUFA YAD'UU TSUBUURON ○",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "وَيَصلَى سَعِيرًا ○",
+      "latin": "WAYASHLAA SA'IIRON ○",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Bila waqof/berhenti tanwin (fathah) dihilangkan dan dibaca panjang. Contoh: ABADAN dibaca ABADAA.",
+  "level_id": 5,
+  "level_title": "IQRO' 5",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

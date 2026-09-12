@@ -2,8 +2,8 @@
   "level_id": 1,
   "level_title": "IQRO' 1",
   "topic": {
-    "latin": "DHOD",
-    "arab": "ضَ"
+    "latin": "SHO DHO",
+    "arab": "صَ ضَ"
   },
   "instruction_id": "",
   "instruction_en": "",
@@ -15,206 +15,170 @@
         "row": 1,
         "col": 1
       },
-      "latin": "SHOD A DHOD",
-      "arabic": "صَ اَ ضَ"
+      "latin": "SHO DHO",
+      "arabic": "صَ ضَ"
     },
     {
       "order_id": 2,
       "position": {
-        "row": 1,
-        "col": 2
+        "row": 2,
+        "col": 1
       },
-      "latin": "HA DHOD RA",
-      "arabic": "حَ ضَ رَ"
+      "latin": "DHO A SHO",
+      "arabic": "ضَ اَ صَ"
     },
     {
       "order_id": 3,
       "position": {
         "row": 2,
-        "col": 1
+        "col": 2
       },
-      "latin": "A SHOD DHOD",
-      "arabic": "اَ صَ ضَ"
+      "latin": "HA DHO RO",
+      "arabic": "حَ ضَ رَ"
     },
     {
       "order_id": 4,
       "position": {
         "row": 2,
-        "col": 2
+        "col": 3
       },
-      "latin": "SYA A DHOD",
-      "arabic": "شَ اَ ضَ"
+      "latin": "A SHO DHO",
+      "arabic": "اَ صَ ضَ"
     },
     {
       "order_id": 5,
       "position": {
-        "row": 2,
-        "col": 3
+        "row": 3,
+        "col": 1
+      },
+      "latin": "DHO A SYA",
+      "arabic": "ضَ اَ شَ"
+    },
+    {
+      "order_id": 6,
+      "position": {
+        "row": 3,
+        "col": 2
       },
       "latin": "SYA KHO ZA",
       "arabic": "شَ خَ زَ"
     },
     {
-      "order_id": 6,
-      "position": {
-        "row": 2,
-        "col": 4
-      },
-      "latin": "DHOD RA BA",
-      "arabic": "ضَ رَ بَ"
-    },
-    {
       "order_id": 7,
-      "position": {
-        "row": 2,
-        "col": 5
-      },
-      "latin": "SHOD HA TA",
-      "arabic": "صَ حَ ت"
-    },
-    {
-      "order_id": 8,
-      "position": {
-        "row": 3,
-        "col": 1
-      },
-      "latin": "SHOD DA ZA",
-      "arabic": "صَ دَ زَ"
-    },
-    {
-      "order_id": 9,
-      "position": {
-        "row": 3,
-        "col": 2
-      },
-      "latin": "DA SYA DHOD",
-      "arabic": "دَ شَ ضَ"
-    },
-    {
-      "order_id": 10,
       "position": {
         "row": 3,
         "col": 3
       },
-      "latin": "SA HA ZA",
-      "arabic": "سَ حَ زَ"
+      "latin": "DHO RO BA",
+      "arabic": "ضَ رَ بَ"
     },
     {
-      "order_id": 11,
+      "order_id": 8,
       "position": {
         "row": 4,
         "col": 1
       },
-      "latin": "RA SHOD DA",
-      "arabic": "رَ صَ دَ"
+      "latin": "TSA HA SHO",
+      "arabic": "ثَ حَ صَ"
     },
     {
-      "order_id": 12,
+      "order_id": 9,
       "position": {
         "row": 4,
         "col": 2
       },
-      "latin": "DHOD TA ZA",
-      "arabic": "ضَ ت زَ"
+      "latin": "SHO DA ZA",
+      "arabic": "صَ دَ زَ"
+    },
+    {
+      "order_id": 10,
+      "position": {
+        "row": 4,
+        "col": 3
+      },
+      "latin": "DA SYA DHO",
+      "arabic": "دَ شَ ضَ"
+    },
+    {
+      "order_id": 11,
+      "position": {
+        "row": 5,
+        "col": 1
+      },
+      "latin": "SA HA DZA",
+      "arabic": "سَ حَ ذَ"
+    },
+    {
+      "order_id": 12,
+      "position": {
+        "row": 5,
+        "col": 2
+      },
+      "latin": "RO SHO DA",
+      "arabic": "رَ صَ دَ"
     },
     {
       "order_id": 13,
       "position": {
         "row": 5,
-        "col": 1
+        "col": 3
       },
-      "latin": "SYA KHO ZA",
-      "arabic": "شَ خَ زَ"
+      "latin": "DHO TA DZA",
+      "arabic": "ضَ تَ ذَ"
     },
     {
       "order_id": 14,
       "position": {
-        "row": 5,
-        "col": 2
-      },
-      "latin": "DHOD JA DA",
-      "arabic": "ضَ جَ دَ"
-    },
-    {
-      "order_id": 15,
-      "position": {
-        "row": 5,
-        "col": 3
+        "row": 6,
+        "col": 1
       },
       "latin": "SA A SYA",
       "arabic": "سَ اَ شَ"
     },
     {
+      "order_id": 15,
+      "position": {
+        "row": 6,
+        "col": 2
+      },
+      "latin": "DHO JA DZA",
+      "arabic": "ضَ جَ ذَ"
+    },
+    {
       "order_id": 16,
       "position": {
-        "row": 5,
-        "col": 4
+        "row": 6,
+        "col": 3
       },
-      "latin": "SHOD RA DHOD",
-      "arabic": "صَ رَ ضَ"
+      "latin": "TSA KHO ZA",
+      "arabic": "ثَ خَ زَ"
     },
     {
       "order_id": 17,
       "position": {
-        "row": 5,
-        "col": 5
+        "row": 7,
+        "col": 1
       },
-      "latin": "A BA TA",
-      "arabic": "اَ بَ ت"
+      "latin": "SHO RO DHO",
+      "arabic": "صَ رَ ضَ"
     },
     {
       "order_id": 18,
       "position": {
-        "row": 6,
-        "col": 1
+        "row": 7,
+        "col": 2
       },
-      "latin": "TA JA HA KHO",
-      "arabic": "تَ جَ حَ خَ"
+      "latin": "A BA TA TSA JA HA",
+      "arabic": "اَ بَ تَ ثَ جَ حَ"
     },
     {
       "order_id": 19,
       "position": {
-        "row": 6,
-        "col": 2
-      },
-      "latin": "KHO DA DA RO RO SA SYA SHOD DHOD",
-      "arabic": "خَ دَ دَ رَ رَ سَ شَ ضَ"
-    },
-    {
-      "order_id": 20,
-      "position": {
-        "row": 7,
-        "col": 1
-      },
-      "latin": "SH RDH",
-      "arabic": "ص رض"
-    },
-    {
-      "order_id": 21,
-      "position": {
-        "row": 7,
-        "col": 2
-      },
-      "latin": "AB T TS JH KH",
-      "arabic": "آب ت ث جح خ"
-    },
-    {
-      "order_id": 22,
-      "position": {
         "row": 8,
         "col": 1
       },
-      "latin": "D",
-      "arabic": "د"
-    },
-    {
-      "order_id": 23,
-      "position": {
-        "row": 8,
-        "col": 2
-      },
-      "latin": "DZ RZ S SY SH DH",
-      "arabic": "ذ رز س ش ص ض"
+      "latin": "DA DZA RO ZA SA SYA SHO DHO",
+      "arabic": "دَ ذَ رَ زَ سَ شَ صَ ضَ"
     }
   ]
 }

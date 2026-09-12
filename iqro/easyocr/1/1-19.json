@@ -24,8 +24,8 @@
         "row": 2,
         "col": 1
       },
-      "latin": "FA A GHAIN",
-      "arabic": "فَ اَ غَ"
+      "latin": "GHO A FA",
+      "arabic": "غَ اَ فَ"
     },
     {
       "order_id": 3,
@@ -33,8 +33,8 @@
         "row": 2,
         "col": 2
       },
-      "latin": "FA GHAIN DHOD",
-      "arabic": "فَ غَ ضَ"
+      "latin": "FA 'A DHO",
+      "arabic": "فَ عَ ضَ"
     },
     {
       "order_id": 4,
@@ -42,14 +42,14 @@
         "row": 2,
         "col": 3
       },
-      "latin": "GHAIN FA SHOD",
+      "latin": "GHO FA SHO",
       "arabic": "غَ فَ صَ"
     },
     {
       "order_id": 5,
       "position": {
-        "row": 2,
-        "col": 4
+        "row": 3,
+        "col": 1
       },
       "latin": "FA TA HA",
       "arabic": "فَ تَ حَ"
@@ -58,19 +58,19 @@
       "order_id": 6,
       "position": {
         "row": 3,
-        "col": 1
+        "col": 2
       },
-      "latin": "HA JA ZA",
-      "arabic": "حَ جَ زَ"
+      "latin": "GHO JA ZA",
+      "arabic": "غَ جَ زَ"
     },
     {
       "order_id": 7,
       "position": {
         "row": 3,
-        "col": 2
+        "col": 3
       },
-      "latin": "GHAIN FA ZHO",
-      "arabic": "غَ فَ ظَ"
+      "latin": "HA FA ZHO",
+      "arabic": "حَ فَ ظَ"
     },
     {
       "order_id": 8,
@@ -78,8 +78,8 @@
         "row": 4,
         "col": 1
       },
-      "latin": "THO AIN DA",
-      "arabic": "طَ ع دَ"
+      "latin": "THO 'A DA",
+      "arabic": "طَ عَ دَ"
     },
     {
       "order_id": 9,
@@ -87,8 +87,8 @@
         "row": 4,
         "col": 2
       },
-      "latin": "SHOD RA FA GHAIN",
-      "arabic": "صَ رَ فَ غَ"
+      "latin": "SHO FA GHO",
+      "arabic": "صَ فَ غَ"
     },
     {
       "order_id": 10,
@@ -96,8 +96,8 @@
         "row": 4,
         "col": 3
       },
-      "latin": "SYA KHO SHOD",
-      "arabic": "شَ خَ صَ"
+      "latin": "SYA KHO DHO",
+      "arabic": "شَ خَ ضَ"
     },
     {
       "order_id": 11,
@@ -105,8 +105,8 @@
         "row": 5,
         "col": 1
       },
-      "latin": "SA GHAIN ZHO",
-      "arabic": "سَ غَ ظَ"
+      "latin": "SA 'A ZHO",
+      "arabic": "سَ عَ ظَ"
     },
     {
       "order_id": 12,
@@ -114,7 +114,7 @@
         "row": 5,
         "col": 2
       },
-      "latin": "KHO FA ZA",
+      "latin": "KHO FA DZA",
       "arabic": "خَ فَ ذَ"
     },
     {
@@ -123,8 +123,8 @@
         "row": 5,
         "col": 3
       },
-      "latin": "SYA GHAIN DHOD",
-      "arabic": "شَ غَ ضَ"
+      "latin": "SYA 'A DHO",
+      "arabic": "شَ عَ ضَ"
     },
     {
       "order_id": 14,
@@ -132,8 +132,8 @@
         "row": 6,
         "col": 1
       },
-      "latin": "FA ZA AIN",
-      "arabic": "فَ زَ ع"
+      "latin": "FA ZA 'A",
+      "arabic": "فَ زَ عَ"
     },
     {
       "order_id": 15,
@@ -141,8 +141,8 @@
         "row": 6,
         "col": 2
       },
-      "latin": "TSA GHAIN THO",
-      "arabic": "ثَ غَ طَ"
+      "latin": "TSA 'A THO",
+      "arabic": "ثَ عَ طَ"
     },
     {
       "order_id": 16,
@@ -150,7 +150,7 @@
         "row": 6,
         "col": 3
       },
-      "latin": "ZHO FA RA",
+      "latin": "ZHO FA RO",
       "arabic": "ظَ فَ رَ"
     },
     {
@@ -159,35 +159,26 @@
         "row": 7,
         "col": 1
       },
-      "latin": "A BA TA",
-      "arabic": "اَ بَ تَ"
+      "latin": "DA DZA RO ZA",
+      "arabic": "دَ ذَ رَ زَ"
     },
     {
       "order_id": 18,
       "position": {
-        "row": 8,
-        "col": 1
+        "row": 7,
+        "col": 2
       },
-      "latin": "TA JA HA KHO",
-      "arabic": "تَ جَ حَ خَ"
+      "latin": "A BA TA TSA JA HA",
+      "arabic": "اَ بَ تَ ثَ جَ حَ"
     },
     {
       "order_id": 19,
       "position": {
         "row": 8,
-        "col": 2
+        "col": 1
       },
-      "latin": "DA ZA RA ZA",
-      "arabic": "دَ ذَ رَ زَ"
-    },
-    {
-      "order_id": 20,
-      "position": {
-        "row": 8,
-        "col": 3
-      },
-      "latin": "SA SA SYA SHOD SHOD THO ZHO THO AIN GHAIN FA",
-      "arabic": "سَ سَ شَ صَ صَ طَ ظَ طَ ع غَ فَ"
+      "latin": "SA SYA SHO DHO THO ZHO 'A GHO FA",
+      "arabic": "سَ شَ صَ ضَ طَ ظَ عَ غَ فَ"
     }
   ]
 }

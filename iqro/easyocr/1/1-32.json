@@ -1,0 +1,274 @@
+{
+  "level_id": 1,
+  "level_title": "IQRO' 1",
+  "topic": {
+    "latin": "INDEKS - HURUF",
+    "arab": ""
+  },
+  "instruction_id": "Ket. (Ba') (Ta') dst. adalah nama-nama huruf Halaman ini boleh digunakan, sekedar untuk membantu titian ingatan bacaan-bacaan yang khilaf. Bagi santri tidak ada halangan/boleh belajar mengenal sendiri nama-nama huruf hijaiyah, namun untuk huruf-huruf yang sulit, seperti ض / ظ / غ harus ditanyakan pada yang ahli.",
+  "instruction_en": "Note: (Ba') (Ta') etc. are letter names. This page may be used merely to aid memory of forgotten readings. Students are free to learn the hijaiyah letter names on their own, but difficult letters such as ض / ظ / غ must be asked of an expert.",
+  "instruction_ar": "ملاحظة: (Ba') و(Ta') إلخ هي أسماء الحروف. يجوز استعمال هذه الصفحة لمجرد المساعدة على تذكر القراءات المنسية. لا مانع أن يتعلم التلميذ أسماء حروف الهجاء بنفسه، لكن الحروف الصعبة مثل ض / ظ / غ يجب أن تُسأل لأهلها.",
+  "content": [
+    {
+      "order_id": 1,
+      "position": {
+        "row": 1,
+        "col": 1
+      },
+      "latin": "QA (Qaf)",
+      "arabic": "ق"
+    },
+    {
+      "order_id": 2,
+      "position": {
+        "row": 1,
+        "col": 2
+      },
+      "latin": "ZA (Zai)",
+      "arabic": "ز"
+    },
+    {
+      "order_id": 3,
+      "position": {
+        "row": 1,
+        "col": 3
+      },
+      "latin": "Alif",
+      "arabic": "ا"
+    },
+    {
+      "order_id": 4,
+      "position": {
+        "row": 2,
+        "col": 1
+      },
+      "latin": "KA (Kaf)",
+      "arabic": "ك"
+    },
+    {
+      "order_id": 5,
+      "position": {
+        "row": 2,
+        "col": 2
+      },
+      "latin": "SA (Sin)",
+      "arabic": "س"
+    },
+    {
+      "order_id": 6,
+      "position": {
+        "row": 2,
+        "col": 3
+      },
+      "latin": "BA (Ba')",
+      "arabic": "ب"
+    },
+    {
+      "order_id": 7,
+      "position": {
+        "row": 3,
+        "col": 1
+      },
+      "latin": "LA (Lam)",
+      "arabic": "ل"
+    },
+    {
+      "order_id": 8,
+      "position": {
+        "row": 3,
+        "col": 2
+      },
+      "latin": "SYA (Syin)",
+      "arabic": "ش"
+    },
+    {
+      "order_id": 9,
+      "position": {
+        "row": 3,
+        "col": 3
+      },
+      "latin": "TA (Ta')",
+      "arabic": "ت"
+    },
+    {
+      "order_id": 10,
+      "position": {
+        "row": 4,
+        "col": 1
+      },
+      "latin": "MA (Mim)",
+      "arabic": "م"
+    },
+    {
+      "order_id": 11,
+      "position": {
+        "row": 4,
+        "col": 2
+      },
+      "latin": "ṢA (Sad)",
+      "arabic": "ص"
+    },
+    {
+      "order_id": 12,
+      "position": {
+        "row": 4,
+        "col": 3
+      },
+      "latin": "ṠA (Sa')",
+      "arabic": "ث"
+    },
+    {
+      "order_id": 13,
+      "position": {
+        "row": 5,
+        "col": 1
+      },
+      "latin": "NA (Nun)",
+      "arabic": "ن"
+    },
+    {
+      "order_id": 14,
+      "position": {
+        "row": 5,
+        "col": 2
+      },
+      "latin": "ḌA (Dad)",
+      "arabic": "ض"
+    },
+    {
+      "order_id": 15,
+      "position": {
+        "row": 5,
+        "col": 3
+      },
+      "latin": "JA (Jim)",
+      "arabic": "ج"
+    },
+    {
+      "order_id": 16,
+      "position": {
+        "row": 6,
+        "col": 1
+      },
+      "latin": "WA (Wau)",
+      "arabic": "و"
+    },
+    {
+      "order_id": 17,
+      "position": {
+        "row": 6,
+        "col": 2
+      },
+      "latin": "ṬA (Ta')",
+      "arabic": "ط"
+    },
+    {
+      "order_id": 18,
+      "position": {
+        "row": 6,
+        "col": 3
+      },
+      "latin": "ḤA (Ḥa)",
+      "arabic": "ح"
+    },
+    {
+      "order_id": 19,
+      "position": {
+        "row": 7,
+        "col": 1
+      },
+      "latin": "HA (Ha)",
+      "arabic": "ه"
+    },
+    {
+      "order_id": 20,
+      "position": {
+        "row": 7,
+        "col": 2
+      },
+      "latin": "ẒA (Za')",
+      "arabic": "ظ"
+    },
+    {
+      "order_id": 21,
+      "position": {
+        "row": 7,
+        "col": 3
+      },
+      "latin": "KHA (Kha)",
+      "arabic": "خ"
+    },
+    {
+      "order_id": 22,
+      "position": {
+        "row": 8,
+        "col": 1
+      },
+      "latin": "A (Hamzah)",
+      "arabic": "أ = ء"
+    },
+    {
+      "order_id": 23,
+      "position": {
+        "row": 8,
+        "col": 2
+      },
+      "latin": "'A ('Ain)",
+      "arabic": "ع"
+    },
+    {
+      "order_id": 24,
+      "position": {
+        "row": 8,
+        "col": 3
+      },
+      "latin": "DA (Dal)",
+      "arabic": "د"
+    },
+    {
+      "order_id": 25,
+      "position": {
+        "row": 9,
+        "col": 1
+      },
+      "latin": "YA (Ya)",
+      "arabic": "ي"
+    },
+    {
+      "order_id": 26,
+      "position": {
+        "row": 9,
+        "col": 2
+      },
+      "latin": "GA (Gain)",
+      "arabic": "غ"
+    },
+    {
+      "order_id": 27,
+      "position": {
+        "row": 9,
+        "col": 3
+      },
+      "latin": "ḊA (Ḋal)",
+      "arabic": "ذ"
+    },
+    {
+      "order_id": 28,
+      "position": {
+        "row": 10,
+        "col": 2
+      },
+      "latin": "FA (Fa')",
+      "arabic": "ف"
+    },
+    {
+      "order_id": 29,
+      "position": {
+        "row": 10,
+        "col": 3
+      },
+      "latin": "RA (Ra')",
+      "arabic": "ر"
+    }
+  ]
+}

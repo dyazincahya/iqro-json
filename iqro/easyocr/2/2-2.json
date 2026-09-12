@@ -2,12 +2,12 @@
   "level_id": 2,
   "level_title": "IQRO' 2",
   "topic": {
-    "latin": "Letters with Sukun and Extended Vowels (Mad)",
-    "arab": "حُرُوفُ السُّكُونِ وَالْمَدِّ"
+    "latin": "",
+    "arab": ""
   },
-  "instruction_id": "Berlatih menghubungkan huruf dengan sukun dan mengenali vokal yang diperpanjang.",
-  "instruction_en": "Practice connecting letters with sukun and recognizing extended vowels.",
-  "instruction_ar": "تَدَرَّبْ عَلَى وَصْلِ الْحُرُوفِ بِالسُّكُونِ وَتَعَرُّفِ الْمَدِّ.",
+  "instruction_id": "",
+  "instruction_en": "",
+  "instruction_ar": "",
   "content": [
     {
       "order_id": 1,
@@ -15,8 +15,8 @@
         "row": 1,
         "col": 1
       },
-      "latin": "NSNN",
-      "arabic": "نسنن"
+      "latin": "NA = NA",
+      "arabic": "نَ = نَـ"
     },
     {
       "order_id": 2,
@@ -24,116 +24,116 @@
         "row": 1,
         "col": 2
       },
-      "latin": "NTN",
-      "arabic": "نتن"
+      "latin": "NA BA = NABA",
+      "arabic": "نَ بَ = نَبَ"
     },
     {
       "order_id": 3,
       "position": {
-        "row": 1,
-        "col": 3
+        "row": 2,
+        "col": 1
       },
-      "latin": "NBB",
-      "arabic": "نبب"
+      "latin": "NANA",
+      "arabic": "نَنَ"
     },
     {
       "order_id": 4,
       "position": {
-        "row": 1,
-        "col": 4
+        "row": 2,
+        "col": 2
       },
-      "latin": "BNN",
-      "arabic": "بنن"
+      "latin": "NATANA",
+      "arabic": "نَتَنَ"
     },
     {
       "order_id": 5,
       "position": {
-        "row": 1,
-        "col": 5
+        "row": 2,
+        "col": 3
       },
-      "latin": "NBT",
-      "arabic": "نبت"
+      "latin": "NABABA",
+      "arabic": "نَبَبَ"
     },
     {
       "order_id": 6,
       "position": {
         "row": 2,
-        "col": 1
+        "col": 4
       },
-      "latin": "BNT",
-      "arabic": "بنت"
+      "latin": "BANANA",
+      "arabic": "بَنَنَ"
     },
     {
       "order_id": 7,
       "position": {
-        "row": 2,
-        "col": 2
+        "row": 3,
+        "col": 1
       },
-      "latin": "TSBN",
-      "arabic": "تسبن"
+      "latin": "NABATA",
+      "arabic": "نَبَتَ"
     },
     {
       "order_id": 8,
       "position": {
-        "row": 2,
-        "col": 3
+        "row": 3,
+        "col": 2
       },
-      "latin": "NTB",
-      "arabic": "نتب"
+      "latin": "BANATA",
+      "arabic": "بَنَتَ"
     },
     {
       "order_id": 9,
       "position": {
         "row": 3,
-        "col": 1
+        "col": 3
       },
-      "latin": "RBN",
-      "arabic": "ربن"
+      "latin": "TABANA",
+      "arabic": "تَبَنَ"
     },
     {
       "order_id": 10,
       "position": {
         "row": 3,
-        "col": 2
+        "col": 4
       },
-      "latin": "BNR BDZN",
-      "arabic": "بنر بذن"
+      "latin": "NATABA",
+      "arabic": "نَتَبَ"
     },
     {
       "order_id": 11,
       "position": {
-        "row": 3,
-        "col": 3
+        "row": 4,
+        "col": 1
       },
-      "latin": "NBDZ",
-      "arabic": "نبذ"
+      "latin": "RABANA",
+      "arabic": "رَبَنَ"
     },
     {
       "order_id": 12,
       "position": {
         "row": 4,
-        "col": 1
+        "col": 2
       },
-      "latin": "BDR",
-      "arabic": "بدر"
+      "latin": "BANARO",
+      "arabic": "بَنَرَ"
     },
     {
       "order_id": 13,
       "position": {
         "row": 4,
-        "col": 2
+        "col": 3
       },
-      "latin": "NDZR DZNB",
-      "arabic": "نذر ذنب"
+      "latin": "BADZANA",
+      "arabic": "بَذَنَ"
     },
     {
       "order_id": 14,
       "position": {
         "row": 4,
-        "col": 3
+        "col": 4
       },
-      "latin": "WNDZ",
-      "arabic": "ونذ"
+      "latin": "NABADZA",
+      "arabic": "نَبَذَ"
     },
     {
       "order_id": 15,
@@ -141,8 +141,8 @@
         "row": 5,
         "col": 1
       },
-      "latin": "D",
-      "arabic": "د"
+      "latin": "BADARO",
+      "arabic": "بَدَرَ"
     },
     {
       "order_id": 16,
@@ -150,98 +150,134 @@
         "row": 5,
         "col": 2
       },
-      "latin": "H",
-      "arabic": "ح"
+      "latin": "NADZARO",
+      "arabic": "نَذَرَ"
     },
     {
       "order_id": 17,
       "position": {
-        "row": 6,
-        "col": 1
+        "row": 5,
+        "col": 3
       },
-      "latin": "NZ' NB A",
-      "arabic": "نزع نب ا"
+      "latin": "DZANABA",
+      "arabic": "ذَنَبَ"
     },
     {
       "order_id": 18,
       "position": {
-        "row": 6,
-        "col": 2
+        "row": 5,
+        "col": 4
       },
-      "latin": "NBA",
-      "arabic": "نبا"
+      "latin": "WANADZA",
+      "arabic": "وَنَذَ"
     },
     {
       "order_id": 19,
       "position": {
         "row": 6,
-        "col": 3
+        "col": 1
       },
-      "latin": "TSLT",
-      "arabic": "ثلت"
+      "latin": "DZAROHA",
+      "arabic": "ذَرَحَ"
     },
     {
       "order_id": 20,
       "position": {
         "row": 6,
-        "col": 4
+        "col": 2
       },
-      "latin": "TTSB",
-      "arabic": "تثبً"
+      "latin": "NAZA'A",
+      "arabic": "نَزَعَ"
     },
     {
       "order_id": 21,
       "position": {
-        "row": 7,
-        "col": 1
+        "row": 6,
+        "col": 3
       },
-      "latin": "WNA",
-      "arabic": "ونا"
+      "latin": "NABA'A",
+      "arabic": "نَبَأَ"
     },
     {
       "order_id": 22,
       "position": {
-        "row": 7,
-        "col": 2
+        "row": 6,
+        "col": 4
       },
-      "latin": "NWF",
-      "arabic": "نوف"
+      "latin": "NABA'A",
+      "arabic": "نَبَأَ"
     },
     {
       "order_id": 23,
       "position": {
         "row": 7,
-        "col": 3
+        "col": 1
       },
-      "latin": "BDN",
-      "arabic": "بدن"
+      "latin": "TSABATA",
+      "arabic": "ثَبَتَ"
     },
     {
       "order_id": 24,
       "position": {
-        "row": 8,
-        "col": 1
+        "row": 7,
+        "col": 2
       },
-      "latin": "DNT",
-      "arabic": "دنت"
+      "latin": "TATSABA",
+      "arabic": "تَثَبَ"
     },
     {
       "order_id": 25,
       "position": {
-        "row": 8,
-        "col": 2
+        "row": 7,
+        "col": 3
       },
-      "latin": "WNN",
-      "arabic": "ونن"
+      "latin": "WANA'A",
+      "arabic": "وَنَأَ"
     },
     {
       "order_id": 26,
       "position": {
+        "row": 7,
+        "col": 4
+      },
+      "latin": "NAWAFA",
+      "arabic": "نَوَفَ"
+    },
+    {
+      "order_id": 27,
+      "position": {
+        "row": 8,
+        "col": 1
+      },
+      "latin": "BADANA",
+      "arabic": "بَدَنَ"
+    },
+    {
+      "order_id": 28,
+      "position": {
+        "row": 8,
+        "col": 2
+      },
+      "latin": "DANATA",
+      "arabic": "دَنَتَ"
+    },
+    {
+      "order_id": 29,
+      "position": {
         "row": 8,
         "col": 3
       },
-      "latin": "NWN",
-      "arabic": "نون"
+      "latin": "WANANA",
+      "arabic": "وَنَنَ"
+    },
+    {
+      "order_id": 30,
+      "position": {
+        "row": 8,
+        "col": 4
+      },
+      "latin": "NAWANA",
+      "arabic": "نَوَنَ"
     }
   ]
 }

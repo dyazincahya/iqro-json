@@ -1,0 +1,94 @@
+{
+  "content": [
+    {
+      "arabic": "وَبَرًّا بِوَالِدَتِي وَلَم يَجعَلنِي جَبَّارًا شَقِيًّا ○",
+      "latin": "WABARRON BIWAALIDATII WALAM YAJ'ALNII JABBAARON SYAQIYYAN ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "لَهُم عَذَابٌ شَدِيدٌ وَاللهُ عَزِيزٌ ذُو انتِقَامٍ ○",
+      "latin": "LAHUM 'ADZAABUN SYADIIDUN WALLOHU 'AZIIZUN DZUN TIQOOMIN ○",
+      "order_id": 2,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "لَا تُفسِدُوا فِي الأَرضِ قَالُوا إِنَّمَا نَحنُ مُصلِحُونَ ○",
+      "latin": "LAA TUFSIDUU FIIL ARDHI QOOLUU INNAMAA NAHNU MUSHLIHUUNA ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَلَو كُنتَ فَظًّا غَلِيظَ القَلبِ لَانفَضُّوا مِن حَولِكَ",
+      "latin": "WALAU KUNTA FAZHTHON GHOLIITHOL QOLBI LANFADHDHUU MIN HAULIKA",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "أَن تَعتَدُوا وَتَعَاوَنُوا عَلَى البِرِّ وَالتَّقوَى",
+      "latin": "AN TA'TADUU WATA'AAWANUU 'ALAL BIRRI WATTAQWAA",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "كَدَأبِ آلِ فِرعَونَ وَالَّذِينَ مِن قَبلِهِم",
+      "latin": "KADA'BI AALI FIR'AUNA WALLADZIINA MIN QOBLIHIM",
+      "order_id": 6,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "إِنَّا نَحنُ نَزَّلنَا الذِّكرَ وَإِنَّا لَهُ لَحَافِظُونَ ○",
+      "latin": "INNAA NAHNU NAZZALNADZ DZIKRO WA'INNAA LAHUU LAHAA FIZHUUNA ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "وَمِمَّن حَولَكُم مِنَ الأَعرَابِ مُنَافِقُونَ وَمِن",
+      "latin": "WAMIMMAN HAULAKUM MINAL A'ROOBI MUNAAFIQUUNA WAMIN",
+      "order_id": 8,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    },
+    {
+      "arabic": "أَهلِ المَدِينَةِ مَرَدُوا عَلَى النِّفَاقِ لَا تَعلَمُهُم",
+      "latin": "AHLIL MADIINATI MARODUU 'ALAN NIFAAQI LAA TA'LAMUHUM",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 9
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

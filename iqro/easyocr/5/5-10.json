@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "arabic": "أَنَّ",
+      "latin": "ANNA",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "عَمَّ",
+      "latin": "'AMMA",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "أَنَّ",
+      "latin": "ANNA",
+      "order_id": 3,
+      "position": {
+        "col": 3,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "عَمَّ",
+      "latin": "'AMMA",
+      "order_id": 4,
+      "position": {
+        "col": 4,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "إِنَّهُ - إِنَّهَا",
+      "latin": "INNAHU - INNAHAA",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "أُمَّهُ - أُمَّهَا",
+      "latin": "UMMAHU - UMMAHAA",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "إِنَّهُم كَانُوا مُجرمِين ○",
+      "latin": "INNAHUM KAANUU MUJRIMIINA ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَإِنَّا إِلَيهِ رَاجِعُون ○",
+      "latin": "WA'INNAA ILAIHI ROOJI'UUNA ○",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "ثُمَّ أَدبَرَ يَسعَى ○",
+      "latin": "TSUMMA ADBARO YAS'AA ○",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "فَإِنَّ الجَحِيمَ هِيَ المَأوَى ○",
+      "latin": "FA'INNA ALJAHIIMA HIYA ALMA'WAA ○",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "لَبِثِينَ فِيهَا أَحقَابًا ○",
+      "latin": "LAABITSIINA FIIHAA AHQOOBAN ○",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "حَدَائِقَ وَأَعنَابًا ○",
+      "latin": "HADAAA'IQO WA'A'NAABAN ○",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "إِنَّ هَذِهِ تَذكِرَةٌ ○",
+      "latin": "INNA HAADZIHI TADZKHIROTUN ○",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "ثُمَّ أَمَاتَهُ فَأَقبَرَهُ ○",
+      "latin": "TSUMMA AMAATAHU FA'AQBOROHU ○",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Setiap bacaan yang menghadap tasydid (syaddah) suara ditekan, ditahan 2 harokat dan berdengung.",
+  "level_id": 5,
+  "level_title": "IQRO' 5",
+  "topic": {
+    "arab": "إِنَّ = إِنَّ",
+    "latin": "INNA = INNA"
+  }
+}

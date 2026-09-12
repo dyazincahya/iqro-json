@@ -1,0 +1,112 @@
+{
+  "content": [
+    {
+      "arabic": "مِن - بَعْدِ",
+      "latin": "MIM - BA'DI",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "نُوْرٌ - بَيْتِي",
+      "latin": "NUURUM - BAITII",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "أَبْدَانِمَا - كَافِرِيْهِ - عَوَانٌ بَيْنَ",
+      "latin": "ABDAANIMAA - KAAFIRIIHI - 'AWAANUM BAINA",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "الْأَنْبِيَاءَ - وَضِيَافِيْهِ - مِن بَأْسٍ",
+      "latin": "AL-AMBIYAA'A - WADHIYAAFIIHI - MIM BA'SIN",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "بِغَيَانِيْهِمْ - حِلٌّ بِهَا - لِجَنْبِهِ",
+      "latin": "BIGHAYAANIIHIM - HILLUM BIHAA - LIJAMBIHI",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "هَذَا مُغْتَسَلٌ بَارِدٌ ○",
+      "latin": "HAADZAA MUGHTASALUM BAARIDUN ○",
+      "order_id": 6,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "ذَلِكَ رَجْعٌ بَعِيْدٌ ○",
+      "latin": "DZAALIKA RAJ'UM BA'IIDUN ○",
+      "order_id": 7,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "كُلُّ نَفْسٍ بِمَا كَسَبَتْ ○",
+      "latin": "KULLU NAFSIM BIMAA KASABAT ○",
+      "order_id": 8,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "خَبِيْرًا بِمَا تَعْمَلُوْنَ ○",
+      "latin": "KHABIIRAM BIMAA TA'MALUUNA ○",
+      "order_id": 9,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "اللَّهُ لَطِيْفٌ بِعِبَادِهِ ○",
+      "latin": "ALLAHU LATHIIFUM BI'IBAADIHI ○",
+      "order_id": 10,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "بِكُلِّ شَيْءٍ بَصِيْرٌ ○",
+      "latin": "BIKULLI SYAI'IM BASHIIRUN ○",
+      "order_id": 11,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Nun sukun / tanwin berubah menjadi m",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

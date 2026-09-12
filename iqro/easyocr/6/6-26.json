@@ -1,0 +1,85 @@
+{
+  "content": [
+    {
+      "arabic": "فِي قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ اللهُ مَرَضًا",
+      "latin": "FII QULUUBIHIM MMARODHUN FAZAADAHUMULLOHU MARODHON",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَلَهُم عَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكذِبُونَ ○",
+      "latin": "WALAHUM 'ADZAABUN ALIIMUN BIMAA KAANUU YAKDZIBUUNA ○",
+      "order_id": 2,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَمَا يَأتِيهِم مِن رَّسُولٍ إِلَّا كَانُوا بِهِ يَستَهزِءُونَ ○",
+      "latin": "WAMAA YA'TIIHIM MIN RROSUULIN ILLAA KAANUU BIHII YASTAHZI'UUNA ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "لَا إِكرَاهَ فِي الدِّينِ قَد تَبَيَّنَ الرُّشدُ مِنَ الغَيِّ",
+      "latin": "LAA IKROOHA FIIDDIINI QOD TABAYYANAR RUSYDU MINAL GHOYYI",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "قَانِتَاتٍ تَائِبَاتٍ عَابِدَاتٍ سَائِحَاتٍ ثَيِّبَاتٍ وَأَبْكَارًا ○",
+      "latin": "QOONITAATIN TAA'IBAATIN 'AABIDAATIN SAA'IHAATIN TSAYYIBAATIN WA'ABKAARON ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "الٓمٓ . الٓمٓصٓ . الٓر . الٓمٓر .",
+      "latin": "ALIF LAAM MIIM . ALIF LAAM MIIM SHOD . ALIF LAAM RO . ALIF LAAM MIIM RO .",
+      "order_id": 6,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "كٓهيعٓصٓ . طه . طسٓمٓ . طسٓ .",
+      "latin": "KAAF HAA YAA 'AIN SHOD . THO HAA . THO SIIN MIIM . THO SIIN .",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "يسٓ . صٓ . حمٓ . عسٓق . نٓ .",
+      "latin": "YAA SIIN . SHOD . HAA MIIM . 'AIN SIIN QOF . NUUN .",
+      "order_id": 8,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Sebelum EBTA, santri agar dikenalkan dan diajarkan huruf-huruf awal surat di bawah ini, dengan bacaan yang benar-benar betul.",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

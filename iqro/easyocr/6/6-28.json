@@ -1,0 +1,94 @@
+{
+  "content": [
+    {
+      "arabic": "وَإِن جَاهَدَاكَ عَلَى أَن تُشرِكَ بِي مَا لَيسَ لَكَ بِهِ",
+      "latin": "WA'IN JAAHADAAKA 'ALAA AN TUSYRIKA BII MAA LAISA LAKA BIHI",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "عِلمٌ فَلَا تُطِعهُمَا وَصَاحِبهُمَا فِي الدُّنيَا مَعرُوفًا وَاتَّبِع",
+      "latin": "'ILMUN FALAA TUTHI'HUMAA WASHOOHIBHUMAA FIIDDUNYAA MA'RUUFAN WATTABI'",
+      "order_id": 2,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "سَبِيلَ مِن أَنَابَ إِلَيَّ ثُمَّ إِلَيَّ مَرجِعُكُم فَأُنَبِّئُكُم بِمَا",
+      "latin": "SABIILA MAN ANAABA ILAYYA TSUMMA ILAYYA MARJI'UKUM FA'UNABBI'UKUM BIMAA",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "كُنتُم تَعمَلُونَ ○ يَا بُنَيَّ إِنَّهَا إِن تَكُ مِثقَالَ حَبَّةٍ",
+      "latin": "KUNTUM TA'MALUUNA ○ YAA BUNAYYA INNAHAA IN TAKU MITSQOOLA HABBATIN",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "مِن خَردَلٍ فَتَكُن فِي صَخرَةٍ أَو فِي السَّمَاوَاتِ أَو فِي",
+      "latin": "MIN KHORDALIN FATAKUN FII SHOKHROTIN AU FIISSAMAAWAATI AU FII",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "الأَرضِ يَأتِ بِهَا اللهُ إِنَّ اللهَ لَطِيفٌ خَبِيرٌ ○",
+      "latin": "ALARDHI YA'TI BIHALLOHU INNALLOHA LATHIIFUN KHOBIIRUN ○",
+      "order_id": 6,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "يَا بُنَيَّ أَقِمِ الصَّلَاةَ وَأمُر بِالمَعرُوفِ وَانهَ",
+      "latin": "YAA BUNAYYA AQIMISH SHOLAATA WA'MUR BILMA'RUUFI WANHA",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "عَنِ المُنكَرِ وَاصبِر عَلَى مَا أَصَابَكَ إِنَّ ذَلِكَ",
+      "latin": "'ANIL MUNKARI WASHBIR 'ALAA MAA ASHOOBAKA INNA DZAALIKA",
+      "order_id": 8,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    },
+    {
+      "arabic": "مِن عَزمِ الأُمُورِ ○ وَلَا تُصَعِّر خَدَّكَ لِلنَّاسِ",
+      "latin": "MIN 'AZMIL UMUURI ○ WALAA TUSHO''IR KHODDAKA LINNAASI",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 9
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

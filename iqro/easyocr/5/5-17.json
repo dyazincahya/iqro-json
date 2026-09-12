@@ -1,0 +1,211 @@
+{
+  "content": [
+    {
+      "arabic": "خَفَّفَ",
+      "latin": "KHOFFAFA",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "يُخَفِّفُ",
+      "latin": "YUKHOFFIFU",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَقَّظَ",
+      "latin": "WAQQOZHO",
+      "order_id": 3,
+      "position": {
+        "col": 3,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "يُوَقِّظُ",
+      "latin": "YUWAQQIZHU",
+      "order_id": 4,
+      "position": {
+        "col": 4,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "سَكَّنَ",
+      "latin": "SAKKANA",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "يُسَكِّنُ",
+      "latin": "YUSAKKINU",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "عَلَّمَ",
+      "latin": "'ALLAMA",
+      "order_id": 7,
+      "position": {
+        "col": 3,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "يُعَلِّمُ",
+      "latin": "YU'ALLIMU",
+      "order_id": 8,
+      "position": {
+        "col": 4,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "أَمَّنَ",
+      "latin": "AMMANA",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "يُؤَمِّنُ",
+      "latin": "YU'AMMINU",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "مَنَّعَ",
+      "latin": "MANNA'A",
+      "order_id": 11,
+      "position": {
+        "col": 3,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "يُمَنِّعُ",
+      "latin": "YUMANNI'U",
+      "order_id": 12,
+      "position": {
+        "col": 4,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "كَأَنَّهُم لُؤلُؤٌ مَّكنُونٌ ○",
+      "latin": "KA'ANNAHUM LU'LU'UN MAKNUUNUN ○",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "عَلَى سُرُرٍ مُّتَقَابِلِينَ ○",
+      "latin": "'ALAA SURURIN MUTAQOOBILIINA ○",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَلَقَد مَكَّنَّاهُم فِيمَا ○",
+      "latin": "WALAQOD MAKKANNA AHUM FIIMAA ○",
+      "order_id": 15,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "إِن مَّكَّنَّاكُم فِيهِ ○",
+      "latin": "IN MAKKANNA AKUM FIIHI ○",
+      "order_id": 16,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "أَرَءَيتَ الَّذِي يَنهَى ○",
+      "latin": "ARO'AITA ALLADZII YANHAA ○",
+      "order_id": 17,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "عَبدًا إِذَا صَلَّى ○",
+      "latin": "'ABDAN IDZAA SHOLLAA ○",
+      "order_id": 18,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "حَقًّا عَلَى المُحسِنِينَ ○",
+      "latin": "HAQQON 'ALAA ALMUHSINIINA ○",
+      "order_id": 19,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "وَإِلَّا تَغفِرلِي وَتَرحَمنِي ○",
+      "latin": "WA'ILLAA TAGHFIRLII WATARHAMNII ○",
+      "order_id": 20,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "مِن عَسَلٍ مُّصَفًّى ○",
+      "latin": "MIN 'ASALIN MUSHOFFAN ○",
+      "order_id": 21,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    },
+    {
+      "arabic": "وَاتَّبَعَ هَوَاهُ فَتَردَى ○",
+      "latin": "WATTABA'A HAWAAHU FATARODAA ○",
+      "order_id": 22,
+      "position": {
+        "col": 2,
+        "row": 8
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 5,
+  "level_title": "IQRO' 5",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

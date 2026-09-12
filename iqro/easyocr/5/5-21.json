@@ -1,0 +1,85 @@
+{
+  "content": [
+    {
+      "arabic": "قَد أَفلَحَ المُؤمِنُونَ ① الَّذِينَ هُم فِي صَلَاتِهِم خَاشِعُونَ",
+      "latin": "QOD AFLAHA ALMU'MINUUNA 1 ALLADZIINA HUM FII SHOLAATIHIM KHOOSYI'UUNA",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَالَّذِينَ هُم عَنِ اللَّغوِ مُعرِضُونَ ② وَالَّذِينَ هُم",
+      "latin": "WALLADZIINA HUM 'ANI ALLAGHWI MU'RIDHUUNA 2 WALLADZIINA HUM",
+      "order_id": 2,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "لِلزَّكَاةِ فَاعِلُونَ ④ وَالَّذِينَ هُم لِفُرُوجِهِم حَافِظُونَ ⑤",
+      "latin": "LIZZAKAATI FAA'ILUUNA 4 WALLADZIINA HUM LIFURUUJIHIM HAAFIZHUUNA 5",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "إِلَّا عَلَى أَزوَاجِهِم أَو مَا مَلَكَت أَيمَانُهُم فَإِنَّهُم",
+      "latin": "ILLAA 'ALAA AZWAAJIHIM AU MAA MALAKAT AIMAANUHUM FA'INNAHUM",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "غَيرُ مَلُومِينَ ⑥ فَمَنِ ابتَغَى وَرَاءَ ذَلِكَ فَأُولَئِكَ هُمُ",
+      "latin": "GHOIRU MALUUMIINA 6 FAMANI IBTAGHOO WAROO'A DZAALIKA FA'UULAA'IKA HUMU",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "العَادُونَ ⑦ وَالَّذِينَ هُم لِأَمَانَاتِهِم وَعَهدِهِم رَاعُونَ ⑧",
+      "latin": "AL'AADUUNA 7 WALLADZIINA HUM LI'AMAANAATIHIM WA'AHDIHIM ROO'UUNA 8",
+      "order_id": 6,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَالَّذِينَ هُم عَلَى صَلَوَاتِهِم يُحَافِظُونَ ⑨ أُولَئِكَ هُمُ",
+      "latin": "WALLADZIINA HUM 'ALAA SHOLAWAATIHIM YUHAAFIZHUUNA 9 UULAA'IKA HUMU",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "الوَارِثُونَ ⑩ الَّذِينَ يَرِثُونَ الفِردَوسَ هُم فِيهَا خَالِدُونَ ⑪",
+      "latin": "ALWAARITSUUNA 10 ALLADZIINA YARITSUUNA ALFIRDUSA HUM FIIHAA KHOOLIDUUNA 11",
+      "order_id": 8,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 5,
+  "level_title": "IQRO' 5",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

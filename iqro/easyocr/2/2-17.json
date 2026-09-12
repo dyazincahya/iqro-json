@@ -2,12 +2,12 @@
   "level_id": 2,
   "level_title": "IQRO' 2",
   "topic": {
-    "latin": "Letters with Sukun and Extended Vowels (Mad)",
-    "arab": "حُرُوفُ السُّكُونِ وَالْمَدِّ"
+    "latin": "",
+    "arab": ""
   },
-  "instruction_id": "Berlatih menghubungkan huruf dengan sukun dan mengenali vokal yang diperpanjang.",
-  "instruction_en": "Practice connecting letters with sukun and recognizing extended vowels.",
-  "instruction_ar": "تَدَرَّبْ عَلَى وَصْلِ الْحُرُوفِ بِالسُّكُونِ وَتَعَرُّفِ الْمَدِّ.",
+  "instruction_id": "Disiplin PANJANG PENDEK adalah MUTLAK dan PASTI Maka ........ hati-hatilah !",
+  "instruction_en": "Discipline in long and short is ABSOLUTE and CERTAIN. So be very careful!",
+  "instruction_ar": "الالتزام بالمد والقصر أمر مطلق ومحتم. فاحذروا جيدا!",
   "content": [
     {
       "order_id": 1,
@@ -15,206 +15,197 @@
         "row": 1,
         "col": 1
       },
-      "latin": "'QDA",
-      "arabic": "عقدًا"
+      "latin": "'AQODAA",
+      "arabic": "عَقَدَا"
     },
     {
       "order_id": 2,
       "position": {
-        "row": 2,
-        "col": 1
+        "row": 1,
+        "col": 2
       },
-      "latin": "KSBA",
-      "arabic": "كسبا"
+      "latin": "KASABAA",
+      "arabic": "كَسَبَا"
     },
     {
       "order_id": 3,
       "position": {
-        "row": 2,
-        "col": 2
+        "row": 1,
+        "col": 3
       },
-      "latin": "KHTMA",
-      "arabic": "ختما"
+      "latin": "KHOTAMAA",
+      "arabic": "خَتَمَا"
     },
     {
       "order_id": 4,
       "position": {
-        "row": 2,
-        "col": 3
+        "row": 1,
+        "col": 4
       },
-      "latin": "M",
-      "arabic": "م"
+      "latin": "SHOMADAA",
+      "arabic": "صَمَدَا"
     },
     {
       "order_id": 5,
       "position": {
         "row": 2,
-        "col": 4
+        "col": 1
       },
-      "latin": "MDA",
-      "arabic": "مدًا"
+      "latin": "BA'ATSAA",
+      "arabic": "بَعَثَا"
     },
     {
       "order_id": 6,
       "position": {
-        "row": 3,
-        "col": 1
+        "row": 2,
+        "col": 2
       },
-      "latin": "B'TSA",
-      "arabic": "بعثا"
+      "latin": "GHOFALAA",
+      "arabic": "غَفَلَا"
     },
     {
       "order_id": 7,
       "position": {
-        "row": 3,
-        "col": 2
+        "row": 2,
+        "col": 3
       },
-      "latin": "GHFLA",
-      "arabic": "غفلا"
+      "latin": "KHOLAFAA",
+      "arabic": "خَلَفَا"
     },
     {
       "order_id": 8,
       "position": {
-        "row": 3,
-        "col": 3
+        "row": 2,
+        "col": 4
       },
-      "latin": "KHLF",
-      "arabic": "خلف"
+      "latin": "JABALAA",
+      "arabic": "جَبَلَا"
     },
     {
       "order_id": 9,
       "position": {
         "row": 3,
-        "col": 4
+        "col": 1
       },
-      "latin": "JBLA",
-      "arabic": "جبلا"
+      "latin": "KHOATHOBAA",
+      "arabic": "خَاطَبَا"
     },
     {
       "order_id": 10,
       "position": {
-        "row": 4,
-        "col": 1
+        "row": 3,
+        "col": 2
       },
-      "latin": "KHATHBA",
-      "arabic": "خاطبًا"
+      "latin": "MAALAHAA",
+      "arabic": "مَالَهَا"
     },
     {
       "order_id": 11,
       "position": {
-        "row": 4,
-        "col": 2
+        "row": 3,
+        "col": 3
       },
-      "latin": "MALHA",
-      "arabic": "مالها"
+      "latin": "BAAYANAA",
+      "arabic": "بَايَنَا"
     },
     {
       "order_id": 12,
       "position": {
-        "row": 4,
-        "col": 3
+        "row": 3,
+        "col": 4
       },
-      "latin": "BAYTSA",
-      "arabic": "بايثا"
+      "latin": "KAASABAA",
+      "arabic": "كَاسَبَا"
     },
     {
       "order_id": 13,
       "position": {
         "row": 4,
-        "col": 4
+        "col": 1
       },
-      "latin": "KASBA",
-      "arabic": "كاسبا"
+      "latin": "KHOALATHO",
+      "arabic": "خَالَطَ"
     },
     {
       "order_id": 14,
       "position": {
-        "row": 5,
-        "col": 1
+        "row": 4,
+        "col": 2
       },
-      "latin": "KHALTH",
-      "arabic": "خالط"
+      "latin": "'AAZHOMAA",
+      "arabic": "عَاظَمَا"
     },
     {
       "order_id": 15,
       "position": {
-        "row": 5,
-        "col": 2
+        "row": 4,
+        "col": 3
       },
-      "latin": "'AZHMA",
-      "arabic": "عاظمًا"
+      "latin": "NAASYAROA",
+      "arabic": "نَاشَرَا"
     },
     {
       "order_id": 16,
       "position": {
-        "row": 6,
-        "col": 1
+        "row": 4,
+        "col": 4
       },
-      "latin": "NASY",
-      "arabic": "ناش"
+      "latin": "'AARODHOA",
+      "arabic": "عَارَضَا"
     },
     {
       "order_id": 17,
       "position": {
-        "row": 6,
-        "col": 2
+        "row": 5,
+        "col": 1
       },
-      "latin": "'ARDHA",
-      "arabic": "عارضا"
+      "latin": "LAA'AZA",
+      "arabic": "لَاعَزَ"
     },
     {
       "order_id": 18,
       "position": {
-        "row": 6,
-        "col": 3
+        "row": 5,
+        "col": 2
       },
-      "latin": "LA'Z",
-      "arabic": "لاعز"
+      "latin": "LAASYARO",
+      "arabic": "لَاشَرَ"
     },
     {
       "order_id": 19,
       "position": {
-        "row": 6,
-        "col": 4
+        "row": 5,
+        "col": 3
       },
-      "latin": "LASYR",
-      "arabic": "لاشر"
+      "latin": "LAAMANA",
+      "arabic": "لَامَنَ"
     },
     {
       "order_id": 20,
       "position": {
-        "row": 7,
+        "row": 6,
         "col": 1
       },
-      "latin": "LAMN",
-      "arabic": "لامن"
+      "latin": "SHODAQOATAKA",
+      "arabic": "صَدَقَاتَكَ"
     },
     {
       "order_id": 21,
       "position": {
-        "row": 7,
+        "row": 6,
         "col": 2
       },
-      "latin": "SHDQATK",
-      "arabic": "صدقاتك"
+      "latin": "AAMAANATAHAA",
+      "arabic": "آمَانَتَهَا"
     },
     {
       "order_id": 22,
       "position": {
-        "row": 8,
-        "col": 1
+        "row": 6,
+        "col": 3
       },
-      "latin": "AMANTHA",
-      "arabic": "آمانتها"
-    },
-    {
-      "order_id": 23,
-      "position": {
-        "row": 8,
-        "col": 2
-      },
-      "latin": "FAMATHA",
-      "arabic": "فاماتها"
+      "latin": "FAAMAATAHAA",
+      "arabic": "فَآمَاتَهَا"
     }
   ]
 }

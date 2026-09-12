@@ -2,12 +2,12 @@
   "level_id": 1,
   "level_title": "IQRO' 1",
   "topic": {
-    "latin": "DZA",
-    "arab": "ذَ"
+    "latin": "DA DZA",
+    "arab": "دَ ذَ"
   },
   "instruction_id": "",
   "instruction_en": "",
-  "instruction_ar": "القراءة المباشرة أ - ب وهكذا. لا حاجة للتهجئة. اقرأ بصوت قصير.",
+  "instruction_ar": "",
   "content": [
     {
       "order_id": 1,
@@ -15,8 +15,8 @@
         "row": 1,
         "col": 1
       },
-      "latin": "DZA",
-      "arabic": "ذَ"
+      "latin": "DA DZA",
+      "arabic": "دَ ذَ"
     },
     {
       "order_id": 2,
@@ -24,8 +24,8 @@
         "row": 2,
         "col": 1
       },
-      "latin": "DZA DZA",
-      "arabic": "ذَ ذَ"
+      "latin": "DZA A DA",
+      "arabic": "ذَ اَ دَ"
     },
     {
       "order_id": 3,
@@ -33,8 +33,8 @@
         "row": 2,
         "col": 2
       },
-      "latin": "DZA DZA DA",
-      "arabic": "ذَ ذَ دَ"
+      "latin": "HA DA DZA",
+      "arabic": "حَ دَ ذَ"
     },
     {
       "order_id": 4,
@@ -42,8 +42,8 @@
         "row": 3,
         "col": 1
       },
-      "latin": "DZA DA DA",
-      "arabic": "ذَ دَ دَ"
+      "latin": "DA HA A",
+      "arabic": "دَ حَ اَ"
     },
     {
       "order_id": 5,
@@ -51,8 +51,8 @@
         "row": 3,
         "col": 2
       },
-      "latin": "DZA DA KHO",
-      "arabic": "ذَ دَ خَ"
+      "latin": "JA HA DZA",
+      "arabic": "جَ حَ ذَ"
     },
     {
       "order_id": 6,
@@ -60,107 +60,80 @@
         "row": 4,
         "col": 1
       },
-      "latin": "DZA DA TSA",
-      "arabic": "ذَ دَ ثَ"
+      "latin": "DA TA KHO",
+      "arabic": "دَ تَ خَ"
     },
     {
       "order_id": 7,
       "position": {
-        "row": 5,
-        "col": 1
+        "row": 4,
+        "col": 2
       },
-      "latin": "DZA DA TA",
-      "arabic": "ذَ دَ تَ"
+      "latin": "TSA A DZA",
+      "arabic": "ثَ اَ ذَ"
     },
     {
       "order_id": 8,
       "position": {
         "row": 5,
-        "col": 2
+        "col": 1
       },
-      "latin": "DZA DA BA",
-      "arabic": "ذَ دَ بَ"
+      "latin": "KHO HA JA",
+      "arabic": "خَ حَ جَ"
     },
     {
       "order_id": 9,
       "position": {
         "row": 5,
-        "col": 3
+        "col": 2
       },
-      "latin": "DZA DA A",
-      "arabic": "ذَ دَ أَ"
+      "latin": "DZA BA HA",
+      "arabic": "ذَ بَ حَ"
     },
     {
       "order_id": 10,
       "position": {
-        "row": 5,
-        "col": 4
+        "row": 6,
+        "col": 1
       },
-      "latin": "DZA DA KHO",
-      "arabic": "ذَ دَ خَ"
+      "latin": "TSA DA HA",
+      "arabic": "ثَ دَ حَ"
     },
     {
       "order_id": 11,
       "position": {
         "row": 6,
-        "col": 1
+        "col": 2
       },
-      "latin": "DZA DA DA",
-      "arabic": "ذَ دَ دَ"
+      "latin": "A HA DZA",
+      "arabic": "اَ حَ ذَ"
     },
     {
       "order_id": 12,
       "position": {
-        "row": 6,
-        "col": 2
+        "row": 7,
+        "col": 1
       },
-      "latin": "A BA TA TSA",
-      "arabic": "أَ بَ تَ ثَ"
+      "latin": "DZA A DA",
+      "arabic": "ذَ اَ دَ"
     },
     {
       "order_id": 13,
       "position": {
-        "row": 6,
-        "col": 3
+        "row": 7,
+        "col": 2
       },
-      "latin": "JA HA KHO",
-      "arabic": "جَ حَ خَ"
+      "latin": "KHO DA DZA",
+      "arabic": "خَ دَ ذَ"
     },
     {
       "order_id": 14,
       "position": {
-        "row": 7,
-        "col": 1
-      },
-      "latin": "A BA TA TSA JA HA KHO DA DZA",
-      "arabic": "أَ بَ تَ ثَ جَ حَ خَ دَ ذَ"
-    },
-    {
-      "order_id": 15,
-      "position": {
-        "row": 7,
-        "col": 2
-      },
-      "latin": "AKH DZ",
-      "arabic": "اخ ذ"
-    },
-    {
-      "order_id": 16,
-      "position": {
         "row": 8,
         "col": 1
       },
-      "latin": "KH D",
-      "arabic": "خ د"
-    },
-    {
-      "order_id": 17,
-      "position": {
-        "row": 9,
-        "col": 1
-      },
-      "latin": "ABT TS J H KH DDZ",
-      "arabic": "ابت ث ج ح خ دذ"
+      "latin": "A BA TA TSA JA HA KHO DA DZA",
+      "arabic": "اَ بَ تَ ثَ جَ حَ خَ دَ ذَ"
     }
   ]
 }

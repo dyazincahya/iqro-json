@@ -1,0 +1,85 @@
+{
+  "content": [
+    {
+      "arabic": "هُنَّ لِبَاسٌ لَكُمْ وَأَنتُمْ لِبَاسٌ لَهُنَّ عَلِمَ اللَّهُ أَنَّكُمْ",
+      "latin": "HUNNA LIBAASUN LAKUM WA 'ANTUM LIBAASUN LAHUNNA 'ALIMALLAAHU 'ANNAKUM",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "كُنتُمْ تَخْتَانُونَ أَنفُسَكُمْ ○",
+      "latin": "KUNTUM TAKHTAANUUNA ANFUSAKUM ○",
+      "order_id": 2,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "فَإِن لَمْ يُصِبْهَا وَابِلٌ فَطَلٌّ ○",
+      "latin": "FA 'IN LAM YUSHIBHAA WAABILUN FATHALLUN ○",
+      "order_id": 3,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "كَمَا يَقُومُ الَّذِي يَتَخَبَّطُهُ الشَّيْطَانُ مِنَ الْمَسِّ ○",
+      "latin": "KAMAA YAQUUMU ALLADZII YATAKHABBATHUHU ASY SYAITHANU MINA ALMASSI ○",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَمَا لَهُمْ بِهِ مِن عِلْمٍ إِن يَتَّبِعُونَ إِلَّا الظَّنَّ ○",
+      "latin": "WAMAA LAHUM BIHI MIN 'ILMIN 'IN YYATTABI'UUNA 'ILLAA AZHZHANNA ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "فَقَالَ أَنبِئُونِي بِأَسْمَاءِ هَؤُلَاءِ إِن كُنتُمْ صَادِقِينَ ○",
+      "latin": "FAQAALA 'ANBI'UUNII BI'ASMAA'I HAA'ULAA'I 'IN KUNTUM SHAADIQIINA ○",
+      "order_id": 6,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "قُلِ اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَن تَشَاءُ ○",
+      "latin": "QULI ALLAAHUMMA MAALIKA ALMULKI TU'TII ALMULKA MAN TASYAA'U ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "إِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ ○",
+      "latin": "'IDZAA QADHAA 'AMRAN FA'INNAMAA YAQUULU LAHUU KUN FAYAKUUNU ○",
+      "order_id": 8,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Cara mewaqofkannya adalah suara \"hun\" ditekan dan ... ditahan 2 harokat",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

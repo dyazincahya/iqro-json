@@ -1,0 +1,220 @@
+{
+  "content": [
+    {
+      "arabic": "الحَمدُ",
+      "latin": "ALHAMDU",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَالحَمدُ",
+      "latin": "WALHAMDU",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "مَعَ الحَمدِ",
+      "latin": "MA'A ALHAMDI",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "بِالحَمدِ",
+      "latin": "BILHAMDI",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "لَكَ الحَمدُ",
+      "latin": "LAKA ALHAMDU",
+      "order_id": 5,
+      "position": {
+        "col": 3,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَالعَصرِ",
+      "latin": "WAL'ASHRI",
+      "order_id": 6,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَالفَجرِ",
+      "latin": "WALFAJRI",
+      "order_id": 7,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "بِالفَاتِحَةِ",
+      "latin": "BILFAATIHAHTI",
+      "order_id": 8,
+      "position": {
+        "col": 3,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "فِي الكُتُبِ",
+      "latin": "FII ALKUTUBI",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "بِالإِسلَامِ",
+      "latin": "BILISLAAMI",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَالإِيمَانِ",
+      "latin": "WALIIMAANI",
+      "order_id": 11,
+      "position": {
+        "col": 3,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَأَمرَأَتُهُ",
+      "latin": "WA'AMRO'ATUHU",
+      "order_id": 12,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَاستَغفَرَهُ",
+      "latin": "WASTAGHFOROHU",
+      "order_id": 13,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَاقتَرِب",
+      "latin": "WAQTARIB",
+      "order_id": 14,
+      "position": {
+        "col": 3,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "بِاسمِكَ",
+      "latin": "BISMIKA",
+      "order_id": 15,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "مَا القَارِعَةُ",
+      "latin": "MAA ALQOORI'ATU",
+      "order_id": 16,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَالعَادِيَاتِ",
+      "latin": "WAL'AADIYAATI",
+      "order_id": 17,
+      "position": {
+        "col": 3,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "بِالرَّحمَةِ",
+      "latin": "BIRROHMATI",
+      "order_id": 18,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "فِي الأَرضِ",
+      "latin": "FII ALARDHI",
+      "order_id": 19,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "عَلَى الأَفئِدَةِ",
+      "latin": "'ALAA ALAF'IDATI",
+      "order_id": 20,
+      "position": {
+        "col": 3,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "فِي الجَحِيمِ",
+      "latin": "FII ALJAHIIMI",
+      "order_id": 21,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    },
+    {
+      "arabic": "لِلكَافِرِينَ",
+      "latin": "LILKAAFIRINA",
+      "order_id": 22,
+      "position": {
+        "col": 2,
+        "row": 8
+      }
+    },
+    {
+      "arabic": "وَالمِسكِينِ",
+      "latin": "WALMASKIINI",
+      "order_id": 23,
+      "position": {
+        "col": 3,
+        "row": 8
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Alif dianggap tidak ada",
+  "level_id": 5,
+  "level_title": "IQRO' 5",
+  "topic": {
+    "arab": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+    "latin": "BISMILLAAHIRROHMAANIRROHIIM"
+  }
+}

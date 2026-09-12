@@ -1,0 +1,76 @@
+{
+  "content": [
+    {
+      "arabic": "وَالفَجرِ ○ وَلَيَالٍ عَشرٍ ○ وَالشَّفعِ وَالوَترِ ○",
+      "latin": "WALFAJRI ○ WALAYAALIN 'ASYRIN ○ WASY SYAF'I WALWATRI ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "فَسَبِّح بِحَمدِ رَبِّكَ وَاستَغفِرهُ إِنَّهُ كَانَ تَوَّابًا ○",
+      "latin": "FASABBIH BIHAMDI ROBBIKA WASTAGHFIRHU INNAHU KAANA TAWWABAN ○",
+      "order_id": 2,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "تَكُونُ السَّمَاءُ كَالمُهلِ ○ وَتَكُونُ الجِبَالُ كَالعِهنِ ○",
+      "latin": "TAKUUNU ASSAMAA'U KALMUHLI ○ WATAKUUNU ALJIBAALU KAL'IHNI ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَالصَّابِرِينَ فِي البَأسَاءِ وَالضَّرَّاءِ وَحِينَ البَأسِ ○",
+      "latin": "WASH SHOBIRIINA FIILBA'SAA'I WADH DHORROO'I WAHIINALBA'SI ○",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "أَوَلَم يَرَو إِلَى الطَّيرِ فَوقَهُم صَافَّاتٍ وَيَقبِضنَ ○",
+      "latin": "AWALAM YAROU ILATH THOIRI FAUQOHUM SHOFFAATIN WAYAQBIDHNA ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "اِعلَمُوا أَنَّمَا الحَيَاةُ الدُّنيَا لَعِبٌ وَلَهوٌ وَزِينَةٌ ○",
+      "latin": "I'LAMUU ANNAMAL HAYAATU ADDUNYAA LA'IBUN WALAHWUN WAZIINATUN ○",
+      "order_id": 6,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "اِصطَفَاهُ عَلَيكُم وَزَادَهُ بَسطَةً فِي العِلمِ وَالجِسمِ ○",
+      "latin": "ISHTHOFAAHU 'ALAIKUM WAZAADAHU BASTHOTAN FIIL'ILMI WALJISMI ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Bila waqof, suara \"fat\" ditekan dan diikuti bunyi ح dengan suara rendah.",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

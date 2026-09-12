@@ -1,0 +1,76 @@
+{
+  "content": [
+    {
+      "arabic": "وَبَثَّ مِنهُمَا رِجَالًا كَثِيرًا وَنِسَاءً ○",
+      "latin": "WABATSTSA MINHUMAA RIJAALAN KATSIIRAN WANISAA'AN ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "الَّذِي يَنعِقُ بِمَا لَا يَسمَعُ إِلَّا دُعَاءً وَنِدَاءً ○",
+      "latin": "ALLADZII YAN'IQU BIMAA LAA YASMA'U 'ILLAA DU'AA'AN WANIDAA'AN ○",
+      "order_id": 2,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "قُلْ مَن رَّبُّ السَّمَاوَاتِ وَالْأَرْضِ قُلِ اللَّهُ ○",
+      "latin": "QUL MAN RABBUS SAMAAWAATI WAL'ARDHI QULI ALLAAHU ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً ○",
+      "latin": "WA'IDZ QAALA RABBUKA LILMALAA'IKATI 'INNII JAA'ILUN FII AL'ARDHI KHALIIFATAN ○",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَا إِثْمَ عَلَيْهِ ○",
+      "latin": "FAMANI IDHTHURRA GHAIRA BAAGHIN WALAA 'AADIN FALAA 'ITSMA 'ALAIHI ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "إِنَّا مَكَّنَّا لَهُ فِي الْأَرْضِ وَآتَيْنَاهُ مِن كُلِّ شَيْءٍ سَبَبًا ○",
+      "latin": "'INNAA MAKKANNAA LAHUU FII AL'ARDHI WA'AATAINAAHU MIN KULLI SYAI'IN SABABAN ○",
+      "order_id": 6,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "الَّذِي جَعَلَ لَكُمُ الْأَرْضَ فِرَاشًا وَالسَّمَاءَ بِنَاءً ○",
+      "latin": "ALLADZII JA'ALA LAKUMU AL'ARDHA FIRAASYAN WASSAMAA'A BINAA'AN ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Bila waqof, \"an\" dibaca \"aa..\" (panjang 2 harokat)",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

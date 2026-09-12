@@ -1,0 +1,76 @@
+{
+  "content": [
+    {
+      "arabic": "وَإِن لَّم تَغفِر لَنَا وَتَرحَمنَا لَنَكُونَنَّ مِنَ الخَاسِرِينَ ○",
+      "latin": "WA'IN LLAM TAGHFIR LANAA WATARHAMNAA LANAKUUNANNA MINA ALKHOOSIRIINA ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "فَطَافَ عَلَيهِم طَائِفٌ مِّن رَّبِّكَ وَهُم نَائِمُونَ ○",
+      "latin": "FATHOOFA 'ALAIHIM THOO'IFUN MMIN ROBBIKA WAHUM NAAA'IMUUNA ○",
+      "order_id": 2,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَإِذَا رَأَوهُم قَالُوا إِنَّ هَؤُلَاءِ لَضَالُّونَ ○",
+      "latin": "WA'IDZAA RO'AUWHUM QOOLUU INNA HAA'ULAAA'I LADHOOLLUUNA ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَلَا نُكَذِّبُ بِأَيَاتِ رَبِّنَا وَنَكُونَ مِنَ المُؤمِنِينَ ○",
+      "latin": "WALAA NUKADZDZIBU BI'AAYAATI ROBBINAA WANAKUUNA MINA ALMU'MINIINA ○",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "فَلَمَّا جَاءَهُم بِآيَاتِنَا إِذَا هُم مِّنهَا يَضحَكُونَ ○",
+      "latin": "FALAMMAA JAAA'AHUM BI'AAYAATINAA IDZAA HUM MMINHAA YADHHAKUUNA ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَرَأَيتَ النَّاسَ يَدخُلُونَ فِي دِينِ اللهِ أَفوَاجًا ○",
+      "latin": "WARO'AITA ANNAASA YADKHULUUNA FII DIINILLAAHI AFWAAJAN ○",
+      "order_id": 6,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "فَسَبِّح بِحَمدِ رَبِّكَ وَاستَغفِرهُ إِنَّهُ كَانَ تَوَّابًا ○",
+      "latin": "FASABBIH BIHAMDI ROBBIKA WASTAGHFIRHU INNAHU KAANA TAWWABBAN ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "MAAF! Bila belum benar semuanya sebaiknya tak segan mengulang.",
+  "level_id": 5,
+  "level_title": "IQRO' 5",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

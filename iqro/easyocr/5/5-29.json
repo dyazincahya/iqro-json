@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "arabic": "لَا إِلَهَ إِلَّا اللهُ ○",
+      "latin": "LAA ILAAHA ILLALLOHU ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "مُحَمَّدٌ رَّسُولُ اللهِ ○",
+      "latin": "MUHAMMADUN ROSUULULLOHI ○",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "الَّذِينَ يُؤمِنُونَ بِالغَيبِ ○",
+      "latin": "ALLADZIINA YU'MINUUNA BILGHOIBI ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَيُقِيمُونَ الصَّلَاةَ ○",
+      "latin": "WAYUQIIMUUNA ASHSHOLAATA ○",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَيُؤتُونَ الزَّكَاةَ ○",
+      "latin": "WAYU'TUUNA AZZAKAATA ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "إِنَّ الفَضلَ بِيَدِ اللهِ ○",
+      "latin": "INNALFADHLA BIYADILLAAHI ○",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "لِكُلِّ أَوَّابٍ حَفِيظٍ ○",
+      "latin": "LIKULLI AWWABIN HAFIIZHIN ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَهُوَ اللَّطِيفُ الخَبِيرُ ○",
+      "latin": "WAHUWA ALLATHIIFU ALKHOBIIRU ○",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "إِن هُم إِلَّا يَظُنُّونَ ○",
+      "latin": "IN HUM ILLAA YAZHUNNUUNA ○",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "فَرَاهُ فِي سَوَاءِ الجَحِيمِ ○",
+      "latin": "FARO'AAHU FII SAWAAA'I ALJAHIIMI ○",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَيلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ ○",
+      "latin": "WAILUN LLIKULLI HUMAZATIN LUMAZATIN ○",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "هُم أَصحَابُ المَشأَمَةِ ○",
+      "latin": "HUM ASHHAABU ALMASY'AMATI ○",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "نَارُ اللهِ المُوقَدَةُ ○",
+      "latin": "NAARULLOHILMUUQODATU ○",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "الَّتِي تَطَّلِعُ عَلَى الأَفئِدَةِ ○",
+      "latin": "ALLATII TATHTHOLI'U 'ALAA ALAF'IDATI ○",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "EBTA. Bila telah benar semuanya walaupun pelan pembacanya boleh dinaikkan ke jilid 6.",
+  "level_id": 5,
+  "level_title": "IQRO' 5",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

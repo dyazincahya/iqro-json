@@ -1,0 +1,130 @@
+{
+  "content": [
+    {
+      "arabic": "قُل هُوَ اللهُ أَحَدٌ ○",
+      "latin": "QUL HUWA ALLOHU AHADUN ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "اللهُ الصَّمَدُ ○",
+      "latin": "ALLOHU ASHSHOMADU ○",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "الَّذِينَ طَغَوا فِي البِلَادِ ○",
+      "latin": "ALLADZIINA THOGHOU FILBILAADI ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "فَأَكثَرُوا فِيهَا الفَسَادَ ○",
+      "latin": "FA'AKTSARUU FIIHAA ALFASAADA ○",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "تِلكَ أَيَاتُ اللهِ ○",
+      "latin": "TILKA AAYAATULLOHI ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "فَإِذَا هُم بِالسَّاهِرَةِ ○",
+      "latin": "FA'IDZAA HUM BISSAAHIROTI ○",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "يَصلَونَهَا يَومَ الدِّينِ ○",
+      "latin": "YASHLOUNAHAA YAUMA ADDIINI ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "فَضَّلَ اللهُ المُجَاهِدِينَ ○",
+      "latin": "FADHDHALALLOHU ALMUJAAHIDIINA ○",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَاللهُ وَلِيُّ المُؤمِنِينَ ○",
+      "latin": "WALLOHU WALIYYU ALMU'MINIINA ○",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَرَبُّ العَرشِ العَظِيمِ ○",
+      "latin": "WAROBBU AL'ARSYI AL'AZHIIMI ○",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "تِلكَ حُدُودُ اللهِ ○",
+      "latin": "TILKA HUDUUDULLOHI ○",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "يُبَيِّنُ اللهُ أَيَاتِهِ ○",
+      "latin": "YUBAYYINULLOHU AAYAATIHI ○",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَاتَّقُوا اللهَ الَّذِي تَسَاءَلُونَ بِهِ وَالأَرحَامَ ○",
+      "latin": "WATTAQUULLOHA ALLADZII TASAA'ALUUNA BIHI WALARHAAMA ○",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Bila sebelumnya berharokat A atau U maka dibaca LOH. Contoh: WALLOHU - ROSULULLOHI.",
+  "level_id": 5,
+  "level_title": "IQRO' 5",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

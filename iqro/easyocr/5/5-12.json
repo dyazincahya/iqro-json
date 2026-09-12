@@ -1,0 +1,148 @@
+{
+  "content": [
+    {
+      "arabic": "وَالنَّهَارِ",
+      "latin": "WANNAHAARI",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَالنَّاسِ",
+      "latin": "WANNASI",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "بِالنُّذُرِ",
+      "latin": "BINNUDZURI",
+      "order_id": 3,
+      "position": {
+        "col": 3,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "فِي صُدُورِ النَّاسِ ○",
+      "latin": "FII SHUDUURI ANNASI ○",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "الوَسوَاسِ الخَنَّاسِ ○",
+      "latin": "ALWASWAASI ALKHONNAASI ○",
+      "order_id": 5,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَالنَّازِعَاتِ غَرقًا ○",
+      "latin": "WANNA AZI'AATI GHORQON ○",
+      "order_id": 6,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَالنَّاشِطَاتِ نَشطًا ○",
+      "latin": "WANNASYITHOOTI NASYTHON ○",
+      "order_id": 7,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَكُنَّا نَخوضُ مَعَ الخَائِضِينَ ○",
+      "latin": "WAKUNNAA NAKHUUDHU MA'A ALKHOAIDHIINA ○",
+      "order_id": 8,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "أَم كَانَ مِنَ الغَائِبِينَ ○",
+      "latin": "AM KAANA MINA ALGHOO'IBIINA ○",
+      "order_id": 9,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "إِنِّي لَكُم نَذِيرٌ مُّبِينٌ ○",
+      "latin": "INNII LAKUM NADZIIRUN MUBIINUN ○",
+      "order_id": 10,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَمَا لَكُم مِّن نَّاصِرِينَ ○",
+      "latin": "WAMAA LAKUM MIN NAASHIRIINA ○",
+      "order_id": 11,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "عَمَّ يَتَسَاءَلُونَ ○",
+      "latin": "'AMMA YATASAA'ALUUNA ○",
+      "order_id": 12,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "عَنِ النَّبَإِ العَظِيمِ ○",
+      "latin": "'ANI ANNABA'I AL'AZHIIMI ○",
+      "order_id": 13,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "إِذَا كُنَّا عِظَامًا نَّخِرَةً ○",
+      "latin": "IDZAA KUNNAA 'IZHOOMAN NAKHIROTAN ○",
+      "order_id": 14,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "أُولَئِكَ أَصحَابُ الجَنَّةِ ○",
+      "latin": "UULAA'IKA ASHHAABU ALJANNATI ○",
+      "order_id": 15,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Al (Alief Lam) dianggap tidak ada.",
+  "level_id": 5,
+  "level_title": "IQRO' 5",
+  "topic": {
+    "arab": "ال...",
+    "latin": ""
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "content": [
+    {
+      "arabic": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ ○",
+      "latin": "FAMAYYA'MAL MITSQAALA DZARRATIN KHAIRAY YARAHU ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "إِنَّ فِي السَّمَاوَاتِ وَالْأَرْضِ لَآيَاتٍ لِلْمُؤْمِنِينَ ○",
+      "latin": "'INNA FIS SAMAAWAATI WAL'ARDHI LAAYAATIL LILMU'MINIINA ○",
+      "order_id": 2,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "قَالَ وَمَن يَقْنَطُ مِن رَحْمَةِ رَبِّهِ إِلَّا الضَّآلُّونَ ○",
+      "latin": "QAALA WAMAYYAQNUTHU MIR RAHMATI RABBIHII 'ILLADH DHAALLUUNA ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِيُرَوْا أَعْمَالَهُمْ ○",
+      "latin": "YAUMA'IDZIY YASHDURUN NAASU ASYTAATAL LIYURAU 'A'MAALAHUM ○",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "يَآأَيُّهَا النَّبِيُّ اتَّقِ اللَّهَ وَلَا تُطِعِ الْكَافِرِينَ ○",
+      "latin": "YAA'AYYUHAN NABIYUTTAQILLAAHA WALAA TUTHI'IL KAAFIRIINA ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَأَقْرِضُوا اللَّهَ قَرْضًا حَسَنًا يُضْعَفُ لَهُمْ ○",
+      "latin": "WA'AQRIDHULLAAHA QARDHAN HASANAY YUDH'AFU LAHUM ○",
+      "order_id": 6,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "مَا أُرِيدُ مِنْهُم مِن رِزْقٍ وَمَا أُرِيدُ أَن يُطْعِمُونِ ○",
+      "latin": "MAA 'URIIDU MINHUM MIN RIZQIN WAMAA 'URIIDU 'AYYUTH'IMUUNI ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "فَيُضِلُّ اللَّهُ مَن يَشَآءُ وَيَهْدِي مَن يَشَآءُ ○",
+      "latin": "FAYUDHILLULLAAHU MAYYASYAA'U WAYAHDII MAYYASYAA'U ○",
+      "order_id": 8,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

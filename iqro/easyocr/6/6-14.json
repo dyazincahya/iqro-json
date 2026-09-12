@@ -1,0 +1,112 @@
+{
+  "content": [
+    {
+      "arabic": "وَأَنزَلْنَا فِيهَا آيَاتٍ بَيِّنَاتٍ لَعَلَّكُمْ تَذَكَّرُونَ ○",
+      "latin": "WAANZALNAA FIIHAA AAYAATIN BAYYINAATIN LA'ALLAKUM TADZAKKARUUNA ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "--- س - مِن آيَةٍ أَوْ نُنسِهَا - قَوْلًا سَدِيدًا ○",
+      "latin": "--- SAA - MIN AAYATIN AU NUNSIHAA - QAULAN SADIIDAN ○",
+      "order_id": 2,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "خَمْسَةٌ سَادِسُهُمْ ○",
+      "latin": "KHOMSATUN SAADISUHUM ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "قُتِلَ الْإِنسَانُ مَا أَكْفَرَهُ ○",
+      "latin": "QUTILAL INSAANU MAA AKFARAHU ○",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "إِلَّا مَن أَتَى اللَّهَ بِقَلْبٍ سَلِيمٍ ○",
+      "latin": "ILLAA MAN ATALLAAHA BIQOLBIN SALIIMIN ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "لَا يَيْئَسُ مِن رَوْحِ اللَّهِ إِلَّا الْقَوْمُ الْكَافِرُونَ ○",
+      "latin": "LAA YAI'ASU MIR RAUHILLAAHI ILLAL QOUMUL KAAFIRUUNA ○",
+      "order_id": 6,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "--- ش - مِن شَعَائِرِ - قُلْنَا إِذًا شَطَطًا ○",
+      "latin": "--- SYAA - MIN SYA'AA'IRI - QULNAA IDZAN SYATHATHAN ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَيُنشِئُ السَّحَابَ الثِّقَالَ ○",
+      "latin": "WAYUNSYI'US SAH'AABATS TSIQAALA ○",
+      "order_id": 8,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "ثُمَّ إِذَا شَاءَ أَنشَرَهُ ○",
+      "latin": "TSUMMA IDZAA SYAA'A ANSYARAHU ○",
+      "order_id": 9,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "مِن شَرِّ مَا خَلَقَ ○",
+      "latin": "MIN SYARRI MAA KHOLAQO ○",
+      "order_id": 10,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    },
+    {
+      "arabic": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ○",
+      "latin": "WAMIN SYARRI GHOOSIQIN IDZAA WAQOBA ○",
+      "order_id": 11,
+      "position": {
+        "col": 2,
+        "row": 8
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

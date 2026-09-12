@@ -1,0 +1,76 @@
+{
+  "content": [
+    {
+      "arabic": "... أَبِي لَهَبٍ وَتَبَّ ○ مَوَاقِيتُ لِلنَّاسِ وَالحَجِّ",
+      "latin": "... ABII LAHABIN WATABBA ○ MAWAAQIITU LINNAASI WALHAJJI",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "اِعلَمُوا أَنَّ اللهَ يُحيِي الأَرضَ بَعدَ مَوتِهَا",
+      "latin": "I'LAMUU ANN ALLOHA YUHYIIL ARDHO BA'DA MAUTIHAA",
+      "order_id": 2,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "نَحنُ نَقُصُّ عَلَيكَ نَبَأَهُم بِالحَقِّ",
+      "latin": "NAHNU NAQUSHSHU 'ALAIKA NABA'AHUM BILHAQQI",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ لِلهِ شُهَدَاءَ بِالقِسطِ",
+      "latin": "YAA AYYUHALLADZIINA AAMANUU KUUNUU QOWWAAMIINA LILLAAHI SYUHADAA'A BILQISTHI",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَلَا تَعَاوَنُوا عَلَى الإِثمِ وَالعُدوَانِ وَاتَّقُوا اللهَ",
+      "latin": "WALAA TA'AAWANUU 'ALAL ITSMI WAL'UDWAANI WATTAQULLOHA",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَلِيَعلَمَ اللهُ الَّذِينَ آمَنُوا وَيَتَّخِذَ مِنكُم شُهَدَاءَ",
+      "latin": "WALIYA'LAMALLOHU ALLADZIINA AAMANUU WAYATTAKHIDZA MINKUM SYUHADAA'A",
+      "order_id": 6,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "تِلكَ آيَاتُ اللهِ نَتلُوهَا عَلَيكَ بِالحَقِّ",
+      "latin": "TILKA AAYAA TULLOHI NATLUUHAA 'ALAIKA BILHAQQI",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Huruf-huruf Qolqolah bertasydid, bila diwaqofkan : Ditekan suaranya, ditahan 2 harokat, diikuti qolqolah",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

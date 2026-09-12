@@ -1,0 +1,130 @@
+{
+  "content": [
+    {
+      "arabic": "مِن - وَاحِدٍ ○",
+      "latin": "MIN - WWAAHIDIN ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "عَن - وَالِدَيم ○",
+      "latin": "'AN - WAALIDAYM ○",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "حَبَّا وَنَبَاتًا - سِرَاجًا وَهَّاجًا - زُجَاجَةٌ وَاحِدَةٌ",
+      "latin": "HABBAA WANABAATAN - SIRAAJAN WAHHAAJAN - ZUJAAJATUN WWAAHIDATUN",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "رَحمَةً وَعِلمًا ○",
+      "latin": "ROHMATAN WA'ILMAN ○",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "عَدُوًّا وَحَزَنًا ○",
+      "latin": "ADUWWAN WAHAZANAN ○",
+      "order_id": 5,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَالهُكُم إِلَهٌ وَاحِدٌ ○",
+      "latin": "WA'ILAAHUKUM ILAAHUN WWAAHIDUN ○",
+      "order_id": 6,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "مِن وَرَائِهِم مُّحِيطٌ ○",
+      "latin": "MIN WWAROO'IHIM MMUHIITHUN ○",
+      "order_id": 7,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "أَحسَنُ ثَوَابًا ○",
+      "latin": "AHSANU TSAWAABAN ○",
+      "order_id": 8,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "كَانَ فَاحِشَةً وَمَقتًا ○",
+      "latin": "KAANA FAAHISYATAN WAMAQTAN ○",
+      "order_id": 9,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "إِلَّا حَمِيمًا وَغَسَّاقًا ○",
+      "latin": "ILLAA HAMIIMAN WAGHOSSAAQON ○",
+      "order_id": 10,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَالآخِرَةُ خَيرٌ وَأَبقَى ○",
+      "latin": "WALAAKHIROTU KHOIRUN WA'ABQOO ○",
+      "order_id": 11,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "بُهتَانًا وَإِثمًا مُّبِينًا ○",
+      "latin": "BUHTAANAN WA'ITSMAN MMUBIINAN ○",
+      "order_id": 12,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "مِن وَلِيٍّ وَلَا نَصِيرٍ ○",
+      "latin": "MIN WWALIYYIN WALAA NASHIIRIN ○",
+      "order_id": 13,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Masuk dengan dengung. Ditekan & ditahan 2 harokat. (Nun sukun/tanwin menghadap huruf wawu)",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+    "latin": "BISMILLAAHIRROHMAANIRROHIIM"
+  }
+}

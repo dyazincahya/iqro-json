@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "arabic": "أَخْطَأْنَا رَبَّنَا وَلَا تَحمِل عَلَينَا إِصرًا كَمَا",
+      "latin": "AKHTHO'NAA ROBBANAA WALAA TAHMIL 'ALAINAA ISHRON KAMAA",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "حَمَلتَهُ عَلَى الَّذِينَ مِن قَبلِنَا رَبَّنَا وَلَا تُحَمِّلنَا",
+      "latin": "HAMALTAHU 'ALAL LADZIINA MIN QOBLINAA ROBBANAA WALAA TUHAMMILNAA",
+      "order_id": 2,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "مَا لَا طَاقَةَ لَنَا بِهِ وَاعفُ عَنَّا وَاغفِر لَنَا",
+      "latin": "MAA LAA THOOQOTA LANAA BIHI WA'FU 'ANNAA WAGHFIR LANAA",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَارحَمنَا أَنتَ مَولَانَا فَانصُرنَا عَلَى القَومِ الكَافِرِينَ ○",
+      "latin": "WARHAMNAA ANTA MAULAANAA FANSHURNAA 'ALAL QOUMIL KAAFIRINA ○",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

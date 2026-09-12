@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "arabic": "نَستَعِين ○ ...",
+      "latin": "NASTA'IINU ○ ...",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "مُهتَدِين ○ ...",
+      "latin": "MUHTADIINA ○ ...",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "عَينَ اليَقِين ○ ...",
+      "latin": "'AINA ALYAQIINI ○ ...",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَطُورِ سِينِين ○ ...",
+      "latin": "WATHUURI SIINIINA ○ ...",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "يَكذِبُون ○ ...",
+      "latin": "YUKADZDZIBUUNA ○ ...",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "مُستَهزِءُون ○ ...",
+      "latin": "MUSTAHZI'UUNA ○ ...",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "مُعرِضُون ○ ...",
+      "latin": "MU'RIDHUUNA ○ ...",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "مُصلِحُون ○ ...",
+      "latin": "MUSHLIHUUNA ○ ...",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "فِي العُقد ○ ...",
+      "latin": "FII ALUQODI ○ ...",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "إِذَا حسَد ○ ...",
+      "latin": "IDZAA HASADA ○ ...",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "فِي تَضلِيل ○ ...",
+      "latin": "FII TADHLIILIN ○ ...",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "أَصحَاب الفِيل ○ ...",
+      "latin": "ASHHAABA ALFIILI ○ ...",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "يَختَلِفُون ○ ...",
+      "latin": "YAKHTALIFUUNA ○ ...",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "مِنَ المُمتَرِين ○ ...",
+      "latin": "MINA ALMUMTARIINA ○ ...",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Bila waqof/berhenti huruf terakhir dibaca sukun mati. Contoh: AMINA dibaca AMIN.",
+  "level_id": 5,
+  "level_title": "IQRO' 5",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

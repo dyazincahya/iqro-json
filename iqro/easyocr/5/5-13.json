@@ -1,0 +1,157 @@
+{
+  "content": [
+    {
+      "arabic": "النَّارِ ذَاتَ الوَقُودِ ○",
+      "latin": "ANNAARI DZAATA ALWAQUUDI ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "إِذ هُم عَلَيهَا قُعُودٌ ○",
+      "latin": "IDZ HUM 'ALAIHAA QU'UUDUN ○",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "إِنَّ جَهَنَّمَ كَانَت مِرصَادًا ○",
+      "latin": "INNA JAHANNAMA KAANAT MIRSHOODAN ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "لِلطَّاغِينَ مَأبًا ○",
+      "latin": "LITHTHOOGHIINA MA'ABAN ○",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "إِنَّهُ لَمِنَ الكَاذِبِينَ ○",
+      "latin": "INNAHU LAMINA ALKAADZIBIINA ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "ثُمَّ أَغرَقنَا الآخَرِينَ ○",
+      "latin": "TSUMMA AGHROQNAALAAKHORIINA ○",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَلَا تُبطِلُوا أَعمَالَكُم ○",
+      "latin": "WALAA TUBTHILUU A'MAALAKUM ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "ثُمَّ قَضَى أَجَلًا ○",
+      "latin": "TSUMMA QODHOO AJALAN ○",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "فِيهَا سُرُرٌ مَّرفُوعَةٌ ○",
+      "latin": "FIIHAA SURURUN MARFUU'ATUN ○",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَأَكوَابٌ مَّوضُوعَةٌ ○",
+      "latin": "WA'AKWAABUN MAWDHUU'ATUN ○",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "إِنَّ هَذَا لَشَيءٌ عَجِيبٌ ○",
+      "latin": "INNA HAADZAA LASYAI'UN 'AJIIBUN ○",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "إِنَّهُ حَمِيدٌ مَّجِيدٌ ○",
+      "latin": "INNAHU HAMIIDUN MAJIIDUN ○",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "إِنَّ إِلَينَا إِيَابَهُم ○",
+      "latin": "INNA ILAINAA IYAABAHUM ○",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "ثُمَّ إِنَّ عَلَينَا حِسَابَهُم ○",
+      "latin": "TSUMMA INNA 'ALAINAA HISAABAHUM ○",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "فَادخُلِي فِي عِبَادِي ○",
+      "latin": "FADKHULII FII 'IBAADII ○",
+      "order_id": 15,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    },
+    {
+      "arabic": "وَادخُلِي جَنَّتِي ○",
+      "latin": "WADKHULII JANNATII ○",
+      "order_id": 16,
+      "position": {
+        "col": 2,
+        "row": 8
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 5,
+  "level_title": "IQRO' 5",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}
