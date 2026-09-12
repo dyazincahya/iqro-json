@@ -19,8 +19,8 @@
       }
     },
     {
-      "arabic": "حَبَّا وَنَبَاتًا - سِرَاجًا وَهَّاجًا - زُجَاجَةٌ وَاحِدَةٌ",
-      "latin": "HABBAA WANABAATAN - SIRAAJAN WAHHAAJAN - ZUJAAJATUN WWAAHIDATUN",
+      "arabic": "حَبًّا وَنَبَاتًا - سِرَاجًا وَهَّاجًا - زُجَاجَةً وَاحِدَةً",
+      "latin": "HABBAN WANABAATAN - SIRAAJAN WAHHAAJAN - ZUJAAJATAN WWAAHIDATAN",
       "order_id": 3,
       "position": {
         "col": 1,
@@ -46,7 +46,7 @@
       }
     },
     {
-      "arabic": "وَالهُكُم إِلَهٌ وَاحِدٌ ○",
+      "arabic": "وَإِلَهُكُم إِلَهٌ وَاحِدٌ ○",
       "latin": "WA'ILAAHUKUM ILAAHUN WWAAHIDUN ○",
       "order_id": 6,
       "position": {

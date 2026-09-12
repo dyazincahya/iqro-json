@@ -37,8 +37,8 @@
       }
     },
     {
-      "arabic": "بِغَيَانِيْهِمْ - حِلٌّ بِهَا - لِجَنْبِهِ",
-      "latin": "BIGHAYAANIIHIM - HILLUM BIHAA - LIJAMBIHI",
+      "arabic": "بِغَيَانِيْهِمْ - حِلٌّ بِهَذَا - لِجَنْبِهِ",
+      "latin": "BIGHAYAANIIHIM - HILLUM BIHAADZAA - LIJAMBIHI",
       "order_id": 5,
       "position": {
         "col": 1,
@@ -102,7 +102,7 @@
   ],
   "instruction_ar": "",
   "instruction_en": "",
-  "instruction_id": "Nun sukun / tanwin berubah menjadi m",
+  "instruction_id": "Nun sukun / tanwin berubah menjadi mim (apabila bertemu huruf ba)",
   "level_id": 6,
   "level_title": "IQRO' 6",
   "topic": {

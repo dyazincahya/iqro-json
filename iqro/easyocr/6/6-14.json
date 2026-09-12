@@ -10,8 +10,8 @@
       }
     },
     {
-      "arabic": "--- س - مِن آيَةٍ أَوْ نُنسِهَا - قَوْلًا سَدِيدًا ○",
-      "latin": "--- SAA - MIN AAYATIN AU NUNSIHAA - QAULAN SADIIDAN ○",
+      "arabic": "مِن آيَةٍ أَوْ نُنسِهَا - قَوْلًا سَدِيدًا ○",
+      "latin": "MIN AAYATIN AU NUNSIHAA - QAULAN SADIIDAN ○",
       "order_id": 2,
       "position": {
         "col": 1,
@@ -55,8 +55,8 @@
       }
     },
     {
-      "arabic": "--- ش - مِن شَعَائِرِ - قُلْنَا إِذًا شَطَطًا ○",
-      "latin": "--- SYAA - MIN SYA'AA'IRI - QULNAA IDZAN SYATHATHAN ○",
+      "arabic": "مِن شَعَائِرِ - قُلْنَا إِذًا شَطَطًا ○",
+      "latin": "MIN SYA'AA'IRI - QULNAA IDZAN SYATHATHAN ○",
       "order_id": 7,
       "position": {
         "col": 1,

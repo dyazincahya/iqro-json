@@ -10,8 +10,8 @@
       }
     },
     {
-      "arabic": "--- ذ - مِن ذُرِّيَّةٍ - عَن ذِي الْقَرْنَيْنِ ○",
-      "latin": "--- DZAA - MIN DZURRIYYATIN - 'AN DZIL QORNAINI ○",
+      "arabic": "مِن ذُرِّيَّةٍ - عَن ذِي الْقَرْنَيْنِ ○",
+      "latin": "MIN DZURRIYYATIN - 'AN DZIL QORNAINI ○",
       "order_id": 2,
       "position": {
         "col": 1,
@@ -55,8 +55,8 @@
       }
     },
     {
-      "arabic": "--- ز - أُنزِلَ - إِن زَلَّتُمْ - لَنَنزِعَنَّ",
-      "latin": "--- ZAA - UNGZILA - IN ZALLALTUM - LANANZI'ANNA",
+      "arabic": "أُنزِلَ - إِن زَلَّتُمْ - لَنَنزِعَنَّ",
+      "latin": "UNGZILA - IN ZALLALTUM - LANANZI'ANNA",
       "order_id": 7,
       "position": {
         "col": 1,
