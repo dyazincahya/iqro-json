@@ -45,6 +45,7 @@ export const IqroPage: React.FC<IqroPageProps> = ({
   forcedColCount 
 }) => {
   const [selectedItem, setSelectedItem] = useState<number | null>(null);
+  const [playingId, setPlayingId] = useState<number | null>(null);
 
   // Group content by row
   const rowsMap: Record<number, IqroContentItem[]> = {};
@@ -86,14 +87,17 @@ export const IqroPage: React.FC<IqroPageProps> = ({
     instructionPadding = "pb-1 mb-1";
   }
 
-  const speakLatin = (text: string, e: React.MouseEvent) => {
+  const speakLatin = (text: string, id: number, e: React.MouseEvent) => {
     e.stopPropagation();
     if ('speechSynthesis' in window) {
       window.speechSynthesis.cancel();
+      setPlayingId(id);
       const cleanText = text.replace(/=/g, ' ').replace(/-/g, ' ');
       const utterance = new SpeechSynthesisUtterance(cleanText);
       utterance.lang = 'id-ID';
       utterance.rate = 0.8;
+      utterance.onend = () => setPlayingId(null);
+      utterance.onerror = () => setPlayingId(null);
       window.speechSynthesis.speak(utterance);
     }
   };
@@ -146,19 +150,23 @@ export const IqroPage: React.FC<IqroPageProps> = ({
               >
                 {sortedItems.map((item) => {
                   const isSelected = selectedItem === item.order_id;
+                  const isPlaying = playingId === item.order_id;
+
                   return (
                     <div
                       key={item.order_id}
                       onClick={() => setSelectedItem(isSelected ? null : item.order_id)}
-                      className={`relative flex-1 flex flex-col items-center justify-center py-1.5 px-0.5 mx-1 rounded-lg transition-all duration-200 cursor-pointer ${
+                      className={`relative flex-1 flex flex-col items-center justify-center py-1 px-0.5 mx-0.5 sm:mx-1 rounded-xl transition-all duration-200 cursor-pointer ${
                         isSelected
-                          ? 'bg-slate-100 ring-1.5 ring-slate-900 shadow-sm'
-                          : 'hover:bg-slate-50'
+                          ? 'bg-emerald-50/90 ring-2 ring-emerald-700 shadow-xs scale-[1.04] z-10 animate-pop-in'
+                          : 'hover:bg-slate-50 hover:scale-[1.02] active:scale-95'
                       }`}
                     >
                       {/* Arabic Text */}
                       <span 
-                        className={`font-serif ${arabicTextClass} text-slate-950 leading-none select-none font-bold whitespace-nowrap`}
+                        className={`font-serif ${arabicTextClass} leading-none select-none font-bold whitespace-nowrap transition-colors duration-200 ${
+                          isSelected ? 'text-emerald-950' : 'text-slate-950'
+                        }`}
                         dir="rtl"
                       >
                         {item.arabic}
@@ -166,21 +174,32 @@ export const IqroPage: React.FC<IqroPageProps> = ({
 
                       {/* Latin Transliteration */}
                       {showLatin && (
-                        <span className={`tracking-wider mt-1 transition-colors font-semibold whitespace-nowrap ${latinTextClass} ${
-                          isSelected ? 'text-slate-900' : 'text-slate-400'
+                        <span className={`tracking-wider mt-1 transition-all duration-200 font-semibold whitespace-nowrap ${latinTextClass} ${
+                          isSelected ? 'text-emerald-800 font-bold' : 'text-slate-400'
                         }`}>
                           {item.latin}
                         </span>
                       )}
 
-                      {/* Audio Icon */}
+                      {/* Audio Icon with Dynamic Wave Feedback */}
                       {isSelected && showLatin && (
                         <button
-                          onClick={(e) => speakLatin(item.latin, e)}
-                          className="absolute right-0.5 bottom-0.5 p-0.5 bg-slate-900 hover:bg-slate-800 text-white rounded transition-colors shadow-sm"
+                          onClick={(e) => speakLatin(item.latin, item.order_id, e)}
+                          className={`absolute right-0.5 bottom-0.5 p-1 rounded-md transition-all duration-200 shadow-xs flex items-center gap-1 cursor-pointer ${
+                            isPlaying
+                              ? 'bg-emerald-700 text-white scale-110 ring-2 ring-emerald-400'
+                              : 'bg-slate-900 hover:bg-slate-800 text-white hover:scale-105 active:scale-90'
+                          }`}
                           title="Dengar cara membaca"
                         >
-                          <Volume2 className="w-2.5 h-2.5" />
+                          <Volume2 className={`w-2.5 h-2.5 ${isPlaying ? 'animate-bounce' : ''}`} />
+                          {isPlaying && (
+                            <span className="flex items-center gap-0.5 px-0.5">
+                              <span className="w-0.5 h-2 bg-white animate-pulse" />
+                              <span className="w-0.5 h-3 bg-white animate-pulse delay-75" />
+                              <span className="w-0.5 h-1.5 bg-white animate-pulse delay-150" />
+                            </span>
+                          )}
                         </button>
                       )}
                     </div>

@@ -188,7 +188,7 @@ export const ReaderPage: React.FC<ReaderPageProps> = ({
   const maxCols = isDesktop && leftPageData ? Math.max(rightCols, leftCols) : rightCols;
 
   return (
-    <div className="h-screen w-screen overflow-hidden bg-slate-50 flex flex-col p-4 md:p-6">
+    <div className="min-h-screen md:h-screen w-full overflow-x-hidden bg-slate-50 flex flex-col p-2.5 sm:p-4 md:p-6">
       <main className="flex-1 flex items-center justify-center min-h-0">
         <BookLayout
           levelTitle={currentLevel.title}
@@ -224,7 +224,7 @@ export const ReaderPage: React.FC<ReaderPageProps> = ({
               </button>
             </div>
           ) : (
-            <div className="flex-1 flex flex-col md:flex-row h-full">
+            <div key={currentPageNumber} className="flex-1 flex flex-col md:flex-row h-full animate-page-turn">
               {isDesktop ? (
                 rtlReading ? (
                   <>

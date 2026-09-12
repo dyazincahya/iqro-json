@@ -16,24 +16,24 @@ export const WarningDisclaimer: React.FC<WarningDisclaimerProps> = ({
 }) => {
   return (
     <div
-      className={`bg-amber-50/95 border border-amber-300/80 rounded-2xl p-6 md:p-8 shadow-sm text-left ${className}`}
+      className={`bg-amber-50/95 border border-amber-300/80 rounded-2xl p-4 sm:p-6 md:p-8 shadow-sm text-left ${className}`}
     >
       {/* Header */}
-      <div className="flex items-start gap-3.5 mb-5">
-        <div className="p-2.5 rounded-xl bg-amber-100 border border-amber-300 text-amber-800 shrink-0">
-          <AlertTriangle className="w-6 h-6 text-amber-700" />
+      <div className="flex items-start gap-3 sm:gap-3.5 mb-4 sm:mb-5">
+        <div className="p-2 sm:p-2.5 rounded-xl bg-amber-100 border border-amber-300 text-amber-800 shrink-0">
+          <AlertTriangle className="w-5 h-5 sm:w-6 sm:h-6 text-amber-700" />
         </div>
         <div>
-          <span className="text-[11px] font-bold uppercase tracking-wider text-amber-700 bg-amber-200/60 px-2.5 py-0.5 rounded-md">
+          <span className="text-[10px] sm:text-[11px] font-bold uppercase tracking-wider text-amber-700 bg-amber-200/60 px-2 sm:px-2.5 py-0.5 rounded-md">
             Pernyataan & Himbauan
           </span>
-          <h3 className="text-lg md:text-xl font-extrabold text-amber-950 mt-1">
+          <h3 className="text-base sm:text-lg md:text-xl font-extrabold text-amber-950 mt-1">
             Murni Edukasi & Tidak Untuk Dikomersialisasikan
           </h3>
         </div>
       </div>
 
-      <div className="space-y-4 text-slate-700 text-sm leading-relaxed md:pl-[52px]">
+      <div className="space-y-4 text-slate-700 text-xs sm:text-sm leading-relaxed sm:pl-11 md:pl-[52px]">
         {/* Tujuan Edukasi & Amal Jariyah */}
         <p>
           Proyek ini{" "}
@@ -101,7 +101,7 @@ export const WarningDisclaimer: React.FC<WarningDisclaimerProps> = ({
                 href="https://www.gramedia.com/products/bk-iqromembaca-al-quran-besar-cd"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-lg bg-blue-50 hover:bg-blue-100 text-blue-700 font-semibold text-xs border border-blue-200 transition-colors"
+                className="w-full sm:w-auto inline-flex items-center justify-center gap-1.5 px-3 py-2 rounded-lg bg-blue-50 hover:bg-blue-100 text-blue-700 font-semibold text-xs border border-blue-200 transition-all hover:scale-105 active:scale-95 text-center cursor-pointer shadow-2xs"
               >
                 <span>Beli Buku Fisik Resmi di Gramedia</span>
                 <ExternalLink className="w-3.5 h-3.5" />
@@ -122,7 +122,7 @@ export const WarningDisclaimer: React.FC<WarningDisclaimerProps> = ({
           </div>
           <a
             href="mailto:kangcahyakeren@gmail.com"
-            className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-emerald-700 hover:bg-emerald-600 text-white font-medium shrink-0 transition-colors"
+            className="w-full sm:w-auto inline-flex items-center justify-center gap-1.5 px-3.5 py-2 rounded-lg bg-emerald-700 hover:bg-emerald-600 text-white font-medium shrink-0 transition-all hover:scale-105 active:scale-95 text-center break-all cursor-pointer shadow-2xs"
           >
             kangcahyakeren@gmail.com
           </a>

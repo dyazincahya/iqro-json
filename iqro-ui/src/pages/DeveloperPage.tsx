@@ -102,32 +102,32 @@ export const DeveloperPage: React.FC<DeveloperPageProps> = ({ manifest }) => {
   };
 
   return (
-    <div className="flex-1 bg-slate-50 py-10 px-4 sm:px-6 lg:px-8">
+    <div className="flex-1 bg-slate-50 py-6 sm:py-10 px-3 sm:px-6 lg:px-8">
       <div className="max-w-6xl mx-auto">
         {/* Header Title */}
-        <div className="text-center max-w-3xl mx-auto mb-10">
-          <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-50 border border-emerald-200 text-emerald-800 text-xs font-semibold mb-4">
+        <div className="text-center max-w-3xl mx-auto mb-8 sm:mb-10">
+          <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-50 border border-emerald-200 text-emerald-800 text-xs font-semibold mb-3 sm:mb-4">
             <Code2 className="w-3.5 h-3.5 text-emerald-600" />
             <span>Developer Portal & API Directory</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl font-extrabold text-slate-900 tracking-tight mb-3">
+          <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-slate-900 tracking-tight mb-2 sm:mb-3">
             Dokumentasi & Katalog API Iqro
           </h1>
-          <p className="text-slate-600 text-sm sm:text-base leading-relaxed">
+          <p className="text-slate-600 text-xs sm:text-base leading-relaxed">
             Pilih jilid dan halaman buku Iqro atau kamus huruf hijaiyah untuk melihat berkas sumber dan tautan CDN gratis siap pakai melalui <strong>GitCDN Generator</strong>.
           </p>
         </div>
 
         {/* Warning Peringatan Non-Komersial */}
-        <div className="mb-10">
+        <div className="mb-8 sm:mb-10">
           <WarningDisclaimer />
         </div>
 
         {/* Main Grid: Hierarchical Selector & Endpoint Viewer */}
-        <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 sm:gap-8">
           {/* Left / Top: Hierarchical Selector (5 cols on lg) */}
           <div className="lg:col-span-6 flex flex-col gap-6">
-            <div className="bg-white border border-slate-200 rounded-2xl p-5 sm:p-6 shadow-xs">
+            <div className="bg-white border border-slate-200 rounded-2xl p-4 sm:p-6 shadow-xs">
               <div className="flex items-center justify-between pb-3 border-b border-slate-100 mb-5">
                 <h2 className="text-base font-bold text-slate-900 flex items-center gap-2">
                   <Layers className="w-4 h-4 text-emerald-600" />
@@ -140,7 +140,7 @@ export const DeveloperPage: React.FC<DeveloperPageProps> = ({ manifest }) => {
               <div className="grid grid-cols-2 gap-2 p-1 bg-slate-100 rounded-xl mb-6">
                 <button
                   onClick={() => setActiveCategory('iqro')}
-                  className={`flex items-center justify-center gap-2 py-2.5 px-3 rounded-lg text-xs sm:text-sm font-bold transition-all cursor-pointer ${
+                  className={`flex items-center justify-center gap-2 py-2.5 px-3 rounded-lg text-xs sm:text-sm font-bold transition-all active:scale-95 cursor-pointer ${
                     activeCategory === 'iqro'
                       ? 'bg-white text-slate-900 shadow-xs'
                       : 'text-slate-600 hover:text-slate-900'
@@ -152,7 +152,7 @@ export const DeveloperPage: React.FC<DeveloperPageProps> = ({ manifest }) => {
 
                 <button
                   onClick={() => setActiveCategory('hijaiyah')}
-                  className={`flex items-center justify-center gap-2 py-2.5 px-3 rounded-lg text-xs sm:text-sm font-bold transition-all cursor-pointer ${
+                  className={`flex items-center justify-center gap-2 py-2.5 px-3 rounded-lg text-xs sm:text-sm font-bold transition-all active:scale-95 cursor-pointer ${
                     activeCategory === 'hijaiyah'
                       ? 'bg-white text-slate-900 shadow-xs'
                       : 'text-slate-600 hover:text-slate-900'
@@ -186,8 +186,8 @@ export const DeveloperPage: React.FC<DeveloperPageProps> = ({ manifest }) => {
                             }}
                             className={`p-2.5 rounded-xl border text-center transition-all cursor-pointer flex flex-col items-center justify-center gap-1 ${
                               isSelected
-                                ? 'bg-emerald-700 border-emerald-700 text-white shadow-sm font-extrabold'
-                                : 'bg-slate-50 hover:bg-slate-100 border-slate-200 text-slate-700 font-semibold'
+                                ? 'bg-emerald-700 border-emerald-700 text-white shadow-md font-extrabold scale-105 animate-pop-in'
+                                : 'bg-slate-50 hover:bg-slate-100 hover:scale-105 active:scale-95 border-slate-200 text-slate-700 font-semibold'
                             }`}
                           >
                             <span className="text-xs uppercase">Jilid</span>
@@ -212,9 +212,9 @@ export const DeveloperPage: React.FC<DeveloperPageProps> = ({ manifest }) => {
                           <button
                             key={engine.id}
                             onClick={() => setSelectedOcrEngine(engine.id)}
-                            className={`px-3 py-1.5 rounded-lg text-xs font-semibold border transition-all cursor-pointer ${
+                            className={`px-3 py-1.5 rounded-lg text-xs font-semibold border transition-all cursor-pointer hover:scale-105 active:scale-95 ${
                               selectedOcrEngine === engine.id
-                                ? 'bg-slate-900 border-slate-900 text-white'
+                                ? 'bg-slate-900 border-slate-900 text-white shadow-xs'
                                 : 'bg-white border-slate-200 text-slate-600 hover:bg-slate-50'
                             }`}
                           >
@@ -245,8 +245,8 @@ export const DeveloperPage: React.FC<DeveloperPageProps> = ({ manifest }) => {
                             onClick={() => setSelectedPageNumber(pageNum)}
                             className={`py-2 text-xs font-bold rounded-lg border transition-all cursor-pointer ${
                               isSelected
-                                ? 'bg-slate-900 border-slate-900 text-white shadow-xs scale-105 z-10'
-                                : 'bg-white border-slate-200 text-slate-700 hover:bg-emerald-50 hover:border-emerald-300'
+                                ? 'bg-slate-900 border-slate-900 text-white shadow-xs scale-105 z-10 animate-pop-in'
+                                : 'bg-white border-slate-200 text-slate-700 hover:bg-emerald-50 hover:border-emerald-300 hover:scale-105 active:scale-90'
                             }`}
                           >
                             {pageNum}
@@ -335,7 +335,7 @@ export const DeveloperPage: React.FC<DeveloperPageProps> = ({ manifest }) => {
 
           {/* Right / Bottom: Endpoint Detail, GitCDN Generator & Live Preview (6 cols on lg) */}
           <div className="lg:col-span-6 flex flex-col gap-6">
-            <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-xs flex flex-col gap-5">
+            <div className="bg-white border border-slate-200 rounded-2xl p-4 sm:p-6 shadow-xs flex flex-col gap-4 sm:gap-5">
               {/* Selected Endpoint Header */}
               <div>
                 <div className="flex items-center justify-between flex-wrap gap-2 mb-2">
@@ -344,16 +344,16 @@ export const DeveloperPage: React.FC<DeveloperPageProps> = ({ manifest }) => {
                   </span>
                   <span className="text-xs font-mono text-slate-400">application/json</span>
                 </div>
-                <h3 className="text-xl font-extrabold text-slate-900">{endpointTitle}</h3>
+                <h3 className="text-lg sm:text-xl font-extrabold text-slate-900">{endpointTitle}</h3>
                 <p className="text-xs text-slate-600 mt-1">{endpointDesc}</p>
-                <div className="mt-2 text-xs font-mono text-slate-700 bg-slate-100 px-2.5 py-1 rounded border border-slate-200 w-fit">
+                <div className="mt-2 text-xs font-mono text-slate-700 bg-slate-100 px-2.5 py-1 rounded border border-slate-200 w-fit break-all">
                   {relativePath}
                 </div>
               </div>
 
               {/* 1. Tautan Sumber di GitHub */}
               <div className="space-y-1.5">
-                <div className="flex items-center justify-between text-xs font-bold text-slate-700 uppercase tracking-wider">
+                <div className="flex items-center justify-between flex-wrap gap-1 text-xs font-bold text-slate-700 uppercase tracking-wider">
                   <span>1. Berkas Sumber di GitHub:</span>
                   <a
                     href={githubFileUrl}
@@ -370,23 +370,23 @@ export const DeveloperPage: React.FC<DeveloperPageProps> = ({ manifest }) => {
                     type="text"
                     readOnly
                     value={githubFileUrl}
-                    className="flex-1 bg-slate-50 border border-slate-200 rounded-lg px-3 py-2 text-xs font-mono text-slate-700 truncate select-all focus:outline-none"
+                    className="min-w-0 flex-1 bg-slate-50 border border-slate-200 rounded-lg px-3 py-2 text-xs font-mono text-slate-700 truncate select-all focus:outline-none"
                   />
                   <button
                     onClick={() => handleCopy(githubFileUrl, 'github')}
-                    className="p-2 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded-lg border border-slate-200 text-xs flex items-center gap-1 cursor-pointer transition-colors"
+                    className="p-2 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded-lg border border-slate-200 text-xs flex items-center gap-1 cursor-pointer transition-all hover:scale-105 active:scale-90 shrink-0"
                     title="Salin Tautan GitHub"
                   >
-                    {copiedKey === 'github' ? <Check className="w-3.5 h-3.5 text-emerald-600" /> : <Copy className="w-3.5 h-3.5" />}
+                    {copiedKey === 'github' ? <Check className="w-3.5 h-3.5 text-emerald-600 animate-in zoom-in-75" /> : <Copy className="w-3.5 h-3.5" />}
                   </button>
                 </div>
               </div>
 
               {/* 2. Layanan GitCDN Generator */}
-              <div className="space-y-2 p-4 bg-gradient-to-br from-emerald-50/80 to-teal-50/60 border border-emerald-200 rounded-xl">
-                <div className="flex items-center justify-between text-xs font-bold text-emerald-950 uppercase tracking-wider">
+              <div className="space-y-2 p-3.5 sm:p-4 bg-gradient-to-br from-emerald-50/80 to-teal-50/60 border border-emerald-200 rounded-xl">
+                <div className="flex items-center justify-between flex-wrap gap-1 text-xs font-bold text-emerald-950 uppercase tracking-wider">
                   <span className="flex items-center gap-1.5">
-                    <Globe className="w-4 h-4 text-emerald-700" />
+                    <Globe className="w-4 h-4 text-emerald-700 shrink-0" />
                     <span>2. Layanan CDN Gratis (GitCDN Generator):</span>
                   </span>
                 </div>
@@ -400,14 +400,14 @@ export const DeveloperPage: React.FC<DeveloperPageProps> = ({ manifest }) => {
                     type="text"
                     readOnly
                     value={gitcdnGeneratorUrl}
-                    className="flex-1 bg-white border border-emerald-300/80 rounded-lg px-3 py-2 text-xs font-mono text-slate-800 truncate select-all focus:outline-none shadow-2xs"
+                    className="min-w-0 flex-1 bg-white border border-emerald-300/80 rounded-lg px-3 py-2 text-xs font-mono text-slate-800 truncate select-all focus:outline-none shadow-2xs"
                   />
                   <button
                     onClick={() => handleCopy(gitcdnGeneratorUrl, 'gitcdn')}
-                    className="p-2 bg-white hover:bg-emerald-50 text-slate-700 rounded-lg border border-emerald-300 text-xs flex items-center gap-1 cursor-pointer transition-colors shadow-2xs"
+                    className="p-2 bg-white hover:bg-emerald-50 text-slate-700 rounded-lg border border-emerald-300 text-xs flex items-center gap-1 cursor-pointer transition-all hover:scale-105 active:scale-90 shadow-2xs shrink-0"
                     title="Salin Tautan GitCDN"
                   >
-                    {copiedKey === 'gitcdn' ? <Check className="w-3.5 h-3.5 text-emerald-600" /> : <Copy className="w-3.5 h-3.5" />}
+                    {copiedKey === 'gitcdn' ? <Check className="w-3.5 h-3.5 text-emerald-600 animate-in zoom-in-75" /> : <Copy className="w-3.5 h-3.5" />}
                   </button>
                 </div>
 
@@ -416,7 +416,7 @@ export const DeveloperPage: React.FC<DeveloperPageProps> = ({ manifest }) => {
                   href={gitcdnGeneratorUrl}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="w-full inline-flex items-center justify-center gap-2 mt-2 px-4 py-3 rounded-xl bg-emerald-700 hover:bg-emerald-800 text-white font-bold text-sm shadow-sm hover:shadow transition-all transform hover:-translate-y-0.5 cursor-pointer"
+                  className="w-full inline-flex items-center justify-center gap-2 mt-2 px-4 py-3 rounded-xl bg-emerald-700 hover:bg-emerald-800 text-white font-bold text-sm shadow-sm hover:shadow-md transition-all transform hover:-translate-y-0.5 active:scale-98 cursor-pointer"
                 >
                   <span>Buka di GitCDN Generator</span>
                   <ExternalLink className="w-4 h-4" />

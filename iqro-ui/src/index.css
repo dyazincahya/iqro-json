@@ -20,24 +20,111 @@ body {
   min-height: 100vh;
 }
 
+/* Keyframe Animations */
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-6px);
+  }
+}
+
+@keyframes pulseGlow {
+  0%, 100% {
+    opacity: 0.85;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.02);
+  }
+}
+
+@keyframes popIn {
+  0% {
+    transform: scale(0.92);
+    opacity: 0;
+  }
+  65% {
+    transform: scale(1.04);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes pageSlideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes pageSlideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes waveBar {
+  0%, 100% {
+    height: 4px;
+  }
+  50% {
+    height: 12px;
+  }
+}
+
+.animate-float {
+  animation: float 4s ease-in-out infinite;
+}
+
+.animate-pulse-glow {
+  animation: pulseGlow 3s ease-in-out infinite;
+}
+
+.animate-pop-in {
+  animation: popIn 0.22s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-page-turn {
+  animation: pageSlideInRight 0.26s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-page-turn-left {
+  animation: pageSlideInLeft 0.26s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
 /* Page flip transition */
 .page-flip-enter {
-  transform: rotateY(-10deg);
+  transform: rotateY(-8deg);
   opacity: 0;
 }
 .page-flip-enter-active {
   transform: rotateY(0deg);
   opacity: 1;
-  transition: transform 0.5s ease-out, opacity 0.5s ease-out;
+  transition: transform 0.35s ease-out, opacity 0.35s ease-out;
 }
 .page-flip-exit {
   transform: rotateY(0deg);
   opacity: 1;
 }
 .page-flip-exit-active {
-  transform: rotateY(10deg);
+  transform: rotateY(8deg);
   opacity: 0;
-  transition: transform 0.5s ease-in, opacity 0.5s ease-in;
+  transition: transform 0.35s ease-in, opacity 0.35s ease-in;
 }
 
 /* Book binding spine overlay */
