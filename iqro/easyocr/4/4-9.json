@@ -1,0 +1,247 @@
+{
+  "content": [
+    {
+      "arabic": "تُوبَ",
+      "latin": "TUUBA",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "تَوبَ",
+      "latin": "TAWBA",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "سُوفَ",
+      "latin": "SUUFA",
+      "order_id": 3,
+      "position": {
+        "col": 3,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "سَوفَ",
+      "latin": "SAWFA",
+      "order_id": 4,
+      "position": {
+        "col": 4,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "جَوفَ",
+      "latin": "JAWFA",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "جُوفَ",
+      "latin": "JUUFA",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "لَوحَ",
+      "latin": "LAWHA",
+      "order_id": 7,
+      "position": {
+        "col": 3,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "لُوحَ",
+      "latin": "LUUHA",
+      "order_id": 8,
+      "position": {
+        "col": 4,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "صَامَ",
+      "latin": "SHOOMA",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "صُومَ",
+      "latin": "SHUUMA",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "رَيبَ",
+      "latin": "ROIBA",
+      "order_id": 11,
+      "position": {
+        "col": 3,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "رِيبَ",
+      "latin": "RIIBA",
+      "order_id": 12,
+      "position": {
+        "col": 4,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "مَاتَ",
+      "latin": "MAATA",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "مُوتَ",
+      "latin": "MUUTA",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "لَيلَ",
+      "latin": "LAILA",
+      "order_id": 15,
+      "position": {
+        "col": 3,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "لِيلَ",
+      "latin": "LIILA",
+      "order_id": 16,
+      "position": {
+        "col": 4,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "عَانَ",
+      "latin": "'AANA",
+      "order_id": 17,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "عَونَ",
+      "latin": "'AWNA",
+      "order_id": 18,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "عَينَ",
+      "latin": "'AINA",
+      "order_id": 19,
+      "position": {
+        "col": 3,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "عِينَ",
+      "latin": "'IINA",
+      "order_id": 20,
+      "position": {
+        "col": 4,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "مَوعِظَةٍ",
+      "latin": "MAW'IZHOTIN",
+      "order_id": 21,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "لِزَوجِكَ",
+      "latin": "LIZAWJIKA",
+      "order_id": 22,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "أَوحَى لَهَا",
+      "latin": "AW HAA LAHAA",
+      "order_id": 23,
+      "position": {
+        "col": 3,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "مَشَوافِيهِ",
+      "latin": "MASYWAAFIIHI",
+      "order_id": 24,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "أَخُوبِكَ",
+      "latin": "AKHUUBIKA",
+      "order_id": 25,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "مَوعُودَةٌ",
+      "latin": "MAW'UUDATUN",
+      "order_id": 26,
+      "position": {
+        "col": 3,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "بَوْ (اللين) مقابل بُو (المد).",
+  "instruction_en": "Bau = BAU (au = lin) vs Buu = BUU (uu = mad).",
+  "instruction_id": "Bau = بَوَ Buu = بُو u = tanda wau sukun/mad",
+  "level_id": 4,
+  "level_title": "IQRO' 4",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

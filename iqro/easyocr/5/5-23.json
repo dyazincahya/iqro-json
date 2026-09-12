@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "arabic": "بِسمِ اللهِ",
+      "latin": "BISMILLAAHI",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَالحَمدُ لِلهِ",
+      "latin": "WALHAMDU LILLAAHI",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "لَا قُوَّةَ إِلَّا بِاللهِ ○",
+      "latin": "LAA QUWWATA ILLAA BILLAAHI ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "خَلَقَ المَوتَ وَالحَيَاةَ ○",
+      "latin": "KHOLAQO ALMAUTA WALHAYAATA ○",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "أَفَأَمِنُوا مَكرَ اللهِ ○",
+      "latin": "AFA'AMINUU MAKRO ALLOHI ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَيُرسِلُ عَلَيكُم حَفَظَةً ○",
+      "latin": "WAYURSILU 'ALAIKUM HAFAZHOTAN ○",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَهُوَ بِكُلِّ شَيءٍ عَلِيمٌ ○",
+      "latin": "WAHUWA BIKULLI SYAI'IN 'ALIIMUN ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَهُوَ العَلِيُّ العَظِيمُ ○",
+      "latin": "WAHUWA AL'ALIYYU AL'AZHIIMU ○",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "يُحَاسِبكُم بِهِ اللهُ ○",
+      "latin": "YUHAASIBKUM BIHI ALLAHU ○",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَاللهُ بِمَا تَعمَلُونَ عَلِيمٌ ○",
+      "latin": "WALLOHU BIMAA TA'MALUUNA 'ALIIMUN ○",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "قُلِ اللهُ أَسرَعُ مَكرًا ○",
+      "latin": "QULILLAHU ASRO'U MAKRON ○",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَكَفَى بِاللهِ شَهِيدًا ○",
+      "latin": "WAKAFAA BILLAHI SYAHIIDAN ○",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَالَّذِي أَخرَجَ المَرعَى ○",
+      "latin": "WALLADZII AKHROJA ALMAR'AA ○",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "فَجَعَلَهُ غُثَاءً أَحوَى ○",
+      "latin": "FAJA'ALAHU GHUTSAA'AN AHWAA ○",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Bila sebelumnya berharokat i maka dibaca LAH. Contoh: LILLAHI - BILLAHI.",
+  "level_id": 5,
+  "level_title": "IQRO' 5",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

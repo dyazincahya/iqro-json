@@ -2,12 +2,12 @@
   "level_id": 2,
   "level_title": "IQRO' 2",
   "topic": {
-    "latin": "Letters with Sukun and Extended Vowels (Mad)",
-    "arab": "حُرُوفُ السُّكُونِ وَالْمَدِّ"
+    "latin": "",
+    "arab": ""
   },
-  "instruction_id": "Berlatih menghubungkan huruf dengan sukun dan mengenali vokal yang diperpanjang.",
-  "instruction_en": "Practice connecting letters with sukun and recognizing extended vowels.",
-  "instruction_ar": "تَدَرَّبْ عَلَى وَصْلِ الْحُرُوفِ بِالسُّكُونِ وَتَعَرُّفِ الْمَدِّ.",
+  "instruction_id": "",
+  "instruction_en": "",
+  "instruction_ar": "",
   "content": [
     {
       "order_id": 1,
@@ -15,8 +15,8 @@
         "row": 1,
         "col": 1
       },
-      "latin": "BATA = BADA = BADA",
-      "arabic": "بَتَ = بَ دَ = بَ دَ"
+      "latin": "BA TA = BATA",
+      "arabic": "بَ تَ = بَتَ"
     },
     {
       "order_id": 2,
@@ -24,62 +24,242 @@
         "row": 1,
         "col": 2
       },
-      "latin": "TAR = TAR = TARU = TARU",
-      "arabic": "تَر = تَر = تَرَ وُ = تَر وُ"
+      "latin": "BA DA = BADA",
+      "arabic": "بَ دَ = بَدَ"
     },
     {
       "order_id": 3,
       "position": {
-        "row": 1,
-        "col": 3
+        "row": 2,
+        "col": 1
       },
-      "latin": "TATA TADA TABA TAWU",
-      "arabic": "تَتَ    تَدَ    تَبَ    تَوُ"
+      "latin": "TA RO = TARO",
+      "arabic": "تَ رَ = تَرَ"
     },
     {
       "order_id": 4,
       "position": {
-        "row": 1,
-        "col": 4
+        "row": 2,
+        "col": 2
       },
-      "latin": "BABA BADZA BATA TAZA",
-      "arabic": "بَبَ    بَذَ    بَتَ    تَزَ"
+      "latin": "TA WA = TAWA",
+      "arabic": "تَ وَ = تَوَ"
     },
     {
       "order_id": 5,
       "position": {
-        "row": 2,
+        "row": 3,
         "col": 1
       },
-      "latin": "BATHA TADZA THATA ZATHA",
-      "arabic": "بَثَ    تَذَ    ثَتَ    زَثَ"
+      "latin": "TATA",
+      "arabic": "تَتَ"
     },
     {
       "order_id": 6,
       "position": {
-        "row": 2,
+        "row": 3,
         "col": 2
       },
-      "latin": "BA'A BAATA TA'A TAATA",
-      "arabic": "بَأَ    بَاتَ    تَأَ    تَاتَ"
+      "latin": "TADA",
+      "arabic": "تَدَ"
     },
     {
       "order_id": 7,
       "position": {
         "row": 3,
-        "col": 1
+        "col": 3
       },
-      "latin": "THABA THARU BARU TAWA",
-      "arabic": "ثَبَ    ثَرُ    بَرُ    تَوَ"
+      "latin": "BARO",
+      "arabic": "بَرَ"
     },
     {
       "order_id": 8,
       "position": {
         "row": 3,
+        "col": 4
+      },
+      "latin": "BAWA",
+      "arabic": "بَوَ"
+    },
+    {
+      "order_id": 9,
+      "position": {
+        "row": 4,
+        "col": 1
+      },
+      "latin": "BABA",
+      "arabic": "بَبَ"
+    },
+    {
+      "order_id": 10,
+      "position": {
+        "row": 4,
         "col": 2
       },
-      "latin": "TOHA JAKA KAY JASA",
-      "arabic": "طَهَ    جَكَ    كَى    جَسَ"
+      "latin": "BADZA",
+      "arabic": "بَذَ"
+    },
+    {
+      "order_id": 11,
+      "position": {
+        "row": 4,
+        "col": 3
+      },
+      "latin": "TARO",
+      "arabic": "تَرَ"
+    },
+    {
+      "order_id": 12,
+      "position": {
+        "row": 4,
+        "col": 4
+      },
+      "latin": "TAZA",
+      "arabic": "تَزَ"
+    },
+    {
+      "order_id": 13,
+      "position": {
+        "row": 5,
+        "col": 1
+      },
+      "latin": "BA TSA",
+      "arabic": "بَ ثَ"
+    },
+    {
+      "order_id": 14,
+      "position": {
+        "row": 5,
+        "col": 2
+      },
+      "latin": "TA DZA",
+      "arabic": "تَ ذَ"
+    },
+    {
+      "order_id": 15,
+      "position": {
+        "row": 5,
+        "col": 3
+      },
+      "latin": "TSA TSA",
+      "arabic": "ثَ ثَ"
+    },
+    {
+      "order_id": 16,
+      "position": {
+        "row": 5,
+        "col": 4
+      },
+      "latin": "ZA TSA",
+      "arabic": "زَ ثَ"
+    },
+    {
+      "order_id": 17,
+      "position": {
+        "row": 6,
+        "col": 1
+      },
+      "latin": "BA BAA",
+      "arabic": "بَ بَا"
+    },
+    {
+      "order_id": 18,
+      "position": {
+        "row": 6,
+        "col": 2
+      },
+      "latin": "BAATA",
+      "arabic": "بَاتَ"
+    },
+    {
+      "order_id": 19,
+      "position": {
+        "row": 6,
+        "col": 3
+      },
+      "latin": "TA A",
+      "arabic": "تَ اَ"
+    },
+    {
+      "order_id": 20,
+      "position": {
+        "row": 6,
+        "col": 4
+      },
+      "latin": "TAATA",
+      "arabic": "تَاتَ"
+    },
+    {
+      "order_id": 21,
+      "position": {
+        "row": 7,
+        "col": 1
+      },
+      "latin": "TSABA",
+      "arabic": "ثَبَ"
+    },
+    {
+      "order_id": 22,
+      "position": {
+        "row": 7,
+        "col": 2
+      },
+      "latin": "TSARO",
+      "arabic": "ثَرَ"
+    },
+    {
+      "order_id": 23,
+      "position": {
+        "row": 7,
+        "col": 3
+      },
+      "latin": "BARO",
+      "arabic": "بَرَ"
+    },
+    {
+      "order_id": 24,
+      "position": {
+        "row": 7,
+        "col": 4
+      },
+      "latin": "TAWA",
+      "arabic": "تَوَ"
+    },
+    {
+      "order_id": 25,
+      "position": {
+        "row": 8,
+        "col": 1
+      },
+      "latin": "THO HA",
+      "arabic": "طَ هَ"
+    },
+    {
+      "order_id": 26,
+      "position": {
+        "row": 8,
+        "col": 2
+      },
+      "latin": "JA KA",
+      "arabic": "جَ كَ"
+    },
+    {
+      "order_id": 27,
+      "position": {
+        "row": 8,
+        "col": 3
+      },
+      "latin": "KAYA",
+      "arabic": "كَيَ"
+    },
+    {
+      "order_id": 28,
+      "position": {
+        "row": 8,
+        "col": 4
+      },
+      "latin": "JA SA",
+      "arabic": "جَ سَ"
     }
   ]
 }

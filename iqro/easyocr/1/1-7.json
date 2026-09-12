@@ -3,11 +3,11 @@
   "level_title": "IQRO' 1",
   "topic": {
     "latin": "DA",
-    "arab": "ذَ"
+    "arab": "دَ"
   },
   "instruction_id": "",
   "instruction_en": "",
-  "instruction_ar": "القراءة المباشرة أ - ب وهكذا. لا حاجة للتهجئة. اقرأ بصوت قصير.",
+  "instruction_ar": "",
   "content": [
     {
       "order_id": 1,
@@ -16,7 +16,7 @@
         "col": 1
       },
       "latin": "DA",
-      "arabic": "ذَ"
+      "arabic": "دَ"
     },
     {
       "order_id": 2,
@@ -24,8 +24,8 @@
         "row": 2,
         "col": 1
       },
-      "latin": "DA DA KHO",
-      "arabic": "ذَ ذَ خَ"
+      "latin": "KHO DA HA",
+      "arabic": "خَ دَ حَ"
     },
     {
       "order_id": 3,
@@ -33,134 +33,107 @@
         "row": 2,
         "col": 2
       },
-      "latin": "DA DA DA KHO",
-      "arabic": "ذَ ذَ ذَ خَ"
+      "latin": "HA DA KHO",
+      "arabic": "حَ دَ خَ"
     },
     {
       "order_id": 4,
       "position": {
-        "row": 2,
-        "col": 3
+        "row": 3,
+        "col": 1
       },
-      "latin": "DA TSA KHO",
-      "arabic": "ذَ ثَ خَ"
+      "latin": "TSA DA HA",
+      "arabic": "ثَ دَ حَ"
     },
     {
       "order_id": 5,
       "position": {
-        "row": 2,
-        "col": 4
+        "row": 3,
+        "col": 2
       },
-      "latin": "DA TSA TSA KHO",
-      "arabic": "ذَ ثَ ثَ خَ"
+      "latin": "DA HA JA",
+      "arabic": "دَ حَ جَ"
     },
     {
       "order_id": 6,
       "position": {
-        "row": 3,
+        "row": 4,
         "col": 1
       },
-      "latin": "DA TA KHO",
-      "arabic": "ذَ تَ خَ"
+      "latin": "DA TA HA",
+      "arabic": "دَ تَ حَ"
     },
     {
       "order_id": 7,
       "position": {
         "row": 4,
-        "col": 1
+        "col": 2
       },
-      "latin": "DA TA TA",
-      "arabic": "ذَ تَ تَ"
+      "latin": "DA JA HA",
+      "arabic": "دَ جَ حَ"
     },
     {
       "order_id": 8,
       "position": {
-        "row": 4,
-        "col": 2
+        "row": 5,
+        "col": 1
       },
-      "latin": "DA BA KHO",
-      "arabic": "ذَ بَ خَ"
+      "latin": "DA BA TSA",
+      "arabic": "دَ بَ ثَ"
     },
     {
       "order_id": 9,
       "position": {
-        "row": 4,
-        "col": 3
+        "row": 5,
+        "col": 2
       },
-      "latin": "DA BA BA",
-      "arabic": "ذَ بَ بَ"
+      "latin": "JA HA HA",
+      "arabic": "جَ حَ حَ"
     },
     {
       "order_id": 10,
       "position": {
-        "row": 5,
+        "row": 6,
         "col": 1
       },
-      "latin": "KHO DA KHO",
-      "arabic": "خَ ذَ خَ"
+      "latin": "DA BA HA",
+      "arabic": "دَ بَ حَ"
     },
     {
       "order_id": 11,
       "position": {
-        "row": 5,
+        "row": 6,
         "col": 2
       },
-      "latin": "KHO KHO KHO",
-      "arabic": "خَ خَ خَ"
+      "latin": "HA DA JA",
+      "arabic": "حَ دَ جَ"
     },
     {
       "order_id": 12,
       "position": {
-        "row": 5,
-        "col": 3
+        "row": 7,
+        "col": 1
       },
-      "latin": "DA TA KHO",
-      "arabic": "ذَ تَ خَ"
+      "latin": "TA JA HA",
+      "arabic": "تَ جَ حَ"
     },
     {
       "order_id": 13,
       "position": {
-        "row": 5,
-        "col": 4
+        "row": 7,
+        "col": 2
       },
-      "latin": "DA KHO KHO",
-      "arabic": "ذَ خَ خَ"
+      "latin": "DA DA KHO",
+      "arabic": "دَ دَ خَ"
     },
     {
       "order_id": 14,
       "position": {
-        "row": 5,
-        "col": 5
+        "row": 8,
+        "col": 1
       },
       "latin": "A BA TA TSA JA HA KHO DA",
-      "arabic": "أَ بَ تَ ثَ جَ حَ خَ ذَ"
-    },
-    {
-      "order_id": 15,
-      "position": {
-        "row": 6,
-        "col": 1
-      },
-      "latin": "J T",
-      "arabic": "جً ت"
-    },
-    {
-      "order_id": 16,
-      "position": {
-        "row": 6,
-        "col": 2
-      },
-      "latin": "D",
-      "arabic": "د"
-    },
-    {
-      "order_id": 17,
-      "position": {
-        "row": 7,
-        "col": 1
-      },
-      "latin": "AB T TS JH KH D",
-      "arabic": "آب ت ث جح خ د"
+      "arabic": "اَ بَ تَ ثَ جَ حَ خَ دَ"
     }
   ]
 }

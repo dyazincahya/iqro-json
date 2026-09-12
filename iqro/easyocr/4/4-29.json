@@ -1,0 +1,121 @@
+{
+  "content": [
+    {
+      "arabic": "هُوَ يُبدِئُ وَيُعِيدُ",
+      "latin": "HUWA YUBDI'U WAYU'IIDU",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَخَلَقنَاكُم أَزوَاجًا",
+      "latin": "WAKHOLAQNAAKUM AZWAAJAN",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "لَلَبِثَ فِي بَطنِهِ",
+      "latin": "LALABITSA FII BATHNIHI",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَلَمُلِئَتَ مِنهُم رُعبًا",
+      "latin": "WALAMULI'AT MINHUM RU'BAN",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "فِرَاقُ بَينِي وَبَينِكَ",
+      "latin": "FIROOQU BAINII WABAINIKA",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَلَا تُحمِّلَ عَلَينَا",
+      "latin": "WALAA TUHAMMILA 'ALAINAA",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَلَسَوفَ يُعطِيكَ",
+      "latin": "WALASAWFA YU'THIIKA",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "خُذَ بِيَدِكَ ضِغثًا",
+      "latin": "KHUDZ BIYADIKA DHIGHTSAN",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "هَذَا بُهتَانٌ عَظِيمٌ",
+      "latin": "HAADZAA BUHTAANUN 'AZHIIMUN",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "فِي طُغيَانِهِم يَعمَهُونَ",
+      "latin": "FII THUGHYANIHIM YA'MAHUUNA",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "مَا يُغنِي عَنهُ مَالُهُ",
+      "latin": "MAA YUGHNII 'ANHU MAALUHU",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "كَيدَهُم فِي تَضلِيلٍ",
+      "latin": "KAIDAHUM FII TADHLIILIN",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "EBTA • Makhrojnya • MAD (bacaan-bacaan yang panjang) • Qolqolahnya • Bedanya → أ ع ك ق Membacanya boleh pelan, asal betul semua.",
+  "level_id": 4,
+  "level_title": "IQRO' 4",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "content": [
+    {
+      "arabic": "اَوْزِعْنِيْ - وَهَيِّئْ لَنَا - قُرَّةَ اَعْيُنٍ",
+      "latin": "AUZI'NII - WAHAYYI' LANAA - QURRATA A'YUNIN",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "اَيِّ الْحِزْبَيْنِ - اَوْزَارَهُمْ - مَنَاسِكَكُمْ",
+      "latin": "AYYIL HIZBAINI - AUZAARAHUM - MANAASIKAKUM",
+      "order_id": 2,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "يُعْجِزُوْنَ - يَاْجُوْجَ - مَاْجُوْجَ",
+      "latin": "YU'JIZUUNA - YA'JUUJA - MA'JUUJA",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "الْاَفْئِدَةَ - اِلٰهُ هُوَ - الصَّلٰوةَ وَالزَّكٰوةَ",
+      "latin": "ALAF'IDATA - ILAAHU HUWA - ASSHALAATA WAZZAKAATA",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "مِن مُّصَفًّى - فَلِلّٰهِ الْمَكْرُ - الْمُزَّمِّلُ",
+      "latin": "MIM MUSHAFFAN - FALILLAAHIL MAKRU - ALMUZZAMMILU",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "يُعْجِبُكَ - فَاْوُوٓا اِلَى الْكَهْفِ - وَالْمُنْخَنِقَةُ",
+      "latin": "YU'JIBUKA - FA'WUU ILAL KAHFI - WALMUNKHANIQATU",
+      "order_id": 6,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "يَسْتَنْبِطُوْنَهٗ - فِيْ بَحْرٍ لُّجِّيٍّ - لَا تُلْهِيْهِمْ",
+      "latin": "YASTANBITHUUNAHUU - FII BAHRIL LUJJIYYIN - LAA TULHIIHIM",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "وَلَا اٰمِّيْنَ - شَنَاٰنُ قَوْمٍ - جَنَّةُ الْمَأْوٰى",
+      "latin": "WALAA AAMMIINA - SYANAANU QAUMIN - JANNATUL MA'WAA",
+      "order_id": 8,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    },
+    {
+      "arabic": "لِشَايْءٍ - لَا يَايْئَسْ - اِمَّا تَاْمَنَّهُ الْمُنٰفِقُوْنَ",
+      "latin": "LISYAAI-IN - LAA YAAYA-IS - IMMAA TA'MANNAHUL MUNAAFIQUUNA",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 9
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

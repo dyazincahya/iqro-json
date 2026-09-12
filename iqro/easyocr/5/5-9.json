@@ -1,0 +1,112 @@
+{
+  "content": [
+    {
+      "arabic": "لَا أَعبُدُ مَا تَعبُدُون ○",
+      "latin": "LAA A'BUDU MAA TA'BUDUUNA ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "أُولَئِكَ هُمُ المُفلِحُون ○",
+      "latin": "UULAA'IKA HUMU ALMUFLIHUUNA ○",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "عَلَى أَثَارِهِم يَهرَعُون ○",
+      "latin": "'ALAA AATSAARIHIM YAHRO'UUNA ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَسَلَامٌ عَلَى المُرسَلِين ○",
+      "latin": "WASALAAMUN 'ALAA ALMURSALIINA ○",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "أُولَئِكَ عَلَى هُدًى ○",
+      "latin": "UULAA'IKA 'ALAA HUDAN ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "مَاكِثِينَ فِيهِ أَبَدًا ○",
+      "latin": "MAAKITSIINA FIIHI ABADAN ○",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "أَلَم نَجعَلِ الأَرضَ مِهَادًا ○",
+      "latin": "ALAM NAJ'ALI ALARDHO MIHAADAN ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "بِهَذَا الحَدِيثِ أَسَفًا ○",
+      "latin": "BIHAADZAA ALHADIITSI ASAFAN ○",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "مِن أَولِيَاءَ ○",
+      "latin": "MIN AULIYAA'A ○",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "أُولَئِكَ هُمُ الكَفَرَةُ الفَجَرَةُ ○",
+      "latin": "UULAA'IKA HUMU ALKAFAROTU ALFAJAROTU ○",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "لَا إِلَى هَؤُلَاءِ وَلَا إِلَى هَؤُلَاءِ ○",
+      "latin": "LAA ILAA HAA'ULAA'I WALAA ILAA HAA'ULAA'I ○",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Dibaca panjang 5 harokat. Huruf و dianggap tidak ada.",
+  "level_id": 5,
+  "level_title": "IQRO' 5",
+  "topic": {
+    "arab": "لَا أَعبُدُ - أُولَئِكَ",
+    "latin": "LAA A'BUDU - UULAA'IKA"
+  }
+}

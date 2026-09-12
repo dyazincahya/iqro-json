@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "arabic": "لِآدَمَ فَسَجَدُوا",
+      "latin": "LI'AADAMA FASAJADUU",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "لَا تَرَى فِيهَا عِوَجًا",
+      "latin": "LAA TAROO FIIHAA 'IWAJAN",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "فَجَمَعَ كَيْدَهُ",
+      "latin": "FAJAMA'A KAIDAHU",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "لِغُلَامَيْنِ يَتِيمَيْنِ",
+      "latin": "LIGHULAAMAINI YATIIMAINI",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "بَيْنَهُمَا لَعِبِينَ",
+      "latin": "BAINAHUMAA LA'IBIINA",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "يَكِيدُونَ كَيْدًا",
+      "latin": "YAKIIDUUNA KAIDAN",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "بِمَا تُفِيضُونَ فِيهِ",
+      "latin": "BIMAA TUFIIDHUUNA FIIHI",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "بِأَيْدِي سَفَرَةٍ",
+      "latin": "BI'AIDII SAFAROTIN",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "لِإِيلَافِ قُرَيْشٍ",
+      "latin": "LI'IILAAFI QUROISYIN",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَقَالُوا يَوَيْلَنَا",
+      "latin": "WAQOOLUU YAWAILANAA",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "يَقُولُ يَا لَيْتَنِي",
+      "latin": "YAQUULU YAA LAITANII",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "طَيْرًا أَبَابِيلَ",
+      "latin": "THOIRON ABAABIILA",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "فَكَيْفَ كَانَ نَكِيرِ",
+      "latin": "FAKAIFA KAANA NAKIIRI",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "لَا رَيْبَ فِيهِ هُدَى",
+      "latin": "LAA ROIBA FIIHI HUDAN",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "ULANG-ULANGILAH ! sampai tiada keliru lagi",
+  "level_id": 4,
+  "level_title": "IQRO' 4",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

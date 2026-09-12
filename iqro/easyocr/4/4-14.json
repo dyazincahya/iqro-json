@@ -1,0 +1,238 @@
+{
+  "content": [
+    {
+      "arabic": "أَنَ",
+      "latin": "ANA",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "إِنَ",
+      "latin": "INA",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "هَنَ",
+      "latin": "HANA",
+      "order_id": 3,
+      "position": {
+        "col": 3,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "هِنَ",
+      "latin": "HINA",
+      "order_id": 4,
+      "position": {
+        "col": 4,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "عَنَ",
+      "latin": "'ANA",
+      "order_id": 5,
+      "position": {
+        "col": 5,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "عِنَ",
+      "latin": "'INA",
+      "order_id": 6,
+      "position": {
+        "col": 6,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "إِنَّهُوَ",
+      "latin": "INNAHUWA",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "مَنَ أَمَنَ",
+      "latin": "MANA AMANA",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "عَنَ عِبَادٍ",
+      "latin": "'ANA 'IBAADIN",
+      "order_id": 9,
+      "position": {
+        "col": 3,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "فَإِنَ أَصَابَهُ",
+      "latin": "FA'INA ASHOOBAHU",
+      "order_id": 10,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "مَنَ خَشِيَ",
+      "latin": "MANA KHOSYIYA",
+      "order_id": 11,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "أَنَهَارًا",
+      "latin": "ANAHAARON",
+      "order_id": 12,
+      "position": {
+        "col": 3,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَمِنَهُ",
+      "latin": "WAMINAHU",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "مَنَ أُوتِيَ",
+      "latin": "MANA UUTIYA",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "مِنَ خَيرٍ",
+      "latin": "MINA KHOIRIN",
+      "order_id": 15,
+      "position": {
+        "col": 3,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "إِنَ هَذَا",
+      "latin": "INA HAADZAA",
+      "order_id": 16,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "مِنَ حَيثُ",
+      "latin": "MINA HAITSU",
+      "order_id": 17,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "عَنهُمَا",
+      "latin": "'ANHUMAA",
+      "order_id": 18,
+      "position": {
+        "col": 3,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "مِنَ غَيرٍ",
+      "latin": "MINA GHOIRIN",
+      "order_id": 19,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "أَنَعَمتَ",
+      "latin": "ANA'AMTA",
+      "order_id": 20,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "أَنَ هَدَاكُمُ",
+      "latin": "ANA HADAAKUMU",
+      "order_id": 21,
+      "position": {
+        "col": 3,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "بُنيَانٌ",
+      "latin": "BUNYAANUN",
+      "order_id": 22,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "دُنيَايَ",
+      "latin": "DUNYAAYA",
+      "order_id": 23,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "صِنوَانٌ",
+      "latin": "SHINWAANUN",
+      "order_id": 24,
+      "position": {
+        "col": 3,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "قِنوَانٌ",
+      "latin": "QINWAANUN",
+      "order_id": 25,
+      "position": {
+        "col": 4,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "مَنْ = م + نْ (النون الساكنة).",
+  "instruction_en": "Man = MAN (n = nun sukun).",
+  "instruction_id": "Man = مَنَ n = tanda nun sukun",
+  "level_id": 4,
+  "level_title": "IQRO' 4",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

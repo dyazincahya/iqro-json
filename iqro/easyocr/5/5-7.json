@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "arabic": "تَصلَى نَارًا حَامِيَة ○",
+      "latin": "TASHLAA NAARON HAAMIYATAN ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "تُسقَى مِن عَينٍ أَنِيَة ○",
+      "latin": "TUSQOO MIN 'AININ AANIYATIN ○",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "لَسَعيُهَا رَاضِيَة ○",
+      "latin": "LASA'YUHAA ROODHIYATUN ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "لَا تَسمَعُ فِيهَا لَاغِيَة ○",
+      "latin": "LAA TASMA'U FIIHAA LAAGHIYATAN ○",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "مَا لَهُم بِهِ خَبرًا ○",
+      "latin": "MAA LAHUM BIHI KHABARON ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "بِهَذَا الحَدِيثِ أَسَفًا ○",
+      "latin": "BIHAADZAA ALHADIITSI ASAFAN ○",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "مَا نَحنُ بِمُستَيقِنِين ○",
+      "latin": "MAA NAHNU BIMUSTAIQINIINA ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَهُوَ خَيرُ الحَكِمِين ○",
+      "latin": "WAHUWA KHOIRU ALHAAKIMIINA ○",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "هَل أَتَاكَ حَدِيثُ الجُنُود ○",
+      "latin": "HAL ATA AKA HADIITSU ALJUNUUDI ○",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "فِرعَونَ وَثَمُود ○",
+      "latin": "FIR'AUNA WATSAMUUDA ○",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "إِذَا وَقَعَتِ الوَاقِعَة ○",
+      "latin": "IDZAA WAQO'OTI ALWAAQI'ATU ○",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "لَيسَ لِوَقعَتِهَا كَاذِبَة ○",
+      "latin": "LAISA LIWAQ'OTIHAA KAADZIBATUN ○",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَالقَمَرِ إِذَا تَلَاهَا ○",
+      "latin": "WALQOMARI IDZAA TALAAHAA ○",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "وَالأَرضِ وَمَا طَحَاهَا ○",
+      "latin": "WALARDHI WAMAA THOHAAHAA ○",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Bila waqof/berhenti (ta marbutah) berobah menjadi ha sukun/mati. Contoh: ANIYATIN dibaca ANIYAH.",
+  "level_id": 5,
+  "level_title": "IQRO' 5",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

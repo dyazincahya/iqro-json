@@ -1,0 +1,85 @@
+{
+  "content": [
+    {
+      "arabic": "وَمَن ضَلَّ فَقُلْ إِنَّمَا أَنَا مِنَ الْمُنْذِرِينَ ○",
+      "latin": "WAMAN DHALLA FAQUL INNAMAA ANA MINAL MUNDZIRIINA ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "فِدْيَةٌ طَعَامُ - حَلَالًا طَيِّبًا ○",
+      "latin": "FIDYATUN THA'AAMU - HALALAN THAYYIBAA ○",
+      "order_id": 2,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَمَا يَنْطِقُ عَنِ الْهَوَى إِنْ هُوَ إِلَّا وَحْيٌ يُوحَى ○",
+      "latin": "WAMAA YANTHIQU 'ANIL HAWAA IN HUWA ILLAA WAHYUY YUUHAA ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَمِنَ الَّيْلِ فَاسْجُدْ لَهُ وَسَبِّحْهُ لَيْلًا طَوِيلًا ○",
+      "latin": "WAMINAL LAILI FASJUD LAHU WASABBIHHU LAILAN THAWIILAA ○",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَوَقَعَ الْقَوْلُ عَلَيْهِمْ بِمَا ظَلَمُوا فَهُمْ لَا يَنْطِقُونَ ○",
+      "latin": "WAWAQA'AL QAULU 'ALAIHIM BIMAA ZHALAMUU FAHUM LAA YANTHIQUUNA ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "هُمْ يَنْظُرُونَ - عَلَى الْأَرَائِكِ يَنْظُرُونَ ○",
+      "latin": "HUM YANZHURUUNA - 'ALAL ARAA'IKI YANZHURUUNA ○",
+      "order_id": 6,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "إِلَّا مِرَاءً ظَهِرًا وَلَا تَسْتَفْتِ فِيهِمْ مِنْهُمْ أَحَدًا ○",
+      "latin": "ILLAA MIRAA'AN ZHAHIRAA WALAA TASTAFTI FIIHIM MINHUM AHADAA ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "قَالَ سَنَنْظُرُ أَصَدَقْتَ أَمْ كُنْتَ مِنَ الْكَاذِبِينَ ○",
+      "latin": "QAALA SANANZHURU ASHADAQTA AM KUNTA MINAL KAADZIBIINA ○",
+      "order_id": 8,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

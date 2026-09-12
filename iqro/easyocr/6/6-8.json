@@ -1,0 +1,157 @@
+{
+  "content": [
+    {
+      "arabic": "فَأَنْبَتْنَا فِيْهَا حَبًّا ○",
+      "latin": "FA'AMBATNAA FIIHAA HABBAN ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "فَكَانَتْ هَبَاءً مُنْبَثًّا ○",
+      "latin": "FAKAANAT HABAA'AM MUMBATHTSAN ○",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "رَسُوْلًا يَتْلُو عَلَيْكُمْ ○",
+      "latin": "RASUULAY YATLUU 'ALAIKUM ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَمَا يَنْبَغِي لَهُمْ ○",
+      "latin": "WAMAA YAMBAGHII LAHUM ○",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "أَضْعَافًا مُضْعَفَةً ○",
+      "latin": "ADH'AAFAM MUDH'AFAH ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "قُلُوْبٌ يَوْمَئِذٍ وَاجِفَةٌ ○",
+      "latin": "QULUUBUY YAUMA'IDZIW WAAJIFAH ○",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "كَلَّا لَيُنْبَذَنَّ فِي الْحُطَمَةِ ○",
+      "latin": "KALLAA LAYUMBADZANNA FIL HUTHAMAH ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَمَا أَدْرَاكَ مَا الْحُطَمَةُ ○",
+      "latin": "WAMAA ADRAAKA MAL HUTHAMAH ○",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "جَزَاءً بِمَا كَانُوْا يَعْمَلُوْنَ ○",
+      "latin": "JAZAA'AM BIMAA KAANUU YA'MALUUNA ○",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "أُولَئِكَ فِي ضَلَالٍ بَعِيْدٍ ○",
+      "latin": "UULAA'IKA FII DHALAALIM BA'IIDIN ○",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "كُلُّ أُمَّةٍ بِرَسُوْلِهِمْ ○",
+      "latin": "KULLU UMMATIM BIRASUULIHIM ○",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَهُوَ وَاقِعٌ بِهِمْ ○",
+      "latin": "WAHUWA WAAQI'UM BIHIM ○",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَاللَّهُ رَءُوْفٌ بِالْعِبَادِ ○",
+      "latin": "WALLAHU RA'UUFUM BIL'IBAAD ○",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "لَفِي ضَلَالٍ بَعِيْدٍ ○",
+      "latin": "LAFII DHALAALIM BA'IIDIN ○",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "لَنَسْفَعًا بِالنَّاصِيَةِ ○",
+      "latin": "LANASFA'AM BINNAASHIYAH ○",
+      "order_id": 15,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    },
+    {
+      "arabic": "مَا لِمِيَا ذَنْبِهِ لِلَّهِ ○",
+      "latin": "MAA LIMIYAA DZAMBIHI LILLAHI ○",
+      "order_id": 16,
+      "position": {
+        "col": 2,
+        "row": 8
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

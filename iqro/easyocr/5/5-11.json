@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "arabic": "خَيرٌ - نِسَاء ○",
+      "latin": "KHOIRUN - NISAA'A ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "مِن - مَّاء ○",
+      "latin": "MIN - MMAA'A ○",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَمَا لَهُم مِّن نَّصِيرِين ○",
+      "latin": "WAMAA LAHUM MIN NASHIIRIINA ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "هُوَ فِي ضَلَالٍ مُّبِين ○",
+      "latin": "HUWA FII DHOLAALIN MUBIININ ○",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "عَلَى صِرَاطٍ مُّستَقِيم ○",
+      "latin": "'ALAA SHIROOTHIN MUSTAQIIMIN ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "ثُمَّ دَمَّرنَا الآخَرِين ○",
+      "latin": "TSUMMA DAMMARNAALAAKHORIINA ○",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "قَلِيلًا مَّا تَشكُرُون ○",
+      "latin": "QOLIILAN MMAA TASYKURUUNA ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "قَالَ إِنَّكُم مَّاكِثُون ○",
+      "latin": "QOOLA INNAKUM MMAAKITSUUNA ○",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "لِيَقضِيَ أَجَلٌ مُّسَمًّى ○",
+      "latin": "LIYAQDHIYA AJALUN MUSAMMAN ○",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "إِنَّ كَيدِي مَتِينٌ ○",
+      "latin": "INNA KAIDII MATIINUN ○",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَلَن نُّعجِزَهُ هَرَبًا ○",
+      "latin": "WALAN NU'JIZAHU HAROBAN ○",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "فَكُلُوا هَنِيئًا مَّرِيئًا ○",
+      "latin": "FAKULUU HANII'AN MARII'AN ○",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "عَامِلَةٌ نَّاصِبَةٌ ○",
+      "latin": "'AAMILATUN NAASHIBATUN ○",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "خُشُبٌ مُّسَنَّدَةٌ ○",
+      "latin": "KHUSYUBUN MUSANNADATUN ○",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Masuk dengan suara dengung.",
+  "level_id": 5,
+  "level_title": "IQRO' 5",
+  "topic": {
+    "arab": "نْ ← ن/م",
+    "latin": ""
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "arabic": "أَن - يُوصَلَ",
+      "latin": "AN - YYUUSHOLA",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "مِن - يَومَئِذٍ",
+      "latin": "MIN - YYAUMA'IDZIN",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "مَن يُؤمِن بِاللهِ ○",
+      "latin": "MAN YYU'MIN BILLAHI ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "إِلَّا أَن يَشَاءَ اللهُ ○",
+      "latin": "ILLAA AN YYASYAA'ALLOHU ○",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "إِن يَقُولُونَ إِلَّا كَذِبًا ○",
+      "latin": "IN YYAQUULUUNA ILLAA KADZIBAN ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "أَن يَأتِيَنِي بِهِم جَمِيعًا ○",
+      "latin": "AN YYA'TIYANII BIHIM JAMII'AN ○",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وُجُوهٌ يَومَئِذٍ مُّسفِرَةٌ ○",
+      "latin": "WUJUUHUN YAUMA'IDZIN MMUSFIROTUN ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "ضَاحِكَةٌ مُّستَبشِرَةٌ ○",
+      "latin": "DHAAHIKATUN MMUSTABSYIROTUN ○",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "إِن هُوَ إِلَّا وَحيٌ يُوحَى ○",
+      "latin": "IN HUWA ILLAA WAHYUN YUUHAA ○",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "عَلَّمَهُ شَدِيدُ القُوَى ○",
+      "latin": "'ALLAMAHU SYADIIDU ALQUWAA ○",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "لَعِبرَةً لِّمَن يَخشَى ○",
+      "latin": "LA'IBROTAN LLIMAN YYAKHSYAA ○",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "لِمَن يَشَاءُ وَيَرضَى ○",
+      "latin": "LIMAN YYASYAA'U WAYARDHOO ○",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَيلٌ يَومَئِذٍ لِّلمُكَذِّبِينَ ○",
+      "latin": "WAYLUN YAUMA'IDZIN LLILMUKADZDZIBIINA ○",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "فِي جَنَّتٍ يَتَسَاءَلُونَ ○",
+      "latin": "FII JANNATIN YATASAA'ALUUNA ○",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Masuk dengan dengung. Ditekan & ditahan 2 harokat. (Nun sukun/tanwin menghadap huruf ya)",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

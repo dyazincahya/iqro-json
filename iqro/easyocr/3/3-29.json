@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "arabic": "فَإِذَا رَكِبُوا",
+      "latin": "FA'IDZAA ROKIBUU",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "أُوتِيَ كِتَابَهُ بِيَمِينِهِ فَيَقُولُ",
+      "latin": "UUTIYA KITAABAHU BIYAMIINIHI FAYAQUULU",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "إِلَهَهُ هَوَاهُ",
+      "latin": "ILAAHAHU HAWAAHU",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَلَا يَكَادُ يُسِيغَهُ",
+      "latin": "WALAA YAKAADU YUSIIGHUHU",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "مَالُهُ وَوَلَدُهُ",
+      "latin": "MAALUHU WAWALADUHU",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَقَوْمِهَا وَعَدْسِهَا وَبَصَلِهَا",
+      "latin": "WAQOUMIHAA WA'ADSIHAA WABASHOLIHAA",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "كَفَرُوا وَسَبَقُوا",
+      "latin": "KAFARUU WASABAQUU",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "فَذُوقُوا عَذَابِي وَنُذُرِ",
+      "latin": "FADZUUQUU 'ADZAABII WANUDZURI",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "فَكَانَ عَاقِبَتَهُمَا",
+      "latin": "FAKAANA 'AAQIBATAHUMAA",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "فِيهَا مَنَافِعُ وَمَشَارِبُ",
+      "latin": "FIIHAA MANAAFI'U WAMASYAARIBU",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَبَارِكْ فِيهَا",
+      "latin": "WABAARIK FIIHAA",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "خَافَ مَقَامِي وَخَافَ وَعِيدِ",
+      "latin": "KHOOFA MAQOOMII WAKHOOFA WA'IIDI",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَهَامَانَ وَجُنُودُهُمَا",
+      "latin": "WAHAAMAANA WAJUNUUDUHUMAA",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "كَانُوا خَاطِئِينَ",
+      "latin": "KAANUU KHOOTHI'IINA",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "EBTA - Big mistake if long-short reading is wrong.",
+  "instruction_id": "EBTA Salah besar, bila keliru bacaan PANJANG-PENDEKNYA",
+  "level_id": 3,
+  "level_title": "IQRO' 3",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

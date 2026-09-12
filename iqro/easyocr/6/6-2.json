@@ -1,0 +1,157 @@
+{
+  "content": [
+    {
+      "arabic": "وَوَالِدٍ وَمَا وَلَدَ ○",
+      "latin": "WAWAALIDIN WAMAA WALADA ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "نُوحٌ وَعَادٌ وَثَمُودُ ○",
+      "latin": "NUUHUN WA'AADUN WATSAMUUDU ○",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "سَبعَةً وَثَامِنُهُم ○",
+      "latin": "SAB'ATAN WATSAAMINUHUM ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "هُدًى وَبُشرَى لِلمُؤمِنِينَ ○",
+      "latin": "HUDAN WABUSYROO LILMU'MINIINA ○",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَفَرِحُوا بِالحَيَاةِ الدُّنيَا ○",
+      "latin": "WAFARIHUU BILHAYAATI ADDUNYAA ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "ثَوَابًا وَخَيرٌ مَّرَدًّا ○",
+      "latin": "TSAWAABAN WAKHOIRUN MMARODDAN ○",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ ○",
+      "latin": "ALLADZII JAMA'A MAALAN WA'ADDADAHU ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "يَحسَبُ أَنَّ مَالَهُ أَخلَدَهُ ○",
+      "latin": "YAHSABU ANNA MAALAHU AKHLADAHU ○",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "طَاعَةٌ وَقَولٌ مَّعرُوفٌ ○",
+      "latin": "THOO'ATUN WAQOULUN MMA'RUUFUN ○",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَجَنَّتٍ وَعُيُونٍ ○",
+      "latin": "WAJANNATIN WA'UYUUNIN ○",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "نَضرَةً وَسُرُورًا ○",
+      "latin": "NADHROTAN WASURUURON ○",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَفَاكِهَةً وَأَبًّا ○",
+      "latin": "WAFAAKIHATAN WA'ABBAN ○",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "لَا بَارِدٍ وَلَا كَرِيمٍ ○",
+      "latin": "LAA BAARIDIN WALAA KARIIMIN ○",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "فِي سَمُومٍ وَحَمِيمٍ ○",
+      "latin": "FII SAMUUMIN WAHAMIIMIN ○",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "مِن وَرَائِهِ عَذَابٌ ○",
+      "latin": "MIN WWAROO'IHI 'ADZAABUN ○",
+      "order_id": 15,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    },
+    {
+      "arabic": "مَغفِرَةٌ وَأَجرٌ عَظِيمٌ ○",
+      "latin": "MAGHFIROTUN WA'AJRUN 'AZHIIMUN ○",
+      "order_id": 16,
+      "position": {
+        "col": 2,
+        "row": 8
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

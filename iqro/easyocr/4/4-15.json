@@ -1,0 +1,175 @@
+{
+  "content": [
+    {
+      "arabic": "لَمَّا أَخَذْتَهُ",
+      "latin": "LAMMAA AKHODZTAHU",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "أَولَادِهِمُ",
+      "latin": "AWLAADIHIMU",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَيَمنَعَهُ",
+      "latin": "WAYAMNA'AHU",
+      "order_id": 3,
+      "position": {
+        "col": 3,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "تَرهَقُهَا قَتَرَةٌ",
+      "latin": "TARHAQUHAA QOTAROTUN",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "عَلِمَتَ",
+      "latin": "'ALIMTA",
+      "order_id": 5,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "إِنَ عِصِيَتَهُ",
+      "latin": "INA 'ISHIYATAHU",
+      "order_id": 6,
+      "position": {
+        "col": 3,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "كَانَ عَلِيمًا خَبِيرًا",
+      "latin": "KAANA 'ALIIMAN KHOBIIRON",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "مِنَ عَذَابٍ غَلِيظٍ",
+      "latin": "MINA 'ADZAABIN GHOLIIZHIN",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "فَأَوجَسَ مِنهُمُ",
+      "latin": "FA'AWJASA MINHUMU",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "سَمِيعٌ عَلِيمٌ",
+      "latin": "SAMII'UN 'ALIIMUN",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "لَا يَنَالُ بُنيَانَهُمُ",
+      "latin": "LAA YANAALU BUNYAANAHUMU",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "فَمَالَهُ مِنَ هَادٍ",
+      "latin": "FAMAALAHU MIN HAADIN",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "لَأَوَضَعُوا خِلَالَكُمُ",
+      "latin": "LA'AWDHO'UU KHILAALAKUMU",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَإِلَى ثَمُودَ أَخَاهُمُ",
+      "latin": "WA'ILAA TSAMUUDA AKHOOHUMU",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "مِنَ اللَّهِ غَيرِهِ",
+      "latin": "MINA ALLAAHI GHOIRIHI",
+      "order_id": 15,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "خَلَوا إِلَى شَيَاطِينِهِمُ",
+      "latin": "KHOLAW ILAA SYAYAATHIINIHIMU",
+      "order_id": 16,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "وَهُم يَنهَونَ عَنهُ",
+      "latin": "WAHUM YANHAWNA 'ANHU",
+      "order_id": 17,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    },
+    {
+      "arabic": "وَيَنئَونَ عَنهُ",
+      "latin": "WAYAN'AWNA 'ANHU",
+      "order_id": 18,
+      "position": {
+        "col": 2,
+        "row": 8
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 4,
+  "level_title": "IQRO' 4",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

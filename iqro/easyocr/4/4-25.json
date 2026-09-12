@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "arabic": "مَنَ أَحسَنُ دِينًا",
+      "latin": "MANA AHSANU DIINAN",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "ذُو فَضلٍ عَظِيمٍ",
+      "latin": "DZUU FADHLIN 'AZHIIMIN",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "قَالُوا سَمِعنَا وَأَطَعنَا",
+      "latin": "QOOLUU SAMI'NAA WA'ATHO'NAA",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "نَحنُ لَهُ مُسلِمُونَ",
+      "latin": "NAHNU LAHU MUSLIMUUNA",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "مَا يُغنِي عَنهُ مَالُهُ",
+      "latin": "MAA YUGHNII 'ANHU MAALUHU",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَيَهدِي بِهِ كَثِيرًا",
+      "latin": "WAYAHDII BIHI KATSIIRON",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "أَحسَنِ تَقوِيمٍ",
+      "latin": "AHSANI TAQWIIMIN",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "فَجَعَلَهُم كَعَصفٍ",
+      "latin": "FAJA'ALAHUM KA'ASHFIN",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "يَعلَمُ إِذَا بُعثِرَ",
+      "latin": "YA'LAMU IDZAA BU'TSIRO",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "إِلَى يَومِ يُبعَثُونَ",
+      "latin": "ILAA YAWMI YUB'ATSUUNA",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "تَحسَبُهُم أَيقَاظًا",
+      "latin": "TAHSABUHUM AIQOOZHON",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "فَلْيَدعُ نَادِيَهُ",
+      "latin": "FALYAD'U NAADIYAHU",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "هُوَ أَغنَى وَأَقنَى",
+      "latin": "HUWA AGHNA WAQNA",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "مِنَ أَلفِ شَهرٍ",
+      "latin": "MINA ALFI SYAHRIN",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "SABAR-ULANGILAH LAGI ! sampai tak ada yang keliru.",
+  "level_id": 4,
+  "level_title": "IQRO' 4",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

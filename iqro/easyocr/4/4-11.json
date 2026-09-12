@@ -1,0 +1,301 @@
+{
+  "content": [
+    {
+      "arabic": "آمَ",
+      "latin": "AAM",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "إِمَ",
+      "latin": "IM",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "أَمَ",
+      "latin": "AM",
+      "order_id": 3,
+      "position": {
+        "col": 3,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "لَمَ",
+      "latin": "LAM",
+      "order_id": 4,
+      "position": {
+        "col": 4,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "لِمَ",
+      "latin": "LIM",
+      "order_id": 5,
+      "position": {
+        "col": 5,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "لُمَ",
+      "latin": "LUM",
+      "order_id": 6,
+      "position": {
+        "col": 6,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "كَمَ",
+      "latin": "KAM",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "كِمَ",
+      "latin": "KIM",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "كُمَ",
+      "latin": "KUM",
+      "order_id": 9,
+      "position": {
+        "col": 3,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "هَمَ",
+      "latin": "HAM",
+      "order_id": 10,
+      "position": {
+        "col": 4,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "هِمَ",
+      "latin": "HIM",
+      "order_id": 11,
+      "position": {
+        "col": 5,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "هُمَ",
+      "latin": "HUM",
+      "order_id": 12,
+      "position": {
+        "col": 6,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "أَوَلَمَ",
+      "latin": "AWALAMA",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "أَمْرَهُ",
+      "latin": "AMROHU",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "عَلَيكُمُ",
+      "latin": "'ALAIKUMU",
+      "order_id": 15,
+      "position": {
+        "col": 3,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "عَلَيهِمُ",
+      "latin": "'ALAIHIMU",
+      "order_id": 16,
+      "position": {
+        "col": 4,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "ذَلِكُمُ",
+      "latin": "DZAALIKUMU",
+      "order_id": 17,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "رَأَوهُمُ",
+      "latin": "RO'AWHUMU",
+      "order_id": 18,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "هَمَسَا",
+      "latin": "HAMASAA",
+      "order_id": 19,
+      "position": {
+        "col": 3,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "جَمَعَا",
+      "latin": "JAMA'AA",
+      "order_id": 20,
+      "position": {
+        "col": 4,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "غَضَبِي",
+      "latin": "GHODHOBII",
+      "order_id": 21,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "فَوقَكُمُ",
+      "latin": "FAWQOKUMU",
+      "order_id": 22,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "حَمَلَا",
+      "latin": "HAMALAA",
+      "order_id": 23,
+      "position": {
+        "col": 3,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "كَيدَهُمُ",
+      "latin": "KAIDAHUMU",
+      "order_id": 24,
+      "position": {
+        "col": 4,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "خَمسَةٍ",
+      "latin": "KHOMSATIN",
+      "order_id": 25,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "بَينَكُمُ",
+      "latin": "BAINAKUMU",
+      "order_id": 26,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "عَظِيمٌ",
+      "latin": "'AZHIIMUN",
+      "order_id": 27,
+      "position": {
+        "col": 3,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "فَلَهُمُ",
+      "latin": "FALAHUMU",
+      "order_id": 28,
+      "position": {
+        "col": 4,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "سُورَةٌ",
+      "latin": "SUUROTUN",
+      "order_id": 29,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "حَولَكُمُ",
+      "latin": "HAWLAKUMU",
+      "order_id": 30,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "حَيَوةٌ",
+      "latin": "HAYWATUN",
+      "order_id": 31,
+      "position": {
+        "col": 3,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "إِمرِي",
+      "latin": "IMRII",
+      "order_id": 32,
+      "position": {
+        "col": 4,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "لَمْ = ل + مْ (الميم الساكنة).",
+  "instruction_en": "Lam = LAM (m = mim sukun).",
+  "instruction_id": "Lam = لَمَ m = tanda mim sukun",
+  "level_id": 4,
+  "level_title": "IQRO' 4",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

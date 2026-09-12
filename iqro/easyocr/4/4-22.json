@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "arabic": "فَلْيَأْتِ مُستَمِعُهُمُ",
+      "latin": "FALYA'TI MUSTAMI'UHUMU",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "هُوَ أَغنَى وَأَقنَى",
+      "latin": "HUWA AGHNA WAQNA",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَرَفَعنَا لَكَ ذِكرَكَ",
+      "latin": "WAROFA'NAA LAKA DZIKROKA",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "أَحسَنِ تَقوِيمٍ",
+      "latin": "AHSANI TAQWIIMIN",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "خَصمَينِ بَغَى بَعضُنَا",
+      "latin": "KHOSHMAINI BAGHOO BA'DHUNAA",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "أَمهِلَهُم رُوَيدًا",
+      "latin": "AMHILHUM RUWAIDAN",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "يَتَنَازَعُونَ فِيهَا كَأسًا",
+      "latin": "YATANAAZA'UUNA FIIHAA KA'SAN",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "مِنَ أَعمَالِهِم شَيئًا",
+      "latin": "MINA A'MAALIHIM SYAI'AN",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "نَبَأَهُ بَعدَ حِينٍ",
+      "latin": "NABA'AHU BA'DA HIININ",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "لَا تَهِنُوا وَلَا تَحزَنُوا",
+      "latin": "LAA TAHINUU WALAA TAHZANUU",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "فَأَثَرنَ بِهِ نَقعًا",
+      "latin": "FA'ATSARNA BIHI NAQ'AN",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "لَسَعِيهَا رَاضِيَةٌ",
+      "latin": "LASA'IIHAA ROODHIYATUN",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "يَقُولُ أَهلَكتُ مَالًا",
+      "latin": "YAQUULU AHLAKTU MAALAN",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "خَلَقنَا زَوجَينِ",
+      "latin": "KHOLAQNAA ZAWJAINI",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Sebaiknya diulang-ulang sampai lancar benar.",
+  "level_id": 4,
+  "level_title": "IQRO' 4",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

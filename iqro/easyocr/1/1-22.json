@@ -2,7 +2,7 @@
   "level_id": 1,
   "level_title": "IQRO' 1",
   "topic": {
-    "latin": "LAM",
+    "latin": "LA",
     "arab": "لَ"
   },
   "instruction_id": "",
@@ -15,7 +15,7 @@
         "row": 1,
         "col": 1
       },
-      "latin": "LAM",
+      "latin": "LA",
       "arabic": "لَ"
     },
     {
@@ -24,7 +24,7 @@
         "row": 2,
         "col": 1
       },
-      "latin": "QOF LAM BA",
+      "latin": "QO LA BA",
       "arabic": "قَ لَ بَ"
     },
     {
@@ -33,116 +33,161 @@
         "row": 2,
         "col": 2
       },
-      "latin": "JA AIN LAM",
-      "arabic": "جَ ع لَ"
+      "latin": "JA 'A LA",
+      "arabic": "جَ عَ لَ"
     },
     {
       "order_id": 4,
       "position": {
-        "row": 3,
-        "col": 1
+        "row": 2,
+        "col": 3
       },
-      "latin": "KHO LAM THO",
+      "latin": "KHO LA THO",
       "arabic": "خَ لَ طَ"
     },
     {
       "order_id": 5,
       "position": {
         "row": 3,
-        "col": 2
+        "col": 1
       },
-      "latin": "ZA KAF RA",
+      "latin": "DZA KA RO",
       "arabic": "ذَ كَ رَ"
     },
     {
       "order_id": 6,
       "position": {
         "row": 3,
-        "col": 3
+        "col": 2
       },
-      "latin": "GHAIN LAM ZHO",
+      "latin": "GHO LA ZHO",
       "arabic": "غَ لَ ظَ"
     },
     {
       "order_id": 7,
       "position": {
-        "row": 4,
-        "col": 1
+        "row": 3,
+        "col": 3
       },
-      "latin": "QOF FA SHOD",
+      "latin": "QO FA SHO",
       "arabic": "قَ فَ صَ"
     },
     {
       "order_id": 8,
       "position": {
         "row": 4,
-        "col": 2
+        "col": 1
       },
-      "latin": "HA LAM FA",
+      "latin": "HA LA FA",
       "arabic": "حَ لَ فَ"
     },
     {
       "order_id": 9,
       "position": {
-        "row": 5,
-        "col": 1
+        "row": 4,
+        "col": 2
       },
-      "latin": "ZA GHAIN SA",
-      "arabic": "ذَ غَ سَ"
+      "latin": "DA GHO SA",
+      "arabic": "دَ غَ سَ"
     },
     {
       "order_id": 10,
       "position": {
-        "row": 6,
-        "col": 1
+        "row": 4,
+        "col": 3
       },
-      "latin": "SYA KAF LAM",
+      "latin": "SYA KA LA",
       "arabic": "شَ كَ لَ"
     },
     {
       "order_id": 11,
       "position": {
-        "row": 6,
-        "col": 2
+        "row": 5,
+        "col": 1
       },
-      "latin": "DHOD RA AIN",
-      "arabic": "ضَ رَ ع"
+      "latin": "DHO RO 'A",
+      "arabic": "ضَ رَ عَ"
     },
     {
       "order_id": 12,
       "position": {
-        "row": 7,
-        "col": 1
+        "row": 5,
+        "col": 2
       },
       "latin": "ZA TA ZHO",
-      "arabic": "زَ ت ظَ"
+      "arabic": "زَ تَ ظَ"
     },
     {
       "order_id": 13,
       "position": {
-        "row": 7,
-        "col": 2
+        "row": 5,
+        "col": 3
       },
-      "latin": "KAF LAM LAM",
+      "latin": "KA LA LA",
       "arabic": "كَ لَ لَ"
     },
     {
       "order_id": 14,
       "position": {
-        "row": 7,
-        "col": 3
+        "row": 6,
+        "col": 1
       },
-      "latin": "A BA TA",
-      "arabic": "اَ بَ تَ"
+      "latin": "A BA TA TSA",
+      "arabic": "اَ بَ تَ ثَ"
     },
     {
       "order_id": 15,
       "position": {
+        "row": 6,
+        "col": 2
+      },
+      "latin": "JA HA KHO",
+      "arabic": "جَ حَ خَ"
+    },
+    {
+      "order_id": 16,
+      "position": {
+        "row": 6,
+        "col": 3
+      },
+      "latin": "DA DZA",
+      "arabic": "دَ ذَ"
+    },
+    {
+      "order_id": 17,
+      "position": {
+        "row": 7,
+        "col": 1
+      },
+      "latin": "RO ZA",
+      "arabic": "رَ زَ"
+    },
+    {
+      "order_id": 18,
+      "position": {
+        "row": 7,
+        "col": 2
+      },
+      "latin": "SA SYA",
+      "arabic": "سَ شَ"
+    },
+    {
+      "order_id": 19,
+      "position": {
+        "row": 7,
+        "col": 3
+      },
+      "latin": "SHO DHO",
+      "arabic": "صَ ضَ"
+    },
+    {
+      "order_id": 20,
+      "position": {
         "row": 8,
         "col": 1
       },
-      "latin": "TA JA HA KHO",
-      "arabic": "تَ جَ حَ خَ"
+      "latin": "THO ZHO 'A GHO FA QO KA LA",
+      "arabic": "طَ ظَ عَ غَ فَ قَ كَ لَ"
     }
   ]
 }

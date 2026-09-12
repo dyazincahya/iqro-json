@@ -1,0 +1,202 @@
+{
+  "content": [
+    {
+      "arabic": "مَا اكتَسَبَت",
+      "latin": "MAA AKTASABAT",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "مَا اقتَتَلُوا",
+      "latin": "MAA AQTATALUU",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "فِي الأَرضِ",
+      "latin": "FII ALARDHI",
+      "order_id": 3,
+      "position": {
+        "col": 3,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "سَيُبطِلُهُ",
+      "latin": "SAYUBTHILUHU",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَمَقَامِي",
+      "latin": "WAMAQOOMII",
+      "order_id": 5,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَبِالآخِرَةِ",
+      "latin": "WABILAAKHIROTI",
+      "order_id": 6,
+      "position": {
+        "col": 3,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "مِنَ الغَيظِ",
+      "latin": "MINA ALGHOIZHI",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَالأَفئِدَةِ",
+      "latin": "WALAF'IDATI",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "مُدَّعِينَ",
+      "latin": "MUDDA'IINA",
+      "order_id": 9,
+      "position": {
+        "col": 3,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "غِشَاوَةٌ",
+      "latin": "GHISYAAWATUN",
+      "order_id": 10,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "مُعجِزِينَ",
+      "latin": "MU'JIZIINA",
+      "order_id": 11,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "مِنَ المُشرِكِينَ",
+      "latin": "MINA ALMUSYRIKIINA",
+      "order_id": 12,
+      "position": {
+        "col": 3,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَمَا أَطعَمَهُم",
+      "latin": "WAMAA ATH'AMAHUM",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "بِالمُؤمِنِينَ",
+      "latin": "BILMU'MINIINA",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَمَوعِظَةً",
+      "latin": "WAMAU'IZHOTAN",
+      "order_id": 15,
+      "position": {
+        "col": 3,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "فِي طُغيَانِهِم",
+      "latin": "FII THUGHYAANIHIM",
+      "order_id": 16,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَالآصَالِ",
+      "latin": "WALAASHAALI",
+      "order_id": 17,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "كَمِشكَاةٍ",
+      "latin": "KAMISYKAATIN",
+      "order_id": 18,
+      "position": {
+        "col": 3,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "فِيهَا اسمُهُ",
+      "latin": "FIIHAA ISMUHU",
+      "order_id": 19,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "لَا تُؤَاخِذنَا",
+      "latin": "LAA TU'AAKHIDZNAA",
+      "order_id": 20,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "غُفرَانَكَ",
+      "latin": "GHUFROONAKA",
+      "order_id": 21,
+      "position": {
+        "col": 3,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "INGAT! Banyak huruf Alief dianggap tidak ada",
+  "level_id": 5,
+  "level_title": "IQRO' 5",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

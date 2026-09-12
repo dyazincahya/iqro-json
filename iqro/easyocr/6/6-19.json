@@ -1,0 +1,67 @@
+{
+  "content": [
+    {
+      "arabic": "فَتَوَلَّ عَنْهُمْ يَوْمَ يَدْعُ الدَّاعِ اِلَى شَيْئٍ نُّكُرٍ ○",
+      "latin": "FATAWALLA 'ANHUM YAUMA YAD'U ADDAA'I ILAA SYAI'INNUKURIN ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَإِنَّ رَبَّكَ هُوَ يَحْشُرُهُمْ إِنَّهُ حَكِيْمٌ عَلِيْمٌ ○",
+      "latin": "WAINNA RABBAKA HUWA YAHSYURUHUM INNAHU HAKIIMUN 'ALIIMUN ○",
+      "order_id": 2,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "اَفَمَن يَخْلُقُ كَمَن لَّا يَخْلُقُ اَفَلَا تَذَكَّرُوْنَ ○",
+      "latin": "AFAMAN YAKHLUQU KAMAN LLAA YAKHLUQU AFALAA TADZAKKARUUNA ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "اِلَّا اُمْرَاَتَهُ قَدَّرْنَا اِنَّهَا لَمِنَ الْغَابِرِيْنَ ○",
+      "latin": "ILLAA UMRAATAHU QADDARNAA INNAHAA LAMINA ALGHAABIRIINA ○",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "ذَالِكَ الْكِتَابُ لَا رَيْبَ فِيْهِ هُدَى لِلْمُتَّقِيْنَ ○",
+      "latin": "DZAALIKA ALKITAABU LAA RAIBA FIIHI HUDAA LILMUTTAQIINA ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَاتْرُكِ الْبَحْرَ رَهْوًا إِنَّهُمْ جُنْدٌ مُّغْرَقُوْنَ ○",
+      "latin": "WAATRUKI ALBAHRA RAHWAN INNAHUM JUNDUN MMUGHRAQUUNA ○",
+      "order_id": 6,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Harus waqof | Boleh waqof boleh terus | Berhenti lebih utama | Bukan tempat waqof utama terus | Boleh waqof disalah satu tanda tsb. | Dibaca terus lebih utama",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

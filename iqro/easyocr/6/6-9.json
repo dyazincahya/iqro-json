@@ -1,0 +1,85 @@
+{
+  "content": [
+    {
+      "arabic": "فَاصْبِرْ اِنَّ وَعْدَ اللهِ حَقٌّ وَّاسْتَغْفِرْ لِذَنْبِكَ ○",
+      "latin": "FAASBIR INNA WA'DALLAAHI HAQQWASTAGHFIR LIDZANBIKA ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَسَبِّحْ بِحَمْدِ رَبِّكَ بِالْعَشِيِّ وَالْاِبْكَارِ ○",
+      "latin": "WASABBIH BIHAMDI RABBIKA BIL'ASYIYYI WALIBKAARI ○",
+      "order_id": 2,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "فَمَنْ يَّهْدِيْهِ مِن بَعْدِ اللهِ اَفَلَا تَذَكَّرُوْنَ ○",
+      "latin": "FAMAYYAHDIHI MIM BA'DILLAAHI AFALAA TADZAKKARUUNA ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَمَا لَهُم بِذٰلِكَ مِن عِلْمٍ اِنْ هُمْ اِلَّا يَظُنُّوْنَ ○",
+      "latin": "WAMAA LAHUM BIDZAALIKA MIN 'ILMIN IN HUM ILLAA YAZHUNNUUNA ○",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَمَا جَعَلَ اَزْوَاجَكُمُ الَّٰٓئِيْ تُظٰهِرُوْنَ مِنْهُنَّ اُمَّهٰتِكُمْ ○",
+      "latin": "WAMAA JA'ALA AZWAAJAKUMULLAA-II TUZHAAHIRUUNA MINHUNNA UMMAHAATIKUM ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "فِيْٓ اَدْنَى الْاَرْضِ وَهُمْ مِّنْۢ بَعْدِ غَلَبِهِمْ سَيَغْلِبُوْنَ ○",
+      "latin": "FII ADNAAL ARDHI WAHUM MIM BA'DI GHALABIHIM SAYAGHLIBUUNA ○",
+      "order_id": 6,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَمَنْ يُّضْلِلِ اللهُ فَمَا لَهٗ مِن وَّلِيٍّ مِّنْۢ بَعْدِهٖ ○",
+      "latin": "WAMAYYUDHLILILLAAHU FAMAA LAHUU MIWWALIYYIM MIM BA'DIHI ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "فَاِمْسَاكٌۢ بِمَعْرُوْفٍ اَوْ تَسْرِيْحٌۢ بِاِحْسَانٍ ○",
+      "latin": "FAIMSAKUM BIMA'RUUFIN AU TASRIIHUM BI-IHSAANIN ○",
+      "order_id": 8,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

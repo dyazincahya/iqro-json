@@ -1,0 +1,193 @@
+{
+  "content": [
+    {
+      "arabic": "كَبَّرَ",
+      "latin": "KABBARO",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "يُكَبِّرُ",
+      "latin": "YUKABBIRU",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "رَتَّلَ",
+      "latin": "ROTTALA",
+      "order_id": 3,
+      "position": {
+        "col": 3,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "يُرَتِّلُ",
+      "latin": "YUROTTILU",
+      "order_id": 4,
+      "position": {
+        "col": 4,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "أَثَّرَ",
+      "latin": "ATSTSARO",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "يُؤَثِّرُ",
+      "latin": "YU'TSTSIRU",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "عَجَّلَ",
+      "latin": "'AJJALA",
+      "order_id": 7,
+      "position": {
+        "col": 3,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "يُعَجِّلُ",
+      "latin": "YU'AJJILU",
+      "order_id": 8,
+      "position": {
+        "col": 4,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "لَحَّنَ",
+      "latin": "LAHHANA",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "يُلَحِّنُ",
+      "latin": "YULAHHINU",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "سَخَّرَ",
+      "latin": "SAKHKHORO",
+      "order_id": 11,
+      "position": {
+        "col": 3,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "يُسَخِّرُ",
+      "latin": "YUSAKHKHIRU",
+      "order_id": 12,
+      "position": {
+        "col": 4,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "رَبِّ زِدنِي عِلمًا ○",
+      "latin": "ROBBI ZIDNII 'ILMAN ○",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَارزُقنِي فَهمًا ○",
+      "latin": "WARZUQNII FAHMAN ○",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "أَلهَاكُمُ التَّكَاثُرُ ○",
+      "latin": "ALHAAKUMU ATTAKAATSURU ○",
+      "order_id": 15,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "حَتَّى زُرتُمُ المَقَابِرَ ○",
+      "latin": "HATTAA ZURTUMU ALMAQOOBIRO ○",
+      "order_id": 16,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "إِنَّ الأَبرَارَ لَفِي نَعِيمٍ ○",
+      "latin": "INNA ALABROORO LAFII NA'IIMIN ○",
+      "order_id": 17,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَإِنَّ الفُجَّارَ لَفِي جَحِيمٍ ○",
+      "latin": "WA'INNA ALFUJJAARO LAFII JAHIIMIN ○",
+      "order_id": 18,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "سُبحَانَ الَّذِي سَخَّرَ لَنَا هَذَا ○",
+      "latin": "SUBHAANA ALLADZII SAKHKHORO LANAA HAADZAA ○",
+      "order_id": 19,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "وَمَا كُنَّا لَهُ مُقرِنِينَ ○",
+      "latin": "WAMAA KUNNAA LAHU MUQRINIINA ○",
+      "order_id": 20,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Setiap bacaan yang menghadap tasydid agar ditekan dan ditahan 2 harokat.",
+  "level_id": 5,
+  "level_title": "IQRO' 5",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

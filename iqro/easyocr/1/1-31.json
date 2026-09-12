@@ -2,12 +2,12 @@
   "level_id": 1,
   "level_title": "IQRO' 1",
   "topic": {
-    "latin": "A BA",
-    "arab": "اَ بَ"
+    "latin": "EBTA",
+    "arab": ""
   },
-  "instruction_id": "EBTA KHUSUS JILID 1 INI JIKA BELUM MENGUASAI ULANG-ULANGILAH !",
-  "instruction_en": "Direct reading A - Ba, etc. No need to spell out. Read with short sounds.",
-  "instruction_ar": "القراءة المباشرة أ - ب وهكذا. لا حاجة للتهجئة. اقرأ بصوت قصير.",
+  "instruction_id": "EBTA KHUSUS JILID 1 INI JIKA BELUM MENGUASAI ULANG-ULANGILAH ! BILA SUDAH LANCAR DAN BENAR BOLEH DINAIKKAN",
+  "instruction_en": "FINAL EVALUATION SPECIFICALLY FOR VOLUME 1: IF NOT YET MASTERED, REPEAT IT OVER AND OVER! WHEN FLUENT AND CORRECT, YOU MAY ADVANCE",
+  "instruction_ar": "الاختبار النهائي الخاص بالجزء الأول: إن لم تتقنه فكرره مرارا! وإذا قرأته بطلاقة وصحة فيجوز لك الانتقال",
   "content": [
     {
       "order_id": 1,
@@ -15,8 +15,8 @@
         "row": 1,
         "col": 1
       },
-      "latin": "TA TSA JA HA KHO DA DZA RO ZA",
-      "arabic": "تَ ثَ جَحَ خَ دَ ذَ رَزَ"
+      "latin": "A BA TA TSA JA HA KHO DA DZA RO ZA",
+      "arabic": "اَ بَ تَ ثَ جَ حَ خَ دَ ذَ رَ زَ"
     },
     {
       "order_id": 2,
@@ -24,80 +24,44 @@
         "row": 2,
         "col": 1
       },
-      "latin": "SA",
-      "arabic": "سَ"
+      "latin": "SA SYA SHO DHO THO ZHO 'A GHO",
+      "arabic": "سَ شَ صَ ضَ طَ ظَ عَ غَ"
     },
     {
       "order_id": 3,
       "position": {
-        "row": 2,
-        "col": 2
+        "row": 3,
+        "col": 1
       },
-      "latin": "SYA",
-      "arabic": "شَ"
+      "latin": "FA QO KA LA MA NA WA HA A YA",
+      "arabic": "فَ قَ كَ لَ مَ نَ وَ هَ ءَ يَ"
     },
     {
       "order_id": 4,
       "position": {
-        "row": 3,
+        "row": 4,
         "col": 1
       },
-      "latin": "SHO",
-      "arabic": "صَ"
+      "latin": "YA A HA WA NA MA LA KA QO FA",
+      "arabic": "يَ ءَ هَ وَ نَ مَ لَ كَ قَ فَ"
     },
     {
       "order_id": 5,
       "position": {
-        "row": 4,
+        "row": 5,
         "col": 1
       },
-      "latin": "DHO THO A ZHO  'A GHO",
-      "arabic": "ضَ طَاَ ظَعَ غَ"
+      "latin": "GHO 'A ZHO THO DHO SHO SYA SA",
+      "arabic": "غَ عَ ظَ طَ ضَ صَ شَ سَ"
     },
     {
       "order_id": 6,
       "position": {
-        "row": 5,
-        "col": 1
-      },
-      "latin": "FA QO KA DA MA NA WA HA A YA",
-      "arabic": "فَقَكَدَمَنَ وَهَءَ يَ"
-    },
-    {
-      "order_id": 7,
-      "position": {
-        "row": 5,
-        "col": 2
-      },
-      "latin": "YA",
-      "arabic": "يَ"
-    },
-    {
-      "order_id": 8,
-      "position": {
         "row": 6,
         "col": 1
       },
-      "latin": " 'A",
-      "arabic": "عَ"
-    },
-    {
-      "order_id": 9,
-      "position": {
-        "row": 7,
-        "col": 1
-      },
-      "latin": "HA WA NA MA LA A KA QO",
-      "arabic": "هَ وَنَ مَ لَاَكَ قَ"
-    },
-    {
-      "order_id": 10,
-      "position": {
-        "row": 7,
-        "col": 2
-      },
-      "latin": "FA",
-      "arabic": "فَ"
+      "latin": "ZA RO DZA DA KHO HA JA TSA TA BA A",
+      "arabic": "زَ رَ ذَ دَ خَ حَ جَ ثَ تَ بَ اَ"
     }
   ]
 }

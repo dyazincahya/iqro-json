@@ -1,0 +1,94 @@
+{
+  "content": [
+    {
+      "arabic": "وَمَا لِأَحَدٍ عِندَهُ مِن نِعْمَةٍ تُجْزَى ○",
+      "latin": "WAMAA LIAH'ADIN 'INDAHUU MIN NI'MATIN TUJZAA ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "مِن ذُرِّيَّةٍ - عَن ذِي الْقَرْنَيْنِ ○",
+      "latin": "MIN DZURRIYYATIN - 'AN DZIL QORNAINI ○",
+      "order_id": 2,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "يَتِيمًا ذَا مَقْرَبَةٍ ○",
+      "latin": "YATIIMAN DZAA MAQROBATIN ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ ○",
+      "latin": "AU MISKINAN DZAA MATROBATIN ○",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ ○",
+      "latin": "AANDZARTAHUM AM LAM TUNDZIRHUM LAA YU'MINUUNA ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَلَا تَقُولَنَّ لِشَيْءٍ إِنِّي فَاعِلٌ ذَلِكَ غَدًا ○",
+      "latin": "WALAA TAQUULANNA LISYAI'IN INNII FAA'ILUN DZAALIKA GHODAN ○",
+      "order_id": 6,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "أُنزِلَ - إِن زَلَّتُمْ - لَنَنزِعَنَّ",
+      "latin": "UNGZILA - IN ZALLALTUM - LANANZI'ANNA",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "أَوْ يُلْقَى إِلَيْهِ كَنزٌ أَوْ تَكُونُ لَهُ جَنَّةٌ يَأْكُلُ مِنْهَا ○",
+      "latin": "AU YULQOO ILAIHI KANZUN AU TAKUUNU LAHUU JANNATUN YA'KULU MINHAA ○",
+      "order_id": 8,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "تَنزِيلُ الْكِتَابِ مِنَ اللَّهِ الْعَزِيزِ الْحَكِيمِ ○",
+      "latin": "TANZIILUL KITAABI MINALLAAHIL 'AZIIZIL H'AKIIMI ○",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "content": [
+    {
+      "arabic": "بِمَا تُفِيضُونَ فِيهِ",
+      "latin": "BIMAA TUFIIDHUUNA FIIHI",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "لَا تَقُولُوا رَاعِنَا وَقُولُوا",
+      "latin": "LAA TAQUULUU ROO'INAA WAQUULUU",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَلَا يَكَادُ يُبِينُ",
+      "latin": "WALAA YAKAADU YUBIINU",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "فَقَالَ لِصَاحِبِهِ وَهُوَ يُحَاوِرُهُ",
+      "latin": "FAQOOLA LISHOO HIBIHI WAHUWA YUHAAWIRUHU",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "فَغُلِبُوا هُنَالِكَ",
+      "latin": "FAGHULIBUU HUNAALIKA",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "تَرَكَ الْمُوسَى وَالْهَارُونَ",
+      "latin": "TAROKA ALMUUSAA WALHAARUUNA",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "كَلِمَتُنَا لِعِبَادِنَا",
+      "latin": "KALIMATUNAA LI'IBAADINAA",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَرُسُلِهِ وَكُتُبِهِ كَمَا كُتِبَ",
+      "latin": "WARUSULIHI WAKUTUBIHI KAMAA KUTIBA",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَكَانُوا لَنَا عَابِدِينَ",
+      "latin": "WAKAANUU LANAA 'AABIDIINA",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "يُقَاتِلُونَ فِي سَبِيلِهِ",
+      "latin": "YUQOOTILUUNA FII SABIILIHI",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "لَهُ بِرِزْقِينَ",
+      "latin": "LAHU BIRIZQIINA",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "فَذَبَحُوهَا وَمَا كَادُوا",
+      "latin": "FADZABAHUUHAA WAMAA KAADUU",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Bila belum betul semua, lebih-lebih ...... PANJANG-PENDEKNYA STOP ! JANGAN DINAIKKAN ! Sabarlah ...... Mengulang",
+  "level_id": 3,
+  "level_title": "IQRO' 3",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

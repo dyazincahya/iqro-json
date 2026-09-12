@@ -1,0 +1,157 @@
+{
+  "content": [
+    {
+      "arabic": "وَظِلٍّ مِن يَحْمُومٍ ○",
+      "latin": "WAZHILLIN MIN YAHMUUMIN ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "أَوَآبَآؤُنَا الْأَوَّلُونَ ○",
+      "latin": "'AWAA BAA'UNAL 'AWWALUUNA ○",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "لَن يَغْفِرَ اللَّهُ لَهُمْ ○",
+      "latin": "LAYYAGHFIRALLAAHU LAHUM ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "إِلَّا أَن يَشَآءَ اللَّهُ ○",
+      "latin": "'ILLAA 'AYYASYAAA'ALLAAHU ○",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "مَا أُرِيدُ مِنْهُم مِن رِزْقٍ ○",
+      "latin": "MAA 'URIIDU MINHUM MIN RIZQIN ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَمَا أُرِيدُ أَن يُطْعِمُونِ ○",
+      "latin": "WAMAA 'URIIDU 'AYYUTH'IMUUNI ○",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "فَوَيْلٌ لِلَّذِينَ كَفَرُوا ○",
+      "latin": "FAWAILUL LILLADZIINA KAFARUU ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "مِن يَوْمِهِمُ الَّذِي يُوعَدُونَ ○",
+      "latin": "MIY YAUMIHIMULLADZII YUU'ADUUNA ○",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "فَمَا اسْطَاعُوا أَن يَظْهَرُوهُ ○",
+      "latin": "FAMASTHAA'UU 'AY YAZH-HARUUHU ○",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَمَا اسْتَطَاعُوا لَهُ نَقْبًا ○",
+      "latin": "WAMASTATHAA'UU LAHUU NAQBAA ○",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَمَا تَشَآؤُونَ إِلَّا أَن ○",
+      "latin": "WAMAA TASYAAA'UUNA 'ILLAA 'AN ○",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "يَشَآءَ اللَّهُ رَبُّ الْعَالَمِينَ ○",
+      "latin": "YASYAAA'ALLAAHU RABBUL 'AALAMIINA ○",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "كُلٌّ يَجْرِي لِأَجَلٍ مُسَمًّى ○",
+      "latin": "KULLUY YAJRII LI'AJALIN MUSAMMAA ○",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ ○",
+      "latin": "LAAYAATIL LIQAUMIY YATAFAKKARUUNA ○",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "مَن يُبَدِّلِ الْكُفْرَ بِالْإِيمَانِ ○",
+      "latin": "MAY YUBADDILIL KUFRA BIL'IIMAANI ○",
+      "order_id": 15,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    },
+    {
+      "arabic": "فَقَدْ ضَلَّ سَوَآءَ السَّبِيلِ ○",
+      "latin": "FAQAD DHALLA SAWAAA'AS SABIILI ○",
+      "order_id": 16,
+      "position": {
+        "col": 2,
+        "row": 8
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

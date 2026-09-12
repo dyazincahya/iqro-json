@@ -1,0 +1,85 @@
+{
+  "content": [
+    {
+      "arabic": "وَإِنَّ اللهَ قَد أَحَاطَ بِكُلِّ شَيءٍ عِلمًا ○",
+      "latin": "WA'INNALLOHA QOD AHAATHO BIKULLI SYAI'IN 'ILMAN ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "لَوِ اطَّلَعتَ عَلَيهِم لَوَلَّيتَ مِنهُم فِرَارًا وَلَمُلِئتَ مِنهُم رُعبًا ○",
+      "latin": "LAWITHTHOLA'TA 'ALAIHIM LAWALLAITA MINHUM FIROORON WALAMULI'TA MINHUM RU'BAN ○",
+      "order_id": 2,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "فَلَنَقُصَّنَّ عَلَيهِم بِعِلمٍ وَمَا كُنَّا غَائِبِينَ ○",
+      "latin": "FALANAQUSHSHONNA 'ALAIHIM BI'ILMIN WAMAA KUNNAA GHOO'IBIINA ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "هَذَا بَيَانٌ لِّلنَّاسِ وَهُدًى وَمَوعِظَةٌ لِّلمُتَّقِينَ ○",
+      "latin": "HAADZAA BAYAANUN LINNAASI WAHUDAN WAMAU'IZHOTUN LILMUTTAQIINA ○",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَلَقَد جَعَلنَا فِي السَّمَاءِ بُرُوجًا وَزَيَّنَّاهَا لِلنَّاظِرِينَ ○",
+      "latin": "WALAQOD JA'ALNAA FISSAMAAA'I BURUUJAN WAZAYYANNAAHAA LINNAAZHIRIINA ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "إِنَّ وَعدَ اللهِ حَقٌّ وَلَا يَستَخِفَّنَّكَ الَّذِينَ لَا يُوقِنُونَ ○",
+      "latin": "INNA WA'DALLOHI HAQQUN WALAA YASTAKHIFFANNAKAL LADZIINA LAA YUUQINUUNA ○",
+      "order_id": 6,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَلَهُم فِيهَا أَزوَاجٌ مُّطَهَّرَةٌ وَهُم فِيهَا خَالِدُونَ ○",
+      "latin": "WALAHUM FIIHAA AZWAAJUN MMUTHOHHAROTUN WAHUM FIIHAA KHOOLIDUUNA ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "اتَّبِعُوا مَن لَّا يَسأَلُكُم أَجرًا وَهُم مُّهتَدُونَ ○",
+      "latin": "ITTABI'UU MAN LLAA YAS'ALUKUM AJRON WAHUM MMUHTADUUNA ○",
+      "order_id": 8,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

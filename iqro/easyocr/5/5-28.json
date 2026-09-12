@@ -1,0 +1,157 @@
+{
+  "content": [
+    {
+      "arabic": "إِن أَرَدنَا إِلَّا الحُسنَى ○",
+      "latin": "IN ARODNAA ILLALHUSNAA ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "إِنَّ إِلَى رَبِّكَ الرُّجعَى ○",
+      "latin": "INNA ILAA ROBBIKA ARRUJ'AA ○",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَالصَّافَّاتِ صَفًّا ○",
+      "latin": "WASHSHOOFFAATI SHOFFAN ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "فَالزَّاجِرَاتِ زَجرًا ○",
+      "latin": "FAZZAAJIROOTI ZAJRON ○",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَكَفَى بِاللهِ شَهِيدًا ○",
+      "latin": "WAKAFAA BILLAHI SYAHIIDAN ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَالمُؤتَفِكَةَ أَهوَى ○",
+      "latin": "WALMU'TAFIKATA AHWAA ○",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "نِسَاؤُكُم حَرثٌ لَّكُم ○",
+      "latin": "NISAAA'UKUM HARTSUN LLAKUM ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "مَتَاعًا لَّكُم وَلِأَنعَامِكُم ○",
+      "latin": "MATAA'AN LLAKUM WALI'AN'AAMIKUM ○",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "فُضِّلُوا بِرَادِّي رِزقِهِم ○",
+      "latin": "FUDHDHILUU BIROODDII RIZQIHIM ○",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "أَلَا إِنَّهَا قُربَةٌ لَّهُم ○",
+      "latin": "ALAAA INNAHAA QURBATUN LLAHUM ○",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَقُومُوا لِلهِ قَانِتِينَ ○",
+      "latin": "WAQUUMUU LILLAAHI QOONITIINA ○",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "إِنَّ اللهَ مَعَ الصَّابِرِينَ ○",
+      "latin": "INNALLOHA MA'A ASHSHOOBIRIINA ○",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "إِنَّ اللهَ سَمِيعٌ عَلِيمٌ ○",
+      "latin": "INNALLOHA SAMII'UN 'ALIIMUN ○",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "وَأَنَّ اللهَ تَوَّابٌ حَكِيمٌ ○",
+      "latin": "WA'ANNALLOHA TAWWABBUN HAKIIMUN ○",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "حَتَّى تَأتِيَهُمُ البَيِّنَةُ ○",
+      "latin": "HATTAA TA'TIIHIMU ALBAYYINATU ○",
+      "order_id": 15,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    },
+    {
+      "arabic": "خَافِضَةٌ رَّافِعَةٌ ○",
+      "latin": "KHOOFIDHOTUN ROOFI'ATUN ○",
+      "order_id": 16,
+      "position": {
+        "col": 2,
+        "row": 8
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 5,
+  "level_title": "IQRO' 5",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

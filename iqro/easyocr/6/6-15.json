@@ -1,0 +1,94 @@
+{
+  "content": [
+    {
+      "arabic": "وَنُخْرِجُ لَهُ يَوْمَ الْقِيَمَةِ كِتَبًا يَلْقَهُ مَنْشُورًا ○",
+      "latin": "WANUKHRIJU LAHU YAUMAL QIYAAMATI KITAABAY YALQAAHU MANSYUURAA ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "مِن مَّاءٍ صَدِيدٍ - مِن صَلْصَلٍ مِّنْ آبَائِهِمْ ○",
+      "latin": "MIMMAA'IN SHADIIDIN - MIN SHALSHALIM MIN AABAA'IHIM ○",
+      "order_id": 2,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "يَوْمَ لَا يُغْنِي عَنْهُمْ كَيْدُهُمْ شَيْئًا وَلَا هُمْ يُنْصَرُونَ ○",
+      "latin": "YAUMA LAA YUGHNII 'ANHUM KAIDUHUM SYAI'AN WALAA HUM YUNSHARUUNA ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "فَلْيَعْمَلْ عَمَلًا صَلِحًا وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِ أَحَدًا ○",
+      "latin": "FALYA'MAL 'AMALAN SHAALIHAW WALAA YUSYRIK BI'IBAADATI RABBIHII AHADAA ○",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "قَوْلٌ مَّعْرُوفٌ وَمَغْفِرَةٌ خَيْرٌ مِّن صَدَقَةٍ يَتْبَعُهَا أَذًى ○",
+      "latin": "QAULUM MA'RUUFW WAMAGHFIRATUN KHAIRUM MIN SHADAQATIY YATBA'UHAA ADZAA ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَطَلْحٍ مَّنْضُودٍ ○",
+      "latin": "WATHALHIM MANDHUUDIN ○",
+      "order_id": 6,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "لَّهُ ذُرِّيَّةً ضُعَفَاءُ ○",
+      "latin": "LLAHU DZURRIYYATAN DHU'AAFAA'U ○",
+      "order_id": 7,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَكُلًّا ضَرَبْنَا لَهُ الْأَمْثَلَ وَكُلًّا تَبَّرْنَا تَتْبِيرًا ○",
+      "latin": "WAKULLAN DHARABNAA LAHUL AMTSAALA WAKULLAN TABBARNAA TATBIIRAA ○",
+      "order_id": 8,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "وَقَالَ الظَّلِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلًا مَّسْحُورًا ○",
+      "latin": "WAQAALAZH ZHAALIMUUNA IN TATTABI'UUNA ILLAA RAJULAM MAS-HUURAA ○",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

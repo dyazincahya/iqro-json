@@ -1,0 +1,157 @@
+{
+  "content": [
+    {
+      "arabic": "فَلْيَضْحَكُوا قَلِيلًا",
+      "latin": "FALYADHHAKUU QOLIILAA",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَلْيَبْكُوا كَثِيرًا",
+      "latin": "WALYABKUU KATSIIRON",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "هُوَ أَغنَى وَأَقنَى",
+      "latin": "HUWA AGHNA WAQNA",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "هُمَ أَظلَمَ وَأَطغَى",
+      "latin": "HUMA AZHLAMA WA'ATHGHOO",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَيَقبِضُونَ أَيدِيَهُمُ",
+      "latin": "WAYAQBIDHUUNA AIDIIHUMU",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَمَنَ أَوفَى بِعَهدِهِ",
+      "latin": "WAMANA AWFAA BI'AHDIHI",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "لَا تَجعَلنَا فِتنَةً",
+      "latin": "LAA TAJ'ALNAA FITNATAN",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "يَشنُونَ صَدَوَرَهُمُ",
+      "latin": "YASYNUUNA SHODUWAROHUMU",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "إِذهَمَ عَلَيهَا قُعُودٌ",
+      "latin": "IDZHAMA 'ALAIHAA QU'UUDUN",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "فَقَدَ أَبَلَغتُكُمُ",
+      "latin": "FAQODA ABLAGHTUKUMU",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَمِنَ خِزيِ يَومِئِذٍ",
+      "latin": "WAMINA KHIZYI YAWMA'IDZIN",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "فَقَالَ لِصَاحِبِهِ",
+      "latin": "FAQOOLA LISHOO HIBIHI",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "أَضغَاثُ أَحلَامٍ",
+      "latin": "ADHGHOOTSU AHLAAMIN",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "أَستَخلِصُهُ لِنَفسِي",
+      "latin": "ASTAKHLISHUHU LINAFSII",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "وَلَا تَحزَنَ عَلَيهِمُ",
+      "latin": "WALAA TAHZANA 'ALAIHIMU",
+      "order_id": 15,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    },
+    {
+      "arabic": "وَاخفِضَ جَنَاحَكَ",
+      "latin": "WAKHFIDH JANAAHAKA",
+      "order_id": 16,
+      "position": {
+        "col": 2,
+        "row": 8
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 4,
+  "level_title": "IQRO' 4",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

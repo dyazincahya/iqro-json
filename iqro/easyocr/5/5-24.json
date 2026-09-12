@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "arabic": "مِن - رَّأَى",
+      "latin": "MIN - RO'AA",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "مِن - رِّزقٍ",
+      "latin": "MIN - RIZQIN",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "مِن - رَّبِّهِم",
+      "latin": "MIN - ROBBIHIM",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "مِن - رَّسُولِهِ",
+      "latin": "MIN - ROSUULIHI",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَاللهُ غَفُورٌ رَّحِيمٌ ○",
+      "latin": "WALLOHU GHOFUURUN ROHIIMUN ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَاللهُ غَفُورٌ حَلِيمٌ ○",
+      "latin": "WALLOHU GHOFUURUN HALIIMUN ○",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "أَن رَّآهُ استَغنَى ○",
+      "latin": "AN RO'AAHU ISTAGHNAA ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "إِنَّ إِلَى رَبِّكَ الرُّجعَى ○",
+      "latin": "INNA ILAA ROBBIKA ARRUJ'AA ○",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "لَهُ شِهَابٌ ثَاقِبٌ ○",
+      "latin": "LAHU SYIHAABUN TSAAQIBUN ○",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "فَلِلَّهِ الآخِرَةُ وَالأُولَى ○",
+      "latin": "FALLILLAAHI ALAAKHIROTU WALUULAA ○",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "عَلَى اللهِ تَوَكَّلنَا ○",
+      "latin": "'ALAA ALLOHI TAWAKKALNAA ○",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَاللهِ الأَسمَاءُ الحُسنَى ○",
+      "latin": "WALLOHI ALASMAA'U ALHUSNAA ○",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "فِي عِيشَةٍ رَّاضِيَةٍ ○",
+      "latin": "FII 'IISYATIN ROODHIYATIN ○",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "فَهَزَمُوهُم بِإِذنِ اللهِ ○",
+      "latin": "FAHAZAMUUHUM BI'IDZNILLAAHI ○",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Masuk dengan suara tak dengung. Jadi suara nun/tanwin, hilang.",
+  "level_id": 5,
+  "level_title": "IQRO' 5",
+  "topic": {
+    "arab": "نْ ← ل",
+    "latin": ""
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "content": [
+    {
+      "arabic": "أَجِيزُوا",
+      "latin": "AJIIZUU",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "يُجِيزُونَ",
+      "latin": "YUJIIZUUNA",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَجَعَلَهُ",
+      "latin": "WAJA'ALAHU",
+      "order_id": 3,
+      "position": {
+        "col": 3,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "أَقِيمُوا",
+      "latin": "AQIIMUU",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "يُقِيمُونَ",
+      "latin": "YUQIIMUUNA",
+      "order_id": 5,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَرَسُولَهُ",
+      "latin": "WAROSUULAHU",
+      "order_id": 6,
+      "position": {
+        "col": 3,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "أَفِيضُوا",
+      "latin": "AFIIDHUU",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "يُفِيضُونَ",
+      "latin": "YUFIIDHUUNA",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "صَلَاتَهُ",
+      "latin": "SHOLAATAHU",
+      "order_id": 9,
+      "position": {
+        "col": 3,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "أَطِيقُوا",
+      "latin": "ATHIIQUU",
+      "order_id": 10,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "يُطِيقُونَ",
+      "latin": "YUTHIIQUUNA",
+      "order_id": 11,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "أَمْرَهُ",
+      "latin": "AMROHU",
+      "order_id": 12,
+      "position": {
+        "col": 3,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "أَطِيعُوا",
+      "latin": "ATHII'UU",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "يُطِيعُونَ",
+      "latin": "YUTHII'UUNA",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "فَمَا رَأَى",
+      "latin": "FAMAA RO'AA",
+      "order_id": 15,
+      "position": {
+        "col": 3,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "أَمِيتُوا",
+      "latin": "AMIITUU",
+      "order_id": 16,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "يُمِيتُونَ",
+      "latin": "YUMIITUUNA",
+      "order_id": 17,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "فِي صُحُفِي",
+      "latin": "FII SHUHUFII",
+      "order_id": 18,
+      "position": {
+        "col": 3,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "أَزِيلُوا",
+      "latin": "AZIILUU",
+      "order_id": 19,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "يُزِيلُونَ",
+      "latin": "YUZIILUUNA",
+      "order_id": 20,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "فَخَلَقَهُ",
+      "latin": "FAKHOLAQOHU",
+      "order_id": 21,
+      "position": {
+        "col": 3,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "WALAU LANCAR, TAPI TAK BENAR MAKA JANGAN DILANJUTKAN Ulangi sampai betul semua.",
+  "level_id": 3,
+  "level_title": "IQRO' 3",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

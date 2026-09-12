@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "arabic": "وَيَذْرَكَ وَآلِهَتَكَ",
+      "latin": "WAYADZARUKA WA'AALIHATAKA",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَجَعَلَ فِيهَا رَوَاسِيَ",
+      "latin": "WAJA'ALA FIIHAA ROWAASIYA",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "هَارُوتَ وَمَارُوتَ",
+      "latin": "HAARUUTA WAMAARUUTA",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "فَعَلَ هَذَا بِآلِهَتِنَا",
+      "latin": "FA'ALA HAADZAA BI'AALIHATINAA",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "قَالُوا تَقَاسَمُوا",
+      "latin": "QOOLUU TAQOOSAMUU",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "فَتَعَاطَى فَعَقَرَ",
+      "latin": "FATA'AATHOO FA'AQORO",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "كَانَ قَمِيصُهُ",
+      "latin": "KAANA QOMIISHUHU",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "كَانُوا فِيهَا فَاكِهِينَ",
+      "latin": "KAANUU FIIHAA FAAKIHIINA",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَإِذَا سَأَلَكَ عِبَادِي",
+      "latin": "WA'IDZAA SA'ALAKA 'IBAADII",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَكَفَى بِنَا حَاسِبِينَ",
+      "latin": "WAKAFAA BINAA HAASIBIINA",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "فَكَانَ عَاقِبَتَهُمَا",
+      "latin": "FAKAANA 'AAQIBATAHUMAA",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَصَاحِبَتِهِ وَبَنِيهِ",
+      "latin": "WASHOOHIBATIHI WABANIIHI",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "فَلَا تَلُومُونِي وَلُومُوا",
+      "latin": "FALAA TALUUMUUNII WALUUMUU",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "وَيَخَافُونَ عَذَابَهُ",
+      "latin": "WAYAKHOOFUUNA 'ADZAABAHU",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Jika belum benar semua, jangan diteruskan ke halaman EBTA. Coba diulangi lagi !",
+  "level_id": 3,
+  "level_title": "IQRO' 3",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

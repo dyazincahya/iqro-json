@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "arabic": "حَدِيثَ مُوسَى",
+      "latin": "HADIITSA MUUSAA",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "قِرَدَةً خَاسِئِينَ",
+      "latin": "QIRODATAN KHOOSI'IINA",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "تِجَارَةً حَاضِرَةً",
+      "latin": "TIJAAROTAN HAADHIROTAN",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "مُنفِقِينَ مُنفَقَتِ",
+      "latin": "MUNFIQIINA MUNFAQOTI",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "فَقَالَ لِصَاحِبِهِ",
+      "latin": "FAQOOLA LISHOO HIBIHI",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَعَذَابٌ عَظِيمٌ",
+      "latin": "WA'ADZAABUN 'AZHIIMUN",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "عَذَابٌ غَلِيظٌ",
+      "latin": "'ADZAABUN GHOLIIZHUN",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "سَمِيعٌ عَلِيمٌ",
+      "latin": "SAMII'UN 'ALIIMUN",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "لَطِيفًا خَبِيرًا",
+      "latin": "LATHIIFAN KHOBIIRON",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "غَفُورٌ حَلِيمٌ",
+      "latin": "GHOFUURUN HALIIMUN",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "عَلِيمًا حَكِيمًا",
+      "latin": "'ALIIMAN HAKIIMAN",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "إِلَى عَذَابٍ غَلِيظٍ",
+      "latin": "ILAA 'ADZAABIN GHOLIIZHIN",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "قَنَتَتْ حَفِظَتْ",
+      "latin": "QONATAT HAFIZHOT",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "وَكُتُبِهِ وَرُسُلِهِ",
+      "latin": "WAKUTUBIHI WARUSULIHI",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Harus jelas beda : MANA BACAAN YANG PANJANG DAN MANA YANG PENDEK",
+  "level_id": 4,
+  "level_title": "IQRO' 4",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

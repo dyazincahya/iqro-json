@@ -1,0 +1,112 @@
+{
+  "content": [
+    {
+      "arabic": "وَإِذَا رَأَوا تِجَارَةً",
+      "latin": "WA'IDZAA RO'AW TIJAAROTAN",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "يَمشِي عَلَى رِجلَينِ",
+      "latin": "YAMSYII 'ALAA RIJLAINI",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَإِسحَقَ وَيَعقُوبَ",
+      "latin": "WA'ISHAQO WAYA'QUUBA",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "حَفَفنَاهُمَا بِنَخلٍ",
+      "latin": "HAFAFNA AHUMAA BINAKHLIN",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَهُم لَا يَشعُرُونَ",
+      "latin": "WAHUM LAA YASY'URUUNA",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَأَكثَرُهُم لَا يَعلَمُونَ",
+      "latin": "WA'AKTSARUHUM LAA YA'LAMUUNA",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "يَا لَيتَنِي لَم أُشرِكَ",
+      "latin": "YAA LAITANII LAM USYRIK",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَكَانَ أَمرُهُ فُرُطًا",
+      "latin": "WAKAANA AMRUHU FURUTHON",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "لَقَدَ ظَلَمتَكَ بِسُؤَالِ نَعجَتِهِ إِلَى نِعَاجِهِ",
+      "latin": "LAQODA ZHOLAMTAKA BISU'AALI NA'JATIHI ILAA NI'AAJIHI",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "لَا تُؤَاخِذنِي بِمَا نَسِيتُ وَلَا تُرهِقنِي",
+      "latin": "LAA TU'AAKHIDZNII BIMAA NASIITU WALAA TURHIQNII",
+      "order_id": 10,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَأَرسَلنَهُ إِلَى مِائَةِ أَلفٍ أَوَ يَزِيدُونَ",
+      "latin": "WA'ARSALNAAHU ILAA MI'ATIN ALFIN AW YAZIIDUUNA",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "MAAF, bila belum betul semua, jangan naik dulu ke jilid berikutnya.",
+  "level_id": 4,
+  "level_title": "IQRO' 4",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "content": [
+    {
+      "arabic": "هَلَکَ",
+      "latin": "HALAKA",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "نَهَرَ",
+      "latin": "NAHARO",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "لَفِيهِ",
+      "latin": "LAFIIHI",
+      "order_id": 3,
+      "position": {
+        "col": 3,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "هَذِهِ",
+      "latin": "HADZIHI",
+      "order_id": 4,
+      "position": {
+        "col": 4,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "هَمَزَ",
+      "latin": "HAMAZA",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "شَهِدَ",
+      "latin": "SYAHIDA",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَبِهِ",
+      "latin": "WABIHI",
+      "order_id": 7,
+      "position": {
+        "col": 3,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "فَکِرَهِ",
+      "latin": "FAKIROHI",
+      "order_id": 8,
+      "position": {
+        "col": 4,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "هَدَمَ",
+      "latin": "HADAMA",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "فِيهِمَا",
+      "latin": "FIIHIMAA",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "أَبِيهِ",
+      "latin": "ABIIHI",
+      "order_id": 11,
+      "position": {
+        "col": 3,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "عِبَادِهِ",
+      "latin": "'IBAADAHI",
+      "order_id": 12,
+      "position": {
+        "col": 4,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "لَازِيدَ",
+      "latin": "LAAZIIDA",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "فِيجِيدِهَا",
+      "latin": "FIIJIIDIHAA",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "بِبَالِغِهِ",
+      "latin": "BIBAALIGHIHI",
+      "order_id": 15,
+      "position": {
+        "col": 3,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "يَغْلِيظُ",
+      "latin": "YAGHLIIZHU",
+      "order_id": 16,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "بِضْسِينَ",
+      "latin": "BIDHSIINA",
+      "order_id": 17,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَجَسَادِهِ",
+      "latin": "WAJASAADAHI",
+      "order_id": 18,
+      "position": {
+        "col": 3,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَطَاغِينَ",
+      "latin": "WATHOAGHIINA",
+      "order_id": 19,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "يَمِينِکَ",
+      "latin": "YAMIINIKA",
+      "order_id": 20,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "مِيثَاقِهِ",
+      "latin": "MIITSAAQIHI",
+      "order_id": 21,
+      "position": {
+        "col": 3,
+        "row": 6
+      }
+    }
+  ],
+  "instruction_ar": "هِي = هِي (الياء الساكنة). تمهل ......... المهم أن يكون صحيحا.",
+  "instruction_en": "Hii = HII (ya' sukun). TAKE IT SLOW ......... AS LONG AS IT IS CORRECT.",
+  "instruction_id": "Hii = هِي (ya' sukun). BIAR PELAN ....... ASAL BENAR",
+  "level_id": 3,
+  "level_title": "IQRO' 3",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

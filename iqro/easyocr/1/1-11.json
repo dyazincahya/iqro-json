@@ -7,7 +7,7 @@
   },
   "instruction_id": "",
   "instruction_en": "",
-  "instruction_ar": "القراءة المباشرة أ - ب وهكذا. لا حاجة للتهجئة. اقرأ بصوت قصير.",
+  "instruction_ar": "",
   "content": [
     {
       "order_id": 1,
@@ -24,8 +24,8 @@
         "row": 2,
         "col": 1
       },
-      "latin": "ZA SA RA SA",
-      "arabic": "زَ سَ رَ سَ"
+      "latin": "SA A ZA",
+      "arabic": "سَ اَ زَ"
     },
     {
       "order_id": 3,
@@ -33,8 +33,8 @@
         "row": 2,
         "col": 2
       },
-      "latin": "A SA ZA RA SA",
-      "arabic": "أَ سَ زَ رَ سَ"
+      "latin": "ZA RO SA",
+      "arabic": "زَ رَ سَ"
     },
     {
       "order_id": 4,
@@ -42,8 +42,8 @@
         "row": 3,
         "col": 1
       },
-      "latin": "SA KHO DZA KHO SA DA",
-      "arabic": "سَ خَ ذَ خَ سَ دَ"
+      "latin": "DZA KHO SA",
+      "arabic": "ذَ خَ سَ"
     },
     {
       "order_id": 5,
@@ -51,134 +51,89 @@
         "row": 3,
         "col": 2
       },
-      "latin": "SA KHO TSA JA ZA RA",
-      "arabic": "سَ خَ ثَ جَ زَ رَ"
+      "latin": "HA SA DA",
+      "arabic": "حَ سَ دَ"
     },
     {
       "order_id": 6,
       "position": {
-        "row": 3,
-        "col": 3
+        "row": 4,
+        "col": 1
       },
-      "latin": "SA BA TA DZA RA SA",
-      "arabic": "سَ بَ تَ ذَ رَ سَ"
+      "latin": "TSA HA SA",
+      "arabic": "ثَ حَ سَ"
     },
     {
       "order_id": 7,
       "position": {
-        "row": 3,
-        "col": 4
+        "row": 4,
+        "col": 2
       },
-      "latin": "SA KHO DZA KHO DZA DA",
-      "arabic": "سَ خَ ذَ خَ ذَ دَ"
+      "latin": "JA ZA RO",
+      "arabic": "جَ زَ رَ"
     },
     {
       "order_id": 8,
       "position": {
-        "row": 4,
+        "row": 5,
         "col": 1
       },
-      "latin": "SA KHO TSA DA TSA DA",
-      "arabic": "سَ خَ ثَ دَ ثَ دَ"
+      "latin": "TA BA SA",
+      "arabic": "تَ بَ سَ"
     },
     {
       "order_id": 9,
       "position": {
-        "row": 4,
+        "row": 5,
         "col": 2
       },
-      "latin": "SA KHO TSA A BA TA",
-      "arabic": "سَ خَ ثَ أَ بَ تَ"
+      "latin": "DZA RO SA",
+      "arabic": "ذَ رَ سَ"
     },
     {
       "order_id": 10,
       "position": {
-        "row": 5,
+        "row": 6,
         "col": 1
       },
-      "latin": "TSA KHO TSA KHO DZA DZA RA ZAI SA",
-      "arabic": "ثَ خَ ثَ خَ ذَ ذَ رَ زَ سَ"
+      "latin": "DZA HA SA",
+      "arabic": "ذَ حَ سَ"
     },
     {
       "order_id": 11,
       "position": {
-        "row": 5,
+        "row": 6,
         "col": 2
       },
-      "latin": "SA KHO TSA BA TA DA",
-      "arabic": "سَ خَ ثَ بَ تَ دَ"
+      "latin": "ZA HA DA",
+      "arabic": "زَ حَ دَ"
     },
     {
       "order_id": 12,
       "position": {
-        "row": 5,
-        "col": 3
+        "row": 7,
+        "col": 1
       },
-      "latin": "SA KHO TSA TSA KHO SA",
-      "arabic": "سَ خَ ثَ ثَ خَ سَ"
+      "latin": "TSA JA SA",
+      "arabic": "ثَ جَ سَ"
     },
     {
       "order_id": 13,
       "position": {
-        "row": 6,
-        "col": 1
+        "row": 7,
+        "col": 2
       },
-      "latin": "SA KHO DZA DZA SA RA",
-      "arabic": "سَ خَ ذَ ذَ سَ رَ"
+      "latin": "A BA TA",
+      "arabic": "اَ بَ تَ"
     },
     {
       "order_id": 14,
       "position": {
-        "row": 7,
-        "col": 1
-      },
-      "latin": "TSA ZA HA KHO DA DZA RA ZAI SA",
-      "arabic": "ثَ زَ حَ خَ دَ ذَ رَ زَ سَ"
-    },
-    {
-      "order_id": 15,
-      "position": {
-        "row": 7,
-        "col": 2
-      },
-      "latin": "DZ",
-      "arabic": "ذ"
-    },
-    {
-      "order_id": 16,
-      "position": {
-        "row": 7,
-        "col": 3
-      },
-      "latin": "DZH D",
-      "arabic": "ذح د"
-    },
-    {
-      "order_id": 17,
-      "position": {
         "row": 8,
         "col": 1
       },
-      "latin": "S",
-      "arabic": "س"
-    },
-    {
-      "order_id": 18,
-      "position": {
-        "row": 8,
-        "col": 2
-      },
-      "latin": "J TS A B T",
-      "arabic": "ج ث  ا ب ت"
-    },
-    {
-      "order_id": 19,
-      "position": {
-        "row": 9,
-        "col": 1
-      },
-      "latin": "TS JH KH DDZ RZS",
-      "arabic": "ث جح خ دذ رزس"
+      "latin": "TSA JA HA KHO DA DZA RO ZA SA",
+      "arabic": "ثَ جَ حَ خَ دَ ذَ رَ زَ سَ"
     }
   ]
 }

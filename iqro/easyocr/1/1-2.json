@@ -5,7 +5,7 @@
     "latin": "BA TA",
     "arab": "بَ تَ"
   },
-  "instruction_id": "BACAAN LANGSUNG A DENGAN SUARA PENDEK PENDEK BA-IA Dst",
+  "instruction_id": "BACAAN LANGSUNG A - BA - TA Dst. DENGAN SUARA PENDEK-PENDEK",
   "instruction_en": "Direct reading A - BA - TA, etc., with short sounds.",
   "instruction_ar": "القراءة المباشرة أ - ب - ت وهكذا، بأصوات قصيرة",
   "content": [
@@ -42,8 +42,8 @@
         "row": 3,
         "col": 1
       },
-      "latin": "BA A TA",
-      "arabic": "بَ اَ تَ"
+      "latin": "TA A BA",
+      "arabic": "تَ اَ بَ"
     },
     {
       "order_id": 5,
@@ -114,8 +114,8 @@
         "row": 7,
         "col": 1
       },
-      "latin": "BA TA BA",
-      "arabic": "بَ تَ بَ"
+      "latin": "A BA TA",
+      "arabic": "اَ بَ تَ"
     },
     {
       "order_id": 13,
@@ -125,15 +125,6 @@
       },
       "latin": "A BA TA",
       "arabic": "اَ بَ تَ"
-    },
-    {
-      "order_id": 14,
-      "position": {
-        "row": 7,
-        "col": 3
-      },
-      "latin": "AB",
-      "arabic": "آب"
     }
   ]
 }

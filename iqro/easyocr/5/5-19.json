@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "arabic": "فَبَشِّرهُم بِعَذَابٍ أَلِيمٍ ○",
+      "latin": "FABASYSYIRHUM BI'ADZAABIN ALIIMIN ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَزَوَّجنَهُم بِحُورٍ عِينٍ ○",
+      "latin": "WAZAWWAJNAAHUM BIHUURIN 'IININ ○",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "نَوَّرَ - يُنَوِّرُ",
+      "latin": "NAWWARO - YUNAWWIRU",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "سَهَّلَ - يُسَهِّلُ",
+      "latin": "SAHHALA - YUSAHHILU",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "بَيَّنَ - يُبَيِّنُ",
+      "latin": "BAYYANA - YUBAYYINU",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "نَبَّأَ - يُنَبِّئُ",
+      "latin": "NABBA'A - YUNABBI'U",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "إِلَّا أَسَاطِيرُ الأَوَّلِينَ ○",
+      "latin": "ILLAA ASAATHIIRU ALAWWALIINA ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "كَأَنَّهُنَّ بَيضٌ مَّكنُونٌ ○",
+      "latin": "KA'ANNAHUNNA BAIDHUN MAKNUUNUN ○",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "عَلَيهِم بِالإِثمِ وَالعُدوَانِ ○",
+      "latin": "'ALAIHIM BILITSMI WAL'UDWAANI ○",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَهُوَ خَيرُ الرَّازِقِينَ ○",
+      "latin": "WAHUWA KHOIRU ARROOZI QIINA ○",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَيُطَهِّرَكُم تَطهيرًا ○",
+      "latin": "WAYUTHOHHIRUKUM TATHHIIRON ○",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَإِنَّكَ لَمِنَ المُرسَلِينَ ○",
+      "latin": "WA'INNAKA LAMINA ALMURSALIINA ○",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَكَفَّرَ عَنهُم سَيِّئَاتِهِم ○",
+      "latin": "WAKAFFARO 'ANHUM SAYYI'AATIHIM ○",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "وَتَوَفَّنَا مَعَ الأَبرَارِ ○",
+      "latin": "WATAWAFFANAA MA'A ALABROORI ○",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Nun sukun/tanwin ketemu ba dibaca dengung.",
+  "level_id": 5,
+  "level_title": "IQRO' 5",
+  "topic": {
+    "arab": "أَكفَرتُم بَعدَ إِيمَانِكُم",
+    "latin": "AKFARTUM BA'DA IIMAANIKUM"
+  }
+}

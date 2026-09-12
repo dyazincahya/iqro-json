@@ -1,0 +1,130 @@
+{
+  "content": [
+    {
+      "arabic": "وَمِن - لَّم",
+      "latin": "WAMIN - LLAM",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "خَيرٌ - لَّكُم",
+      "latin": "KHOIRUN - LLAKUM",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "ذِكرٌ لِّلْعَالَمِينَ ○",
+      "latin": "DZIKRUN LIL'AALAMIINA ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "إِنَّهُ بِهِم رَءُوفٌ رَّحِيمٌ ○",
+      "latin": "INNAHU BIHIM RO'UUFUN ROHIIMUN ○",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "يَومَئِذٍ لِّلمُكَذِّبِينَ ○",
+      "latin": "YAUWAMA'IDZIN LILMUKADZDZIBIINA ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَاللهُ غَنِيٌّ حَلِيمٌ ○",
+      "latin": "WALLOHU GHONIYYUN HALIIMUN ○",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "فَمَن لَّم يَجِد فَصِيَامُ ثَلَاثَةِ أَيَّامٍ ○",
+      "latin": "FAMAN LLAM YAJID FASHIYAAMU TSALAATSATI AYYAAMIN ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "فَإِن لَّم يَكُن لَّهُ وَلَدٌ ○",
+      "latin": "FA'IN LLAM YAKUN LLAHU WALADUN ○",
+      "order_id": 8,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "فَرِيضَةً مِّنَ اللهِ ○",
+      "latin": "FARIIDHOTAN MMINALLOHI ○",
+      "order_id": 9,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَلَكِن لَّا تَشعُرُونَ ○",
+      "latin": "WALAAKIN LLAA TASY'URUUNA ○",
+      "order_id": 10,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "مِن مَّغرَمٍ مُّثقَلُونَ ○",
+      "latin": "MIN MMAGHROMIN MMUTSQOLUUNA ○",
+      "order_id": 11,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "خَيرٌ لَّكَ مِنَ الأُولَى ○",
+      "latin": "KHOIRUN LLAKA MINA ALUULAA ○",
+      "order_id": 12,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "يَعلَمُ السِّرَّ وَأَخفَى ○",
+      "latin": "YA'LAMU ASSIRRO WA'AKHFAA ○",
+      "order_id": 13,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Masuk dengan suara tak dengung. Jadi suara nun/tanwin, hilang.",
+  "level_id": 5,
+  "level_title": "IQRO' 5",
+  "topic": {
+    "arab": "نْ ← ل",
+    "latin": ""
+  }
+}

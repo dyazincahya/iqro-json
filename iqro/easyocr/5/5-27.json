@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "arabic": "جَاءَتِ الطَّامَّةُ الكُبرَى ○",
+      "latin": "JAAA'ATI ATHTHOOMMATU ALKUBROO ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "إِنَّ مَعَ العُسرِ يُسرًا ○",
+      "latin": "INNA MA'A AL'USRI YUSRON ○",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَلَم يَكُن لَّهُ كُفُوًا أَحَدٌ ○",
+      "latin": "WALAM YAKUN LLAHU KUFUWAN AHADUN ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَاللهُ غَنِيٌّ حَمِيدٌ ○",
+      "latin": "WALLOHU GHONIYYUN HAMIIDUN ○",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "فَإِذَا جَاءَتِ الصَّاخَّةُ ○",
+      "latin": "FA'IDZAA JAAA'ATI ASHSHOOKHKHOTU ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَالأَمرُ يَومَئِذٍ لِلهِ ○",
+      "latin": "WALAMRU YAUWAMA'IDZIN LILLAAHI ○",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَكُلُوا مِن رِّزقِهِ ○",
+      "latin": "WAKULUU MIN RIZQIHI ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "إِنَّ اللهَ بَالِغُ أَمرِهِ ○",
+      "latin": "INNALLOHA BAALIGHU AMRIHI ○",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "بَل هُوَ خَيرٌ لَّكُم ○",
+      "latin": "BAL HUWA KHOIRUN LLAKUM ○",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "الشَّيطَانُ سَوَّلَ لَهُم ○",
+      "latin": "ASYSYAITHOONU SAWWALA LAHUM ○",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَإِنَّا لَنَحنُ الصَّافُّونَ ○",
+      "latin": "WA'INNAA LANAHNU ASHSHAAFFUUNA ○",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَاللهُ وَلِيُّ المُتَّقِينَ ○",
+      "latin": "WALLOHU WALIYYU ALMUTTAQIINA ○",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "الَّذِي يَدُعُّ اليَتِيمَ ○",
+      "latin": "ALLADZII YADU''U ALYATIIMA ○",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "إِنَّهُ كَانَ مِنَ الضَّالِّينَ ○",
+      "latin": "INNAHU KAANA MINA ADDHOOLLIINA ○",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Bacaan harus panjang 6 harokat baru diikuti dengan tasydid.",
+  "level_id": 5,
+  "level_title": "IQRO' 5",
+  "topic": {
+    "arab": "وَلَا الضَّالِّينَ",
+    "latin": "WALAA ADDHOOLLIINA"
+  }
+}

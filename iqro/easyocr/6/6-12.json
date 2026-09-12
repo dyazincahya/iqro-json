@@ -1,0 +1,103 @@
+{
+  "content": [
+    {
+      "arabic": "نُمَتِّعُهُم قَلِيلًا ثُمَّ نَضطَرُّهُم اِلٰى عَذَابٍ غَلِيظٍ ○",
+      "latin": "NUMATTI'UHUM QOLIILAN TSUMMA NADHTHORRUHUM ILAA 'ADZAABIN GHOLIIZHIN ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "مِن جُوعٍ - وَمَن جَآءَ - مُّوصٍ جَنَفًا",
+      "latin": "MIN JUU'IN - WAMAN JAAA-A - MUUSHIN JANAFAN",
+      "order_id": 2,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "التَّورٰةِ وَالاِنجِيلِ ○",
+      "latin": "ATTAUROOTI WAL-INJIILI ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "اِنَّ الاَبرَارَ لَفِي نَعِيمٍ ○",
+      "latin": "INNAL-ABROORO LAFII NA'IIMIN ○",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَتَرٰى كُلَّ اُمَّةٍ جَاثِيَةً ○",
+      "latin": "WATAROO KULLA UMMATIN JAATSIYATAN ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "كُلَّ اُمَّةٍ تُدعٰى اِلٰى كِتٰبِهَا ○",
+      "latin": "KULLA UMMATIN TUD'AA ILAA KITAABIHAA ○",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَنَادَينٰهُ مِن جَانِبِ الطُّورِ الاَيمَنِ وَقَرَّبنٰهُ نَجِيًّا ○",
+      "latin": "WANAADAINAAHU MIN JAANIBITH-THUURIL-AIMANI WAQORROBNAAHU NAJIYYAN ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "مِن دُونِهَا - عِندَ سِدرَةِ المُنتَهٰى ○",
+      "latin": "MIN DUUNIHAA - 'INGDA SIDROTIL-MUNTAHAA ○",
+      "order_id": 8,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَفِي خَلقِهِم وَمَا يَبُثُّ مِن دَآبَّةٍ اٰيٰتٌ لِقَومٍ يُوقِنُونَ ○",
+      "latin": "WAFII KHOLQIHIM WAMAA YABUTSSU MIN DAAABBATIN AAYAATULLIQOUMIYYUUQINUUNA ○",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "بَل لَهُم مَوعِدٌ لَن يَجِدُوْا مِن دُونِهِ مَوئِلًا ○",
+      "latin": "BAL LAHUM MAU'IDUL LAYYAJIDUU MIN DUUNIHI MAU-ILAN ○",
+      "order_id": 10,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

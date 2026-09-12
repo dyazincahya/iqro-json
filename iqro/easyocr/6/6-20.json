@@ -1,0 +1,85 @@
+{
+  "content": [
+    {
+      "arabic": "الَّذِيْنَ تَتَوَفَّاهُمُ الْمَلَائِكَةُ طَيِّبِيْنَ يَقُوْلُوْنَ سَلَامٌ ○",
+      "latin": "ALLADZIINA TATAWAFFAAHUMU ALMALAA'IKATU THAYYIBIINA YAQUULUUNA SALAAMUN ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "مَتَاعٌ قَلِيْلٌ ثُمَّ مَأْوَاهُمْ جَهَنَّمُ وَبِئْسَ الْمِهَادُ ○",
+      "latin": "MATAA'UN QALIILUN TSUMMA MA'WAAHUM JAHANNAMU WABI'SA ALMIHAADU ○",
+      "order_id": 2,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "قَالَ اَنْتُمْ شُرَكَاؤُنَا وَاللهُ اَعْلَمُ بِمَا تَصِفُوْنَ ○",
+      "latin": "QAALA ANTUM SYURAKAA'UNAA WALLAHU A'LAMU BIMAA TASIFUUNA ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "اِنَّ وَعْدَ اللهِ حَقٌّ فَلَا تَغُرَّنَّكُمُ الْحَيَاةُ الدُّنْيَا ○",
+      "latin": "INNA WA'DA ALLAHI HAQQUN FALAA TAGHURRANNAKUMU ALHAYAATU ADDUNYAA ○",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَمَن يَبْتَغِ غَيْرَ الْاِسْلَامِ دِيْنًا فَلَن يُقْبَلَ مِنْهُ ○",
+      "latin": "WAMAN YYABTAGHI GHAIRA ALISLAAMI DIINAN FALAN YYUQBALA MINHU ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "حَتَّى اِذَا سَاوَى بَيْنَ الصَّدَفَيْنِ قَالَ انْفُخُوْا ○",
+      "latin": "HATTAA IDZAA SAAWAA BAINA ASSADAFAINI QAALA UNFUKHUU ○",
+      "order_id": 6,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "اِن يَمْسَسْكُمْ قَرْحٌ فَقَدْ مَسَّ الْقَوْمَ قَرْحٌ مِثْلُهُ ○",
+      "latin": "IN YYAMSASKUM QARHUN FAQAD MASSA ALQAWMA QARHUN MITSLUHU ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "اللهُ اَعْلَمُ بِمَا لَبِثُوْا لَهُ غَيْبُ السَّمَاوَاتِ وَالْاَرْضِ ○",
+      "latin": "ALLAHU A'LAMU BIMAA LABITSUU LAHU GHAIBU ASSAMAAWAATI WALARDHI ○",
+      "order_id": 8,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

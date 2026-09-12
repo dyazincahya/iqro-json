@@ -1,0 +1,256 @@
+{
+  "content": [
+    {
+      "arabic": "سَمِيعٌ",
+      "latin": "SAMII'UN",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "بَصِيرٌ",
+      "latin": "BASHIIRUN",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "حَامِيَةٌ",
+      "latin": "HAAMIYATUN",
+      "order_id": 3,
+      "position": {
+        "col": 3,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "عَصَانِي",
+      "latin": "'ASHOANII",
+      "order_id": 4,
+      "position": {
+        "col": 4,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "لَطِيفًا",
+      "latin": "LATHIIFAN",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "خَبِيرًا",
+      "latin": "KHOBIIROAN",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "حَفِظَتْ",
+      "latin": "HAFIZHOT",
+      "order_id": 7,
+      "position": {
+        "col": 3,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "بِبَنِي",
+      "latin": "BIBANII",
+      "order_id": 8,
+      "position": {
+        "col": 4,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "شَفَاعَةً",
+      "latin": "SYAFAA'ATAN",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "صَغِيرُكَ",
+      "latin": "SHOGHIIRUKA",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "بَطِيئِهِ",
+      "latin": "BATHII'IHI",
+      "order_id": 11,
+      "position": {
+        "col": 3,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "مَقَامِي",
+      "latin": "MAQOAMII",
+      "order_id": 12,
+      "position": {
+        "col": 4,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "عَزِيزٌ",
+      "latin": "'AZIIZUN",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "حَكِيمٌ",
+      "latin": "HAKIIMUN",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "نَعَاجِهِ",
+      "latin": "NA'AAJIHI",
+      "order_id": 15,
+      "position": {
+        "col": 3,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "عَذَابِي",
+      "latin": "'ADZAABII",
+      "order_id": 16,
+      "position": {
+        "col": 4,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "حَلِيمٌ",
+      "latin": "HALIIMUN",
+      "order_id": 17,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "قَدِيرٌ",
+      "latin": "QODIIRUN",
+      "order_id": 18,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "نَاصِيَةٍ",
+      "latin": "NAASHIYATIN",
+      "order_id": 19,
+      "position": {
+        "col": 3,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "كَاذِبَةٍ",
+      "latin": "KAADZIBATIN",
+      "order_id": 20,
+      "position": {
+        "col": 4,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "نَوَاصِي",
+      "latin": "NAWAASHII",
+      "order_id": 21,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَيُعَادَا",
+      "latin": "WAYU'AADAA",
+      "order_id": 22,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "تِجَارَةً",
+      "latin": "TIJAAROTAN",
+      "order_id": 23,
+      "position": {
+        "col": 3,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "فَطَرَنِي",
+      "latin": "FATHORONII",
+      "order_id": 24,
+      "position": {
+        "col": 4,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "شَاطِع = شَاطِى",
+      "latin": "SYAATHI'I = SYAATHI",
+      "order_id": 25,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "فِينَارِهِ",
+      "latin": "FIINAAROHI",
+      "order_id": 26,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "فِيعَقِبِهِ",
+      "latin": "FII'AQIBIHI",
+      "order_id": 27,
+      "position": {
+        "col": 3,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "نِي = نِي (الياء الساكنة). الياء المقصورة (ى) تعتبر غير موجودة.",
+  "instruction_en": "Nii = NII (ya' sukun). The maqsurah ya (ى) is considered non-existent.",
+  "instruction_id": "Nii = نِي  ii = ـِيـ  ى = dianggap tidak ada",
+  "level_id": 3,
+  "level_title": "IQRO' 3",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

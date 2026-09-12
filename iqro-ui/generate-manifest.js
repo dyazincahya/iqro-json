@@ -29,11 +29,17 @@ function generateManifest() {
     levels: []
   };
 
-  // Scan for OCR engine folders in iqro directory
+  // Scan for OCR engine folders in iqro directory (must contain level subfolders)
   const items = fs.readdirSync(sourceDir);
   const ocrDirs = items.filter((item) => {
     const fullPath = path.join(sourceDir, item);
-    return fs.lstatSync(fullPath).isDirectory() && !item.startsWith('.') && isNaN(Number(item));
+    if (!fs.lstatSync(fullPath).isDirectory() || item.startsWith('.') || !isNaN(Number(item))) {
+      return false;
+    }
+    // Only treat as engine if it holds at least one numeric level folder
+    return fs.readdirSync(fullPath).some((sub) => {
+      return fs.lstatSync(path.join(fullPath, sub)).isDirectory() && !isNaN(Number(sub));
+    });
   });
 
   manifest.ocrEngines = ocrDirs.map((dir) => ({

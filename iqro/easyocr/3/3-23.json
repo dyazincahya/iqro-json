@@ -1,0 +1,139 @@
+{
+  "content": [
+    {
+      "arabic": "وَإِذَا سَأَلَكَ عِبَادِي",
+      "latin": "WA'IDZAA SA'ALAKA 'IBAADII",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "لَيُوسُفُ وَأَخُوهُ",
+      "latin": "LAYUUSUFU WA'AKHUUHU",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "نَسِيَ حُوتَهُمَا",
+      "latin": "NASIYA HUUTAHUMAA",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَخَرَقُوا لَهُ بَنِينَ",
+      "latin": "WAKHOROQUU LAHU BANIINA",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "أَرُونِي مَاذَا خَلَقُوا",
+      "latin": "ARUUNII MAADZAA KHOLAQUU",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "كَفَى بِنَا حَاسِبِينَ",
+      "latin": "KAFAA BINAA HAASIBIINA",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "هَذِهِ بِضَاعَتُنَا",
+      "latin": "HAADZIHI BIDHOO'ATUNAA",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَثُلُثَ وَرُبُعَ",
+      "latin": "WATSULUTSA WARUBU'A",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "قَالُوا تَقَاسَمُوا",
+      "latin": "QOOLUU TAQOOSAMUU",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "بِمَا كَسَبُوا مَا تَرَكَ",
+      "latin": "BIMAA KASABUU MAA TAROKA",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "قَالَ مَا نَهَاكُمَا",
+      "latin": "QOOLA MAA NAHAAKUMAA",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "لِبَاسُهُمَا لَيُرِيهِمَا",
+      "latin": "LIBAASUHUMAA LAYURIIHIMAA",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "صَلَاتَكَ = صَلَوتَكَ",
+      "latin": "SHOLAATAKA = SHOLAUUTAKA",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "عَلَى شَاكِلَتِهِ",
+      "latin": "'ALAA SYAAKILATIHI",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Membacanya boleh terputus-putus ASAL BENAR WALAU PELAN",
+  "level_id": 3,
+  "level_title": "IQRO' 3",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

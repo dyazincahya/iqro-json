@@ -1,0 +1,157 @@
+{
+  "content": [
+    {
+      "arabic": "فِي الفُلكِ المَشحُون ○",
+      "latin": "FII ALFULKI ALMASYHUUNI ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَنَحنُ لَهُ مُسلِمُون ○",
+      "latin": "WANAHNU LAHU MUSLIMUUNA ○",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "فَمَا لَكُم كَيفَ تَحكُمُون ○",
+      "latin": "FAMAA LAKUM KAIFA TAHKUMUUNA ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَمَا كَانُوا مُهتَدِين ○",
+      "latin": "WAMAA KAANUU MUHTADIINA ○",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "لَا يُفلِحُ الكَافِرُون ○",
+      "latin": "LAA YUFLIHU ALKAAFIRUUNA ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "هُوَ الخَسرَانُ المُبِين ○",
+      "latin": "HUWA ALKHOSROONU ALMUBIINU ○",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "بِالآخِرَةِ هُم يُوقِنُون ○",
+      "latin": "BILAAKHIROTI HUM YUUQINUUNA ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَهُم لَا يَشعُرُون ○",
+      "latin": "WAHUM LAA YASY'URUUNA ○",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "بَل عَجِبتَ وَيَسخَرُون ○",
+      "latin": "BAL 'AJIBTA WAYASKHORUUNA ○",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "كَذَلِكَ نَفعَلُ بِالمُجرمِين ○",
+      "latin": "KADZAALIKA NAF'ALU BILMUJRIMIINA ○",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "سَنَسِمُهُ عَلَى الخُرطُوم ○",
+      "latin": "SANASIMUHU 'ALAA ALKHURTHUUMI ○",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَهَذَا البَلَدِ الأَمِين ○",
+      "latin": "WAHADZAA ALBALADI ALAMIINI ○",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "مَا كَانُوا بِهِ يَستَمتِعُون ○",
+      "latin": "MAA KAANUU BIHI YASTAMTI'UUNA ○",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "وَمَا كَانَ مِنَ المُشرِكِين ○",
+      "latin": "WAMAA KAANA MINA ALMUSYRIKIINA ○",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "هُم اليَومَ مُستَسلِمُون ○",
+      "latin": "HUM ALYAUMA MUSTASLIMUUNA ○",
+      "order_id": 15,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    },
+    {
+      "arabic": "صِرَاطَكَ المُستَقِيم ○",
+      "latin": "SHIROOTHOQA ALMUSTAQIIMA ○",
+      "order_id": 16,
+      "position": {
+        "col": 2,
+        "row": 8
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 5,
+  "level_title": "IQRO' 5",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

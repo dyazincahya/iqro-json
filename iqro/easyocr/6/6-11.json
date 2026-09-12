@@ -1,0 +1,94 @@
+{
+  "content": [
+    {
+      "arabic": "اَنتَ - وَاَنتُم تَتلُوْنَ",
+      "latin": "ANTA - WA-ANTUM TATLUUNA",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "مَن تَطَوَّعَ - اَن تَقُوْلُوْا - اَوَكُنتُم",
+      "latin": "MAN TATHOWWA'A - AN TAQUULUU - AWAKUNTUM",
+      "order_id": 2,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "جَنَّتٍ تَجرِيْ مِن تَحتِهَا الْاَنْهٰرُ خٰلِدِيْنَ فِيْهَا ○",
+      "latin": "JANNATIN TAJRII MIN TAHTIHAL-ANHAARU KHAALIDIINA FIIHAA ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "اِنَّا نَحْنُ نَزَّلْنَا الذِّكرَ وَاِنَّا لَهٗ لَحٰفِظُوْنَ ○",
+      "latin": "INNAA NAHNU NAZZALNADZ-DZIKRO WA-INNAA LAHUU LAHAAFIZHUUNA ○",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "بِالْاُنثٰى - وَكُنتُم اَزوَاجًا ثَلٰثَةً ○",
+      "latin": "BIL-UNTSAA - WAKUNTUM AZWAAJAN TSALAATSATAN ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "خَلَقَ الذَّكَرَ وَالْاُنثٰى ○",
+      "latin": "KHOLAQODZ-DZAKARO WAL-UNTSAA ○",
+      "order_id": 6,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "مِثلَ حَظِّ الاُنثَيَينِ ○",
+      "latin": "MITSLA HAZHZHIL-UNTSAYAINI ○",
+      "order_id": 7,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "عَلَى الحِنثِ العَظِيمِ ○",
+      "latin": "'ALAL-HINTSIL-'AZHIIMI ○",
+      "order_id": 8,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "وَرَيحَانٌ وَجَنَّتُ نَعِيمٍ ○",
+      "latin": "WAROIHAANUWWAJANNATU NA'IIMIN ○",
+      "order_id": 9,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "Dibaca samar-samar & dengung Bila bertemu dengan salah satu dari 15 huruf di bawah ini",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

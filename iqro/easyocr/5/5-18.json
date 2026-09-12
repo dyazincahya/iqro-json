@@ -1,0 +1,157 @@
+{
+  "content": [
+    {
+      "arabic": "وَالشَّمسِ وَضُحَاهَا ○",
+      "latin": "WASYSYAMSI WADHUHAAHAA ○",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "وَالقَمَرِ إِذَا تَلَاهَا ○",
+      "latin": "WALQOMARI IDZAA TALAAHAA ○",
+      "order_id": 2,
+      "position": {
+        "col": 2,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "الَّذِي خَلَقَ فَسَوَّى ○",
+      "latin": "ALLADZII KHOLAQO FASAWWAA ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَالَّذِي قَدَّرَ فَهَدَى ○",
+      "latin": "WALLADZII QODDARO FAHADAA ○",
+      "order_id": 4,
+      "position": {
+        "col": 2,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "وَإِبرَاهِيمَ الَّذِي وَفَّى ○",
+      "latin": "WA'IBROOHIIMA ALLADZII WAFFAA ○",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "أَفَرَءَيتَ اللَّاتَ وَالعُزَّى ○",
+      "latin": "AFARO'AITA ALLAATA WAL'UZZAA ○",
+      "order_id": 6,
+      "position": {
+        "col": 2,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "وَالنَّجمِ إِذَا هَوَى ○",
+      "latin": "WANNAJMI IDZAA HAWAA ○",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "مَا ضَلَّ صَاحِبُكُم وَمَا غَوَى ○",
+      "latin": "MAA DHOLLA SHOOHIBUKUM WAMAA GHOWAA ○",
+      "order_id": 8,
+      "position": {
+        "col": 2,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "وَإِذَا الأَرضُ مُدَّت ○",
+      "latin": "WA'IDZAA ALARDHU MUDDAT ○",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "وَأَلقَت مَا فِيهَا وَتَخَلَّت ○",
+      "latin": "WA'ALQOT MAA FIIHAA TAKHOLLAT ○",
+      "order_id": 10,
+      "position": {
+        "col": 2,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "إِنَّهُ عَلَى رَجعِهِ لَقَادِرٌ ○",
+      "latin": "INNAHU 'ALAA ROJ'IHI LAQOODIRUN ○",
+      "order_id": 11,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "يَومَ تُبلَى السَّرَائِرُ ○",
+      "latin": "YAUMA TUBLAA ASSAROO'IRU ○",
+      "order_id": 12,
+      "position": {
+        "col": 2,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "وَفَاكِهَةٍ مِّمَّا يَتَخَيَّرُونَ ○",
+      "latin": "WAFAAKIHATIN MIMMAA YATAKHOYYARUUNA ○",
+      "order_id": 13,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "وَلَحمِ طَيرٍ مِّمَّا يَشتَهُونَ ○",
+      "latin": "WALAHMI THOIRIN MIMMAA YASYTAHUUNA ○",
+      "order_id": 14,
+      "position": {
+        "col": 2,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "وَرَبُّ أَبَائِكُمُ الأَوَّلِينَ ○",
+      "latin": "WAROBBU AABAAA'IKUMU ALAWWALIINA ○",
+      "order_id": 15,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    },
+    {
+      "arabic": "هُوَ التَّوَّابُ الرَّحِيمُ ○",
+      "latin": "HUWA ATTAWWAABU ARROHIIMU ○",
+      "order_id": 16,
+      "position": {
+        "col": 2,
+        "row": 8
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 5,
+  "level_title": "IQRO' 5",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}

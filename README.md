@@ -69,10 +69,10 @@ Iqro (bahasa Arab: اقرأ, translit. iqraʾ, har. 'Bacalah!'; judul lengkap: B
 - [x] [Huruf Hijaiyah dengan Vokal](https://github.com/dyazincahya/iqro-json/blob/main/hijaiyah-letters-with-vowels.json)
 - [x] Iqro 1
 - [x] Iqro 2
-- [ ] Iqro 3
-- [ ] Iqro 4
-- [ ] Iqro 5
-- [ ] Iqro 6
+ - [x] Iqro 3
+ - [x] Iqro 4
+ - [x] Iqro 5
+ - [x] Iqro 6
 
 ## Panduan OCR (Python & EasyOCR)
 

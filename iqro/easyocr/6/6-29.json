@@ -1,0 +1,94 @@
+{
+  "content": [
+    {
+      "arabic": "وَلَا تَمشِ فِي الأَرضِ مَرَحًا إِنَّ اللهَ لَا يُحِبُّ كُلَّ",
+      "latin": "WALAA TAMSYI FIIL ARDHI MAROHAN INNALLOHA LAA YUHIBBU KULLA",
+      "order_id": 1,
+      "position": {
+        "col": 1,
+        "row": 1
+      }
+    },
+    {
+      "arabic": "مُختَالٍ فَخُورٍ ○ وَاقصِد فِي مَشيِكَ وَاغضُض",
+      "latin": "MUKHTAALIN FAKHUURIN ○ WAQSHID FII MASYYIKA WAGHDHUDH",
+      "order_id": 2,
+      "position": {
+        "col": 1,
+        "row": 2
+      }
+    },
+    {
+      "arabic": "مِن صَوتِكَ إِنَّ أَنكَرَ الأَصوَاتِ لَصَوتُ الحَمِيرِ ○",
+      "latin": "MIN SHOUTIKA INNA ANKAROL ASHWAATI LASHOUTUL HAMIIRI ○",
+      "order_id": 3,
+      "position": {
+        "col": 1,
+        "row": 3
+      }
+    },
+    {
+      "arabic": "آمَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيهِ مِن رَّبِّهِ وَالمُؤمِنُونَ",
+      "latin": "AAMANAR ROSUULU BIMAA UNZILA ILAIHI MIN RROBBIHI WALMU'MINUUNA",
+      "order_id": 4,
+      "position": {
+        "col": 1,
+        "row": 4
+      }
+    },
+    {
+      "arabic": "كُلٌّ آمَنَ بِاللهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا نُفَرِّقُ",
+      "latin": "KULLUN AAMANA BILLAAHI WAMALAA'IKATIHI WAKUTUBIHI WARUSULIHI LAA NUFARRIQU",
+      "order_id": 5,
+      "position": {
+        "col": 1,
+        "row": 5
+      }
+    },
+    {
+      "arabic": "بَينَ أَحَدٍ مِن رُّسُلِهِ وَقَالُوا سَمِعنَا وَأَطَعنَا",
+      "latin": "BAINA AHADIN MIN RRUSULIHI WAQOOLUU SAMI'NAA WA'ATHO'NAA",
+      "order_id": 6,
+      "position": {
+        "col": 1,
+        "row": 6
+      }
+    },
+    {
+      "arabic": "غُفرَانَكَ رَبَّنَا وَإِلَيكَ المَصِيرُ ○ لَا يُكَلِّفُ اللهُ",
+      "latin": "GHUFROONAKA ROBBANAA WA'ILAIKAL MASHIIRU ○ LAA YUKALLIFULLOHU",
+      "order_id": 7,
+      "position": {
+        "col": 1,
+        "row": 7
+      }
+    },
+    {
+      "arabic": "نَفسًا إِلَّا وُسعَهَا لَهَا مَا كَسَبَت وَعَلَيهَا",
+      "latin": "NAFSAN ILLAA WUS'AHAA LAHAA MAA KASABAT WA'ALAIHAA",
+      "order_id": 8,
+      "position": {
+        "col": 1,
+        "row": 8
+      }
+    },
+    {
+      "arabic": "مَا اكتَسَبَت رَبَّنَا لَا تُؤَاخِذنَا إِن نَّسِينَا أَو",
+      "latin": "MAAKTASABAT ROBBANAA LAA TU'AAKHIDZNAA IN NNASIINAA AU",
+      "order_id": 9,
+      "position": {
+        "col": 1,
+        "row": 9
+      }
+    }
+  ],
+  "instruction_ar": "",
+  "instruction_en": "",
+  "instruction_id": "",
+  "level_id": 6,
+  "level_title": "IQRO' 6",
+  "topic": {
+    "arab": "",
+    "latin": ""
+  }
+}
