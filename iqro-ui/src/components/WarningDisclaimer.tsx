@@ -68,6 +68,30 @@ export const WarningDisclaimer: React.FC<WarningDisclaimerProps> = ({
           </p>
         </div>
 
+        {/* Status Proyek & Keterbukaan Koreksi Data */}
+        <div className="p-4 bg-emerald-50/90 border border-emerald-300/80 rounded-xl flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 text-xs text-emerald-950">
+          <div className="space-y-1.5">
+            <h4 className="text-xs font-bold uppercase tracking-wider text-emerald-900 flex items-center gap-1.5">
+              <span>🛠️</span> Status Data & Keterbukaan Koreksi:
+            </h4>
+            <p className="text-slate-700 text-xs md:text-sm leading-relaxed">
+              Proyek digitalisasi ini <strong>masih terus berjalan</strong>. Hasil data JSON yang ada saat ini sebagian mungkin <strong>belum 100% sama persis dengan buku fisik aslinya</strong> (seperti ketepatan harakat, susunan baris/kolom, atau transliterasi Latin).
+            </p>
+            <p className="text-slate-600 text-xs">
+              Kami sangat terbuka terhadap koreksi! Silakan ajukan <strong>Issue</strong> atau <strong>Pull Request (PR)</strong> di GitHub dengan mencantumkan secara spesifik <em>Jilid, Nomor Halaman, dan Posisi Baris/Kolom</em> yang belum sesuai agar dapat segera disempurnakan.
+            </p>
+          </div>
+          <a
+            href="https://github.com/dyazincahya/iqro-json/issues/new"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="w-full sm:w-auto inline-flex items-center justify-center gap-1.5 px-3.5 py-2.5 rounded-lg bg-emerald-700 hover:bg-emerald-800 text-white font-semibold text-xs shadow-2xs transition-all hover:scale-105 active:scale-95 text-center shrink-0 cursor-pointer whitespace-nowrap"
+          >
+            <span>Buka Issue Koreksi</span>
+            <ExternalLink className="w-3.5 h-3.5" />
+          </a>
+        </div>
+
         {/* Hak Cipta & Dukungan Buku Fisik */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-3 pt-1">
           <div className="p-3.5 bg-white/80 border border-amber-200/80 rounded-xl flex items-start gap-2.5">

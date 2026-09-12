@@ -81,8 +81,8 @@ export const BookCover: React.FC<BookCoverProps> = ({ levels, onSelectLevel, boo
                     {level.title}
                   </h2>
                   <div className="h-[2px] w-20 bg-amber-400 mx-auto my-3 group-hover:w-28 transition-all duration-300"></div>
-                  <p className="text-slate-300 text-xs uppercase tracking-wider font-semibold">
-                    Kementerian Agama RI
+                  <p className="text-slate-200 text-xs uppercase tracking-wider font-semibold">
+                    KH. As'ad Humam
                   </p>
                 </div>
 

@@ -8,6 +8,15 @@ Berisi data Iqro `(Buku untuk belajar mengaji Al-quran)` 1 sampai 6 dalam format
 >
 > Link referensi: https://archive.org/details/humam-2000-buku-iqro-cara-cepat-belajar-membaca-al-quran-1-6
 
+> [!NOTE]
+> **🛠️ Status Proyek: Masih Berjalan & Terbuka untuk Koreksi Data (*Work in Progress*)**
+>
+> Proyek digitalisasi ini **masih terus berjalan**. Hasil data JSON yang ada saat ini sebagian mungkin **belum 100% sama persis dengan buku fisik aslinya** (misalnya harakat, susunan baris/kolom, atau transliterasi Latin).
+>
+> Kami sangat terbuka terhadap masukan dan koreksi dari siapapun (asatidz, pengajar, santri, maupun pengembang)! Apabila Anda menemukan bagian yang belum sesuai:
+> - Silakan buat **[Issue Baru](https://github.com/dyazincahya/iqro-json/issues/new)** atau ajukan **Pull Request (PR)**.
+> - Mohon cantumkan secara spesifik: **Jilid**, **Nomor Halaman**, **Posisi (Baris & Kolom)**, serta **Bentuk Perbaikan** yang semestinya sesuai buku fisik resmi.
+
 ## API
 
 Berikut adalah beberapa layanan yang dapat digunakan untuk mengakses data Iqro. Anda dapat menggunakan layanan CDN gratis seperti `Jsdelivr` dan `Statically`, atau layanan non-CDN seperti `Github Content`.

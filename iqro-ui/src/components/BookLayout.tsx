@@ -256,7 +256,7 @@ export const BookLayout: React.FC<BookLayoutProps> = ({
       </div>
 
       {/* Info Legend / Tips */}
-      <div className="mt-3 sm:mt-6 text-center text-[11px] sm:text-xs text-slate-500 flex flex-col sm:flex-row items-center justify-center gap-1 sm:gap-3">
+      <div className="mt-3 sm:mt-6 text-center text-[11px] sm:text-xs text-slate-500 flex flex-col sm:flex-row items-center justify-center gap-1 sm:gap-3 flex-wrap">
         <span className="flex items-center gap-1">
           <HelpCircle className="w-3 h-3 text-slate-400" />
           <span>Klik kata/karakter untuk dengar suara.</span>
@@ -267,6 +267,16 @@ export const BookLayout: React.FC<BookLayoutProps> = ({
             ? 'Arah membaca: Kanan ke Kiri (RTL)' 
             : 'Arah membaca: Kiri ke Kanan (LTR)'}
         </span>
+        <span className="hidden sm:inline text-slate-400">•</span>
+        <a
+          href={`https://github.com/dyazincahya/iqro-json/issues/new?title=Koreksi+Data+${encodeURIComponent(levelTitle)}+Hal+${currentPage}&body=Mohon+jelaskan+bagian+yang+belum+sesuai+buku+fisik+(Jilid:+${encodeURIComponent(levelTitle)},+Halaman:+${currentPage},+Posisi+Baris/Kolom):`}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-emerald-700 hover:text-emerald-800 hover:underline font-semibold cursor-pointer"
+          title="Laporkan jika menemukan data yang belum sesuai buku fisik"
+        >
+          Ada data belum sesuai buku fisik? Koreksi di sini
+        </a>
       </div>
     </div>
   );
