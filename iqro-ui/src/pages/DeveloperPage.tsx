@@ -236,7 +236,7 @@ export const DeveloperPage: React.FC<DeveloperPageProps> = ({ manifest }) => {
                       </span>
                     </div>
 
-                    <div className="grid grid-cols-6 sm:grid-cols-8 md:grid-cols-10 gap-1.5 max-h-56 overflow-y-auto p-1 border border-slate-200 rounded-xl bg-slate-50/50">
+                    <div className="grid grid-cols-5 sm:grid-cols-8 md:grid-cols-10 gap-1.5 max-h-56 overflow-y-auto p-1 border border-slate-200 rounded-xl bg-slate-50/50">
                       {pagesList.map((pageNum) => {
                         const isSelected = pageNum === selectedPageNumber;
                         return (

@@ -59,26 +59,27 @@ export const Navbar: React.FC = () => {
 
   return (
     <header className="sticky top-0 z-50 bg-white/90 backdrop-blur-md border-b border-slate-200/80 shadow-xs">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-4">
+      <div className="max-w-7xl mx-auto px-2.5 sm:px-6 lg:px-8 h-14 sm:h-16 flex items-center justify-between gap-2 sm:gap-4">
         {/* Brand */}
-        <Link to="/" className="flex items-center gap-2 sm:gap-2.5 group shrink-0">
+        <Link to="/" className="flex items-center gap-1.5 sm:gap-2.5 group shrink-0">
           <img
             src={`${BASE_URL}icon.png`}
             alt="Logo Iqro"
-            className="w-8 h-8 sm:w-9 sm:h-9 object-contain rounded-lg border border-slate-200 shadow-xs bg-white p-0.5 group-hover:scale-105 transition-transform"
+            className="w-7 h-7 sm:w-9 sm:h-9 object-contain rounded-lg border border-slate-200 shadow-xs bg-white p-0.5 group-hover:scale-105 transition-transform"
           />
           <div className="flex flex-col">
             <span className="font-extrabold text-slate-900 tracking-wider text-sm sm:text-base leading-tight">
-              IQRO' DIGITAL
+              <span className="sm:hidden">IQRO'</span>
+              <span className="hidden sm:inline">IQRO' DIGITAL</span>
             </span>
-            <span className="text-[9px] sm:text-[10px] text-slate-500 font-medium hidden xs:inline">
+            <span className="text-[9px] sm:text-[10px] text-slate-500 font-medium hidden sm:inline">
               Open Data Al-Qur'an
             </span>
           </div>
         </Link>
 
         {/* Navigation Links with Sliding Indicator */}
-        <nav ref={navRef} className="relative flex items-center gap-1.5 sm:gap-2">
+        <nav ref={navRef} className="relative flex items-center gap-1 sm:gap-2 shrink-0">
           {/* Animated Sliding Background Indicator */}
           <div
             className={`absolute bg-slate-900 rounded-xl shadow-xs transition-all duration-300 ease-[cubic-bezier(0.25,1,0.5,1)] pointer-events-none z-0 ${
@@ -93,9 +94,9 @@ export const Navbar: React.FC = () => {
           />
 
           {[
-            { path: '/', label: 'Beranda', icon: Home, title: 'Beranda' },
-            { path: '/baca', label: 'Baca Iqro', icon: BookOpen, title: 'Baca Lembaran Iqro' },
-            { path: '/developer', label: 'Developer', icon: Code2, title: 'Dokumentasi API Developer' },
+            { path: '/', label: 'Beranda', shortLabel: 'Home', icon: Home, title: 'Beranda' },
+            { path: '/baca', label: 'Baca Iqro', shortLabel: 'Baca', icon: BookOpen, title: 'Baca Lembaran Iqro' },
+            { path: '/developer', label: 'Developer', shortLabel: 'API', icon: Code2, title: 'Dokumentasi API Developer' },
           ].map((item) => {
             const Icon = item.icon;
             const active = isActive(item.path);
@@ -106,16 +107,17 @@ export const Navbar: React.FC = () => {
                 to={item.path}
                 title={item.title}
                 data-active={active ? 'true' : 'false'}
-                className={`relative z-10 flex items-center gap-1.5 rounded-xl text-xs sm:text-sm font-bold whitespace-nowrap transition-colors duration-200 cursor-pointer ${
+                className={`relative z-10 flex items-center gap-1 sm:gap-1.5 rounded-xl text-xs sm:text-sm font-bold whitespace-nowrap transition-colors duration-200 cursor-pointer ${
                   active
-                    ? `${hasPositioned ? 'bg-transparent' : 'bg-slate-900 shadow-xs'} px-3.5 py-2 text-white`
-                    : 'p-2 sm:px-2.5 sm:py-2 text-slate-600 hover:text-slate-900 hover:bg-slate-100/70'
+                    ? `${hasPositioned ? 'bg-transparent' : 'bg-slate-900 shadow-xs'} px-2.5 py-1.5 sm:px-3.5 sm:py-2 text-white`
+                    : 'p-1.5 sm:px-2.5 sm:py-2 text-slate-600 hover:text-slate-900 hover:bg-slate-100/70'
                 }`}
               >
-                <Icon className="w-4 h-4 shrink-0" />
+                <Icon className="w-3.5 h-3.5 sm:w-4 sm:h-4 shrink-0" />
                 {active && (
                   <span className="animate-in fade-in zoom-in-95 duration-150">
-                    {item.label}
+                    <span className="sm:hidden">{item.shortLabel}</span>
+                    <span className="hidden sm:inline">{item.label}</span>
                   </span>
                 )}
               </Link>
@@ -126,10 +128,10 @@ export const Navbar: React.FC = () => {
             href="https://github.com/dyazincahya/iqro-json"
             target="_blank"
             rel="noopener noreferrer"
-            className="relative z-10 flex items-center gap-1.5 p-2 sm:px-3 sm:py-2 text-xs sm:text-sm font-semibold text-slate-700 hover:text-slate-900 border border-slate-200 hover:border-slate-300 rounded-xl hover:bg-slate-50 transition-all whitespace-nowrap ml-1 sm:ml-2"
+            className="relative z-10 flex items-center gap-1.5 p-1.5 sm:px-3 sm:py-2 text-xs sm:text-sm font-semibold text-slate-700 hover:text-slate-900 border border-slate-200 hover:border-slate-300 rounded-xl hover:bg-slate-50 transition-all whitespace-nowrap ml-0.5 sm:ml-2"
             title="Repositori GitHub"
           >
-            <GithubIcon className="w-4 h-4" />
+            <GithubIcon className="w-3.5 h-3.5 sm:w-4 sm:h-4" />
             <span className="hidden md:inline">GitHub</span>
           </a>
         </nav>

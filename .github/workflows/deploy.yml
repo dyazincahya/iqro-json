@@ -42,6 +42,7 @@ jobs:
         run: |
           cd iqro-ui
           npm run build
+          cp dist/index.html dist/404.html || true
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

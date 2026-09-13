@@ -27,6 +27,18 @@ export default defineConfig({
           next();
         });
       }
+    },
+    {
+      name: 'copy-404-html',
+      closeBundle() {
+        const distPath = path.resolve(__dirname, 'dist');
+        const indexPath = path.join(distPath, 'index.html');
+        const notFoundPath = path.join(distPath, '404.html');
+        if (fs.existsSync(indexPath)) {
+          fs.copyFileSync(indexPath, notFoundPath);
+          console.log('✓ Successfully created dist/404.html for GitHub Pages SPA routing');
+        }
+      }
     }
   ],
 })
