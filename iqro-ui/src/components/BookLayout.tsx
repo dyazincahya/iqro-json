@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import {
   ArrowLeft,
   ArrowRight,
@@ -6,8 +6,12 @@ import {
   Home,
   HelpCircle,
   Languages,
+  Maximize2,
+  Minimize2,
 } from "lucide-react";
 import type { OcrEngineInfo } from "../types";
+
+const FOCUS_MODE_STORAGE_KEY = "iqro_focus_mode";
 
 interface BookLayoutProps {
   levelTitle: string;
@@ -46,119 +50,194 @@ export const BookLayout: React.FC<BookLayoutProps> = ({
   ocrEngines = [],
   children,
 }) => {
+  const [isFocusMode, setIsFocusMode] = useState(
+    () => localStorage.getItem(FOCUS_MODE_STORAGE_KEY) === "true",
+  );
   const progressPercent = Math.min(
     100,
     Math.max(0, (currentPage / totalPages) * 100),
   );
 
+  const setFocusMode = (enabled: boolean) => {
+    setIsFocusMode(enabled);
+    localStorage.setItem(FOCUS_MODE_STORAGE_KEY, String(enabled));
+  };
+
+  useEffect(() => {
+    if (!isFocusMode) return;
+
+    const handleKeyDown = (event: KeyboardEvent) => {
+      if (event.key === "Escape") {
+        setFocusMode(false);
+      }
+    };
+
+    window.addEventListener("keydown", handleKeyDown);
+    return () => window.removeEventListener("keydown", handleKeyDown);
+  }, [isFocusMode]);
+
   return (
-    <div className="w-full max-w-[1440px] mx-auto flex flex-col h-full min-h-0">
+    <div
+      className={`flex flex-col h-full min-h-0 ${
+        isFocusMode
+          ? "fixed inset-0 z-50 w-full max-w-none bg-slate-50 p-1.5 sm:p-3 md:p-4"
+          : "w-full max-w-[1440px] mx-auto"
+      }`}
+    >
       {/* Top Navbar */}
-      <div className="flex-none flex justify-between items-center bg-white border border-slate-200 rounded-lg p-1 sm:p-2 mb-1 sm:mb-2 shadow-sm gap-1 sm:gap-2">
-        <button
-          onClick={onBackToMenu}
-          className="flex items-center gap-1 text-xs px-1.5 sm:px-2.5 py-1 sm:py-1.5 bg-slate-100 hover:bg-slate-200 text-slate-800 border border-slate-200 rounded-md transition-all hover:scale-105 active:scale-95 font-medium cursor-pointer shrink-0"
-          title="Kembali ke Daftar Level"
-        >
-          <Home className="w-3.5 h-3.5" />
-          <span className="hidden sm:inline">Pilih Level</span>
-        </button>
+      {!isFocusMode && (
+        <div className="flex-none flex justify-between items-center bg-white border border-slate-200 rounded-lg p-1 sm:p-2 mb-1 sm:mb-2 shadow-sm gap-1 sm:gap-2">
+          <button
+            onClick={onBackToMenu}
+            className="flex items-center gap-1 text-xs px-1.5 sm:px-2.5 py-1 sm:py-1.5 bg-slate-100 hover:bg-slate-200 text-slate-800 border border-slate-200 rounded-md transition-all hover:scale-105 active:scale-95 font-medium cursor-pointer shrink-0"
+            title="Kembali ke Daftar Level"
+          >
+            <Home className="w-3.5 h-3.5" />
+            <span className="hidden sm:inline">Pilih Level</span>
+          </button>
 
-        <div className="text-center px-1 min-w-0">
-          <h2 className="text-[10px] sm:text-xs md:text-sm font-bold text-slate-900 uppercase tracking-wider truncate max-w-[60px] xs:max-w-[100px] sm:max-w-none">
-            {levelTitle}
-          </h2>
-          <div className="text-[8px] sm:text-[9px] md:text-[10px] text-slate-500 whitespace-nowrap">
-            Hal {currentPage} / {totalPages}
+          <div className="text-center px-1 min-w-0">
+            <h2 className="text-[10px] sm:text-xs md:text-sm font-bold text-slate-900 uppercase tracking-wider truncate max-w-[60px] xs:max-w-[100px] sm:max-w-none">
+              {levelTitle}
+            </h2>
+            <div className="text-[8px] sm:text-[9px] md:text-[10px] text-slate-500 whitespace-nowrap">
+              Hal {currentPage} / {totalPages}
+            </div>
           </div>
-        </div>
 
-        <div className="flex items-center gap-1 sm:gap-2 shrink-0">
-          {/* OCR Engine Selector */}
-          <div className="flex items-center gap-0.5 sm:gap-1 bg-slate-50 border border-slate-300 px-1 py-0.5 sm:py-1 rounded-md text-[10px] sm:text-xs hover:border-slate-400 transition-colors">
-            <span className="text-slate-500 font-semibold hidden lg:inline">
-              OCR:
-            </span>
-            <select
-              value={ocrEngine}
-              onChange={(e) => onChangeOcrEngine(e.target.value)}
-              className="bg-transparent border-none text-slate-700 font-semibold focus:outline-none cursor-pointer text-[9px] sm:text-[11px]"
-              title="Pilih Engine OCR"
+          <div className="flex items-center gap-1 sm:gap-2 shrink-0">
+            {/* OCR Engine Selector */}
+            <div className="flex items-center gap-0.5 sm:gap-1 bg-slate-50 border border-slate-300 px-1 py-0.5 sm:py-1 rounded-md text-[10px] sm:text-xs hover:border-slate-400 transition-colors">
+              <span className="text-slate-500 font-semibold hidden lg:inline">
+                OCR:
+              </span>
+              <select
+                value={ocrEngine}
+                onChange={(e) => onChangeOcrEngine(e.target.value)}
+                className="bg-transparent border-none text-slate-700 font-semibold focus:outline-none cursor-pointer text-[9px] sm:text-[11px]"
+                title="Pilih Engine OCR"
+              >
+                {ocrEngines.length > 0 ? (
+                  ocrEngines.map((engine) => (
+                    <option key={engine.id} value={engine.id}>
+                      {engine.name}
+                    </option>
+                  ))
+                ) : (
+                  <option value="easyocr">EasyOCR</option>
+                )}
+              </select>
+            </div>
+
+            {/* Latin Translation Toggle */}
+            <button
+              onClick={onToggleShowLatin}
+              className={`p-1 sm:p-1.5 rounded-md border transition-all text-[10px] sm:text-xs flex items-center gap-1 cursor-pointer hover:scale-105 active:scale-95 ${
+                showLatin
+                  ? "bg-slate-900 border-slate-900 text-white font-bold shadow-xs"
+                  : "bg-white border-slate-300 text-slate-600 hover:bg-slate-50"
+              }`}
+              title={
+                showLatin ? "Sembunyikan teks Latin" : "Tampilkan teks Latin"
+              }
             >
-              {ocrEngines.length > 0 ? (
-                ocrEngines.map((engine) => (
-                  <option key={engine.id} value={engine.id}>
-                    {engine.name}
-                  </option>
-                ))
-              ) : (
-                <option value="easyocr">EasyOCR</option>
-              )}
-            </select>
+              <Languages className="w-3 h-3 sm:w-3.5 sm:h-3.5" />
+              <span className="hidden sm:inline font-semibold">Latin</span>
+            </button>
+
+            {/* RTL / LTR Toggle */}
+            <button
+              onClick={onToggleRtlReading}
+              className={`p-1 sm:p-1.5 rounded-md border transition-all text-[9px] sm:text-[11px] flex items-center gap-1 cursor-pointer hover:scale-105 active:scale-95 ${
+                rtlReading
+                  ? "bg-slate-900 border-slate-900 text-white font-bold shadow-xs"
+                  : "bg-white border-slate-300 text-slate-600 hover:bg-slate-50"
+              }`}
+              title={
+                rtlReading
+                  ? "Membaca Kanan-ke-Kiri (RTL) aktif"
+                  : "Membaca Kiri-ke-Kanan (LTR) aktif"
+              }
+            >
+              <span className="font-semibold">
+                {rtlReading ? "RTL" : "LTR"}
+              </span>
+            </button>
+
+            {/* Bookmark Toggle */}
+            <button
+              onClick={onToggleBookmark}
+              className={`p-1 sm:p-1.5 rounded-md border transition-all cursor-pointer hover:scale-105 active:scale-95 ${
+                isBookmarked
+                  ? "bg-amber-500 border-amber-600 text-white shadow-xs animate-pop-in"
+                  : "bg-white border-slate-300 text-slate-600 hover:bg-slate-50"
+              }`}
+              title={
+                isBookmarked ? "Hapus Penanda Halaman" : "Tandai Halaman Ini"
+              }
+            >
+              <Bookmark
+                className={`w-3 h-3 sm:w-3.5 sm:h-3.5 ${isBookmarked ? "fill-current animate-pulse" : ""}`}
+              />
+            </button>
+
+            <button
+              onClick={() => setFocusMode(true)}
+              className="p-1 sm:p-1.5 rounded-md border border-slate-300 bg-white text-slate-600 hover:bg-slate-50 transition-all cursor-pointer hover:scale-105 active:scale-95"
+              title="Aktifkan mode fokus"
+              aria-label="Aktifkan mode fokus"
+            >
+              <Maximize2 className="w-3 h-3 sm:w-3.5 sm:h-3.5" />
+            </button>
           </div>
-
-          {/* Latin Translation Toggle */}
-          <button
-            onClick={onToggleShowLatin}
-            className={`p-1 sm:p-1.5 rounded-md border transition-all text-[10px] sm:text-xs flex items-center gap-1 cursor-pointer hover:scale-105 active:scale-95 ${
-              showLatin
-                ? "bg-slate-900 border-slate-900 text-white font-bold shadow-xs"
-                : "bg-white border-slate-300 text-slate-600 hover:bg-slate-50"
-            }`}
-            title={
-              showLatin ? "Sembunyikan teks Latin" : "Tampilkan teks Latin"
-            }
-          >
-            <Languages className="w-3 h-3 sm:w-3.5 sm:h-3.5" />
-            <span className="hidden sm:inline font-semibold">Latin</span>
-          </button>
-
-          {/* RTL / LTR Toggle */}
-          <button
-            onClick={onToggleRtlReading}
-            className={`p-1 sm:p-1.5 rounded-md border transition-all text-[9px] sm:text-[11px] flex items-center gap-1 cursor-pointer hover:scale-105 active:scale-95 ${
-              rtlReading
-                ? "bg-slate-900 border-slate-900 text-white font-bold shadow-xs"
-                : "bg-white border-slate-300 text-slate-600 hover:bg-slate-50"
-            }`}
-            title={
-              rtlReading
-                ? "Membaca Kanan-ke-Kiri (RTL) aktif"
-                : "Membaca Kiri-ke-Kanan (LTR) aktif"
-            }
-          >
-            <span className="font-semibold">{rtlReading ? "RTL" : "LTR"}</span>
-          </button>
-
-          {/* Bookmark Toggle */}
-          <button
-            onClick={onToggleBookmark}
-            className={`p-1 sm:p-1.5 rounded-md border transition-all cursor-pointer hover:scale-105 active:scale-95 ${
-              isBookmarked
-                ? "bg-amber-500 border-amber-600 text-white shadow-xs animate-pop-in"
-                : "bg-white border-slate-300 text-slate-600 hover:bg-slate-50"
-            }`}
-            title={
-              isBookmarked ? "Hapus Penanda Halaman" : "Tandai Halaman Ini"
-            }
-          >
-            <Bookmark
-              className={`w-3 h-3 sm:w-3.5 sm:h-3.5 ${isBookmarked ? "fill-current animate-pulse" : ""}`}
-            />
-          </button>
         </div>
-      </div>
+      )}
 
       {/* Progress Bar with Gradient */}
-      <div className="flex-none w-full bg-slate-200 rounded-full h-1 mb-1 sm:mb-2 overflow-hidden border border-slate-300">
-        <div
-          className="bg-gradient-to-r from-emerald-600 via-teal-600 to-slate-900 h-1 rounded-full transition-all duration-300 ease-out"
-          style={{ width: `${progressPercent}%` }}
-        ></div>
-      </div>
+      {!isFocusMode && (
+        <div className="flex-none w-full bg-slate-200 rounded-full h-1 mb-1 sm:mb-2 overflow-hidden border border-slate-300">
+          <div
+            className="bg-gradient-to-r from-emerald-600 via-teal-600 to-slate-900 h-1 rounded-full transition-all duration-300 ease-out"
+            style={{ width: `${progressPercent}%` }}
+          ></div>
+        </div>
+      )}
 
       {/* Main Book Container */}
       <div className="flex-1 flex items-center justify-center relative min-h-0 min-w-0 px-0 sm:px-4 md:px-8">
+        {isFocusMode && (
+          <>
+            <div className="absolute top-1.5 left-1.5 z-40 rounded-md bg-white/95 border border-slate-200 px-2 py-1 text-[10px] font-bold text-slate-900 uppercase tracking-wider shadow-sm pointer-events-none sm:hidden">
+              {levelTitle}
+            </div>
+            <div className="hidden sm:block absolute top-1.5 left-1/2 -translate-x-1/2 z-40 rounded-md bg-white/95 border border-slate-200 px-2.5 py-1 text-center shadow-sm pointer-events-none">
+              <div className="text-[10px] sm:text-xs font-bold text-slate-900 uppercase tracking-wider">
+                {levelTitle}
+              </div>
+              <div className="text-[9px] sm:text-[10px] text-slate-500">
+                Hal {currentPage} / {totalPages}
+              </div>
+            </div>
+            <div className="absolute top-1.5 right-1.5 z-40 flex items-center gap-1">
+              <button
+                onClick={onBackToMenu}
+                className="p-2 rounded-md bg-white/95 border border-slate-200 text-slate-600 shadow-sm hover:bg-slate-50 transition-colors cursor-pointer"
+                title="Kembali ke daftar level"
+                aria-label="Kembali ke daftar level"
+              >
+                <Home className="w-4 h-4" />
+              </button>
+              <button
+                onClick={() => setFocusMode(false)}
+                className="p-2 rounded-md bg-white/95 border border-slate-200 text-slate-600 shadow-sm hover:bg-slate-50 transition-colors cursor-pointer"
+                title="Keluar dari mode fokus (Esc)"
+                aria-label="Keluar dari mode fokus"
+              >
+                <Minimize2 className="w-4 h-4" />
+              </button>
+            </div>
+          </>
+        )}
         {/* Book shadow & Realistic hardback cover backdrop */}
         <div className="w-full h-full min-h-0 min-w-0 bg-slate-200/40 rounded-lg sm:rounded-xl p-1 sm:p-1.5 md:p-2 shadow-[0_15px_30px_rgba(0,0,0,0.08)] border border-slate-300 flex items-stretch overflow-hidden">
           {/* Inner realistic open book layout */}
@@ -281,28 +360,30 @@ export const BookLayout: React.FC<BookLayoutProps> = ({
       </div>
 
       {/* Info Legend / Tips */}
-      <div className="flex-none mt-3 sm:mt-6 text-center text-[11px] sm:text-xs text-slate-500 flex flex-col sm:flex-row items-center justify-center gap-1 sm:gap-3 flex-wrap">
-        <span className="flex items-center gap-1">
-          <HelpCircle className="w-3 h-3 text-slate-400" />
-          <span>Klik kata/karakter untuk dengar suara.</span>
-        </span>
-        <span className="hidden sm:inline text-slate-400">•</span>
-        <span>
-          {rtlReading
-            ? "Arah membaca: Kanan ke Kiri (RTL)"
-            : "Arah membaca: Kiri ke Kanan (LTR)"}
-        </span>
-        <span className="hidden sm:inline text-slate-400">•</span>
-        <a
-          href={`https://github.com/dyazincahya/iqro-json/issues/new?title=Koreksi+Data+${encodeURIComponent(levelTitle)}+Hal+${currentPage}&body=Mohon+jelaskan+bagian+yang+belum+sesuai+buku+fisik+(Jilid:+${encodeURIComponent(levelTitle)},+Halaman:+${currentPage},+Posisi+Baris/Kolom):`}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-emerald-700 hover:text-emerald-800 hover:underline font-semibold cursor-pointer"
-          title="Laporkan jika menemukan data yang belum sesuai buku fisik"
-        >
-          Ada data belum sesuai buku fisik? Koreksi di sini
-        </a>
-      </div>
+      {!isFocusMode && (
+        <div className="flex-none mt-3 sm:mt-6 text-center text-[11px] sm:text-xs text-slate-500 flex flex-col sm:flex-row items-center justify-center gap-1 sm:gap-3 flex-wrap">
+          <span className="flex items-center gap-1">
+            <HelpCircle className="w-3 h-3 text-slate-400" />
+            <span>Klik kata/karakter untuk dengar suara.</span>
+          </span>
+          <span className="hidden sm:inline text-slate-400">•</span>
+          <span>
+            {rtlReading
+              ? "Arah membaca: Kanan ke Kiri (RTL)"
+              : "Arah membaca: Kiri ke Kanan (LTR)"}
+          </span>
+          <span className="hidden sm:inline text-slate-400">•</span>
+          <a
+            href={`https://github.com/dyazincahya/iqro-json/issues/new?title=Koreksi+Data+${encodeURIComponent(levelTitle)}+Hal+${currentPage}&body=Mohon+jelaskan+bagian+yang+belum+sesuai+buku+fisik+(Jilid:+${encodeURIComponent(levelTitle)},+Halaman:+${currentPage},+Posisi+Baris/Kolom):`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-emerald-700 hover:text-emerald-800 hover:underline font-semibold cursor-pointer"
+            title="Laporkan jika menemukan data yang belum sesuai buku fisik"
+          >
+            Ada data belum sesuai buku fisik? Koreksi di sini
+          </a>
+        </div>
+      )}
     </div>
   );
 };

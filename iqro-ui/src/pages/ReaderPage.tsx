@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { useParams, useNavigate } from "react-router-dom";
+import { useParams, useNavigate, useSearchParams } from "react-router-dom";
 import { BookLayout } from "../components/BookLayout";
 import { IqroPage } from "../components/IqroPage";
 import type { IqroManifest, IqroPageData } from "../types";
@@ -16,6 +16,11 @@ interface ReaderPageProps {
   onOcrEngineChange: (engine: string) => void;
 }
 
+const getPageFromSearchParams = (pageParam: string | null): number | null => {
+  const page = Number(pageParam);
+  return Number.isInteger(page) && page >= 1 ? page : null;
+};
+
 export const ReaderPage: React.FC<ReaderPageProps> = ({
   manifest,
   loadPageData,
@@ -24,6 +29,7 @@ export const ReaderPage: React.FC<ReaderPageProps> = ({
 }) => {
   const params = useParams<{ levelId?: string; slug?: string }>();
   const navigate = useNavigate();
+  const [searchParams, setSearchParams] = useSearchParams();
 
   // Extract level number from route params (supports "iqro-1", "1", etc.)
   const rawParam = params.levelId || params.slug || "";
@@ -31,7 +37,9 @@ export const ReaderPage: React.FC<ReaderPageProps> = ({
   const currentLevel = manifest.levels.find((l) => l.id === parsedLevelId);
 
   // App States
-  const [currentPageNumber, setCurrentPageNumber] = useState<number>(1);
+  const [currentPageNumber, setCurrentPageNumber] = useState<number>(
+    () => getPageFromSearchParams(searchParams.get("page")) ?? 1,
+  );
   const [bookmarks, setBookmarks] = useState<Record<number, number>>({});
   const [rtlReading, setRtlReading] = useState<boolean>(true);
   const [showLatin, setShowLatin] = useState<boolean>(true);
@@ -52,20 +60,17 @@ export const ReaderPage: React.FC<ReaderPageProps> = ({
     return () => window.removeEventListener("resize", handleResize);
   }, []);
 
-  // Load preferences & bookmarks on mount or when level changes
+  // Load preferences and let the URL page take priority over a bookmark.
   useEffect(() => {
     const savedBookmarks = localStorage.getItem("iqro_bookmarks");
+    let bookmarkedPage: number | null = null;
+
     if (savedBookmarks) {
       try {
         const parsed = JSON.parse(savedBookmarks);
         setBookmarks(parsed);
         if (parsed[parsedLevelId]) {
-          const bookmarkedPage = parsed[parsedLevelId];
-          const startPage =
-            isDesktop && bookmarkedPage % 2 === 0
-              ? Math.max(1, bookmarkedPage - 1)
-              : bookmarkedPage;
-          setCurrentPageNumber(startPage);
+          bookmarkedPage = parsed[parsedLevelId];
         }
       } catch (e) {
         console.error("Failed to parse bookmarks", e);
@@ -81,7 +86,19 @@ export const ReaderPage: React.FC<ReaderPageProps> = ({
     if (savedLatin !== null) {
       setShowLatin(savedLatin === "true");
     }
-  }, [parsedLevelId, isDesktop]);
+
+    const requestedPage =
+      getPageFromSearchParams(searchParams.get("page")) ?? bookmarkedPage ?? 1;
+    const totalPages = currentLevel?.pagesCount || 1;
+    const nextPage = Math.min(requestedPage, totalPages);
+    setCurrentPageNumber(nextPage);
+
+    if (getPageFromSearchParams(searchParams.get("page")) !== nextPage) {
+      const nextSearchParams = new URLSearchParams(searchParams);
+      nextSearchParams.set("page", String(nextPage));
+      setSearchParams(nextSearchParams, { replace: true });
+    }
+  }, [currentLevel?.pagesCount, parsedLevelId, searchParams, setSearchParams]);
 
   // Fetch page data when level, page or OCR engine changes
   useEffect(() => {
@@ -150,15 +167,24 @@ export const ReaderPage: React.FC<ReaderPageProps> = ({
   const totalPages = currentLevel.pagesCount || 1;
   const step = isDesktop ? 2 : 1;
 
+  const setPageNumber = (page: number) => {
+    const nextPage = Math.min(Math.max(page, 1), totalPages);
+    setCurrentPageNumber(nextPage);
+
+    const nextSearchParams = new URLSearchParams(searchParams);
+    nextSearchParams.set("page", String(nextPage));
+    setSearchParams(nextSearchParams, { replace: true });
+  };
+
   const handleNext = () => {
     if (currentPageNumber + step <= totalPages) {
-      setCurrentPageNumber((prev) => prev + step);
+      setPageNumber(currentPageNumber + step);
     }
   };
 
   const handlePrev = () => {
     if (currentPageNumber - step >= 1) {
-      setCurrentPageNumber((prev) => prev - step);
+      setPageNumber(currentPageNumber - step);
     }
   };
 
@@ -240,7 +266,7 @@ export const ReaderPage: React.FC<ReaderPageProps> = ({
                 Gagal memuat lembaran halaman ini.
               </span>
               <button
-                onClick={() => setCurrentPageNumber((prev) => prev)}
+                onClick={() => setPageNumber(currentPageNumber)}
                 className="mt-4 text-xs font-semibold text-amber-800 underline hover:text-amber-950 cursor-pointer"
               >
                 Coba Lagi
